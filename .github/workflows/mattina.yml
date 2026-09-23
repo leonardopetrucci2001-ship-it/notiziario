@@ -9,7 +9,6 @@ on:
 
 permissions:
   contents: write
-  models: read      # GitHub Models, gratis
 
 concurrency:
   group: rassegna
@@ -28,7 +27,7 @@ jobs:
 
       - name: Scarica e scegli le notizie
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: python aggiorna.py --senza-notifica
 
       - name: Pubblica

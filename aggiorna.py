@@ -2,7 +2,7 @@
 docs/giorni/AAAA-MM-GG.json (letto dalla pagina). Solo libreria standard.
 
 Variabili d'ambiente facoltative:
-  GITHUB_TOKEN    se c'è, un modello di GitHub Models (gratis) sceglie e riassume
+  OPENROUTER_API_KEY  se c'è, un modello gratuito di OpenRouter sceglie e riassume
   NTFY_TOPIC      se c'è, manda la notifica al telefono tramite ntfy.sh
   PAGINA_URL      indirizzo della pagina, aperto quando tocchi la notifica
 """
@@ -29,7 +29,9 @@ except Exception:  # Windows senza tzdata: basta per le prove in locale
 ATOM = "{http://www.w3.org/2005/Atom}"
 UA = "Mozilla/5.0 (notiziario personale; +https://github.com)"
 GIORNI_TENUTI = 14
-MODELLO = os.environ.get("MODELLO", "openai/gpt-4.1-mini")
+# Modelli gratuiti di OpenRouter, provati in ordine (la lista gratuita cambia spesso:
+# https://openrouter.ai/models?max_price=0). "openrouter/free" ne sceglie uno da solo.
+MODELLI = os.environ.get("MODELLI", "google/gemma-4-31b-it:free,nvidia/nemotron-3-super-120b-a12b:free,openrouter/free").split(",")
 
 
 def scarica(url, dati=None, intestazioni=None, attesa=20):
@@ -139,29 +141,45 @@ def raccogli(config, adesso):
     return candidati, errori
 
 
-def chiedi(messaggio, token):
-    """Una richiesta a GitHub Models; risponde con il JSON prodotto dal modello."""
-    corpo = json.dumps({
-        "model": MODELLO,
-        "messages": [{"role": "user", "content": messaggio}],
-        "response_format": {"type": "json_object"},
-        "temperature": 0.3,
-    }).encode()
-    r = json.loads(scarica(
-        "https://models.github.ai/inference/chat/completions",
-        corpo,
-        {"Content-Type": "application/json", "Authorization": f"Bearer {token}"},
-        120,
-    ))
-    return json.loads(r["choices"][0]["message"]["content"])
+def estrai_json(testo):
+    """Il JSON dentro la risposta, anche se il modello lo avvolge in ``` o ci aggiunge frasi."""
+    testo = re.sub(r"<think>.*?</think>", "", testo or "", flags=re.S)
+    inizio, fine = testo.find("{"), testo.rfind("}")
+    if inizio < 0 or fine < inizio:
+        raise ValueError(f"nessun JSON nella risposta: {testo[:120]!r}")
+    return json.loads(testo[inizio:fine + 1])
+
+
+def chiedi(messaggio, chiave_api):
+    """Una richiesta a OpenRouter; prova i modelli gratuiti in ordine finché uno risponde bene."""
+    errori = []
+    for modello in MODELLI:
+        corpo = json.dumps({
+            "model": modello,
+            "messages": [{"role": "user", "content": messaggio}],
+            "temperature": 0.3,
+        }).encode()
+        try:
+            r = json.loads(scarica(
+                "https://openrouter.ai/api/v1/chat/completions",
+                corpo,
+                {"Content-Type": "application/json", "Authorization": f"Bearer {chiave_api}", "X-Title": "Notiziario"},
+                120,
+            ))
+            if "error" in r:
+                raise RuntimeError(r["error"].get("message", r["error"]))
+            return estrai_json(r["choices"][0]["message"]["content"]), r.get("model", modello)
+        except Exception as e:
+            errori.append(f"{modello}: {e}")
+    raise RuntimeError("; ".join(errori))
 
 
 STILE = "Stile: italiano semplice e diretto, niente trattini lunghi, niente frecce, niente enfasi."
 
 
-def chiedi_al_modello(config, candidati, token):
-    # Il piano gratuito accetta circa 8000 token per richiesta: una richiesta per argomento
-    scelte = {}
+def chiedi_al_modello(config, candidati, chiave_api):
+    # Una richiesta per argomento: prompt corti vanno bene anche con i modelli gratuiti più piccoli
+    scelte, modelli_usati = {}, set()
     for arg in config["argomenti"]:
         elenco = [
             {"n": i, "titolo": n["titolo"], "fonte": n["fonte"], "testo": n["testo"][:160]}
@@ -170,7 +188,7 @@ def chiedi_al_modello(config, candidati, token):
         if not elenco:
             scelte[arg["id"]] = []
             continue
-        risposta = chiedi(f"""Sei il redattore della rassegna del mattino di una sola persona.
+        risposta, usato = chiedi(f"""Sei il redattore della rassegna del mattino di una sola persona.
 Chi legge: {config["profilo"]}
 
 Argomento: {arg["nome"]}. Scegli al massimo {arg["max"]} notizie tra i candidati, le più utili per questa persona, in ordine di importanza.
@@ -181,8 +199,9 @@ Per ogni notizia scelta scrivi un riassunto in italiano di 1 o 2 frasi che dica 
 Rispondi solo con JSON: {{"scelte": [{{"n": 0, "titolo_it": "", "riassunto": "..."}}]}}
 
 Candidati:
-{json.dumps(elenco, ensure_ascii=False)}""", token)
+{json.dumps(elenco, ensure_ascii=False)}""", chiave_api)
         scelte[arg["id"]] = risposta.get("scelte", [])
+        modelli_usati.add(usato)
 
     titoli = [
         s.get("titolo_it") or candidati[a][s["n"]]["titolo"]
@@ -191,22 +210,24 @@ Candidati:
     ]
     in_breve = []
     if titoli:
-        in_breve = chiedi(f"""Chi legge: {config["profilo"]}
+        risposta, usato = chiedi(f"""Chi legge: {config["profilo"]}
 Tra queste notizie di oggi, scrivi le tre cose da sapere in assoluto per questa persona, una frase ciascuna.
 {STILE}
 Rispondi solo con JSON: {{"in_breve": ["...", "...", "..."]}}
 
 Notizie:
-{json.dumps(titoli, ensure_ascii=False)}""", token).get("in_breve", [])
-    return {"scelte": scelte, "in_breve": in_breve}
+{json.dumps(titoli, ensure_ascii=False)}""", chiave_api)
+        in_breve = risposta.get("in_breve", [])
+        modelli_usati.add(usato)
+    return {"scelte": scelte, "in_breve": in_breve}, ", ".join(sorted(modelli_usati))
 
 
 def componi(config, candidati, adesso):
     risposta, modello = None, None
-    token = os.environ.get("GITHUB_TOKEN")
-    if token:
+    chiave_api = os.environ.get("OPENROUTER_API_KEY")
+    if chiave_api:
         try:
-            risposta, modello = chiedi_al_modello(config, candidati, token), MODELLO
+            risposta, modello = chiedi_al_modello(config, candidati, chiave_api)
         except Exception as e:
             print(f"! Il modello non ha risposto ({e}). Uso la selezione automatica.", file=sys.stderr)
 

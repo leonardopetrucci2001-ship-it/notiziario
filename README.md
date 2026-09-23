@@ -1,6 +1,6 @@
 # Notiziario
 
-Ogni mattina alle 7:15 (6:15 d'inverno) GitHub scarica le notizie su aerospazio, AI, università e lavoro e attualità, un modello di GitHub Models (gratis) sceglie le più utili e le riassume, la pagina si aggiorna e sul telefono arriva una notifica. Costo zero.
+Ogni mattina alle 7:15 (6:15 d'inverno) GitHub scarica le notizie su aerospazio, AI, università e lavoro e attualità, un modello gratuito di OpenRouter sceglie le più utili e le riassume, la pagina si aggiorna e sul telefono arriva una notifica. Costo zero.
 
 ## Pezzi
 
@@ -14,8 +14,9 @@ Ogni mattina alle 7:15 (6:15 d'inverno) GitHub scarica le notizie su aerospazio,
 | Nome | Cosa | Obbligatorio |
 |---|---|---|
 | `NTFY_TOPIC` | nome del canale ntfy, lo stesso a cui sei iscritto nell'app | sì, per la notifica |
+| `OPENROUTER_API_KEY` | chiave gratuita da openrouter.ai/keys | no: senza, niente riassunti né "In breve" |
 
-Il modello non ha bisogno di chiavi: usa il permesso `models: read` del workflow. Per cambiarlo imposta la variabile `MODELLO` (predefinito `openai/gpt-4.1-mini`).
+I modelli gratuiti di OpenRouter cambiano spesso. Lo script ne prova tre in ordine (lista `MODELLI` in `aggiorna.py`); se un giorno nessuno risponde, la rassegna esce lo stesso senza riassunti. Limite gratuito: 50 richieste al giorno, ne usiamo 5.
 
 ## Cambiare le fonti
 
