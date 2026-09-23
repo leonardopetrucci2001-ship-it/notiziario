@@ -2,7 +2,7 @@
 docs/giorni/AAAA-MM-GG.json (letto dalla pagina). Solo libreria standard.
 
 Variabili d'ambiente facoltative:
-  GEMINI_API_KEY  se c'è, Gemini sceglie le notizie e scrive i riassunti
+  GITHUB_TOKEN    se c'è, un modello di GitHub Models (gratis) sceglie e riassume
   NTFY_TOPIC      se c'è, manda la notifica al telefono tramite ntfy.sh
   PAGINA_URL      indirizzo della pagina, aperto quando tocchi la notifica
 """
@@ -29,7 +29,7 @@ except Exception:  # Windows senza tzdata: basta per le prove in locale
 ATOM = "{http://www.w3.org/2005/Atom}"
 UA = "Mozilla/5.0 (notiziario personale; +https://github.com)"
 GIORNI_TENUTI = 14
-MODELLI_GEMINI = ["gemini-flash-latest", "gemini-2.5-flash"]
+MODELLO = os.environ.get("MODELLO", "openai/gpt-4.1-mini")
 
 
 def scarica(url, dati=None, intestazioni=None, attesa=20):
@@ -139,53 +139,76 @@ def raccogli(config, adesso):
     return candidati, errori
 
 
-def chiedi_a_gemini(config, candidati, chiave_api):
-    elenco = {
-        arg["id"]: [
-            {"n": i, "titolo": n["titolo"], "fonte": n["fonte"], "testo": n["testo"][:200]}
-            for i, n in enumerate(candidati[arg["id"]])
+def chiedi(messaggio, token):
+    """Una richiesta a GitHub Models; risponde con il JSON prodotto dal modello."""
+    corpo = json.dumps({
+        "model": MODELLO,
+        "messages": [{"role": "user", "content": messaggio}],
+        "response_format": {"type": "json_object"},
+        "temperature": 0.3,
+    }).encode()
+    r = json.loads(scarica(
+        "https://models.github.ai/inference/chat/completions",
+        corpo,
+        {"Content-Type": "application/json", "Authorization": f"Bearer {token}"},
+        120,
+    ))
+    return json.loads(r["choices"][0]["message"]["content"])
+
+
+STILE = "Stile: italiano semplice e diretto, niente trattini lunghi, niente frecce, niente enfasi."
+
+
+def chiedi_al_modello(config, candidati, token):
+    # Il piano gratuito accetta circa 8000 token per richiesta: una richiesta per argomento
+    scelte = {}
+    for arg in config["argomenti"]:
+        elenco = [
+            {"n": i, "titolo": n["titolo"], "fonte": n["fonte"], "testo": n["testo"][:160]}
+            for i, n in enumerate(candidati[arg["id"]][:25])
         ]
-        for arg in config["argomenti"]
-    }
-    nomi = {a["id"]: f'{a["nome"]} (massimo {a["max"]})' for a in config["argomenti"]}
-    istruzioni = f"""Sei il redattore della rassegna del mattino di una sola persona.
+        if not elenco:
+            scelte[arg["id"]] = []
+            continue
+        risposta = chiedi(f"""Sei il redattore della rassegna del mattino di una sola persona.
 Chi legge: {config["profilo"]}
 
-Per ogni argomento scegli le notizie più utili per questa persona, nell'ordine di importanza:
-{json.dumps(nomi, ensure_ascii=False)}
-Scarta doppioni, pubblicità, gossip, notizie locali irrilevanti e articoli che non riguardano davvero l'argomento.
-Per ogni notizia scelta scrivi un riassunto in italiano di 1 o 2 frasi che dica il fatto e perché conta. Se il titolo è in inglese, scrivi anche un titolo italiano breve.
-Poi scrivi "in_breve": 3 frasi, le tre cose da sapere oggi in assoluto.
-Stile: italiano semplice e diretto, niente trattini lunghi, niente frecce, niente enfasi.
+Argomento: {arg["nome"]}. Scegli al massimo {arg["max"]} notizie tra i candidati, le più utili per questa persona, in ordine di importanza.
+Scarta doppioni (stessa notizia da testate diverse: tienine una), pubblicità, gossip, notizie locali irrilevanti e articoli che non riguardano davvero l'argomento. Meglio meno notizie che notizie inutili.
+Per ogni notizia scelta scrivi un riassunto in italiano di 1 o 2 frasi che dica il fatto e perché conta. Se il titolo non è in italiano, scrivi anche un titolo italiano breve, altrimenti lascia titolo_it vuoto.
+{STILE}
 
-Rispondi solo con JSON in questa forma:
-{{"in_breve": ["...", "...", "..."], "scelte": {{"<id argomento>": [{{"n": 0, "titolo_it": "...", "riassunto": "..."}}]}}}}
+Rispondi solo con JSON: {{"scelte": [{{"n": 0, "titolo_it": "", "riassunto": "..."}}]}}
 
 Candidati:
-{json.dumps(elenco, ensure_ascii=False)}"""
-    corpo = json.dumps({
-        "contents": [{"parts": [{"text": istruzioni}]}],
-        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.3},
-    }).encode()
-    ultimo_errore = None
-    for modello in MODELLI_GEMINI:
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{modello}:generateContent"
-        try:
-            r = json.loads(scarica(url, corpo, {"Content-Type": "application/json", "x-goog-api-key": chiave_api}, 120))
-            return json.loads(r["candidates"][0]["content"]["parts"][0]["text"]), modello
-        except Exception as e:
-            ultimo_errore = e
-    raise RuntimeError(f"Gemini non ha risposto: {ultimo_errore}")
+{json.dumps(elenco, ensure_ascii=False)}""", token)
+        scelte[arg["id"]] = risposta.get("scelte", [])
+
+    titoli = [
+        s.get("titolo_it") or candidati[a][s["n"]]["titolo"]
+        for a, lista in scelte.items() for s in lista[:4]
+        if isinstance(s.get("n"), int) and 0 <= s["n"] < len(candidati[a])
+    ]
+    in_breve = []
+    if titoli:
+        in_breve = chiedi(f"""Chi legge: {config["profilo"]}
+Tra queste notizie di oggi, scrivi le tre cose da sapere in assoluto per questa persona, una frase ciascuna.
+{STILE}
+Rispondi solo con JSON: {{"in_breve": ["...", "...", "..."]}}
+
+Notizie:
+{json.dumps(titoli, ensure_ascii=False)}""", token).get("in_breve", [])
+    return {"scelte": scelte, "in_breve": in_breve}
 
 
 def componi(config, candidati, adesso):
     risposta, modello = None, None
-    chiave_api = os.environ.get("GEMINI_API_KEY")
-    if chiave_api:
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
         try:
-            risposta, modello = chiedi_a_gemini(config, candidati, chiave_api)
+            risposta, modello = chiedi_al_modello(config, candidati, token), MODELLO
         except Exception as e:
-            print(f"! {e}. Uso la selezione automatica.", file=sys.stderr)
+            print(f"! Il modello non ha risposto ({e}). Uso la selezione automatica.", file=sys.stderr)
 
     argomenti = []
     for arg in config["argomenti"]:

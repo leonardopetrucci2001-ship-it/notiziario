@@ -1,11 +1,11 @@
 # Notiziario
 
-Ogni mattina alle 7:15 (6:15 d'inverno) GitHub scarica le notizie su aerospazio, AI, università e lavoro e attualità, Gemini sceglie le più utili e le riassume, la pagina si aggiorna e sul telefono arriva una notifica. Costo zero.
+Ogni mattina alle 7:15 (6:15 d'inverno) GitHub scarica le notizie su aerospazio, AI, università e lavoro e attualità, un modello di GitHub Models (gratis) sceglie le più utili e le riassume, la pagina si aggiorna e sul telefono arriva una notifica. Costo zero.
 
 ## Pezzi
 
 - `fonti.json`: argomenti, feed, parole chiave e profilo. **È l'unico file da toccare per cambiare cosa leggi.**
-- `aggiorna.py`: scarica, filtra, chiede a Gemini, scrive `docs/giorni/AAAA-MM-GG.json` (tiene 14 giorni).
+- `aggiorna.py`: scarica, filtra, chiede al modello, scrive `docs/giorni/AAAA-MM-GG.json` (tiene 14 giorni).
 - `docs/`: la pagina (installabile come app), servita da GitHub Pages.
 - `.github/workflows/mattina.yml`: il timer giornaliero.
 
@@ -14,7 +14,8 @@ Ogni mattina alle 7:15 (6:15 d'inverno) GitHub scarica le notizie su aerospazio,
 | Nome | Cosa | Obbligatorio |
 |---|---|---|
 | `NTFY_TOPIC` | nome del canale ntfy, lo stesso a cui sei iscritto nell'app | sì, per la notifica |
-| `GEMINI_API_KEY` | chiave gratuita da aistudio.google.com | no: senza, niente riassunti né "In breve" |
+
+Il modello non ha bisogno di chiavi: usa il permesso `models: read` del workflow. Per cambiarlo imposta la variabile `MODELLO` (predefinito `openai/gpt-4.1-mini`).
 
 ## Cambiare le fonti
 

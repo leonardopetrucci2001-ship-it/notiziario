@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  models: read      # GitHub Models, gratis
 
 concurrency:
   group: rassegna
@@ -27,7 +28,7 @@ jobs:
 
       - name: Scarica e scegli le notizie
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python aggiorna.py --senza-notifica
 
       - name: Pubblica
