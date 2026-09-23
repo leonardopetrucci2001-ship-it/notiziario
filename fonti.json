@@ -1,0 +1,63 @@
+{
+  "profilo": "Studente di laurea magistrale in Ingegneria Aeronautica alla Sapienza di Roma. Interessi: industria aerospaziale e spazio, sicurezza del volo, fattori umani, aeroporti e ATM, intelligenza artificiale (in particolare modelli linguistici e Claude), opportunità di stage e lavoro nel settore aerospaziale in Italia e in Europa. Legge in italiano e in inglese.",
+  "argomenti": [
+    {
+      "id": "aero",
+      "nome": "Aerospazio",
+      "ore": 30,
+      "max": 8,
+      "parole_chiave": ["safety", "sicurezza", "EASA", "ENAC", "ENAV", "Leonardo", "Avio", "Thales Alenia", "ESA", "Airbus", "Boeing", "incidente", "accident", "Fiumicino", "Ciampino", "ATM", "eVTOL", "propulsion", "hypersonic"],
+      "fonti": [
+        {"nome": "Simple Flying", "url": "https://simpleflying.com/feed/"},
+        {"nome": "The Aviationist", "url": "https://theaviationist.com/feed/"},
+        {"nome": "AeroTime", "url": "https://www.aerotime.aero/feed"},
+        {"nome": "AVweb", "url": "https://avweb.com/feed/"},
+        {"nome": "SpaceNews", "url": "https://spacenews.com/feed/"},
+        {"nome": "ESA", "url": "https://www.esa.int/rssfeed/Our_Activities"},
+        {"nome": "NASA", "url": "https://www.nasa.gov/news-release/feed/"},
+        {"nome": "EASA", "url": "https://www.easa.europa.eu/en/newsroom-and-events/news/rss.xml", "escludi": ["vacanc", "traineeship"]},
+        {"nome": "Google News", "cerca": "(aeronautica OR aerospazio OR ENAC OR ENAV OR \"Leonardo spa\" OR Avio OR \"Thales Alenia\") when:1d"}
+      ]
+    },
+    {
+      "id": "ai",
+      "nome": "AI e tecnologia",
+      "ore": 30,
+      "max": 8,
+      "parole_chiave": ["Claude", "Anthropic", "OpenAI", "Gemini", "LLM", "model", "modello", "agent", "agente", "open source"],
+      "fonti": [
+        {"nome": "The Verge", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
+        {"nome": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab"},
+        {"nome": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/"},
+        {"nome": "Simon Willison", "url": "https://simonwillison.net/atom/everything/"},
+        {"nome": "Hacker News", "url": "https://hnrss.org/frontpage?points=300"},
+        {"nome": "Google News", "cerca": "(\"intelligenza artificiale\" OR Anthropic OR OpenAI OR Claude) when:1d"}
+      ]
+    },
+    {
+      "id": "lavoro",
+      "nome": "Università e lavoro",
+      "ore": 168,
+      "max": 8,
+      "parole_chiave": ["stage", "tirocinio", "internship", "graduate", "assunzioni", "vacancies", "bando", "borsa", "dottorato", "PhD", "Sapienza", "ingegneria"],
+      "fonti": [
+        {"nome": "EASA", "url": "https://www.easa.europa.eu/en/newsroom-and-events/news/rss.xml", "solo_se": ["vacanc", "traineeship", "recruit"]},
+        {"nome": "Google News", "cerca": "(assunzioni OR stage OR tirocini OR \"posizioni aperte\" OR \"borse di studio\") (aerospazio OR aerospaziale OR aeronautica OR Leonardo OR Avio OR \"Thales Alenia\" OR ESA OR ENAV) when:7d"},
+        {"nome": "Google News", "cerca": "Sapienza ingegneria when:7d"}
+      ]
+    },
+    {
+      "id": "mondo",
+      "nome": "Attualità",
+      "ore": 20,
+      "max": 8,
+      "parole_chiave": [],
+      "fonti": [
+        {"nome": "ANSA", "url": "https://www.ansa.it/sito/ansait_rss.xml"},
+        {"nome": "Sky TG24", "url": "https://tg24.sky.it/rss/tg24.xml"},
+        {"nome": "Euronews", "url": "https://it.euronews.com/rss"},
+        {"nome": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"}
+      ]
+    }
+  ]
+}

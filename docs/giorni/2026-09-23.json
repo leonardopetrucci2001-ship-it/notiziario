@@ -1,0 +1,289 @@
+{
+ "giorno": "2026-09-23",
+ "creato": "2026-09-23T16:29:25+00:00",
+ "in_breve": [],
+ "modello": null,
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "ENAC e INGV rafforzano l'intesa per la sicurezza dei voli",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Adnkronos",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbTZOS2FBbnlMd3Vndkw5X3hNUThnZl8xNjkwNTRMR3pUai1RTVZhZEl2SkQ4VTZRdFhDdlpxaU5OUzAzVzFKQ3lsM2kzREtlSU5kZng4V0ZEbjNfX2dibDc5ZnhwbFJ1YXl0bW9sQ0hLTkN0SVF4a1luUVNjN3RHaWNfYzFmTVVjbmNmelJaYXdxSVhtQXhSWDRjbUNrbThBZjRiN1hsbG1hRVhkaURady1RcW1LVTQ?oc=5",
+     "ora": "2026-09-23T14:07:00+00:00"
+    },
+    {
+     "titolo": "Avio, l’Esa punta a 30 lanci nel 2030: Intesa Sanpaolo vede fino a 176 milioni di euro in più per il gruppo aerospaziale",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "milanofinanza.it",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOenlsamNTMnhmeWVkVUJSXzNUcEhERHZLbXNmajhUZ2NtLXRYQVFCc2dfOWNzclN5SXVhTGtKVmFpQV9lYmNZWHBtQVRPRV9WSnVlX05iNUgxeWRCY2NCU1hwSHR5dENFWUViX0REN1JONUNGVGc4Z05Nb1p0VjZhOS1Xci1nLUpTVXlmUHlEYlZWX0pyUlhsRXdPU0tiU2ZXNDFwWW82djRFdHFpM25meVlnMjJsWDVTd2U5TEJ0dk8zNERZdTMtZ0RXZ0Q0TWdqTE03OF9aX2duMzlsQWdfSXdHT1Nibko4MnBjNGc1TQ?oc=5",
+     "ora": "2026-09-23T13:35:00+00:00"
+    },
+    {
+     "titolo": "Avio può alzare le stime con l'aumento dei lanci ESA",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Traders Union",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0FPTFo3TnF2aEl4N25XTzMzVXdjUDZ0TzlFRWxOcmI5S084MTFfWHdvVDRjbjNqbVVpU1liREdCX0NSMDMtSi1WQlFLNzFzWmxYZ2NtVVVqTEtGa1JXbzVqNVVQczI5M3dLaFNiS0dKSnJzZU1ZZTdVak15WW9EaDVUd2lCWXBYM1ptaDJiYWZELWlSelpieU9n?oc=5",
+     "ora": "2026-09-23T12:27:32+00:00"
+    },
+    {
+     "titolo": "Avio, Intesa ipotizza aumento stime con forte incremento dei lanci prospettato da ESA",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "la Repubblica",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTHRWZzZXYkw3eGZ3cnZKQXkycS04b3hjRFk4bTJkQ2cxSnAteEtKS2N5UE1BUGlTODFIa3l0eUNlTTd2RDhrMWNQSUF4QVZlTUR2YXh0TjlxMS1Fb3NTdTdOZzM4M3dZSGJXck02eF8yZWNIZzdxQ09kY243ekhwYzloSUVGRmpDNFdkMmR6NXprRzc3TjdsekhfeE90N0VCOS1uT1g3SGpWSmYzOURyMjFDd201WlBuZUUxY2J6UVpXOEVKSkhiUXRCUjZENEZ3?oc=5",
+     "ora": "2026-09-23T11:57:00+00:00"
+    },
+    {
+     "titolo": "La Regione Lazio annuncia il nuovo distretto industriale Aerospazio, Difesa e Sicurezza",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "italpress.com",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnF3bFVtSnpKQ2xDV2oteDFmVmY0b0JYRUFZekpvcl93ZmM3dGwyN2tBQ3A1ZG5kWTJSSjlSVFhLUkZmZERLczlNZGNzTXpBYmZYMmMyU2xkTU16YzFUaGgzQXpaTV83WU1kVkN5SmlUeU9RV2F2RFZFNG9GRnMzdFRQZFZqTVBTTzlKbXRKWW9BMnhLVk5peUFQTWYxNm05a2c5bmQtSzcwZk01SDhpNklLOA?oc=5",
+     "ora": "2026-09-23T11:34:52+00:00"
+    },
+    {
+     "titolo": "NBAA Names Interim COO as Bolen Takes Leave for Cancer Treatment",
+     "titolo_it": "",
+     "riassunto": "NBAA has named Dan Hubbard interim COO while President and CEO Ed Bolen takes a leave of absence for cancer treatment.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/air-shows-events/nbaa/nbaa-leadership-changes-hubbard-bolen/",
+     "ora": "2026-09-23T15:15:45+00:00"
+    },
+    {
+     "titolo": "Boeing workers union encourages members to accept new offer to avert strike",
+     "titolo_it": "",
+     "riassunto": "The Society of Professional Engineering Employees in Aerospace (SPEEA) is encouraging its members to accept Boeing’s latest contract… The post Boeing workers union encourages members to accept new offer to avert strike appeared first on AeroTime .",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/boeing-workers-union-members-accept-new-offer-strike",
+     "ora": "2026-09-23T14:53:23+00:00"
+    },
+    {
+     "titolo": "L'avio superficie rodigina protagonista sul Volo da Diporto",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Rovigoinfocitta.it",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMlNSWmpxbzVkbk1OYW5JNjFMaTk0ZU9UY19WSXFacDJtZGJ3REx3ekNlME1kei02NG9OYkk3ZjM5NmU5NGFNMUxUMW9wMWZwOHFVS1JFOUItYkxIT3ZjMTZqQUphMzdaaUVVVjNRbTBua3RqYUJjb0tlaGZvblNSVFhYU3pLSlJ1a2NGd0VyTkdNdm1TWXVaTF8xSFFnSVJYc0RtWkNQanM?oc=5",
+     "ora": "2026-09-23T13:38:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Anthropic rilascia il primo modello approvato da soggetti esterni: e OpenAI&Co. quando?",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Key4biz",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTzAzR19iMmVWaEJpbTJHYWtaWUpJU1pWaXVIZ3hQNWFBeXVqVDliMnZhN1JVWHJZOVRBS1lGVk9aem1mTU9nMXZKY0p6RmJIaEZUeFQxMTVFbEFMYlZnck92c3NfX0Q5SHFCTkZrU045VWM2Q1JyN0d1TXowVVhJSUVUYnpmR1dJZmdzT1ZLNDh0M09tTzJtYTFvVjc2czZIOVpKMk9tTkxiV2VSa2RzRmNwTE5ieGtiMFE?oc=5",
+     "ora": "2026-09-23T12:18:03+00:00"
+    },
+    {
+     "titolo": "Claude Opus 5.5, come funziona il nuovo modello AI di Anthropic",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Sky TG24",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjBWa0NWXzIxOFptekd6UUhVNTZ3SzE2WEw0QjBfZWZrRnAwc2JsRHBGSGpzM0x2SE1OR19PMkxJUldycS1uWFA3dkgyRVI0dEJfbFhrbGJXNVplM0dTQl9PVkRzMnBYWUVIcUcyNWNJZjEyUnNNRDFSV3NoNUN2aEFhYmhmZ2NMUjlZZg?oc=5",
+     "ora": "2026-09-23T07:41:57+00:00"
+    },
+    {
+     "titolo": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+     "titolo_it": "",
+     "riassunto": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna . It's going to take a while to get a good read on all of these new models, but here are my impressions so far. GPT-6 Sol and Luna…",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+     "ora": "2026-09-22T23:46:41+00:00"
+    },
+    {
+     "titolo": "Anthropic lancia Claude Opus 5.5, nuovo modello di fascia alta ma più economico",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "RaiNews",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNW5zcW5INVU2dEk3eDJrQ1czYXR2RGJXSjVNODJHQUZXUTdJeXpYUVJROG53cVFPbzYyNjlXMGNVLVNDSDUyZDdXVDU4VHM5RFB0dkp1d1ZlTUdsamsxWDlnUVU1WnVTREc1NEpXSXRTUUwtZmZQUkZNeTQ1NjAxYTA2M0U4b3FxdE5KejV6R0xtMnBwaENMMVJRRkxwX29KOWFmR0Yyb3d0LXQwd3hwX18tRzZQY2lNaFU1VGkyNWtxamNHZ1JhMm9paUNCY0g1amg1X1c2Q0NiY0FJLUVnVl9WaUlyNG10MVMzM0RoY9IB9AFBVV95cUxNMXV6eXVTb0Q2QmZIREkxNmtCd0EyWHZxeUNSRWJWdk04YnZqdUM4UHJ4QVdUM0N6Z2Z4WUc2cnZLTzhwX3FRb1l2ZzFLeUZlUjE0U0ZhTG1CWURqdGdnUEZDOExReWhNZXV3ZHpBdVo1b2FJckk5ajlMNm5XMzdEMUw2RUxiTWVVbllCQk1yWGJ2SElPZFRLb25taGdEWjZTLThyU0hWLXBuVVM1bnE2NE1aNjFEU01ZVEtaRGtZODk4bXQwaGV6OGJxM0ZMMmRyUVhocVFZcmNxTWlZVTc1YUVVQk9uMlRHUnZJM1BiRVNwQnFz?oc=5",
+     "ora": "2026-09-22T20:44:00+00:00"
+    },
+    {
+     "titolo": "OpenAI rilancia su Anthropic, a distanza di poche ore nuovi modelli IA",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "ANSA",
+     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTU5XaXNhUERaMzdTcV9jdFNaQS1TNDVxbGFkaEtUV1Z1WnZwMXFpYVo0MU5ZLWxfbGVmV1FTRGRkQnp6czJEaGR5SHBHTXVsbHhTeTc0V3czUlRaSk8xdVdIZWgzQ0xKN1RHUE5TQTdXVDRZNXY3ZFpKQ2xHcnBrSnZwRHd0RGI1MUhzcTV0VXdUd3U2TmdxMmJtOG1VSmhsOGlNSFE5dTM5QXc4NVBPWUFkZUNqT0JZXzVROVhtQThRMXhtOHRkSkJLOEdsNDgteXZheVVSd1hic0JnLTBoNkVHa1ZITXllUVFwdGU3eHI2aGVBMGR4eFJXOHlYMlplc0FtbENvQXctQ3JlaUNheWVB0gGSAkFVX3lxTE9NTldpc2FQRFozN1NxX2N0U1pBLVM0NXFsYWRoS1RXVnVadnAxcWlhWjQxTlktbF9sZWZXUVNEZGRCenpzMkRoZHlIcEdNdWxseFN5NzRXdzNSVFpKTzF1V0hlaDNDTEo3VEdQTlNBN1dUNFk1djdkWkpDbEdycGtKdnBEd3REYjUxSHNxNXRVd1R3dTZOZ3EyYm04bVVKaGw4aU1IUTl1MzlBdzg1UE9ZQWRlQ2pPQllfNVE5WG1BOFExeG04dGRKQks4R2w0OC15dmF5VVJ3WGJzQmctMGg2RUdrVkhNeWVRUXB0ZTd4cjZoZUEwZHh4Ulc4eVgyWmVzQW1sQ29Bdy1DcmVpQ2F5ZUE?oc=5",
+     "ora": "2026-09-23T14:30:06+00:00"
+    },
+    {
+     "titolo": "Claude Opus 5.5 e GPT-6 a confronto: nuova sfida tra Anthropic e OpenAI",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Quotidiano Nazionale",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVHJGRXl6dE5ZblFxalY4Nm9OeFpieDdibGs5LUhOS0hJTXh3am1JWERJcUxMbzVZR3BlbTZ6Z0VURHlHcllyY3Y0Rmh4TURXZkxjUl9oYy0zQTljSUV3TTRIbDVSNWNFU1Z0dDZlbnNnZzhaV1lRdi1GZm1HelZ5N2ZKSXRXNW9lREdRTnZVQkgyNlJfUzFwVTF3YjNDV0FLOGFzYXVoYi1pdExFOG1YR2RBRQ?oc=5",
+     "ora": "2026-09-23T11:17:23+00:00"
+    },
+    {
+     "titolo": "Anthropic e OpenAI rilanciano la sfida AI: modelli più potenti ma anche più economici",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "iGizmo.it",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQem5pZTRkVHVvejRmQjRCQ1psYUg1NDNGUUN1bGhvTEJYNElBTUlNMWtWT0xlWFM1VTZVU1lDUG1IdTREMS11X3hDZ0NvTzVJX2hIb1BIeEczWmU0VWc4TUlDYVhqbGM3MTBnY3dHNnZsdHFGTXppVGt0M1dPbERDcXZSNnRZeW1uMEFSV0lFU3lYd0tvX184bEszT0tpN005dDY4am9BMFF0Qkk?oc=5",
+     "ora": "2026-09-23T10:42:25+00:00"
+    },
+    {
+     "titolo": "OpenAI e Anthropic incapaci di rallentare: arrivano Gpt-6 e Opus 5.5, modelli più potenti e autonomi",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "la Repubblica",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLUdIcm4tSGZrcW5oY3BnYS1JOVE1ekEtZEk4QnlwMnN1dXZ4T255ZHYyWVkyazNaR1dKVi1TZXhyTlFwZnVpdHpQclN5a1ljWHJmd1lBa29lcmJxLUVUZmFSZ1F5eVVJckphU1V6cDJsYlEzY1JYZ0hqWklsRENyY0RGYWhNaVhmZ00yaGlUZGF2a3VjcUxZaldZb09NRzQ5VXRTTTFURGN4Nks1OEZQR0tqN0Vaa2_SAbwBQVVfeXFMTmtwb0x6aW5nOXdLSmJnYk9BRzFaMW1FdHBDcmRxa1BGbmFfWlRYSXBGZ3RWTGdhdV96OE95ak41a0J3c3haMFZsVlp2TmxvTGsyM3ZNeUtCRmQ0ZGZZbk9YQUZIYXZ2M2xrN2Z6dHloTjdaMHYtQ1hyaWoteC1DeWg4ZkpCRlhiY3o1enFUcjlha25vdWFDeWRsdzZoQmwzN0k1dFlqZ18tamNCNi01Rkd2bnlwSEkwdkltMWQ?oc=5",
+     "ora": "2026-09-23T07:47:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "\"ProgettIAmo il futuro\": alla Sapienza di Roma va in scena il primo Festival dell'Ingegneria",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "radioroma.it",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdFA4dndDaVpueHdGV3VLLWFtX2otOHJ6SFJqMTUzMzNybGZ4bXB2NWxXcGJITkNvVlJjR0ptNG1vRHVDLVludzh0N2ZRS3lUdlpLQ3ZKdXFJQVRBQ182d3hrekF0eXhRMmxOS3c3YzFkcndjN1N5Z3Y1Nm94QnVxQU5jekpJNnR5MjhNNWpEYldtcm8xTWpvb0l1NGxXdjVxeGZESUVXd1lKS3UteEJxQVBtQ3plbnRkeGVVN2phaWc?oc=5",
+     "ora": "2026-09-22T13:59:44+00:00"
+    },
+    {
+     "titolo": "ProgettIAmo il futuro alla Sapienza",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQenBZQS1RRzZkQXlITlZHMDNzS2VaNVc0S1FlaFFpSWM1NTg2X2NPaFJQSVBrX2Z3RUM5bXU3c052OFhVQVBIcWdhMmRzV0UyeWhEckdmbC1rYmxJdkt1YWFZRDVqSkd6ckNheURoUExHMFRaZ2VhOUlPWTMyMUNleDF5RdIBgwFBVV95cUxQenBZQS1RRzZkQXlITlZHMDNzS2VaNVc0S1FlaFFpSWM1NTg2X2NPaFJQSVBrX2Z3RUM5bXU3c052OFhVQVBIcWdhMmRzV0UyeWhEckdmbC1rYmxJdkt1YWFZRDVqSkd6ckNheURoUExHMFRaZ2VhOUlPWTMyMUNleDF5RQ?oc=5",
+     "ora": "2026-09-23T13:47:54+00:00"
+    },
+    {
+     "titolo": "Nasce l’Osservatorio PMI del Sud UniCredit: il 54,3% delle imprese aumenta il fatturato, più di una su due prevede nuove assunzioni",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Il Mattino",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUQydnB6S0lxZlY3Y1lfYmpIV3ZVMG9HZGJjZlJDOHRLWHV4cGhBSF83V1NxSkxXRkdaSk5yNzg2WG5GWWM2aFJfMXQteWhoV1NaZjVNQVZTWE02WmoyREVCY2poMWhfdTJYMS1CVkdRSmlEc1h0RXJBc0pDcVhMWlExYmVpZ3FfUkQ1YjZjZUt5Z0MtYWk2VXRaRE9yUlhsVXfSAaABQVVfeXFMT2kwcXZvX2V1LTVpTXlIU3U4YjVmUlJMcTc5RjlsdjNLS0Vwc3JzRXJBckY4V3FNTDNHYkg2UGJ2Q2d0enZqUUZEc3hrOFNYOTVtRnNvVEVTeVdMb0ZZQkc5R2RfUGtEaEE4Zlk0b1lvMUZYMWxpN2lJb3RVYVY0aUFGMXF6bkZmQXhQdEUyYm1rS0hFZHhPc0tDVVU2TXhvaw?oc=5",
+     "ora": "2026-09-23T13:47:27+00:00"
+    },
+    {
+     "titolo": "1 posto di tecnologo presso l'Università La Sapienza di Roma",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Concorsando.it",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdVc5TGZrX3RueUdfdDhvYUllTHRmWUROV0RFTFJLWVJhRDBUX0pEQ09IMG9VdzdvdUh3c1lkU08tNmtBWE9hTDFiREhjTEFwR0RGSEE1RENNTm1FbVlqR2dYal9vZTZuUnFTVWtTUVRCRkRSelp5VmhyZVhudDVETnFQdHFneUNBekdITzFnMTJ0bC1Lc2ZhRXlvZllad205Q2xZ?oc=5",
+     "ora": "2026-09-22T16:19:32+00:00"
+    },
+    {
+     "titolo": "LATINA | Ausili e protesi nello sport, in Comune arriva il convegno sull’ingegneria del movimento",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Mondoreale",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOck04bDg5dU5zaVhYcHJYaGQwRjB1TGdsY0IyVk0wYjRSMzdwdV9JZURvck5WY080NXEycUNWNDRGSWRXUnNKT0dLU2RUQV8zRWVaZmcyRFNEcWppXzNXTVhTWS1vTEZZMnJsS2hCMWJUUEZlTVRZSERJN3ZXMVlwRV8xenBfajUwbTI1MTZDSjJCZ1lVOFN0NVJKaXQ1SkJDUjVlT3ljdWl5SjA0TDBzTE1RRTg1ODdlQXVVeER3RmUyTlB2dHI0?oc=5",
+     "ora": "2026-09-22T12:36:13+00:00"
+    },
+    {
+     "titolo": "ENAV: assunzioni nel Marketing, Comunicazione e Affari Pubblici, stipendi da 45mila a 60mila euro",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUmVlcTdsdERJeFlSbVhiMEdqdTVWSVJnVFZVQTNoUWo1dldVX1hlQUk3X2R5UFkwSU1SdDdkcmQ3Q21ic0dGRk42b09uTm5GYlRPcFllX2Y0c3FIWjB0VXpsdE5Ib3pWQTc0WmpqWElXckYwR2VUTTRwMlVNS0w3TzZ0ck44bk9JTldsXw?oc=5",
+     "ora": "2026-09-22T07:00:33+00:00"
+    },
+    {
+     "titolo": "New vacancies published: Air Operations Expert, Air Operations Expert - Rotorcraft and Human Factors Expert",
+     "titolo_it": "",
+     "riassunto": "The following new vacancy notices have been published on our Careers portal:",
+     "fonte": "EASA",
+     "link": "https://www.easa.europa.eu/newsroom-and-events/news/new-vacancies-published-air-operations-expert-air-operations-expert-rotorcraft-and-human-factors",
+     "ora": "2026-09-22T00:00:00+03:00"
+    },
+    {
+     "titolo": "Assistenti di volo Emirates Airlines: assunzioni 2026, selezioni in Italia da Nord a Sud",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVkdtMHRnc3U3bHpZSi1OQjdkckpCemU4VXRDWDVPWjFmZ3Q3bmxmOFdCYlpaNWhjMnZlOU1YWjJfLXVCaEx3TzNuc3dZa3dLU1JuRWZLYzEtU1lLTWQ3VEU3cjlnZWlVTW10cVpUVE5zSUVlWk5rWUxaTXhjVy1LVldaT3lzb1JmcUU4RTFBM2REelI3VlVkeXFzaw?oc=5",
+     "ora": "2026-09-20T06:22:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Sfrattata l'87enne a Madrid fra le proteste di centinaia di persone",
+     "titolo_it": "",
+     "riassunto": "Lo sgombero portato a termine in mezzo a un imponente cordone di poliziotti. Maricarmen è diventata il simbolo della crisi abitativa",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/sfrattata-l87enne-a-madrid-fra-le-proteste-di-centinaia-di-persone_c63656de-91ba-40a5-b0bc-bc529e46f474.html",
+     "ora": "2026-09-23T18:20:24+02:00"
+    },
+    {
+     "titolo": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+     "titolo_it": "",
+     "riassunto": "the disgraced Hollywood producer is already serving a sentence of 23 years for rape and sexual assault in another case.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-09-23T16:15:57+00:00"
+    },
+    {
+     "titolo": "Cassazione, per i maltrattamenti tutela anche nelle relazioni extraconiugali",
+     "titolo_it": "",
+     "riassunto": "I giudici, 'altrimenti si determinerebbe una vera e propria discriminazione'",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/23/cassazione-per-i-maltrattamenti-tutela-anche-nelle-relazioni-extraconiugali_5ded6baf-86ec-41c4-a662-0c875938134e.html",
+     "ora": "2026-09-23T18:14:06+02:00"
+    },
+    {
+     "titolo": "Harvey Weinstein condannato a 15 anni di carcere per aggressione sessuale",
+     "titolo_it": "",
+     "riassunto": "Nei confronti dell'ex assistente alla produzione televisiva Miriam Haley nel 2006",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cultura/2026/09/23/harvey-weinstein-condannato-a-15-anni-di-carcere-per-aggressione-sessuale_98867c78-c1bf-42a0-964e-d151f258a4ab.html",
+     "ora": "2026-09-23T18:11:43+02:00"
+    },
+    {
+     "titolo": "Elicottero russo viola lo spazio aereo polacco: decollano caccia",
+     "titolo_it": "",
+     "riassunto": "Un elicottero russo proveniente da Kaliningrad ha violato lo spazio aereo della Polonia per circa 40 secondi. Le forze armate di Varsavia hanno fatto decollare i caccia e allertato la difesa aerea, denunciando l'ennesima provocazione e test di prontezza da parte di Mosca",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/09/23/elicottero-russo-viola-lo-spazio-aereo-polacco-decollano-caccia",
+     "ora": "2026-09-23T18:11:30+02:00"
+    },
+    {
+     "titolo": "Morto un operaio al Colosseo, Meloni: 'Morte inaccettabile'",
+     "titolo_it": "",
+     "riassunto": "La vittima di 22 anni è caduta da un'altezza di 10 metri. Il ragazzo trovato on l'imbracatura non agganciata alla fune. Il Parco archeologico ha disposto la chiusura dell'Anfiteatro Flavio in segno di lutto, alle 19 una fiaccolata per il giovane.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/23/morto-un-operaio-al-colosseo-meloni-morte-inaccettabile_d2e19d2c-1896-4bd4-b861-c2d8e26b5a9e.html",
+     "ora": "2026-09-23T18:11:07+02:00"
+    },
+    {
+     "titolo": "Il Marocco al voto per rinnovare il Parlamento, tra speranze e timori",
+     "titolo_it": "",
+     "riassunto": "Speranze e timori su lavoro, salari, servizi pubblici e costo della vita dominano le elezioni legislative in Marocco, mentre il Paese si prepara ai Mondiali di calcio del 2030",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/09/23/il-marocco-al-voto-per-rinnovare-il-parlamento-tra-speranze-e-timori",
+     "ora": "2026-09-23T18:05:13+02:00"
+    },
+    {
+     "titolo": "Valditara: 'La norma sul tetto agli stranieri a scuola sarà un decreto legge'",
+     "titolo_it": "",
+     "riassunto": "'Criterio puramente linguistico, vale anche per gli studenti Ue che non sanno l'italiano. Nessuno scontro col Quirinale, strumentalizzate le parole di Mattarella'",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/09/23/valditara-la-norma-sul-tetto-agli-stranieri-a-scuola-sara-un-decreto-legge_89aa62bf-9298-49c1-8ad9-e1f9a52e3edf.html",
+     "ora": "2026-09-23T18:03:17+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}

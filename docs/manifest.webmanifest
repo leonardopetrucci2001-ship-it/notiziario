@@ -1,0 +1,17 @@
+{
+  "name": "Notiziario",
+  "short_name": "Notiziario",
+  "description": "Le notizie del mattino su aerospazio, AI, università e attualità.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f9f6f4",
+  "theme_color": "#f9f6f4",
+  "icons": [
+    {"src": "icona-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icona-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icona-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

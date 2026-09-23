@@ -1,0 +1,48 @@
+name: Rassegna del mattino
+
+on:
+  schedule:
+    # 05:15 UTC = 07:15 in Italia d'estate, 06:15 d'inverno.
+    # GitHub a volte parte con qualche minuto di ritardo.
+    - cron: "15 5 * * *"
+  workflow_dispatch: {}   # pulsante "Run workflow" per lanciarla a mano
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rassegna
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scarica e scegli le notizie
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python aggiorna.py --senza-notifica
+
+      - name: Pubblica
+        run: |
+          git config user.name "rassegna-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/giorni
+          git commit -m "Rassegna $(date -u +%F)" || echo "Niente di nuovo"
+          git push
+
+      - name: Aspetta che la pagina si aggiorni
+        run: sleep 60
+
+      - name: Manda la notifica
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          PAGINA_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: python -c "import json,aggiorna as a; g=json.load(open('docs/giorni/indice.json'))[0]; a.notifica(json.load(open(f'docs/giorni/{g}.json',encoding='utf-8')))"

@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Notiziario</title>
+<meta name="description" content="Le notizie del mattino su aerospazio, AI, università e attualità.">
+<meta name="theme-color" content="#f9f6f4" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#171311" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icona-192.png">
+<link rel="apple-touch-icon" href="icona-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: oklch(0.975 0.004 55);
+  --bg-2: oklch(0.945 0.007 55);
+  --ink: oklch(0.22 0.012 45);
+  --ink-2: oklch(0.36 0.012 45);
+  --muted: oklch(0.47 0.012 45);
+  --rule: oklch(0.88 0.008 55);
+  --accent: oklch(0.53 0.16 38);
+  --accent-soft: oklch(0.93 0.035 45);
+  --visited: oklch(0.50 0.012 45);
+  --sans: "IBM Plex Sans", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, monospace;
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --z-sticky: 10;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: oklch(0.19 0.008 45);
+    --bg-2: oklch(0.235 0.01 45);
+    --ink: oklch(0.94 0.006 60);
+    --ink-2: oklch(0.83 0.008 60);
+    --muted: oklch(0.70 0.01 55);
+    --rule: oklch(0.32 0.01 45);
+    --accent: oklch(0.74 0.14 48);
+    --accent-soft: oklch(0.30 0.05 45);
+    --visited: oklch(0.64 0.01 55);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: oklch(0.19 0.008 45);
+  --bg-2: oklch(0.235 0.01 45);
+  --ink: oklch(0.94 0.006 60);
+  --ink-2: oklch(0.83 0.008 60);
+  --muted: oklch(0.70 0.01 55);
+  --rule: oklch(0.32 0.01 45);
+  --accent: oklch(0.74 0.14 48);
+  --accent-soft: oklch(0.30 0.05 45);
+  --visited: oklch(0.64 0.01 55);
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 400 1rem/1.55 var(--sans);
+  -webkit-font-smoothing: antialiased;
+}
+.pagina {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: max(20px, env(safe-area-inset-top)) 16px max(40px, env(safe-area-inset-bottom));
+}
+
+/* testata */
+.testata { display: flex; align-items: flex-end; justify-content: space-between; gap: 12px; padding-top: 12px; }
+.testata h1 {
+  margin: 0;
+  font-size: clamp(1.75rem, 7vw, 2.4rem);
+  line-height: 1.1;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  text-wrap: balance;
+}
+.giorno-sett { display: block; font-size: 0.95rem; font-weight: 500; color: var(--accent); letter-spacing: 0; margin-bottom: 4px; }
+.frecce { display: flex; gap: 4px; flex-shrink: 0; }
+.frecce button {
+  width: 44px; height: 44px;
+  display: grid; place-items: center;
+  border: 1px solid var(--rule); border-radius: 10px;
+  background: transparent; color: var(--ink);
+  cursor: pointer;
+  transition: transform 120ms var(--ease-out), background-color 150ms var(--ease-out);
+}
+.frecce button:hover:not(:disabled) { background: var(--bg-2); }
+.frecce button:active:not(:disabled) { transform: scale(0.95); }
+.frecce button:disabled { opacity: 0.35; cursor: default; }
+.frecce svg { width: 18px; height: 18px; }
+.stato { margin: 8px 0 0; font: 400 0.8rem/1.4 var(--mono); color: var(--muted); }
+
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+
+/* in breve */
+.breve { margin: 28px 0 8px; padding: 18px 18px 6px; background: var(--accent-soft); border-radius: 12px; }
+.breve h2 { margin: 0 0 10px; font: 500 0.8rem/1.2 var(--mono); color: var(--ink-2); }
+.breve ol { margin: 0; padding: 0; list-style: none; counter-reset: b; }
+.breve li { counter-increment: b; display: grid; grid-template-columns: 1.6rem 1fr; padding-bottom: 12px; font-size: 1.02rem; line-height: 1.5; text-wrap: pretty; }
+.breve li::before { content: counter(b); font: 500 0.95rem/1.55 var(--mono); color: var(--accent); }
+
+/* schede argomenti */
+.schede {
+  position: sticky; top: 0; z-index: var(--z-sticky);
+  margin: 20px -16px 0; padding: 10px 16px;
+  background: var(--bg);
+  display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none;
+  border-bottom: 1px solid var(--rule);
+}
+.schede::-webkit-scrollbar { display: none; }
+.schede button {
+  flex-shrink: 0;
+  min-height: 40px; padding: 0 14px;
+  border: 1px solid var(--rule); border-radius: 999px;
+  background: transparent; color: var(--ink-2);
+  font: 500 0.9rem/1 var(--sans);
+  cursor: pointer;
+  transition: background-color 150ms var(--ease-out), color 150ms var(--ease-out), transform 120ms var(--ease-out);
+}
+.schede button:active { transform: scale(0.97); }
+.schede button[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+.schede .n { font-family: var(--mono); font-weight: 400; opacity: 0.7; margin-left: 4px; }
+
+/* notizie */
+section.argomento { padding-top: 26px; }
+section.argomento h2 { margin: 0 0 2px; font-size: 1.3rem; line-height: 1.2; font-weight: 700; letter-spacing: -0.01em; }
+.lista { list-style: none; margin: 0; padding: 0; }
+.lista li { padding: 16px 0; border-bottom: 1px solid var(--rule); }
+.lista li:last-child { border-bottom: 0; }
+.meta { font: 400 0.78rem/1.3 var(--mono); color: var(--muted); margin-bottom: 5px; }
+.lista a { color: var(--ink); text-decoration: none; }
+.lista a:visited { color: var(--visited); }
+.lista a:hover .titolo { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.titolo { display: block; font-size: 1.08rem; line-height: 1.35; font-weight: 600; text-wrap: pretty; }
+.originale { display: block; margin-top: 3px; font-size: 0.85rem; line-height: 1.35; color: var(--muted); font-style: italic; }
+.riassunto { margin: 6px 0 0; font-size: 0.95rem; line-height: 1.55; color: var(--ink-2); text-wrap: pretty; max-width: 68ch; }
+
+.vuoto, .errore { padding: 40px 0; color: var(--ink-2); }
+.errore strong { display: block; color: var(--ink); margin-bottom: 4px; }
+.piede { margin-top: 36px; padding-top: 16px; border-top: 1px solid var(--rule); font: 400 0.78rem/1.5 var(--mono); color: var(--muted); }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
+</style>
+</head>
+<body>
+<div class="pagina">
+  <header class="testata">
+    <h1 id="data"><span class="giorno-sett">&nbsp;</span>Notiziario</h1>
+    <div class="frecce">
+      <button id="prima" type="button" aria-label="Giorno precedente">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
+      </button>
+      <button id="dopo" type="button" aria-label="Giorno successivo">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+      </button>
+    </div>
+  </header>
+  <p class="stato" id="stato">Carico le notizie…</p>
+  <div id="breve"></div>
+  <nav class="schede" id="schede" aria-label="Argomenti"></nav>
+  <main id="contenuto"></main>
+  <footer class="piede" id="piede"></footer>
+</div>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const leggi = (k) => { try { return localStorage.getItem(k); } catch { return null; } };
+const scrivi = (k, v) => { try { localStorage.setItem(k, v); } catch {} };
+
+let giorni = [];
+let posizione = 0;
+let dati = null;
+let filtro = leggi("filtro") || "tutte";
+
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+
+function quanto(iso, rif) {
+  if (!iso) return "";
+  const ore = (rif - new Date(iso)) / 3.6e6;
+  if (ore < 1) return "meno di un'ora fa";
+  if (ore < 24) return `${Math.round(ore)} h fa`;
+  const g = Math.round(ore / 24);
+  return g === 1 ? "ieri" : `${g} giorni fa`;
+}
+
+function intestazione() {
+  const d = new Date(dati.giorno + "T12:00:00");
+  const sett = d.toLocaleDateString("it-IT", { weekday: "long" });
+  const resto = d.toLocaleDateString("it-IT", { day: "numeric", month: "long" });
+  $("data").innerHTML = `<span class="giorno-sett">${esc(sett[0].toUpperCase() + sett.slice(1))}</span>${esc(resto)}`;
+  const creato = new Date(dati.creato);
+  const totale = dati.argomenti.reduce((s, a) => s + a.notizie.length, 0);
+  $("stato").textContent = `Aggiornato alle ${creato.toLocaleTimeString("it-IT", { hour: "2-digit", minute: "2-digit" })} · ${totale} notizie`;
+  $("prima").disabled = posizione >= giorni.length - 1;
+  $("dopo").disabled = posizione <= 0;
+}
+
+function breve() {
+  const righe = dati.in_breve || [];
+  $("breve").innerHTML = righe.length
+    ? `<section class="breve" aria-labelledby="t-breve"><h2 id="t-breve">In breve</h2><ol>${righe.map((r) => `<li>${esc(r)}</li>`).join("")}</ol></section>`
+    : "";
+}
+
+function schede() {
+  const voci = [{ id: "tutte", nome: "Tutte", n: null }, ...dati.argomenti.map((a) => ({ id: a.id, nome: a.nome, n: a.notizie.length }))];
+  if (!voci.some((v) => v.id === filtro)) filtro = "tutte";
+  $("schede").innerHTML = voci
+    .map((v) => `<button type="button" data-id="${v.id}" aria-pressed="${v.id === filtro}">${esc(v.nome)}${v.n !== null ? `<span class="n">${v.n}</span>` : ""}</button>`)
+    .join("");
+}
+
+function notizie() {
+  const rif = new Date(dati.creato);
+  const scelti = dati.argomenti.filter((a) => filtro === "tutte" || a.id === filtro);
+  $("contenuto").innerHTML = scelti
+    .map((a) => {
+      if (!a.notizie.length) return `<section class="argomento"><h2>${esc(a.nome)}</h2><p class="vuoto">Niente di nuovo oggi.</p></section>`;
+      const voci = a.notizie
+        .map((n) => {
+          const titolo = n.titolo_it || n.titolo;
+          const meta = [n.fonte, quanto(n.ora, rif)].filter(Boolean).map(esc).join(" · ");
+          return `<li><div class="meta">${meta}</div>
+            <a href="${esc(n.link)}" target="_blank" rel="noopener">
+              <span class="titolo">${esc(titolo)}</span>
+              ${n.titolo_it ? `<span class="originale" lang="en">${esc(n.titolo)}</span>` : ""}
+            </a>
+            ${n.riassunto ? `<p class="riassunto">${esc(n.riassunto)}</p>` : ""}</li>`;
+        })
+        .join("");
+      return `<section class="argomento" aria-label="${esc(a.nome)}"><h2>${esc(a.nome)}</h2><ul class="lista">${voci}</ul></section>`;
+    })
+    .join("");
+}
+
+function piede() {
+  const giu = dati.fonti_giu || [];
+  const righe = [];
+  righe.push(dati.modello ? `Selezione e riassunti: ${esc(dati.modello)}` : "Selezione automatica, senza riassunti AI");
+  if (giu.length) righe.push(`Fonti non raggiungibili stamattina: ${giu.map(esc).join(", ")}`);
+  $("piede").innerHTML = righe.join("<br>");
+}
+
+async function apri(i) {
+  posizione = i;
+  try {
+    const r = await fetch(`giorni/${giorni[i]}.json`, { cache: "no-cache" });
+    if (!r.ok) throw new Error(r.status);
+    dati = await r.json();
+  } catch {
+    $("contenuto").innerHTML = `<div class="errore"><strong>Non riesco a caricare questo giorno.</strong>Controlla la connessione e riapri la pagina.</div>`;
+    return;
+  }
+  intestazione(); breve(); schede(); notizie(); piede();
+}
+
+$("schede").addEventListener("click", (e) => {
+  const b = e.target.closest("button");
+  if (!b) return;
+  filtro = b.dataset.id;
+  scrivi("filtro", filtro);
+  schede(); notizie();
+});
+$("prima").addEventListener("click", () => { if (posizione < giorni.length - 1) apri(posizione + 1).then(() => scrollTo(0, 0)); });
+$("dopo").addEventListener("click", () => { if (posizione > 0) apri(posizione - 1).then(() => scrollTo(0, 0)); });
+
+(async () => {
+  try {
+    const r = await fetch("giorni/indice.json", { cache: "no-cache" });
+    giorni = await r.json();
+  } catch {
+    $("stato").textContent = "";
+    $("contenuto").innerHTML = `<div class="errore"><strong>Nessuna notizia disponibile.</strong>Sei offline e non ho ancora niente in memoria.</div>`;
+    return;
+  }
+  if (!giorni.length) {
+    $("stato").textContent = "";
+    $("contenuto").innerHTML = `<div class="vuoto">La prima rassegna arriva domattina.</div>`;
+    return;
+  }
+  apri(0);
+})();
+
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+</script>
+</body>
+</html>
