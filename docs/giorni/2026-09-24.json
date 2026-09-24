@@ -1,6 +1,6 @@
 {
  "giorno": "2026-09-24",
- "creato": "2026-09-24T10:04:11+00:00",
+ "creato": "2026-09-24T11:28:18+00:00",
  "in_breve": [],
  "modello": null,
  "argomenti": [
@@ -8,6 +8,14 @@
    "id": "aero",
    "nome": "Aerospazio",
    "notizie": [
+    {
+     "titolo": "Here's What Pilots First Notice When Switching From The Boeing 737 MAX To The Airbus A220",
+     "titolo_it": "",
+     "riassunto": "The planes may serve similar roles, but in the cockpit, some major differences can be found.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/boeing-737-max-airbus-a220-pilot-differences/",
+     "ora": "2026-09-24T11:00:14+00:00"
+    },
     {
      "titolo": "ENAC e INGV rafforzano l'intesa per la sicurezza dei voli",
      "titolo_it": "",
@@ -25,12 +33,12 @@
      "ora": "2026-09-24T04:53:33+00:00"
     },
     {
-     "titolo": "Avio, l’Esa punta a 30 lanci nel 2030: Intesa Sanpaolo vede fino a 176 milioni di euro in più per il gruppo aerospaziale",
+     "titolo": "Notizie dal settore della difesa, 24 settembre: l'aeronautica militare russa riceve i Su-57 aggiornati.",
      "titolo_it": "",
      "riassunto": "",
-     "fonte": "Milano Finanza",
-     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOenlsamNTMnhmeWVkVUJSXzNUcEhERHZLbXNmajhUZ2NtLXRYQVFCc2dfOWNzclN5SXVhTGtKVmFpQV9lYmNZWHBtQVRPRV9WSnVlX05iNUgxeWRCY2NCU1hwSHR5dENFWUViX0REN1JONUNGVGc4Z05Nb1p0VjZhOS1Xci1nLUpTVXlmUHlEYlZWX0pyUlhsRXdPU0tiU2ZXNDFwWW82djRFdHFpM25meVlnMjJsWDVTd2U5TEJ0dk8zNERZdTMtZ0RXZ0Q0TWdqTE03OF9aX2duMzlsQWdfSXdHT1Nibko4MnBjNGc1TQ?oc=5",
-     "ora": "2026-09-23T13:35:00+00:00"
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMDJPa1Vnd2NxdXZDVUEtYTJ6bEVGZ3VqbHJsQ3BHVDBENHpqVGlVTC1xZ3dIblE0TXl1dlpUeTN4ZzJkdkJZQWxtZ1R6NS1ZQVdINlhUVEZyVGdFaTgyc2VqcDN1WnNodmRpbkV6ckFMeV9qd1JXTXBhRU9LcHlqcjJBMklCV1M2bXkwOWNVQUxqeExDN1lF?oc=5",
+     "ora": "2026-09-24T10:17:37+00:00"
     },
     {
      "titolo": "ATR appoints Leonardo executive Vittorio Lorenzo Della Bella as new CEO",
@@ -47,14 +55,6 @@
      "fonte": "AeroTime",
      "link": "https://www.aerotime.aero/articles/biman-bangladesh-airlines-places-additional-order-for-11-boeing-aircraft",
      "ora": "2026-09-24T08:59:36+00:00"
-    },
-    {
-     "titolo": "Boeing Unlikely To Land New China Mega-Order – Even Its 200-Jet Deal Hangs In The Balance",
-     "titolo_it": "",
-     "riassunto": "The planemaker had hoped to secure at least 500 aircraft orders from China, but might have to settle for fewer than 150.",
-     "fonte": "Simple Flying",
-     "link": "https://simpleflying.com/boeing-unlikely-new-china-mega-order-200-jet-deal/",
-     "ora": "2026-09-24T08:40:56+00:00"
     },
     {
      "titolo": "Record participation in ESA’s Industry Space Days 2026",
@@ -79,20 +79,20 @@
    "nome": "AI e tecnologia",
    "notizie": [
     {
-     "titolo": "Agente OpenAI ha violato un sito del governo in Australia. E l'azienda ne ha dato notizia tre mesi dopo",
+     "titolo": "OpenAi, 'nostro modello può aver tentato hackeraggio in diversi siti del governo in Australia'",
      "titolo_it": "",
      "riassunto": "",
-     "fonte": "huffingtonpost.it",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT0E2R3NmVlowTDFGUXdRWFd2LV9QenVfcThMa0E2QW82UmxaVW5xcXNOZW9KYVdtZXZGQ1RxYWNxb2dTOTVoWm15elFhd3FQNkdwT2pjUll6YlNPOVlrY1oyRkh3enByUFRGRG5zQVV4NnJQeFpaNHJneE5oaU52ZTloOWo3TWpIVHZZWHhmb3B0c3lUbnhxX3Z5YUQ1WUhLNnk3bkFYTjJUenpMdHMtbFNVN1FRck1aUWhpTWIyRTJxU0pQ?oc=5",
-     "ora": "2026-09-24T09:31:00+00:00"
+     "fonte": "ANSA",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUHR1Q0ttSVBZc1NrZ25HdDVBRlI3OFdSWkJ2MldHdFVpTmUweEZiRFJXX2pjWDYxd3NLajNON1hqYUp3YVhiX3hnTUI2eldncUN2T29Cd05pX0t2emJDYzNQMXp4UWNpUmRBbEtKOW9tM0U4RDlETzlBUG55b29hVnE5Vmp1OVY1ZTVGYjhfUWI3MnFKYjJTVEtRTy1zc3laNTVRY2pIUDlqS3RzWXFSN2RYdm14LV93TDFtVGszTW0yMUhhdXNxODJsVFFmTlZiV21LTlVUUUtIekJWaW80LVJlbW5IX1AweGZQSk15NTRqTVVJ0gH6AUFVX3lxTE9JTzZUSGs5c0JERjJXVm5FaHc4ekpSSzlwaXdBYUozWkRJVXJvQWxjR3AzbVNVR3V2X25IRDhxc1dGTWpyV1BpenJVUzlueWt3NHNqNWZlMk5SVGFMOU10eUpLVE9TczBWVlcwemhOLUJtN2dsQVVBOXR6QU1ORHQtUVdYSmtjLXBWd1dqbVlSQ0lYN1pfNjh3ai1BUXlRc1lYWXZuajNISUowQjFXS0xncllBNnJoUThONDJ3Sk9qOUI0Y1R0cWs1aFB6VUcxbXd6bkpUdktrWjNzd1hibUlkYlN0bzJCaEx6QS1Qb20taHc3bXRHdjBSWHc?oc=5",
+     "ora": "2026-09-24T10:51:19+00:00"
     },
     {
-     "titolo": "OpenAI, un agente AI ha violato il sito Medicare australiano",
+     "titolo": "Un agente di OpenAI aggira i blocchi e accede al portale Medicare",
      "titolo_it": "",
      "riassunto": "",
-     "fonte": "Fortune Italia",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hMExGZGptdzlITzhDSldBZC1DR3h6Wmo4T05Rem54UkpPRWQ4NjlIUUQzM25RaldEcElMYWNKU1kxUWlFZzVEdHN2OGVHN1NRbEtSNmRPUTJUZ21LSHJhTVRtbkNsWXlLOUR6bDlESUdIZkFkdzFiWlRfeDdPVlU?oc=5",
-     "ora": "2026-09-24T09:30:24+00:00"
+     "fonte": "giornalelavoce.it",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdXVIS1dteFgxOXBqT0ZJUXAwREpWNEFVb2FYVlFrbjhvRUliTVVSaUd0NjFSUTZ3dzQwUWowUXpQbjdyZWJXT2E5bXIyRGR0NklxMXNGZk0wLUlrSTlxX3JpRGpTTjNkVjNIRlBCWXYzLTZiRkJxcy1uSExoOGlEMllSN3FCandFVzBzSDJYRDV0ZzAwTTZxYnNMeUVrSjNwbTRMeTFSR3plZkFfMjEyUmtoVW1TS19WUGUzdllUaw?oc=5",
+     "ora": "2026-09-24T10:01:25+00:00"
     },
     {
      "titolo": "The AI Hype Index: AI loves cheating",
@@ -113,7 +113,7 @@
     {
      "titolo": "Claude discovers a novel enzyme system with CRISPR-like repeats",
      "titolo_it": "",
-     "riassunto": "Article URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system Comments URL: https://news.ycombinator.com/item?id=49820134 Points: 650 # Comments: 670",
+     "riassunto": "Article URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system Comments URL: https://news.ycombinator.com/item?id=49820134 Points: 667 # Comments: 680",
      "fonte": "Hacker News",
      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
      "ora": "2026-09-23T18:06:47+00:00"
@@ -133,14 +133,6 @@
      "fonte": "Simon Willison",
      "link": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
      "ora": "2026-09-23T17:12:27+00:00"
-    },
-    {
-     "titolo": "Gemini 3.8 text-to-speech",
-     "titolo_it": "",
-     "riassunto": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/ Comments URL: https://news.ycombinator.com/item?id=49817615 Points: 305 # Comments: 137",
-     "fonte": "Hacker News",
-     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-     "ora": "2026-09-23T15:29:23+00:00"
     }
    ]
   },
@@ -176,7 +168,7 @@
      "titolo": "ProgettIAmo il futuro alla Sapienza",
      "titolo_it": "",
      "riassunto": "",
-     "fonte": "ilmessaggero.it",
+     "fonte": "Il Messaggero",
      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQenBZQS1RRzZkQXlITlZHMDNzS2VaNVc0S1FlaFFpSWM1NTg2X2NPaFJQSVBrX2Z3RUM5bXU3c052OFhVQVBIcWdhMmRzV0UyeWhEckdmbC1rYmxJdkt1YWFZRDVqSkd6ckNheURoUExHMFRaZ2VhOUlPWTMyMUNleDF5RdIBgwFBVV95cUxQenBZQS1RRzZkQXlITlZHMDNzS2VaNVc0S1FlaFFpSWM1NTg2X2NPaFJQSVBrX2Z3RUM5bXU3c052OFhVQVBIcWdhMmRzV0UyeWhEckdmbC1rYmxJdkt1YWFZRDVqSkd6ckNheURoUExHMFRaZ2VhOUlPWTMyMUNleDF5RQ?oc=5",
      "ora": "2026-09-23T13:47:54+00:00"
     },
@@ -195,28 +187,44 @@
    "nome": "Attualità",
    "notizie": [
     {
-     "titolo": "Festa nazionale saudita: folle in festa tra bandiere, spettacoli e parata militare",
+     "titolo": "Confine Turchia-Iran: valico bloccato da gravi ritardi dei tir",
      "titolo_it": "",
-     "riassunto": "A Riad folle in festa per la Giornata nazionale saudita, tra bandiere, esibizioni tradizionali e una parata militare, sullo sfondo di crescenti tensioni regionali.",
+     "riassunto": "Le lunghe code al valico di Gürbulak, al confine tra Turchia e Iran, trasformano un viaggio di 24 ore in una settimana e mettono in difficoltà autisti di camion e famiglie.",
      "fonte": "Euronews",
-     "link": "https://it.euronews.com/video/2026/09/24/festa-nazionale-saudita-folle-in-festa-tra-bandiere-spettacoli-e-parata-militare",
-     "ora": "2026-09-24T11:54:15+02:00"
+     "link": "https://it.euronews.com/video/2026/09/24/confine-turchia-iran-valico-bloccato-da-gravi-ritardi-dei-tir",
+     "ora": "2026-09-24T13:00:10+02:00"
     },
     {
-     "titolo": "'La Russia pronta ad attacchi con droni dal mare in Italia, Francia e Spagna'. Crosetto: 'L'alert non trova conferma'",
+     "titolo": "Dopo l'invito a rallentare, riparte la corsa IA tra OpenAI e Anthropic",
      "titolo_it": "",
-     "riassunto": "I piani svelati dalla Cia secondo El Mundo. La Moldavia: 'Quattro doni hanno invaso il nostro spazio aereo'",
+     "riassunto": "A distanza di poche ore lanciano nuovi modelli, più economici in competizione con la Cina",
      "fonte": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/la-russia-pronta-ad-attacchi-con-droni-dal-mare-in-italia-francia-e-spagna._f3970154-cd44-45da-9d7a-0f7ce91c9725.html",
-     "ora": "2026-09-24T11:51:11+02:00"
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/09/23/dopo-linvito-a-rallentare-riparte-la-corsa-ia-tra-openai-e-anthropic_fdec4bbb-f20e-4a4d-ae60-5dd82967c0c2.html",
+     "ora": "2026-09-24T12:59:51+02:00"
     },
     {
-     "titolo": "Noleggio auto usate a lungo termine: perché sempre più italiani lo scelgono",
+     "titolo": "Accoltellata alle spalle da uno sconosciuto, grave una 20enne",
      "titolo_it": "",
-     "riassunto": "Flessibilità, servizi all inclusive e zero pensieri: la scelta che conquista gli automobilisti italiani.",
+     "riassunto": "Nel centro storico di Salerno un passante dà l'allarme. Indagini della polizia",
      "fonte": "ANSA",
-     "link": "https://www.ansa.it/native/ansacom/2026/09/24/noleggio-auto-usate-a-lungo-termine-perche-sempre-piu-italiani-lo-scelgono_90e6a96f-c0b7-494f-b341-86f6cabb8eda.html",
-     "ora": "2026-09-24T11:39:00+02:00"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/24/accoltellata-alle-spalle-da-uno-sconosciuto-grave-una-20enne_e18c265d-0c33-4423-9d73-e474a712c3d5.html",
+     "ora": "2026-09-24T12:50:25+02:00"
+    },
+    {
+     "titolo": "TikTok, virali decine di video AI su false proteste dell'estrema destra in Europa",
+     "titolo_it": "",
+     "riassunto": "Su TikTok stanno circolando video generati dall’intelligenza artificiale di manifestazioni mai avvenute in protesta contro l'immigrazione e i governi europei. Secondo gli esperti mirano ad amplificare la polarizzazione",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/09/24/tiktok-virali-decine-di-video-ai-su-false-proteste-dellestrema-destra-in-europa",
+     "ora": "2026-09-24T12:45:22+02:00"
+    },
+    {
+     "titolo": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+     "titolo_it": "",
+     "riassunto": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-09-24T10:11:15+00:00"
     },
     {
      "titolo": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
@@ -225,22 +233,6 @@
      "fonte": "BBC World",
      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
      "ora": "2026-09-24T09:28:33+00:00"
-    },
-    {
-     "titolo": "L'Olanda conferma il ritorno all'Eurovision mentre la Spagna valuta di prolungare il boicottaggio",
-     "titolo_it": "",
-     "riassunto": "Pur mantenendo le sue riserve sulla partecipazione di Israele e sulla guerra a Gaza, i Paesi Bassi torneranno all'Eurovision nel 2027, con il brano nazionale ora coordinato dalla NPO.",
-     "fonte": "Euronews",
-     "link": "https://it.euronews.com/2026/09/24/lolanda-conferma-il-ritorno-alleurovision-mentre-la-spagna-valuta-di-prolungare-il-boicott",
-     "ora": "2026-09-24T11:24:52+02:00"
-    },
-    {
-     "titolo": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-     "titolo_it": "",
-     "riassunto": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-     "fonte": "BBC World",
-     "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-     "ora": "2026-09-24T07:10:58+00:00"
     }
    ]
   }
