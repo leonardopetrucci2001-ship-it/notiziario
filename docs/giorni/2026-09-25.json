@@ -1,72 +1,76 @@
 {
  "giorno": "2026-09-25",
- "creato": "2026-09-25T09:07:01+00:00",
- "in_breve": [
-  "Alla Sapienza di Roma si tiene il primo Festival dell'Ingegneria chiamato ProgettIAmo il futuro.",
-  "EASA offre nuove posizioni per esperti di operazioni aeree e fattori umani.",
-  "Claude si è ottimizzato da solo ed è ora tre volte più veloce rispetto a due settimane fa."
- ],
- "modello": "inclusionai/ling-3.0-flash-fin:free, nvidia/nemotron-3-super-120b-a12b:free",
+ "creato": "2026-09-25T10:13:43+00:00",
+ "in_breve": [],
+ "modello": null,
  "argomenti": [
   {
    "id": "aero",
    "nome": "Aerospazio",
    "notizie": [
     {
-     "titolo": "Alaska Airlines expects Boeing 737 MAX 10 certification within days",
-     "titolo_it": "Alaska Airlines si aspetta la certificazione FAA del Boeing 737 MAX 10",
-     "riassunto": "Alaska Airlines ha dichiarato che si aspetta la certificazione FAA del Boeing 737 MAX 10 entro la fine di settembre. Conta perché rappresenta un traguardo cruciale per l'industria e per la sicurezza del volo, con rilevanti implicazioni operative per le compagnie aeree.",
-     "fonte": "AeroTime",
-     "link": "https://www.aerotime.aero/articles/alaska-airlines-boeing-737-max-10-certification",
-     "ora": "2026-09-24T20:26:53+00:00"
-    },
-    {
      "titolo": "Pilatus PC-12 PRO’s Garmin autoland system wins FAA and EASA approval",
-     "titolo_it": "Sistema autoland d'emergenza del Pilatus PC-12 PRO ottiene certificazione FAA e EASA",
-     "riassunto": "Pilatus ha ottenuto la certificazione FAA e EASA per il sistema autoland d'emergenza del PC-12 PRO. Conta perché segna un avanzamento significativo nei sistemi automatizzati di sicurezza del volo, con implicazioni dirette per il futuro dell'aviazione e dell'automazione.",
+     "titolo_it": "",
+     "riassunto": "Pilatus has secured FAA and European Union Aviation Safety Agency certification for the PC-12 PRO’s emergency autoland system,…",
      "fonte": "AeroTime",
      "link": "https://www.aerotime.aero/articles/pilatus-pc-12-pro-autoland-faa-easa-approval",
      "ora": "2026-09-24T19:36:39+00:00"
     },
     {
+     "titolo": "Spazio: Avio, completata l’operazione di investimento di Advent International per lo sviluppo in Italia e USA",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "AGEEI",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXQ4LVRITDlJODBVR2g2Rnk0a1pVeFdpNWFWTDBoR09sQTA4Ni00ZVpSVEZNektHZ0F2dUtudlktckRDT2t3SXdEVjRpeTBnb2VOQjZsSWt2cFJXUlI4aHZIOWE0Y2ZacHFsRjJMR0gzOF9ESFZ6TnYwVVhraFhPcndERmNGQ1VmaEVxMVhfYVRfa1Z5eVMzb1ZEOGwyY0llVmF4QUdJOVVhZ3VsTXRtdjZnQTZzc2VRdXB6MEVxOWhCUQ?oc=5",
+     "ora": "2026-09-25T10:01:00+00:00"
+    },
+    {
+     "titolo": "La polizia locale di Ala-Avio contro il commercio abusivo",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "L'adigetto",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcDZxU204Y3J6ZXl1bEZrUlg5SVMxdTBUbGkxMFo0anM1VXA5enQzaHVTTS1tak1kXy1RaDhKSkV4SDFuQmczVkNSWVdOZXJKdkVWNE55T2VtNFRtRG5QVndZRlkyYXhMcnZIeHRhOUdXR2JQYzlDTDVpVVFSSHJCenBuNnBGVXROeVE?oc=5",
+     "ora": "2026-09-25T09:48:46+00:00"
+    },
+    {
+     "titolo": "ESA and the EU partner with Museo Galileo on new exhibition",
+     "titolo_it": "",
+     "riassunto": "The European Space Agency (ESA), Italy’s Museo Galileo - Institute and Museum of the History of Science, and the European Commission (EC) have partnered to uncover the surprising and far-reaching connections between the pioneer astronomer Galileo Galilei and Europe’s satellite navigation system Galileo.",
+     "fonte": "ESA",
+     "link": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition",
+     "ora": "2026-09-25T11:00:00+02:00"
+    },
+    {
+     "titolo": "This Airline Had The World's Final Unfulfilled Order For The Passenger Boeing 777-300ER",
+     "titolo_it": "",
+     "riassunto": "PIA is on the books as the customer of the last Boeing 777-300ER, although it's possible the final unit was delivered in 2024.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/airline-has-final-worlds-final-unfulfilled-order-for-passenger-boeing-777-300er/",
+     "ora": "2026-09-25T01:45:14+00:00"
+    },
+    {
      "titolo": "Pratt & Whitney Delivers 1st GTF Advantage-Powered Airbus A321XLR To United Airlines",
-     "titolo_it": "Pratt & Whitney consegna il primo A321XLR con motore GTF Advantage a United Airlines",
-     "riassunto": "Pratt & Whitney ha consegnato il primo Airbus A321XLR alimentato dal motore GTF Advantage a United Airlines. Conta perché segna l'ingresso in servizio di un nuovo propulsore più efficiente e performante, rilevante per la tecnologia aeronautica e gli obiettivi di sostenibilità del settore.",
+     "titolo_it": "",
+     "riassunto": "A new chapter begins as United's A321XLR debuts with GTF Advantage power, promising more thrust and time on wing.",
      "fonte": "Simple Flying",
      "link": "https://simpleflying.com/pratt-whitney-delivers-1st-gtf-advantage-powered-airbus-a321xlr-united-airlines/",
      "ora": "2026-09-24T21:46:01+00:00"
     },
     {
-     "titolo": "Droni, ENAC pubblica la SPL-21 Rev. 1: come cambia la segnalazione degli inconvenienti di volo",
-     "titolo_it": "ENAC pubblica la SPL-21 Rev.1: cambiano le regole per la segnalazione degli inconvenienti di volo dei droni",
-     "riassunto": "ENAC ha pubblicato la SPL-21 Rev.1 con modifiche alla segnalazione degli inconvenienti di volo per i droni. Conta perché riguarda direttamente la regolamentazione dei sistemi aeronautici senza pilota in Italia, un tema centrale per chi opera o vuole operare nel settore.",
-     "fonte": "Quadricottero News",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUzRGd0ZySWlYQXF5S0JTSnotTEMxeGxVSzNSZW54Rm1Sa09NQXZoM1Azczk2TWZHUFE0bXRvZnZCZjl4SW9mcE9KeFFHUS0zR3IwQTY4a21fWm1hRG9XTVNnU3hRQXhCZVFubDNZbDNxX0ppMTM1czJVY1ZaLVNjVGFaQWs?oc=5",
-     "ora": "2026-09-24T15:51:00+00:00"
+     "titolo": "Alaska Airlines expects Boeing 737 MAX 10 certification within days",
+     "titolo_it": "",
+     "riassunto": "Alaska Airlines has suggested that it expects Boeing’s 737 MAX 10 to receive FAA certification by the end…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/alaska-airlines-boeing-737-max-10-certification",
+     "ora": "2026-09-24T20:26:53+00:00"
     },
     {
      "titolo": "Heart Unveils ES-36 With JSX Order",
-     "titolo_it": "Heart presenta l'ES-36, un aereo regionale ibrido-elettrico con ordine da JSX",
-     "riassunto": "Heart ha svelato l'ES-36, un aereo regionale ibrido-elettrico ridisegnato con sei posti e sistema di propulsione a due nacelle, già con un ordine da JSX. Conta perché rappresenta un'evoluzione concreta dell'aviazione regionale elettrica, un trend emergente con impatto sul futuro del trasporto aereo.",
+     "titolo_it": "",
+     "riassunto": "The redesigned hybrid-electric regional aircraft adds six seats and moves to a two-nacelle propulsion system.",
      "fonte": "AVweb",
      "link": "https://avweb.com/aviation-news/heart-unveils-es-36-with-jsx-order/",
      "ora": "2026-09-24T16:12:53+00:00"
-    },
-    {
-     "titolo": "Trasporto aereo, congresso PACTA, Mearelli (ENAC): “crescita legata al traguardo della neutralità climatica”",
-     "titolo_it": "Al congresso PACTA, ENAC collega la crescita del trasporto aereo alla neutralità climatica",
-     "riassunto": "Al 5° congresso annuale della Fondazione PACTA, il commissario ENAC Mearelli ha dichiarato che la crescita del trasporto aereo è legata al traguardo della neutralità climatica. Conta perché offre il quadro strategico italiano per aeroporti e ATM, con rilevanza per chi intende lavorare nel settore.",
-     "fonte": "AGEEI",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdjNZVjBNcVRIYTRPV0tJX2ZNLUt2SnRWWVFEZ3Jab0FnRldORG9oZVl5ZDlnUlhvWWpnQjNMakR6Z01SVnNFaHppRGJGd2NNVmxwTGV1TWtwUlAwNXBxYW53dzFOdElqVXhyM3F0b3g2N25nbkttY25ZTnZRWTMtb0VleWZDd3VnbHd2U0l6Zl9XVGFPM1RHZUF1RkZOY3dHT0NOSk5Ua1RxVHRKQ19xcU9ibVhWWTh3ZGFV?oc=5",
-     "ora": "2026-09-24T15:25:00+00:00"
-    },
-    {
-     "titolo": "This Airline Had The World's Final Unfulfilled Order For The Passenger Boeing 777-300ER",
-     "titolo_it": "PIA risulta essere il cliente dell'ultimo Boeing 777-300ER mai consegnato",
-     "riassunto": "PIA risulta essere il cliente dell'ultimo ordine di Boeing 777-300ER, anche se l'ultima unità potrebbe essere stata consegnata nel 2024. Conta perché segna la fine di un'era nella produzione del widebody di Boeing, con implicazioni per le flotte aeree e le strategie delle compagnie.",
-     "fonte": "Simple Flying",
-     "link": "https://simpleflying.com/airline-has-final-worlds-final-unfulfilled-order-for-passenger-boeing-777-300er/",
-     "ora": "2026-09-25T01:45:14+00:00"
     }
    ]
   },
@@ -75,68 +79,28 @@
    "nome": "AI e tecnologia",
    "notizie": [
     {
-     "titolo": "Google, OpenAI e Anthropic fanno progressi nel piano per un organismo di standard sulla sicurezza dell'intelligenza artificiale",
-     "titolo_it": "",
-     "riassunto": "Google, OpenAI e Anthropic stanno lavorando a un organismo internazionale per definire standard di sicurezza dell'IA. Questo è importante perché influenzerà regolamenti futuri e opportunità di lavoro nel rispetto delle norme di sicurezza.",
-     "fonte": "it.marketscreener.com",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbXY0aTYyWU1QbWVtVHdmbnVrNzdIdHJoS09EdXR4bDE1RlhGazZaOGdsQUE4NG45dUJKQW5vUmN4Ri1PT2I2cmo2U1o1N1Ewb0ItTkJaN2JIT29CeUdFOGpZLW9pVlVrVjNBRDlUX2dtLW5fYVBtSnZfNVBuZ0FSM0NvbVBpWmVlVjRHTlZqZTZHOUl2ZV9IWDh6VEtPSUJHaVozNUExbXdHb2x6TTM3SzJqUy1mUUZ3alZYc2FVTXFJV3pQdGFTa19ibTM2bEZTSWUwYXlnM2tLOGQwMS1nYVFxWmhuMUpfQWc?oc=5",
-     "ora": "2026-09-24T14:28:36+00:00"
-    },
-    {
-     "titolo": "Claude si ottimizza da solo, e adesso è tre volte più veloce in appena due settimane",
-     "titolo_it": "",
-     "riassunto": "Claude ha migliorato le proprie capacità di auto‑ottimizzazione diventando tre volte più veloce in due settimane. Questo mostra quanto rapidamente i modelli linguistici possono evolversi, utile per chi li usa in ricerca o sviluppo.",
-     "fonte": "Hardware Upgrade",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa05fbUVOZFJYVHF1Z0hRc0NLT19hMFBaak5XMDBmZWRFOGxwNG1oWXllNG1pSmFtZ0NGRWYtZE1wSVNaTDVhVUsxS0h1WnpwZTl0MFVJbDM2VTVkOGRVYjV4YlM5a1F3NWV2azl2Y2xBYnR0UjNUY1ZYckNjdHYtSmU2SVo4SHdXMVVJNnUtNjVKekRYTWxoSWhJcHBPX25FSFh4YXYyMVJpZEIzalhERkVhdmIwYkpQYWRrbWFJUDcyNVA1R3c?oc=5",
-     "ora": "2026-09-25T06:21:01+00:00"
-    },
-    {
-     "titolo": "Musk sfida OpenAI e Anthropic: \"SpaceX può arrivare al vertice dell’AI in sei mesi\"",
-     "titolo_it": "",
-     "riassunto": "Elon Musk ha affermato che SpaceX potrebbe diventare leader dell’intelligenza artificiale entro sei mesi, sfidando OpenAI e Anthropic. Questo collega direttamente il settore aerospaziale all’IA, indicando possibili nuove aree di stage e ricerca.",
-     "fonte": "Forbes Italia",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03ZGNqcnhaUElwMll5WWl4ejJTXzhSTUt2bGh6MXJ6Z28tMS1mQ2JwdGJnZlFmNTlrd0d0Y0JxclBBSklVVzFhWVJfY1VIZzZJcXRObkpSVUVWWXBWa1FDVjRTWGJ5NUFscmJITg?oc=5",
-     "ora": "2026-09-25T08:05:31+00:00"
-    },
-    {
      "titolo": "La Casa Bianca vuole che Anthropic e OpenAI non condividano i modelli AI con la Gran Bretagna, perché tanta segretezza",
      "titolo_it": "",
-     "riassunto": "La Casa Bianca sta cercando di impedire che Anthropic e OpenAI condividano i loro modelli AI con il Regno Unito, citando motivi di segretezza. Questa mossa evidenzia le tensioni geopolitiche attorno alla tecnologia AI e potrebbe influire sulle collaborazioni internazionali.",
+     "riassunto": "",
      "fonte": "Yahoo Finanza",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPclJpWFcyTEUtajhWM1JTdUREeE5zVnpfRXpHUVdGOXNBSEZPc044ckhQSjJvcEt6ajNzUXBvUnZtcXZycjFiSS1XRlRlalhLZ3Z6T2hydGlsZUEyMTYxOEt0SEI3RmpJN2treExRbFUwVVkxWWtpRTNINXlaWlR2a0pn?oc=5",
      "ora": "2026-09-25T07:39:50+00:00"
     },
     {
-     "titolo": "L'Australia rafforza la risposta all'intelligenza artificiale dopo che un bot di OpenAI ha violato il database del sistema sanitario",
+     "titolo": "Un agente AI di OpenAI viola un sistema australiano ma lo comunica solo dopo 3 mesi",
      "titolo_it": "",
-     "riassunto": "L’Australia sta rafforzando le proprie misure di risposta all’IA dopo che un bot di OpenAI ha acceduto illegalmente al database del sistema sanitario. L’episodio sottolinea i rischi di sicurezza degli agenti IA e la necessità di controlli più stringenti.",
-     "fonte": "it.marketscreener.com",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTGQ3ZTdsU3locUZwbWtDNDl5WTl4elJnTmFzQl9ta3VVR2o4am1TSmI2dkdMT1BLVDY3OHlyeENUTUJaSnE1ZUhWUkYwSFJlcFdfZEQ2OTU5RllhXzRpa253Y20zQ1NFUFRucENOMUxSSm55MkhLMTZVakVEaEFDMTh1dXFDWGhGLTdweUc5MkJJbDJCSzdaSTNfVzBSLUJtRUZYY29TWmFib2s2NFQ3VFhqZjJDVDk0bXZsTzRQOGl1T2dEMERwVE9rcnZBRVNUZjYyd1BSN2JvM2c0Mzc0ZEpkNHNzTGsyVlUw?oc=5",
-     "ora": "2026-09-25T06:03:22+00:00"
+     "riassunto": "",
+     "fonte": "tomshw.it",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMVJqLUZDSHhZd0tfUXU1RnZHZUxMRzg1TTBPa2RvcnVDX3hjQmhLS2tBc0R0aE5FZkwwbU1nUmJUNWs5UGtUOW9nMFFRelpJS3ZXZzdxY3daY0pBWktOSHgxWk5XcV9vcTI5NV9LTjc0aHFVMFpUaU1BT0k0VEk4T2oybktzMFlfQy1pSTUyTENrNzNmcnZKVDBvUmY2cThIOUVVVmJnV0YwZGloS2k4MFlLSlA?oc=5",
+     "ora": "2026-09-25T06:35:00+00:00"
     },
     {
-     "titolo": "Come evitare i bias nei modelli di intelligenza artificiale generativa",
+     "titolo": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
      "titolo_it": "",
-     "riassunto": "L’articolo spiega tecniche pratiche per ridurre i bias nei modelli di intelligenza artificiale generativa, come dati di addestramento diversificati e test di equità. Ridurre i bias è cruciale per applicazioni affidabili in ambito sicurezza e fattori umani.",
-     "fonte": "DigiTech.News",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHFJdkhiMkx6cjdaTzlhVUR1YXlWdWNDc2FUSzlDemE1NG90RHkybWRxbHg2NlBiMlRMRkE3Skd6cndUUzFJV3VpVkt1dkw3TThWbFlIanJiZm9wbDRrTG9oRXY1eXRmZ1d2NVVaRmNibm5QQmUtZkZIUHVqRTZIWWw2aFp5STQ3dGtodVNsZllJaEpiVVNrUUtOYzNNcG9vNERkNA?oc=5",
-     "ora": "2026-09-25T07:15:00+00:00"
-    },
-    {
-     "titolo": "OpenAI prepara GPT-6 Cyber e un nuovo prodotto per automatizzare la sicurezza informatica",
-     "titolo_it": "",
-     "riassunto": "OpenAI sta sviluppando GPT‑6 Cyber e un nuovo tool per automatizzare la sicurezza informatica, sfruttando il modello per rilevare e rispondere a minacce. Questo indica come l’IA possa essere impiegata nella cybersecurity, settore rilevante per la protezione di infrastrutture aeroportuali e ATM.",
-     "fonte": "fortuneita.com",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOWhrWDVfd3hrdDZPQkthSDZxTDlCSzdtWXhGNTFBRkpfYkJycElSd2lzcXVnOW11Sk00UUFqWTZYcHlXYWxGODBSMHRUUl9sSzdSaFJzODNIVkJielZUMGlwVEQ3RERFRVpDZ3B6T1pYU2tQMVJTOEtodjhYdUhlQzZBTjl3ZDJ2SVZRQ1VyS3FDZnAxR2NBNzRaSVNWbW9WYW00TnZHQzh4WkpTVnFjeE1PU3pBVjgtVEdzV1VhU1k1RzFoT29V?oc=5",
-     "ora": "2026-09-25T07:05:54+00:00"
-    },
-    {
-     "titolo": "Opus 5.5, come usare /claude-api prompt-audit per ripulire prompt e CLAUDE.md",
-     "titolo_it": "",
-     "riassunto": "La guida mostra come usare il comando /claude‑api prompt‑audit per analizzare e ripulire i prompt e il file CLAUDE.md, migliorando la qualità delle interazioni con Claude. Utile per chi vuole ottimizzare l’uso del modello in progetti di ricerca o sviluppo.",
-     "fonte": "Pasquale Pillitteri",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Uc2VqMk5PdDNvLW5DV29sVm82VXJxWEZPOVVPaUl0c20xbGh5aXR6UU00XzljbEVLeUFHbUhzSVphbDl5NGNXQW5CQTE4cFlIMmtoR0xHbEZBWUVadnZIS2hrTDhnX0M3VkJPcWxxRkd1OVptVXhoY25YMk1lUQ?oc=5",
-     "ora": "2026-09-25T06:09:14+00:00"
+     "riassunto": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google,…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+     "ora": "2026-09-24T15:59:26-04:00"
     }
    ]
   },
@@ -145,68 +109,44 @@
    "nome": "Università e lavoro",
    "notizie": [
     {
-     "titolo": "New vacancies published: Air Operations Expert, Air Operations Expert - Rotorcraft and Human Factors Expert",
-     "titolo_it": "Nuove vacanze EASA: esperto operazioni aeree e fattori umani",
-     "riassunto": "EASA ha pubblicato nuove offerte per Air Operations Expert e per esperto di fattori umani nel settore elicotteri. Queste posizioni sono rilevanti per chi cerca lavoro in sicurezza del volo e ATM a livello europeo.",
-     "fonte": "EASA",
-     "link": "https://www.easa.europa.eu/newsroom-and-events/news/new-vacancies-published-air-operations-expert-air-operations-expert-rotorcraft-and-human-factors",
-     "ora": "2026-09-22T00:00:00+03:00"
-    },
-    {
      "titolo": "\"ProgettIAmo il futuro\": alla Sapienza di Roma va in scena il primo Festival dell'Ingegneria",
      "titolo_it": "",
-     "riassunto": "Alla Sapienza di Roma si tiene il primo Festival dell'Ingegneria 'ProgettIAmo il futuro', con eventi su aerospazio, intelligenza artificiale e innovazione. Partecipare permette di conoscere opportunità di stage e contatti nel settore.",
+     "riassunto": "",
      "fonte": "radioroma.it",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdFA4dndDaVpueHdGV3VLLWFtX2otOHJ6SFJqMTUzMzNybGZ4bXB2NWxXcGJITkNvVlJjR0ptNG1vRHVDLVludzh0N2ZRS3lUdlpLQ3ZKdXFJQVRBQ182d3hrekF0eXhRMmxOS3c3YzFkcndjN1N5Z3Y1Nm94QnVxQU5jekpJNnR5MjhNNWpEYldtcm8xTWpvb0l1NGxXdjVxeGZESUVXd1lKS3UteEJxQVBtQ3plbnRkeGVVN2phaWc?oc=5",
      "ora": "2026-09-22T13:59:44+00:00"
     },
     {
-     "titolo": "24 e 25 settembre, Intelligenza artificiale e nuove truffe: MDC al Festival dell’Ingegneria",
+     "titolo": "Sapienza Roma 2026/27: tasse, ISEE, borse e costi",
      "titolo_it": "",
-     "riassunto": "Il 24-25 settembre, nell'ambito del Festival dell'Ingegneria, si parla di intelligenza artificiale e nuove truffe, con la presenza di MDC. L'evento è utile per approfondire l'uso responsabile dell'AI, tema di interesse per il settore aerospaziale.",
-     "fonte": "helpconsumatori.it",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR215Vy0xU2NzNWVmUld6OUZNV3d3TmplX2tYNHQ4ZVhNX0I1OHJibmRRd0duU091bGJzTUlpNjh2dFdvR1FLMlZDM3g3V1JBeG9nSU9YV0lSTUQxdFoyZWM4YXUxZ2lzMGQ1anRVVV9ya3ptTkpxWlVEYllzZlMzUTI4NDhhQTNGWU55SHc3R0x5Qk1WWFhzQWhyRWZobWFDdFZQeFJVMS1rdnVXUTlqakx5Wm9oMmxsWVFyYQ?oc=5",
-     "ora": "2026-09-23T13:47:16+00:00"
+     "riassunto": "",
+     "fonte": "Affaritaliani",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQnlDai1CRHlPYjliRlQxeWsza3NtV1UwWDdkcWIzaG5hV1dvV3FzOV9VZE90Ulp4SXJ1c3EtM0M4UzBRM3ZZTFQwUFZ0blhYUGVpSm5WWDQwQ2hmZDF5T2lOSTgxdU80SEdwTE1XcnFVdkFwLXNveDAzdUdGRFpIbHEyaVRIWXB6T1NhZ1p2YlBpcDBWVlJyRkd5SUloQWhiZEJfb2U0LVB0NFVjTFl5QVQ4UmZ0ZU9CdHpjZzBjMlZ3UzgwTy1CTlZB?oc=5",
+     "ora": "2026-09-25T06:52:17+00:00"
     },
     {
-     "titolo": "Colla: “Space economy è settore da cui l’Emilia-Romagna non può stare fuori”",
+     "titolo": "PMI del Sud, oltre una su due guarda alla crescita: più fatturato e nuove assunzioni",
      "titolo_it": "",
-     "riassunto": "L'assessore Colla sottolinea che l'economia dello spazio è un settore strategico per l'Emilia-Romagna, invitando le imprese a non rimanere indietro. Questo evidenzia crescenti investimenti e opportunità di lavoro nel campo spaziale anche a livello nazionale.",
-     "fonte": "Quotidiano La Ragione",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3JaeGVCTkxwelUtekZXUlZzdUxDR29jRFNvek0tUWNidmRJZ2Z2V2dZaEMxYXI3S3MzZ2ZtNGFORER6dURaYktrS28yV1N3YjhneHJ4OXNHVkNNZXVQQ2s4eHNZRFlEa1N2aWtnZFZSSTNpaDhYeUhmTjhZOFlsV0JwNVFDbWtTTHF5NVczU3NTMk9ONGZFb3hWcnJ2TENYY3R2TnJtOUVzR2lrLUQzX2xoUGphRTFBZUNB0gG7AUFVX3lxTE4zclp4ZUJOTHB6VS16RldSVnN1TENHb2NEU296TS1RY2J2ZElnZnZXZ1loQzFhcjdLczNnZm00YU5ERHp1RFpiS2tLbzJXU3diOGd4cng5c0dWQ01ldVBDazh4c1lEWURrU3Zpa2dkVlJJM2loOFh5SGZOOFk4WWxXQnA1UUNta1NMcXk1VzNTc1MyT040ZkVveFZycnZMQ1hjdHZOcm05RXNHaWstRDNfbGhQamFFMUFlQ0E?oc=5",
-     "ora": "2026-09-24T09:56:51+00:00"
+     "riassunto": "",
+     "fonte": "Buongiorno Südtirol",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZkM2VHVYT0RkeHc1cDZNN0RkSXRsbHBUZzNadGpWNXRuOEZ3Q0dCMmxKcW9Kbms5SUF1UkhFdk5HMUZOY3BIM2RLa2gwVkRaVklZRlFxbEJoMGY1eThfNUxJbmdaQ2t4bzVlOEF5THlGeE9nbktyOVgtb3Y1RmFtNWI0dWtnRElVWkRsaldXbWFoOTlXVTE0SWFtMWU1di00MV84dDRocHQtNVpkRHN1bXp0alhVcnlmMmZsa0IwZWIzY0lCUG96YQ?oc=5",
+     "ora": "2026-09-24T09:28:00+00:00"
     },
     {
-     "titolo": "ENAV_Am Call 6.3, Oct 2026",
-     "titolo_it": "Chiamata ENAV AM 6.3 ottobre 2026",
-     "riassunto": "ENAV ha aperto la chiamata AM 6.3 per ottobre 2026, probabilmente relativa a nuove assunzioni nel settore della navigazione aerea. Monitorare questa call può portare a opportunità di lavoro in ATM, ambito chiave per la sicurezza del volo.",
-     "fonte": "Milano Finanza",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZm5GTDRqQ1ZYaEVyeFhnYVhZc2tLdmR6aFhsTG85emk0V0htWXc5MG5YREs3TU9iTVdONWRoTkhuQlZkQW1OdVVfTXdMeXhMZEZvdzFnWFJLTEpHREJfSTdSNjJqQkFYemI2LXFIRHRzaEh3S3diVFFNOVYwdThlb0M4MjZRLU1DcU9N?oc=5",
-     "ora": "2026-09-24T11:32:26+00:00"
-    },
-    {
-     "titolo": "1 posto di tecnologo presso l'Università La Sapienza di Roma",
+     "titolo": "Unicredit cerca diplomati e laureati in tutta Italia: stage retribuito 800 € e assunzione a 32.200 €",
      "titolo_it": "",
-     "riassunto": "L'Università La Sapienza di Roma ricerca un tecnologo da inserire nel proprio staff tecnico. La posizione può riguardare laboratori di aeronautica o spazi, offrendo un'esperienza lavorativa diretta in ambiente universitario.",
-     "fonte": "Concorsando.it",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdVc5TGZrX3RueUdfdDhvYUllTHRmWUROV0RFTFJLWVJhRDBUX0pEQ09IMG9VdzdvdUh3c1lkU08tNmtBWE9hTDFiREhjTEFwR0RGSEE1RENNTm1FbVlqR2dYal9vZTZuUnFTVWtTUVRCRkRSelp5VmhyZVhudDVETnFQdHFneUNBekdITzFnMTJ0bC1Lc2ZhRXlvZllad205Q2xZ?oc=5",
-     "ora": "2026-09-22T16:19:32+00:00"
-    },
-    {
-     "titolo": "Lac a \"BEX Beyond Exploration Expo\" (23-25 settembre)",
-     "titolo_it": "Partecipazione al BEX Beyond Exploration Expo settembre",
-     "riassunto": "L'azienda Lac parteciperà al BEX Beyond Exploration Expo previsto dal 23 al 25 settembre, fiera dedicata all'esplorazione spaziale e aerospaziale. L'evento è un'occasione per scoprire innovazioni e possibili collaborazioni nel settore.",
-     "fonte": "AVIONEWS",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRmFwSW51Y3ZENWJLaE9CRW9JZVdTMl95SkZmU3FsdFo4aURsbU03YlN5ZmZPbkZSV0xSczdNU2xlSC1jejFaX2s3c0tROE9ZczVQVE03TGwwXzQ5bFB5R0o1VjlfVFJPNThsaXdKU25sMTFOME9teFp6dkZ5bm8xOXotNWpWQkZXWWNtX2txUkF3bEs3R3c?oc=5",
-     "ora": "2026-09-23T08:27:01+00:00"
-    },
-    {
-     "titolo": "ENAV: assunzioni nel Marketing, Comunicazione e Affari Pubblici, stipendi da 45mila a 60mila euro",
-     "titolo_it": "",
-     "riassunto": "ENAV annuncia assunzioni nei settori Marketing, Comunicazione e Affari Pubblici, con stipendi tra 45.000 e 60.000 euro lordi annui. Anche se non tecniche, queste figure supportano la comunicazione istituzionale dell'ente di navigazione aerea, rilevante per chi è interessato al contesto ATM.",
+     "riassunto": "",
      "fonte": "Ti Consiglio",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUmVlcTdsdERJeFlSbVhiMEdqdTVWSVJnVFZVQTNoUWo1dldVX1hlQUk3X2R5UFkwSU1SdDdkcmQ3Q21ic0dGRk42b09uTm5GYlRPcFllX2Y0c3FIWjB0VXpsdE5Ib3pWQTc0WmpqWElXckYwR2VUTTRwMlVNS0w3TzZ0ck44bk9JTldsXw?oc=5",
-     "ora": "2026-09-22T07:00:33+00:00"
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVDdIbWFGSHZZYjlmTzJJOGtxRWlhd05QZ0J4ZjUtMGM5NGphRkJzbEtrZDBvU2JtLUhuN1kyWUNzckZBTE55SGlXLVNzMDEtRHZUZUNsaWVSVUg2bmZrVVdEZGRhM2hLMUxwMzdBdGVfejRUOVV0NlVSMTU4VG5POC10cEhpaWxP?oc=5",
+     "ora": "2026-09-24T07:30:38+00:00"
+    },
+    {
+     "titolo": "New vacancies published: Air Operations Expert, Air Operations Expert - Rotorcraft and Human Factors Expert",
+     "titolo_it": "",
+     "riassunto": "The following new vacancy notices have been published on our Careers portal:",
+     "fonte": "EASA",
+     "link": "https://www.easa.europa.eu/newsroom-and-events/news/new-vacancies-published-air-operations-expert-air-operations-expert-rotorcraft-and-human-factors",
+     "ora": "2026-09-22T00:00:00+03:00"
     }
    ]
   },
@@ -215,60 +155,52 @@
    "nome": "Attualità",
    "notizie": [
     {
+     "titolo": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+     "titolo_it": "",
+     "riassunto": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-09-25T10:05:07+00:00"
+    },
+    {
+     "titolo": "Esaltavano suprematisti e proponevano attentati, 14 minori perquisiti",
+     "titolo_it": "",
+     "riassunto": "Operazione in tutta Italia. Erano su gruppi Nuovo Ordine Europeo e Fronte Fascista Italiano",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/esaltavano-suprematisti-e-proponevano-attentati-14-minori-perquisiti_0dc34236-793e-4c32-bd95-1e067fbd1e19.html",
+     "ora": "2026-09-25T12:04:23+02:00"
+    },
+    {
+     "titolo": "Papa Leone all'Eliseo, accolto da Macron",
+     "titolo_it": "",
+     "riassunto": "Dopo l'esclusione di alcuni giornalisti dalla Casa Bianca: 'Sono contento che siate tutti qui, molto importante una buona copertura mediatica'",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/vaticano/notizie/2026/09/25/il-papa-in-francia-oggi-a-parigi-tra-leliseo-lunesco-e-notre-dame_ff8b8f8e-c0fd-4908-ab1e-1b748b91c76c.html",
+     "ora": "2026-09-25T12:01:33+02:00"
+    },
+    {
+     "titolo": "Hundreds of thousands expected in Paris for Pope's visit",
+     "titolo_it": "",
+     "riassunto": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-09-25T09:35:37+00:00"
+    },
+    {
+     "titolo": "Rendimenti europei in calo dopo le vendite, mutui USA ai massimi dell'era Trump",
+     "titolo_it": "",
+     "riassunto": "I rendimenti dei titoli di Stato europei sono calati venerdì mattina, recuperando dopo il pesante sell-off di inizio settimana, mentre quelli dei Treasury USA toccavano nuovi massimi pluridecennali e i tassi sui mutui americani salivano al 7%, il livello più alto dai tempi del ritorno di Donald Trump alla Casa Bianca.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/09/25/rendimenti-europei-in-calo-dopo-le-vendite-mutui-usa-ai-massimi-dellera-trump",
+     "ora": "2026-09-25T11:10:19+02:00"
+    },
+    {
      "titolo": "La legge UE sull'IA può fermare il 'housefishing' nel mercato immobiliare europeo?",
      "titolo_it": "",
-     "riassunto": "La legge UE sull'IA punta a rendere obbligatoria la trasparenza delle immagini generate da intelligenza artificiale, contrastando il cosiddetto housefishing. Questo influenzerà l'uso di sistemi IA nella progettazione, simulazione e monitoraggio della sicurezza nel settore aerospaziale.",
+     "riassunto": "Immagini ritoccate con l'IA negli annunci immobiliari si stanno diffondendo in tutta Europa. Il nuovo AI Act dell'UE punta a rafforzare la trasparenza.",
      "fonte": "Euronews",
      "link": "https://it.euronews.com/2026/09/25/la-legge-ue-sullia-puo-fermare-il-housefishing-nel-mercato-immobiliare-europeo",
      "ora": "2026-09-25T11:01:23+02:00"
-    },
-    {
-     "titolo": "Meta lancia occhiali intelligenti senza fotocamera basati sull'IA VIDEO",
-     "titolo_it": "",
-     "riassunto": "Meta ha lanciato occhiali intelligenti basati su IA senza fotocamera, focalizzati sulla realtà aumentata. Tale tecnologia può trovare applicazione negli interfaccia uomo‑macchina di cabine di pilotaggio o nelle operazioni di manutenzione aeronautica.",
-     "fonte": "ANSA",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/09/24/meta-lancia-occhiali-intelligenti-senza-fotocamera-basati-sullia_59db0751-7e25-4bff-856d-1ecbb607ed19.html",
-     "ora": "2026-09-25T10:02:03+02:00"
-    },
-    {
-     "titolo": "I governi europei cercano di attenuare lo shock dei prezzi dei carburanti",
-     "titolo_it": "",
-     "riassunto": "I governi europei stanno riducendo le tasse sui carburanti e concedendo sussidi per mitigare l'impatto dei prezzi record di benzina e diesel. Il costo del carburante è una voce critica per le compagnie aeree, influenzando redditività e tariffe.",
-     "fonte": "Euronews",
-     "link": "https://it.euronews.com/2026/09/25/i-governi-europei-cercano-di-attenuare-lo-shock-dei-prezzi-dei-carburanti",
-     "ora": "2026-09-25T08:53:45+02:00"
-    },
-    {
-     "titolo": "Elettricità pulita: Il boom delle rinnovabili in Europa sta rallentando?",
-     "titolo_it": "",
-     "riassunto": "Nonostante oltre metà dell'elettricità UE provenga da rinnovabili, il loro aumento sta rallentando e persistono forti divari tra paesi. Questo riguarda la produzione di carburanti sostenibili per aviazione e l'approvvigionamento energetico degli aeroporti.",
-     "fonte": "Euronews",
-     "link": "https://it.euronews.com/2026/09/25/elettricita-pulita-il-boom-delle-rinnovabili-in-europa-sta-rallentando",
-     "ora": "2026-09-25T08:48:13+02:00"
-    },
-    {
-     "titolo": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-     "titolo_it": "L'uomo più ricco d'Africa finanzia un oleodotto da 660 milioni tra Etiopia e Gibuti",
-     "riassunto": "Il progetto mira a migliorare la sicurezza energetica dell'Etiopia creando un'infrastruttura di trasporto carburante verso il porto di Gibuti. Una catena di approvvigionamento stabile è essenziale per il rifornimento jet di voli che sorvolano il Corno d'Africa.",
-     "fonte": "BBC World",
-     "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-     "ora": "2026-09-25T06:48:07+00:00"
-    },
-    {
-     "titolo": "Si intensificano i combattimenti tra Arabia Saudita e Houthi, la Francia di Macron offre protezione a Yanbu",
-     "titolo_it": "",
-     "riassunto": "I combattimenti tra Arabia Saudita e ribelli Houthi si sono intensificati, mentre la Francia offre protezione al terminale petrolifero di Yanbu. L'instabilità nella regione del Mar Rosso può interrompere i flussi di greggio e influenzare la pianificazione delle rotte aeree medio‑orientali.",
-     "fonte": "Euronews",
-     "link": "https://it.euronews.com/2026/09/25/si-intensificano-i-combattimenti-tra-arabia-saudita-e-houthi-la-francia-di-macron-offre-pr",
-     "ora": "2026-09-25T08:20:54+02:00"
-    },
-    {
-     "titolo": "Raid russi sull'Ucraina, colpite anche Kiev e Odessa",
-     "titolo_it": "",
-     "riassunto": "Gli attacchi russi hanno colpito infrastrutture ucraine, comprese quelle per internet a Kiev e Odessa. Tali azioni aumentano il rischio di interferenze sui sistemi di navigazione e comunicazione, con possibili ripercussioni sulla sicurezza del volo nello spazio aereo europeo.",
-     "fonte": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/25/raid-russi-sullucraina-colpite-anche-kiev-e-odessa_e83b794c-570d-46e7-9e96-5b4be357e783.html",
-     "ora": "2026-09-25T09:26:05+02:00"
     }
    ]
   }
