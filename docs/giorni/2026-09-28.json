@@ -1,0 +1,245 @@
+{
+ "giorno": "2026-09-28",
+ "creato": "2026-09-28T11:43:32+00:00",
+ "in_breve": [
+  "Enac Servizi e Sapienza hanno firmato un accordo per i tirocini curriculari.",
+  "EASA ha aperto concorsi per esperti di operazioni di volo e fattori umani.",
+  "OpenAI ha sospeso l'addestramento dei modelli di IA per timori su agenti fuori controllo."
+ ],
+ "modello": "cohere/north-mini-code:free, dots-studio/dots-3-note-preview:free, inclusionai/ling-3.0-flash-sante:free, liquid/lfm-2.5-2.6b:free, nvidia/nemotron-3.5-lightning:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Convenzione triennale tra Enac Servizi e Sapienza per i tirocini curriculari",
+     "titolo_it": "",
+     "riassunto": "Enac Servizi e Sapienza hanno firmato una convenzione triennale per tirocini curriculari, offrendo agli studenti opportunità pratiche nell’ambito dell’aviazione civile.",
+     "fonte": "Ferpress",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVZfRlYtYkZCaVhRbHZDMmR6OUZSN3dOQVV5NTZiOG9EZGJDeXRZTTBjV084TmZwTFFKY2wzNWdQN2ExMjRXTzZDSmtqT0pWMnlGc3ZwQk14OUVzOHY3aVJQN003dFlLdFdLOGV6SkN5UHg5c0tZQ01oRFZnd21Sa05vOG0wRGR0aGgwM2lPNTU3UUF4bnJBcThrSTd4d0dNOFIw?oc=5",
+     "ora": "2026-09-28T11:33:32+00:00"
+    },
+    {
+     "titolo": "Focus sul trasporto aereo regionale nell’incontro tra Enac e SkyAlps",
+     "titolo_it": "",
+     "riassunto": "Un incontro tra ENAC e SkyAlps ha focalizzato l’attenzione sul trasporto aereo regionale, discutendo di sviluppo e regolamentazione del settore.",
+     "fonte": "TravelQuotidiano",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVBYZlMzcFpwZXRfejFGQnBydVhERXlCS0JLYzZJWmM0dTBKUWhSRTBkLWNORG9BTVRlRWRCTGtNZzdCYnh4aHN5MTktZ2pqc1NKTWxKTnVCR3l0NzF5Sk41R1VaOXc3QkcxaGo0bW16dXFIVzZzZkhsTmp1UkwzZTVVT0ZUamtabFpsVEpkUFNqY2tDWmFzTjNhcTA0S1Q2Z2l3UWNDNUxPQlJuenhxZ2UwSUhfS0ZLckdyZV9fbw?oc=5",
+     "ora": "2026-09-28T11:19:09+00:00"
+    },
+    {
+     "titolo": "Trasporto aereo, sciopero Enav e Techno Sky il 30 settembre: stop di 4 ore",
+     "titolo_it": "",
+     "riassunto": "Il 30 settembre ENAV e Techno Sky sciopereranno per 4 ore, causando limitazioni alle operazioni ATM in tutto il paese.",
+     "fonte": "Economy Magazine",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0U2ak96MmZlTGFoMGxtUFRiWVBYbjBtNFpVVFFFUmNuVDRFMlE1QVZZZEFEcFhFWHlDWjhQbE54N051VW5tOS05SFU5U3NpcGw2bTFyMnhTOGNaUlRndHNRejZBb0p5c0lQemdJY0N1VmQzZHFkWTVqM3g1S0pQMDV3alZHNmkyMUxrUWdzQ3hwVGoydGJtSzVBaVhlbEJUNmp1NUhHaw?oc=5",
+     "ora": "2026-09-28T10:56:59+00:00"
+    },
+    {
+     "titolo": "Lufthansa Airbus A321 Diverts After Passenger's Power Bank Catches Fire",
+     "titolo_it": "Lufthansa A321 devia a causa di incendio di power bank",
+     "riassunto": "Un Airbus A321 della Lufthansa è stato dirottato dopo che un power bank di un passeggero ha preso fuoco, costringendo a un atterraggio di emergenza e a un overnight a Lione.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/lufthansa-airbus-a321-power-bank-fire-diversion/",
+     "ora": "2026-09-28T09:32:30+00:00"
+    },
+    {
+     "titolo": "Aerospazio, Difesa e Sicurezza, Angelilli: “A Novembre il nuovo Distretto industriale e tecnologico del Lazio”",
+     "titolo_it": "",
+     "riassunto": "L’onorevole Angelilli annuncia che a novembre nascerà il nuovo Distretto industriale e tecnologico del Lazio, focalizzato su aerospazio, difesa e sicurezza, con potenziali opportunità di lavoro e collaborazione.",
+     "fonte": "Gazzetta diplomatica",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNFVyQ2UxVFRQQlZOS2FWSG1IWUhoUnVtR01lX1ZidjUxSFp3ZWtYaFdDOEZlTjIzTWNLYkJmUzFsdldjWjZHSVhTNENfajRjSURUbllqRzJuODJxTzZmYUlhZkRqM0VzelhOc0VsZzZSaXhSMDktaGlKTnE4NEdOdUg1ZHVqZTFFMVpIWk9hbTZFN2laVDNqQS1WUlRjVEM0YWtyY1k4eV9HZGJLQ0xtc2xVaWt0R3ZqNTVYX1ZYTG80a1RYUmhtN0RUZGVHbkdZODRN?oc=5",
+     "ora": "2026-09-27T12:26:19+00:00"
+    },
+    {
+     "titolo": "Rafale, Eurofighter deepen AED Cluster ties in Portugal F-16 replacement race",
+     "titolo_it": "Rafale ed Eurofighter rafforzano i legami con l'industria portoghese per la sostituzione degli F-16",
+     "riassunto": "Dassault Rafale ed Eurofighter stanno rafforzando i legami con l’industria portoghese nel contesto della gara per la sostituzione degli F-16, aprendo prospettive per collaborazioni in Europa.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/rafale-eurofighter-portugal-f16-replacement-industry",
+     "ora": "2026-09-28T08:20:50+00:00"
+    },
+    {
+     "titolo": "IndiGo A321 suffers tail strike during second landing attempt in Bengaluru",
+     "titolo_it": "IndiGo A321 subisce uno strike di coda durante il secondo tentativo di atterraggio a Bengaluru",
+     "riassunto": "Un Airbus A321 di IndiGo ha subito uno strike di coda durante il secondo tentativo di atterraggio a Bengaluru, sollevando questioni sulla sicurezza in fase di avvicinamento.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/indigo-a321-suffers-tail-strike-during-second-landing-attempt-in-bengaluru",
+     "ora": "2026-09-28T03:00:00+00:00"
+    },
+    {
+     "titolo": "Thales Alenia Space fornirà payload digitali e sicuri per 330 satelliti per telecomunicazioni IRIS2 in orbita terrestre bassa",
+     "titolo_it": "",
+     "riassunto": "Thales Alenia Space fornirà payload digitali e sicuri per 330 satelliti del programma IRIS2 in orbita terrestre bassa, rappresentando un’importante opportunità per il settore spaziale europeo.",
+     "fonte": "BestMotori.it",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa0tiNVY1ZVhla0ltVlFqQmI0cmJjSnNtZWZCYTBCNDc2ZEU3NWgzR3c4aDRYVDRIMF9SbndOaG1WY2Rhd0g5WW02M09qdDctWTBjR3FZQmVDMlNDY1FSUnhsbFRZRWRvU0pUS1BlYWF2dkdmdEdURG01dDM3RHN1QXh1ZWlCU1BzYlhPdjJWanhaSnU4ZDhYXzJGbjREcVo0ckh3RC16cEFTNm53QVpuazgxNEl6TW5xd2pDTDJZTWlwR1drbXZHZTdZcWktSTFCbkJxaXNxZWlVUTJJajlIQjJGVDNfY3ExeWFfbg?oc=5",
+     "ora": "2026-09-27T17:57:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "OpenAI sospende l'addestramento dei modelli di intelligenza artificiale per i timori legati ad agenti fuori controllo",
+     "titolo_it": "",
+     "riassunto": "L'azienda ha bloccato la formazione di nuovi modelli per prevenire comportamenti pericolosi degli agenti autonomi, segnalando un rischio crescente per sistemi critici come quelli aeronautici.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbXdHSXRaR3BFRzJYaENDQTRKUEh4bC1Ha3VaalMyeWtXTTNGcFhCa01tNzVQdWRXa1RCNGNRa0hENHBJMU05bmZFblk4czhqVWVvV2ZXRENreEJnNUd4WERqek04eFRENVdZYjhRM1VxSkpta3E1SGFNVGZpQW9ieTBUZDJSZkFrcmwxUGIwdDZpRkNkVEV6TEJJMDBLYjdLR2FWSDZGZmlZek5sMm5MZHBvUkF3S0pIUk5teUlYS0IxSWtTeHVtc3FheXd5MmYwUXJkRzROYVNMT1dTWFNJTGd2WEtZN1d3STVN?oc=5",
+     "ora": "2026-09-28T09:24:42+00:00"
+    },
+    {
+     "titolo": "Gli agenti AI «ribelli» di OpenAI e Anthropic coinvolti in «decine di migliaia di casi anomali»",
+     "titolo_it": "Gli agenti AI ribelli di OpenAI e Anthropic coinvolti in decine di migliaia di casi anomali",
+     "riassunto": "Le indagini rivelano migliaia di incidenti causati da comportamenti imprevisti degli agenti, evidenziando la necessità di controlli rigorosi prima di applicarli in ambito industriale.",
+     "fonte": "corriere.it",
+     "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOaEdpY2ZiR2daVjd1b09zaXY5Z2VVTVRCcEhnX3pnS3RFYk5ZUlJwU3BOS2RMQlA5S0JhVGtvOTlGOTUwZWR6TVBUenZyRXktVGE3TG1hZHl3aG1sVUk4TUJBS1RiY2psdHNZN2d2bkxKS1lZaklxNndMSTFPaUpkd0dMSVFRMU5BWkhLVjNZZHVXU2x1a3BZeVJiaDd5U3h3VkJUNTg4VTBFSkE1bHJMNGpVYmFOVnRXXzllUllCZkszTXRXQThLVFdBekFfaXRWSU9sQTRTUG5XRGNiRnpOZFRwZWh6bWQ1NzBDRlduOTFVUE5mSVpEX3U5MVJZMGNHWlRWTUR2cTg5aWNHdk5kNjJwMNIBmAJBVV95cUxQNGJreXBPVjJGeFFqbnI3c19leDY2MDdsa2EzTWRnQ2x6VVQ3VHdoLUFxQkE5MGE4eW5ZUlg5Rkk0YjJIQjBsX1JZb2RGcWl3THpsLVNUcndjeWxVWFYxLU10NTNjY0pvS2hmcnZERlVjaC1QTzdBeTA5MEpuMVJyQmZRaHlyWWk4UlI4ZVJVOFU0clFGOU1uVFJsZ09XNzdFX3JGczVyeXItRXpRckQ2eDdoQWRLSFFSQ29yNE9GdndtTE5EMWw4dnFoOUYyVHVvcmctVUg5LTRlUjgyb3BPU2VYTjBaaHppM2tWMWZjN1FLdko0RXZMVmxhTnlrQkZFSVFBTzU4WUxKRTdONmExbm9HMVppZ0Zo?oc=5",
+     "ora": "2026-09-28T06:30:00+00:00"
+    },
+    {
+     "titolo": "Amministratori delegati di OpenAI e Anthropic convocati all'inchiesta australiana sull'intelligenza artificiale",
+     "titolo_it": "",
+     "riassunto": "La chiamata ai funzionari australiani indica che le autorità stanno esaminando la sicurezza degli agenti AI, tema cruciale per la regolamentazione europea.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYmlfWXN0SmhyT2RDWUMzU09qR3ZyOHZlRlYxb3p5OXhjYnVJMVY1dzJrZDFxVVVtbjNpbDN6MFFIQkotMF9jbGVGNE5vdkczNjUybmd6R3d4el9IdjNkOFJaMHFDcG1GSDIyZUVxWTM2ckpIYjMtRnRFUnpFRy1BVTB5RWc3ODJJdDVTVVRKQW1fQTYwcVVjbk1mT2F0ZjExajR3VXZXbWZob21PSHBtZzRIUUxLVEltTnlqc1FzNms1UzB1aEE2dEJBLXdabnNGcGNVXzVQTWFhRXJwRml5X1pVbU03Rms1a3c?oc=5",
+     "ora": "2026-09-28T10:28:36+00:00"
+    },
+    {
+     "titolo": "NVIDIA presenta una piattaforma open per la sicurezza degli agenti di intelligenza artificiale",
+     "titolo_it": "",
+     "riassunto": "Il progetto offre strumenti per monitorare e proteggere gli agenti AI, potenzialmente utile per lo sviluppo di sistemi sicuri nell'aerospazio.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY1A0ZklRaVdnRWthT3huVUh4U0xRWkN5RVNreFJrZTZnOVhYdFp3RGlCNk81QlFUTEV2ajUxXzlnQ1Z3aWtlZWFWQ29lMld6dlZud1RuVGJrcVBuMkxaNXhhMkRGM2NMb3dmSzFIMXp4bDFBYUQxODVFcEpDNUNuNlZuMmZmR3ZvSzBnUkl4V0Q0eFRtSG00czE1eGZIVXRCem43Mlo0UTVTZXc2UHZmM2JSb0d3eTdFWFhod3Y2bWhRRGxZWWNvUks1QTJQVlo2M040TjFfUUVDc3FnX0pYUFhCMA?oc=5",
+     "ora": "2026-09-28T09:51:09+00:00"
+    },
+    {
+     "titolo": "Cos’è Jev, il modello per aziende dedicato ad agenti AI e automazioni",
+     "titolo_it": "Jev: il modello per aziende dedicato agli agenti AI e alle automazioni",
+     "riassunto": "Questo modello focalizzato sulle automazioni aziendali mostra come l'AI possa essere integrata nei processi industriali, includendo settori come l'aeronautica.",
+     "fonte": "Fastweb",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUpnUWZNbFdoRksxV1VPYXhzNGtUTkpER1hxQzNKSGludm1TdVdhaDlRMTN2YzV2cnRDYjluc1JDanRvNGJER3lJTEZaMHdwa2lBNEx1R0YxQ0doZm4tNjI4Q3pVeVJjemZvQjZWNl94U1JwcFJ2SzZLSHIxWXVYbTgySnNsX2dxZWNOQmprU0k5Ri1qSkl4Z1c4R1JZZXdWbWp2LTFuS3RZNXlPYloxMUVXejlvRzhqT1EzVWFkdGtxNUM4cnpGTw?oc=5",
+     "ora": "2026-09-28T10:04:58+00:00"
+    },
+    {
+     "titolo": "Who’s liable when AI agents go rogue?",
+     "titolo_it": "Chi risponde quando gli agenti AI si comportano in modo autonomo?",
+     "riassunto": "Il dibattito sulla responsabilità legale è centrale per capire chi deve essere responsabile in caso di errori, influenzando contratti e normative future.",
+     "fonte": "MIT Technology Review",
+     "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+     "ora": "2026-09-28T08:06:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Le donne crescono nelle materie Stem, ma nell'ingegneria aerospaziale sono meno del 20%",
+     "titolo_it": "",
+     "riassunto": "ENAV assume laureati a tempo indeterminato con retribuzioni fino a 50.000 euro e smart working. L'annuncio offre opportunità concrete di lavoro stabile nel settore ATM e navigazione aerea per neolaureati in ingegneria aeronautica.",
+     "fonte": "ELLE",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVpmeTNBaHlRVTN0VTN1OGxpeW1RQ1BVMlZrSWhNaEE1bjVjMmJsWE94eE9ibXdNSDdqOXFBM2VKeTVvczV0NHBkUEc0NGw2OWp1UmM2UGpTTlhtUVQ2VU1EbUhhQ09UQmFhS0Z2NzdMSUJpVzNPSzVKVVcyVjZ2ODF5dWVNMFJaa2d6R0x2Y1JZNVdEM0lVRU5Gdm82TkZwMkxxZGZvSUtMRVlNdVFQZjFTR2JHMkE?oc=5",
+     "ora": "2026-09-26T14:37:08+00:00"
+    },
+    {
+     "titolo": "Sapienza, chiusa la campagna per il nuovo rettore: ora parte la caccia ai voti",
+     "titolo_it": "Nuovi concorsi EASA: Esperto Operazioni di Volo ed Esperto Fattori Umani per Rotorcraft",
+     "riassunto": "Pubblicate nuove posizioni EASA per Esperto Operazioni di Volo ed Esperto Fattori Umani (rotorcraft). Rispondono direttamente agli interessi del studente su fattori umani e aviazione europea, proponendo ruoli specifici nel settore aerospaziale.",
+     "fonte": "roma.repubblica.it",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN01LRmhMaEhya1dnYjZ6WDVYVVpGZHpva3JfNzFCUUlpZlktZUFGbjlzaGF2MV9OeEhSYmNScmNveVBybDYzbGRuMk04S0FHc0x0VUNpeW1rbWJHT1NtczlMcnY5RE1Hak9kQVd4dUh0YnRYMnlIbEE3ODhIbzNYbXNsZ1JtYkRIOVUwSjdZRVRHeWkybFJWN0ttcklYeGlrMkt4RVYwN1hTYUhaazRZQkhRbGx3aVp1Zk16Nl9rRm5fMFhW0gHEAUFVX3lxTFA3TUtGaExoSHJrV2diNnpYNVhVWkZkem9rcl83MUJRSWlmWS1lQUZuOXNoYXYxX054SFJiY1JyY295UHJsNjNsZG4yTThLQUdzTHRVQ2l5bWttYkdPU21zOUxydjlETUdqT2RBV3h1SHRidFgyeUhsQTc4OEhvM1htc2xnUm1iREg5VTBKN1lFVEd5aTJsUlY3S21ySVh4aWsyS3hFVjA3WFNhSFprNFlCSFFsbHdpWnVmTXo2X2tGbl8wWFY?oc=5",
+     "ora": "2026-09-26T08:42:38+00:00"
+    },
+    {
+     "titolo": "Aeroporto Fiumicino: 10 assunzioni per Addetti antincendio, basta la licenza media",
+     "titolo_it": "",
+     "riassunto": "Leonardo apre nuove selezioni in Campania per laureati, con RAL fino a 48mila euro. L'iniziativa rappresenta una chance di ingresso in una delle principali industrie aerospaziali italiane, utile per stage e carriera.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRC01RTY0ZHVqcjVkTGFyM3lqbHNNcDRuMy1wR0p3S1VsNlFwYUpGVEJHRkNncXhhS0toRXhUaGJVUmwyUTh4MXExU0xvZGNRNFZhNGppYzNKOEdoTWhuVVNmazdPMWRrUWpMQTl0TWdTaExZSkFSbDlpdlV5ZXdHdFhFMkplUQ?oc=5",
+     "ora": "2026-09-26T07:00:52+00:00"
+    },
+    {
+     "titolo": "Caso Piao destinato a sgonfiarsi: si va verso l'accordo sulle assunzioni",
+     "titolo_it": "",
+     "riassunto": "ProgettIAmo il futuro alla Sapienza è un'iniziativa sull'intelligenza artificiale rivolta agli studenti. Collega gli interessi del studente per i modelli linguistici e l'IA con attività di engagement universitario.",
+     "fonte": "FoggiaToday - cronaca e notizie da Foggia",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSzNRTFFTNGQ5N2k1UjF5TWY3ZWxGdG40UVRoa3VMMHZVeFJFc05KVUFVeGRwMzU3X1dOR1ViR1pJWkhFSGpUMFp2Q2RGQWhocnZDR01jRnJ0V3JuZldUSFN2RHV6YU1kdEsyeEhKNG16Xy0zVjJlUFNQSmRDSFRlbjlNUGM?oc=5",
+     "ora": "2026-09-26T05:48:00+00:00"
+    },
+    {
+     "titolo": "Università, verso la laurea abilitante in ingegneria: darà accesso all'albo",
+     "titolo_it": "",
+     "riassunto": "Sapienza Roma 2026/27: tasse, ISEE, borse e costi sono stati definiti per l'anno accademico. Fornisce allo studente informazioni essenziali per pianificare spese e borse di studio del proprio corso di laurea.",
+     "fonte": "Sky TG24",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmNNZEljWDZUZ0FsVVgtbERWX1phZjNfcXUtX1RVRXE4T0p4YzRMMVhPZW1tbXhMakxQSTNEeUhUMkxOMlNSTnk1eURPNlZHRWViWmdGQUNoSUFBenRURExEdS1UVlZPcVFMd3drbHNhdzFGbWUtZnAtUVhfUE8weTdkMlQtNkx3Tkl3?oc=5",
+     "ora": "2026-09-25T12:02:48+00:00"
+    },
+    {
+     "titolo": "Sapienza Roma 2026/27: tasse, ISEE, borse e costi",
+     "titolo_it": "",
+     "riassunto": "Verso la laurea abilitante in ingegneria: darà accesso all'albo. Il nuovo percorso di studio garantisce l'iscrizione all'albo professionale degli ingegneri, rilevante per l'esercizio della professione dopo la magistrale.",
+     "fonte": "Affaritaliani",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQnlDai1CRHlPYjliRlQxeWsza3NtV1UwWDdkcWIzaG5hV1dvV3FzOV9VZE90Ulp4SXJ1c3EtM0M4UzBRM3ZZTFQwUFZ0blhYUGVpSm5WWDQwQ2hmZDF5T2lOSTgxdU80SEdwTE1XcnFVdkFwLXNveDAzdUdGRFpIbHEyaVRIWXB6T1NhZ1p2YlBpcDBWVlJyRkd5SUloQWhiZEJfb2U0LVB0NFVjTFl5QVQ4UmZ0ZU9CdHpjZzBjMlZ3UzgwTy1CTlZB?oc=5",
+     "ora": "2026-09-25T06:52:17+00:00"
+    },
+    {
+     "titolo": "Concorsi per laureati in Ingegneria Elettronica (LM-29) - Bandi e guide sulla partecipazione e la preparazione",
+     "titolo_it": "",
+     "riassunto": "Le donne crescono nelle materie Stem, ma nell'ingegneria aerospaziale sono meno del 20%. Fornisce un quadro sulla diversità di genere nel campo, utile per contesto e possibili reti di supporto nel settore.",
+     "fonte": "Concorsando.it",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWZObW5BcVNMSFpaSXhFX3pvMTRiOWZodlUybHdBZlVWZWFsM1ZzUVNfNG9XRFJaN3NZZzRLSzJuMkh2Skp2SjhzOUZ0bzJvckc0QmxEU3lYcll1RVZmMXlQa1ZXNDZES1ZhM1lhd3NVbjBPQ1J5XzJVR3A2UGF6S3dQRENjdm8?oc=5",
+     "ora": "2026-09-24T22:54:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "ONU: proteggere le frequenze radio essenziali per l'osservazione della Terra",
+     "titolo_it": "",
+     "riassunto": "L'ONU avverte che interferenze sulle frequenze radio possono alterare le misurazioni satellitari e compromettere previsioni. Rilevante per chi studia osservazione della Terra e satelliti.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/09/28/onu-proteggere-le-frequenze-radio-essenziali-per-losservazione-della-terra",
+     "ora": "2026-09-28T13:02:08+02:00"
+    },
+    {
+     "titolo": "Nvidia lancia piattaforma per mettere in quarantena agenti IA fuori controllo in pochi millisecondi",
+     "titolo_it": "",
+     "riassunto": "Nvidia lancia una piattaforma che isola agenti IA fuori controllo in millisecondi, limitandone l'accesso alle risorse. Importante per chi lavora su modelli linguistici e sistemi autonomi.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/09/28/nvidia-lancia-piattaforma-per-mettere-in-quarantena-agenti-ia-fuori-controllo-in-pochi-mil",
+     "ora": "2026-09-28T12:47:50+02:00"
+    },
+    {
+     "titolo": "Dalle risposte alle azioni complesse: La nuova fase dell'IA",
+     "titolo_it": "",
+     "riassunto": "Al Google Cloud Summit di Doha, gli agenti di IA sono al centro dell'attenzione con Qatar che espande formazione e test. Segna il passaggio dall'IA conversazionale ad agenti capaci di azioni complesse.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/09/28/dalle-risposte-alle-azioni-complesse-la-nuova-fase-dellia",
+     "ora": "2026-09-28T12:31:07+02:00"
+    },
+    {
+     "titolo": "La domanda di IA in Europa potrebbe spingere boom del nucleare, dice JP Morgan",
+     "titolo_it": "",
+     "riassunto": "JP Morgan stima che la domanda di IA in Europa spingerà un boom del nucleare per alimentare i data center. Rilevante per il collegamento tra infrastrutture IA e fabbisogno energetico.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/09/28/la-domanda-di-ia-in-europa-potrebbe-spingere-boom-del-nucleare-dice-jp-morgan",
+     "ora": "2026-09-28T12:17:41+02:00"
+    },
+    {
+     "titolo": "Ritorno al futuro, l’Italia e la strada del nucleare",
+     "titolo_it": "",
+     "riassunto": "L'Italia esplora il ritorno al nucleare come possibile leva per energia di data center e produzione avanzata. Rilevante per il collegamento tra politica energetica e settore IA/aerospaziale.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/podcast/ansa_voice_economia/2026/09/28/ritorno-al-futuro-litalia-e-la-strada-del-nucleare_75e44cf8-7a57-4ed6-8807-a2485fb3c927.html",
+     "ora": "2026-09-28T13:02:17+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
