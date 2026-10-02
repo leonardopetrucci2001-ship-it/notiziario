@@ -1,0 +1,269 @@
+{
+ "giorno": "2026-10-02",
+ "creato": "2026-10-02T11:07:59+00:00",
+ "in_breve": [
+  "Enac e Sapienza hanno siglato un accordo per attivare tirocini curriculari per gli studenti di ingegneria aeronautica.",
+  "Alla Sapienza si terrà il primo Festival dell’Ingegneria dedicato all’impatto dell’intelligenza artificiale sul futuro.",
+  "L’ESA parteciperà al 77° Congresso Internazionale di Astronautica presentando le ultime novità sulle missioni spaziali."
+ ],
+ "modello": "nvidia/nemotron-3-super-120b-a12b:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Beyond the airlock - Sophie Adenot's three spacewalks",
+     "titolo_it": "Oltre il portello - le tre passeggiate nello spazio di Sophie Adenot",
+     "riassunto": "L'astronoma ESA Sophie Adenot ha completato tre passeggiate nello spazio in meno di due settimane, dimostrando capacità operative avanzate. Questo evidenzia l'importanza dell'addestramento umano per le future missioni spaziali.",
+     "fonte": "ESA",
+     "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Beyond_the_airlock_-_Sophie_Adenot_s_three_spacewalks",
+     "ora": "2026-10-02T12:00:00+02:00"
+    },
+    {
+     "titolo": "Juice’s September 2026 Earth flyby: the movie",
+     "titolo_it": "Il flyby terrestre di Juice settembre 2026: il video",
+     "riassunto": "Il video mostra il flyby della sonda Juice attorno alla Terra nel settembre 2026, manovra cruciale per la sua rotta verso Giove. L'evento offre spunti sulle tecniche di navigazione interplanetaria.",
+     "fonte": "ESA",
+     "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Juice_s_September_2026_Earth_flyby_the_movie",
+     "ora": "2026-10-01T17:00:00+02:00"
+    },
+    {
+     "titolo": "ESA at the 77th International Astronautical Congress",
+     "titolo_it": "ESA al 77° Congresso Internazionale di Astronautica",
+     "riassunto": "L'ESA parteciperà al 77° Congresso Internazionale di Astronautica che si terrà ad ottobre, presentando progetti e opportunità di collaborazione. È un'occasione per studenti e professionisti di conoscere le ultime novità del settore spaziale.",
+     "fonte": "ESA",
+     "link": "https://www.esa.int/About_Us/Corporate_news/ESA_at_the_77th_International_Astronautical_Congress",
+     "ora": "2026-10-01T16:20:00+02:00"
+    },
+    {
+     "titolo": "Enac, primo CdA presieduto dal commissario straordinario Mearelli",
+     "titolo_it": "",
+     "riassunto": "Il commissario straordinario Mearelli ha presieduto il primo Consiglio di Amministrazione di ENAC, segnando un nuovo passo nella governance dell'autorità italiana dell'aviazione civile. Questo influisce sulle normative aeroportuali e sui servizi di navigazione aerea.",
+     "fonte": "Travelnostop",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeEt4b1g0a0J1SExvY05sVXd6WlFPaG5xNzdVVG1haWtpVE5TOGNzbDNHWXJDajlXQm9nREJzQm9iZzNmcTZ4aXh3QXFPTmVBUGxkMUhLQy1GOHg5YUdUZF9HdmdvTXAyZnZubmE1QjZadURsZ25rVW42bFByVmJZc09zRnhCUloyWG9ZMS1pdE5VVFVKRWdSMHFLMGZra1hBN2NKTUhRZ213MDJ5WlE?oc=5",
+     "ora": "2026-10-02T09:40:00+00:00"
+    },
+    {
+     "titolo": "Enac – Istituita la Consulta sul cargo aereo",
+     "titolo_it": "",
+     "riassunto": "ENAC ha istituito la nuova Consulta sul cargo aereo, organismo che coordinerà le politiche e le iniziative per il trasporto merci per via aerea. La consulta punta a migliorare l'efficienza e la sicurezza del settore cargo negli aeroporti italiani.",
+     "fonte": "hangaritaly.it",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qeXh4M0l1Ti1tQ1N4WkxmTG9ia2tTbVFSMkpsVWNOVXpDMm5GZmU5ZzJwOHRWeTdRZ1BOQTE2TjJncDgwVDBmaElUZV92azRRMFEwUVZJRzZJVVlBWEpIczRHMFZXZFpLRy1ma3F1OEZ1N0ZUWDdLQnNn?oc=5",
+     "ora": "2026-10-01T17:14:05+00:00"
+    },
+    {
+     "titolo": "ENAV, Elisabetta Scosceria nuova General Counsel",
+     "titolo_it": "",
+     "riassunto": "ENAV ha nominato Elisabetta Scosceria nuovo General Counsel, responsabile degli affari legali dell'ente di navigazione aerea italiano. La scelta sottolinea l'attenzione verso la gestione giuridica dei servizi di traffico aereo.",
+     "fonte": "Teleborsa",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWVBFNE5vcnEzMjZNSzFoTDRnOUNYdW52OUhlVER3cjZ0SkZqaEVlSFRGSVVhMXc2V3dQcldiOEpYQ2lPOXRDeERSNDV4RGt3S0VHSFgxNXJoYUVENU90VFN6Y002c0V0TU9FQjBLVFRzNDB5OGZXaExtcTMtMTJ2SE9aV3AtZ2JTa0QxVGdJdGQ4REktUVFSOXdyX09RUQ?oc=5",
+     "ora": "2026-10-01T14:47:38+00:00"
+    },
+    {
+     "titolo": "Airbus asks certain A330neo operators to check for stray tools: Bloomberg",
+     "titolo_it": "Airbus chiede agli operatori di alcuni A330neo di verificare la presenza di attrezzi estranei",
+     "riassunto": "Airbus ha chiesto agli operatori di alcuni A330neo di controllare i propri velivoli per la possibile presenza di attrezzi estranei lasciati a bordo. L'iniziativa segue un incidente avvenuto a settembre e mira a prevenire rischi di sicurezza durante il volo.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/airbus-a330neo-airlines-inspections-stray-tools",
+     "ora": "2026-10-02T09:28:06+00:00"
+    },
+    {
+     "titolo": "MARKET DRIVER: Avio, Equita Sim conferma buy",
+     "titolo_it": "Avio: Equita Sim conferma la raccomandazione di acquisto",
+     "riassunto": "Equita Sim ha confermato la raccomandazione di acquisto per le azioni di Avio, citando solide prospettive di crescita nel settore della propulsione spaziale e della difesa. Questo segnala opportunità di carriera e investimenti nell'industria aerospaziale italiana.",
+     "fonte": "milanofinanza.it",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLU5WZk5sLVBoWmZLNXdyeUhObmhtMm84Z0JfQV8zeG85Nk8zOUZtdEpNdXMzYWxDTWEyNXBCNEFxVC1CYVptTkdhbmlKU3NrRE5aazBiMFlSbExNOVN4QnVZUTJ5VV9Wa0FYUVpBVUpWcHRYRzlzajN4QktnWjVjNDJWTGtuejk4U3JONEVpNDRFQ2tEVzJ1RTNTbFFaWmc3OGZLNWFCNGVDSGs?oc=5",
+     "ora": "2026-10-02T08:14:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Arrivano le mod per Claude Code, i plugin che riscrivono l'agente",
+     "titolo_it": "",
+     "riassunto": "Sono disponibili nuove mod (plugin) per Claude Code che permettono di estendere e personalizzare l'agente AI. Questo mostra come gli strumenti basati su Claude stiano diventando più modulabili, utile per chi vuole sperimentare con LLM in progetti di automazione o ricerca.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JQTRkVzdNM2tGN3hBZnM0TjhBdmhMc0VsYWY3TDV2aWNGU1V4X2FGcFNJVFNyTW9LZ3hQR0IxUndaQmprQWhOSUYwaTZMVVNZNjU2c2xsRXFLOFdOUTh0SHFnVHBNbnIxNjZzc29HZlk?oc=5",
+     "ora": "2026-10-02T05:56:08+00:00"
+    },
+    {
+     "titolo": "Google presenta Gemini 4 Argon: AI per governi e cybersecurity",
+     "titolo_it": "",
+     "riassunto": "Google ha lanciato Gemini 4 Argon, un modello AI focalizzato su applicazioni governative e di cybersecurity. Indica la tendenza verso modelli specializzati per settori critici, rilevante per chi è interessato alla sicurezza dei sistemi aerospaziali.",
+     "fonte": "tg24.sky.it",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uS0R1WlRDelNCV05TM3NvZHVIaGZNM2hSQ1p0QmJjWHNxS29NMlpNampkVlc0Rm85X2tDVkdoYzc1YXNndjJoTm1HTjB1ZGVzc25IdjNWeU92T0xIX1lvTkRmd0VSOHY5M0FsaVhJcnZ3bEo4?oc=5",
+     "ora": "2026-10-02T10:05:22+00:00"
+    },
+    {
+     "titolo": "OpenAI introduce nuove funzionalità per l'agente AI Codex.",
+     "titolo_it": "",
+     "riassunto": "OpenAI ha aggiunto nuove funzionalità al suo agente AI Codex, migliorando la capacità di generare e comprendere codice. Questo rende Codex più potente per lo sviluppo di software, utile per chi lavora su simulazioni o tool di ingegneria.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORVlaTU1PSFMweHV1SWtNR2x2TG9MV0NVbFBqbndrenJ1dGpOSEVocmZLTHdTalhkNmp1VUhuVnFhNHJPNnBsS21LNkV6eXYwQ1ZLVjlpVW5pVlVWcWZNd2RSWWZVSWFWLXMwQ0Nlc2c4X3p2U3dHVE9YajNraXR0U2JRT3FjWVNhVFdURURn?oc=5",
+     "ora": "2026-10-02T02:02:19+00:00"
+    },
+    {
+     "titolo": "Anthropic avverte sulle capacità di hacking di GLM-5.3, il modello cinese di Z.ai",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha avvertito che il modello cinese GLM-5.3 di Z.ai presenta capacità di hacking potenzialmente pericolose. Evidenzia i rischi di sicurezza legati a LLM avanzati, tema centrale per la sicurezza del volo e dei sistemi ATM.",
+     "fonte": "TuttoTech.net",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObFU1cWp0ZV83UEFDeGx3X2wtVklOYU0tdjBCM1N0cWN0aXJETmdKRXFKSW01MTFJZ0ZsTF9pNFF3NFFlZ3pmNnF6TmZ5ak5sc00tdk9wV25YRVgxcm9xdzVTMUhuYVhSb3VLa21jYTZXemJ5c2t4RUx1WlVRREkxZWY4UDF0a3pSenlwdw?oc=5",
+     "ora": "2026-10-01T15:21:36+00:00"
+    },
+    {
+     "titolo": "Gli Stati Uniti investiranno il 9% del pil nell\"AI? OpenAi e Anthropic ci contano",
+     "titolo_it": "",
+     "riassunto": "Gli Stati Uniti prevedono di investire il 9% del PIL in AI, con sostegno a OpenAI e Anthropic. Un simile impegno pubblico segnala grandi opportunità di finanziamento e carriera nel settore AI, anche in Europa.",
+     "fonte": "milanofinanza.it",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNEs3Mlk2S2VEMDZsYjhBUVlrNUVHZ3d4OTV5amtOT0otSWQ5UlNPV1V3b19COG1xNVlTMm9KN0tBdnVwVDB1SXdzT2VzNkgxNHNCZjJLbUVMNXYwZTFvRU42WmlId1h6UXZ6blhiOFE3TUZ6cTFiT0pDVjhYVG4xSHVsZTFxdXNJd0ptdVQ0bTV1cWpFMXpfRHBVMVJwRmdTRTBpdktkbE40b19mQUVYS21ka1RCZURXSXRBelkwS2NydzVHM2ZwQ2EwMHQ?oc=5",
+     "ora": "2026-10-02T10:20:00+00:00"
+    },
+    {
+     "titolo": "OpenAI avvisa oltre 100 organizzazioni: “Accessi non autorizzati da parte dei nostri agenti AI”",
+     "titolo_it": "",
+     "riassunto": "OpenAI ha avvisato oltre 100 organizzazioni di accessi non autorizzati ai suoi agenti AI, sollevando preoccupazioni su uso improprio. Sottolinea l'importanza di controlli di accesso e monitoraggio, aspetti chiave per la protezione di dati sensibili in ambito aerospaziale.",
+     "fonte": "Key4biz",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTllmbTA3SWV2aUI4Qks0R0xIQjFhQlFfZzFweEFvQmJPY1pBYmt4czJQYmJsNkRfZmV5SXhYYmstUG1jUWx4aHpXRkhjQWN0WHBEdlJ4Smp0Nk92WFZfN09weG1WZWVyejhPUUt6bktCN1JfZUljUjZ6a3lVV2tQaFlCbHhYNlJJOWV6bTBQUmtPTkxoTWlEUHhVbk0yNTl0U1FUX3E1dzFCVWVMNnp3bFJGOWx6cWhZMzJodmRmUlo?oc=5",
+     "ora": "2026-10-02T07:30:28+00:00"
+    },
+    {
+     "titolo": "Dall’intelligenza artificiale che risponde a quella che agisce: perché l’affidabilità è la vera sfida dell’Agentic AI",
+     "titolo_it": "",
+     "riassunto": "L'articolo distingue tra AI che risponde e AI che agisce, affermando che l'affidabilità è la vera sfida dell'Agentic AI. Rileva perché la fiducia nei sistemi autonomi è cruciale per applicazioni come il controllo del traffico aereo.",
+     "fonte": "SecurityOpenLab",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNa05XOElfdWR3bEtnRHJlQ0l2THNVYzladDcyeE1BNTlGM01mWng0RHdneHBabWp2T3VheE5uT0UzNUZlSThFZzhGenJ0aDQySDFWX19xTm10d3FXLWYxQUdMVXVSaUZSM0tkYlBYWTd1dXhneTRUZ0lGbERrTWF3MVU0SHpjeTdGbDhYdnZwaTRBTHFfN0Y4ZlIwMEZVMHJsN1N0YlpEcnA2MEhNb2FmSDVSa3RhVEFqR3NlZkxJZUk5RG96QWdVU0I4WDJiNG5fczZmS2ZPdlZnWTR5ZDlRcldSaEZyc2hPWVdjNHBMSzE?oc=5",
+     "ora": "2026-10-02T10:50:00+00:00"
+    },
+    {
+     "titolo": "Broadcom Isn’t Just Selling Anthropic Chips Anymore. It’s Underwriting Them With Up to $42 Billion",
+     "titolo_it": "Broadcom sottoscrive i chip di Anthropic con un investimento fino a 42 miliardi",
+     "riassunto": "Broadcom non si limita più a vendere chip ad Anthropic, ma ne sta sottoscrivendo l'emissione con fino a 42 miliardi di dollari. Questo investimento massive nell'hardware per AI indica una crescita infrastrutturale che può creare nuovi ruoli ingegneristici nel settore dei semiconduttori per AI.",
+     "fonte": "TIKR.com",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUFoamNHZldVX0JoODlpWEprSjBnZXp2b2tqcS00S2d4UGJmY1U1X0pZSTRCYU1VYl9rOUpjaUtySjBHWU9NTGJQSll1X1N1aVJQLTlWVWRQZUV3RVFTYXd3eGdGbVBsWEt1YXF2TXIyODlfaXp5LTlrRHktaUY5dDZ6SVo4Y1BMY3VxSEMwSW5NWU9sTWsyMkVKQVBaVmIweXdsS2x6MlpLaU5mV2ZuMkVXWFJ1cmxWMkw0bkZCbmotQQ?oc=5",
+     "ora": "2026-10-02T09:57:56+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Il primo Festival dell’Ingegneria alla Sapienza: l’impatto dell’IA sul futuro",
+     "titolo_it": "",
+     "riassunto": "Alla Sapienza si è tenuto il primo Festival dell’Ingegneria focalizzato sull’impatto dell’intelligenza artificiale sul futuro della disciplina. È utile per conoscere le tendenze IA che possono influire su ricerca e lavoro in aerospazio.",
+     "fonte": "EZ Rome",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSFFhRGI3RUUyX2N5MmlfaVpsLVJ3MFotR1RoaFFCQTlaUk9VTlplYm1jTHo5Nmd1N05tREVxMHEzZ2ZkdHV0WmdZOHhhOUl2SlRIeXR2dWhrS2pTUzU4LTNEY0ZiN2lWSUw1RG5NYjQ4WWFyeURvcjQ4bF9qWmJHTDV5NkRIa3FfRkE3ZUNtNUFuQnJUcF84QndxcVVVTzl6azZOVDYybjJESU50U1d6WDUxWlBaVmRBMldzT1hkSFJRZVRIS21EeTlLM0lXLUpsT2lXcVRlVkg2UQ?oc=5",
+     "ora": "2026-09-30T16:15:02+00:00"
+    },
+    {
+     "titolo": "Enac Servizi-\"Sapienza\": accordo per i tirocini curriculari",
+     "titolo_it": "",
+     "riassunto": "ENAC e la Sapienza hanno siglato un accordo per attivare tirocini curriculari nel settore dell’aviazione civile e del controllo del traffico aereo. Offre opportunità concrete di stage in ambito ATM e sicurezza del volo.",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1RSX3RXSlNiY3Q2X2dtVkVkOWlQREZwdDVVblo0THNVYW1kT2hsU3FJMEdibTE4RmFsQ0FMWU5GY044WFdmNEdwbFFCbmctR1JJVG5NM0hVLVVNbDJTenBRWXRhanR6bXdfNlhkTUY5TzJwTHZkQ3BSWXNwQXZBeVlPQ3Jzb0FWeVlER1dwbjYxNFFOS09XVzdtNGFPeTFwMDZZ?oc=5",
+     "ora": "2026-09-28T12:36:04+00:00"
+    },
+    {
+     "titolo": "Difesa: ecco il nuovo vertice Aiad (Confindustria)",
+     "titolo_it": "",
+     "riassunto": "Confindustria ha nominato il nuovo vertice di Aiad, l’associazione che rappresenta le industrie della difesa e dell’aerospazio in Italia. Segnala i cambiamenti di leadership che possono aprire nuove collaborazioni e posti di lavoro nel settore.",
+     "fonte": "Startmag",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObklnNklmQzdQNmFEcVB2S0piemZoYkxSNVZXZ200Q1pYTEZnS0JGaE5KTno1MDRjMHRfSWRPWVBxcTZsRGcyNVZhejhQeEVIRTg3eGhoWHpUQnhjeUJvVEJ6T0tyQ3V4OWJabTZUenpJQURXNm9GVkp0eDFhLW80UENKSUtFSDE3X3RxUHhOU1M5Zw?oc=5",
+     "ora": "2026-10-02T10:42:00+00:00"
+    },
+    {
+     "titolo": "Gli eredi degli Eurofighter nasceranno a Torino: qui la sede italiana di Edgewing",
+     "titolo_it": "",
+     "riassunto": "La sede italiana di Edgewing, azienda che sviluppa gli eredi degli Eurofighter, sarà aperta a Torino, consolidando la presenza di progetti di caccia di nuova generazione nel paese. Indica possibili assunzioni e collaborazioni in ingegneria aerospaziale avanzata.",
+     "fonte": "La Stampa",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVlZPTEg5cGNvUzRfVzJZRDhkb3cwb2x3TncyRlZGajQ5bk1HeTg2NXVCR1ZwRlZhaE9EQ2owRkNSNzc3OHpsU3kxTFBKOWg3cC1EbVBtMWxFTWFGSnZsUlRGbXhRYmowek00X2ZhMmxBSFVmd0xrWjUxVFozcWRBN2otc2E3N24xMGktcmU2ZUV5TnQtdDlLeE92aFBETndHT29fZlU4Y05QamFFMmc40gGkAUFVX3lxTFBIWi1PLWhyUmNSM1NEbnFNVEJRaUI3bXRVa2xXTGs1ZEtLV3J1X3pqbXM3dnduS18zaG05cEU2YXBpclFqVHhhUk5MRHgwSDlpYmo1RlVHRWQ2Q1lDeUx0Qm5laENWX3QybXdabE8yQjZpWHNCTlNvOGxEMV9ZMzEwVHBFeWdQZGlFNWoxOFNObE94UXhGZjBteTk0UkswYmhQZzhx?oc=5",
+     "ora": "2026-10-02T09:17:00+00:00"
+    },
+    {
+     "titolo": "Le donne crescono nelle materie Stem, ma nell'ingegneria aerospaziale sono meno del 20%",
+     "titolo_it": "",
+     "riassunto": "Un recente studio mostra che, sebbene le donne aumentino nelle discipline STEM, rappresentano meno del 20% degli ingegneri aerospaziali. Evidenzia una questione di diversità rilevante per fattori umani e politiche di inclusione nel settore.",
+     "fonte": "ELLE",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVpmeTNBaHlRVTN0VTN1OGxpeW1RQ1BVMlZrSWhNaEE1bjVjMmJsWE94eE9ibXdNSDdqOXFBM2VKeTVvczV0NHBkUEc0NGw2OWp1UmM2UGpTTlhtUVQ2VU1EbUhhQ09UQmFhS0Z2NzdMSUJpVzNPSzVKVVcyVjZ2ODF5dWVNMFJaa2d6R0x2Y1JZNVdEM0lVRU5Gdm82TkZwMkxxZGZvSUtMRVlNdVFQZjFTR2JHMkE?oc=5",
+     "ora": "2026-09-26T14:37:08+00:00"
+    },
+    {
+     "titolo": "'10 tesi per la sostenibilità', cosa prevede il bando universitario",
+     "titolo_it": "",
+     "riassunto": "Il bando universitario ‘10 tesi per la sostenibilità’ premia lavori di ricerca su temi ambientali applicabili anche all’ingegneria aerospaziale, come propulsione verde e materiali leggeri. Offre spunti per tesi e finanziamenti legati alla sostenibilità del volo.",
+     "fonte": "tg24.sky.it",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVnlEczZDZmdBNDNXSC1KM3Y2TVV4bjVINVBCWEFoaUpmekp0TjRIeW9sSXlKTHNlbjc0TkYxeUd6VV9GWEZOUmRReDZWcHNzb1lwdUpDSlB5Y1doUnM0RHVGYlBzT0prVzI4ZS04aG10WTR4YzNjaGEzT3pCY3c5VktWRElRdw?oc=5",
+     "ora": "2026-09-29T10:26:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Il racconto del pilota-eroe del Flydubai: 'Ho aperto la porta della cabina mentre ero sotto attacco'",
+     "titolo_it": "",
+     "riassunto": "Il pilota di un volo Flydubai ha raccontato di aver aperto la porta della cabina durante un attacco del copilota, permettendo ai passeggeri di sopraffare l'aggressore. L'episodio evidenzia temi di sicurezza del volo e fattori umani, rilevanti per chi studia ingegneria aeronautica.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/02/il-racconto-del-pilota-eroe-del-flydubai-ho-aperto-la-porta-della-cabina_b8a96915-bfb4-49aa-a346-3c7f9bfc4f44.html",
+     "ora": "2026-10-02T11:39:39+02:00"
+    },
+    {
+     "titolo": "Incursioni di droni del 2025, l'esercito danese ammette \"errori\" nella ricostruzione",
+     "titolo_it": "",
+     "riassunto": "L'esercito danese ha riconosciuto errori nella ricostruzione di un incidente del 2025 dovuto a incursioni di droni presso la base aerea di Skrydstrup. Il caso sottolinea l'importanza della gestione dello spazio aereo e della sicurezza dei sistemi UAV, temi chiave per ATM e aerospazio.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/02/incursioni-di-droni-del-2025-lesercito-danese-ammette-errori-nella-ricostruzione",
+     "ora": "2026-10-02T11:28:07+02:00"
+    },
+    {
+     "titolo": "Europa può permettersi l'aumento della difesa? Il dibattito degli eurodeputati a The Ring",
+     "titolo_it": "",
+     "riassunto": "Gli eurodeputati hanno discusso se l'Europa possa permettersi un aumento della spesa per la difesa alla luce delle minacce ibride e della guerra in Ucraina. Il dibattito influisce direttamente sui finanziamenti al settore aerospaziale e difesa europeo, quindi sulle opportunità di stage e lavoro.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/02/europa-puo-permettersi-laumento-della-difesa-il-dibattito-degli-eurodeputati-a-the-ring",
+     "ora": "2026-10-02T11:50:09+02:00"
+    },
+    {
+     "titolo": "Corridoio transcaspico: Europa e Asia centrale puntano su scambi più rapidi",
+     "titolo_it": "",
+     "riassunto": "Europa e Asia centrale stanno lavorando per ridurre i tempi di transito lungo il corridoio transcaspico da 35 a 15-20 giorni tramite dogane, sistemi digitali e procedure armonizzate. Un corridoio più veloce può aumentare il traffico aereo di merci e influenzare la pianificazione delle rotte e degli aeroporti.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/02/corridoio-transcaspico-europa-e-asia-centrale-puntano-su-scambi-piu-rapidi",
+     "ora": "2026-10-02T11:03:24+02:00"
+    },
+    {
+     "titolo": "Inflazione dell'Eurozona al 3,8%: Il tuo Paese è tra i peggiori?",
+     "titolo_it": "",
+     "riassunto": "L'inflazione dell'Eurozona è salita al 3,8% a settembre, il livello più alto da tre anni, trainata dall'energia. Questo aumento dei costi può impattare sui bilanci delle compagnie aeree e dei fornitori aerospaziali, influenzando investimenti e occupazione nel settore.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/02/inflazione-delleurozona-al-38-il-tuo-paese-e-tra-i-peggiori",
+     "ora": "2026-10-02T11:40:36+02:00"
+    },
+    {
+     "titolo": "Tajani: 'Già oggi in Cdm decideremo lo scostamento di bilancio'",
+     "titolo_it": "",
+     "riassunto": "Il ministro degli Esteri Tajani ha annunciato che il Consiglio dei Ministri deciderà oggi lo scostamento di bilancio, con proposte da portare a Bruxelles. Le decisioni di bilancio nazionale possono determinare finanziamenti per progetti spaziali e aeronautici in Italia, rilevanti per chi cerca stage o lavoro.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/tajani-gia-oggi-in-cdm-decideremo-lo-scostamento-di-bilancio_8463ed4f-c10a-459f-8be8-a56ee2f0b01a.html",
+     "ora": "2026-10-02T12:29:47+02:00"
+    },
+    {
+     "titolo": "Traffico in tilt a Kiev dopo gli attacchi russi ai ponti. Zelensky: 'Usa e Ue non fanno abbastanza'",
+     "titolo_it": "",
+     "riassunto": "Dopo gli attacchi russi ai ponti di Kiev, il traffico cittadino è rimasto bloccato e Zelensky ha criticato l'inadeguato sostegno di USA e UE. La situazione influisce sullo spazio aereo ucraino e sulle rotte di volo, sollevando questioni di sicurezza del volo e gestione del traffico ATM in zona di conflitto.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/02/traffico-in-tilt-a-kiev-dopo-gli-attacchi-russi-ai-ponti.-zelensky-usa_dca1065f-c8da-449f-abbb-fe4b02d1c022.html",
+     "ora": "2026-10-02T11:44:15+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
