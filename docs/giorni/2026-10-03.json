@@ -1,0 +1,229 @@
+{
+ "giorno": "2026-10-03",
+ "creato": "2026-10-03T10:26:07+00:00",
+ "in_breve": [
+  "Enac Servizi e la Sapienza hanno siglato un accordo per i tirocini curriculari.",
+  "Claude Sonnet 5.5 è ora più veloce ed economico per l'uso quotidiano.",
+  "GE Aerospace ha dimezzato i tempi di ispezione dei motori tramite software."
+ ],
+ "modello": "google/gemma-4-31b-it:free, nvidia/nemotron-3-super-120b-a12b:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Air France-KLM Just Quietly Committed To Flying Its Airbus A350s & Boeing 787s Into The 2040s",
+     "titolo_it": "Air France-KLM estende l'uso di A350 e 787 fino al 2040",
+     "riassunto": "Air France-KLM ha deciso di mantenere in servizio gli Airbus A350 e Boeing 787 almeno fino al 2040, allungando i periodi di ammortamento. Questo segnala fiducia nella durata dei moderni widebody e influisce sulle strategie di flotta delle compagnie.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/air-france-klm-quietly-committed-flying-airbus-a350s-boeing-787s-2040s/",
+     "ora": "2026-10-03T08:00:14+00:00"
+    },
+    {
+     "titolo": "FAA Rules Boeing 737 MAX Landing Glitch Isn't A Safety Risk, Paving Way For MAX 10 Certification",
+     "titolo_it": "La FAA esclude rischi di sicurezza per un guasto software del 737 MAX",
+     "riassunto": "La Federal Aviation Administration ha stabilito che un problema software che riguarda alcuni Boeing 737 MAX non rappresenta un pericolo per la sicurezza del volo. La decisione facilita la certificazione della versione MAX 10 e rassicura le compagnie interessate.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/faa-boeing-737-max-software-glitch-max-10-certification/",
+     "ora": "2026-10-03T04:34:19+00:00"
+    },
+    {
+     "titolo": "Relief for both Airbus and Boeing as thousands of workers back new contracts",
+     "titolo_it": "Migliaia di lavoratori di Airbus e Boeing approvano nuovi contratti",
+     "riassunto": "In un voto recente, migliaia di dipendenti di Airbus e Boeing hanno accettato nuovi accordi collettivi, portando tranquillità alle due aziende. Il risultato suggerisce un clima lavorativo più stabile e possibili nuove assunzioni.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/airbus-boeing-workers-vote-new-contract-proposals",
+     "ora": "2026-10-02T11:19:21+00:00"
+    },
+    {
+     "titolo": "How GE Aerospace Cut Boeing 787 & 747-8 Engine Inspection Time In Half Without Touching The Hardware",
+     "titolo_it": "GE Aerospace dimezza il tempo di ispezione motori 787 e 747-8 con solo software",
+     "riassunto": "GE Aerospace ha sviluppato un aggiornamento software che riduce a metà il tempo necessario per le ispezioni dei motori dei Boeing 787 e 747-8, senza modificare l'hardware. L'innovazione mostra come il software possa generare risparmi significativi nella manutenzione.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/how-ge-aerospace-cut-boeing-787-747-8-engine-inspection-time-in-half-without-touching-the-hardware/",
+     "ora": "2026-10-03T02:00:26+00:00"
+    },
+    {
+     "titolo": "Why Qantas' Project Sunrise Airbus A350 Needs A Fuel Tank No Other Airline Has Ever Ordered",
+     "titolo_it": "Il progetto Sunrise di Qantas richiede un serbatoio carburante unico per l'A350",
+     "riassunto": "Per consentire voli non stop oltre le 20 ore, Qantas ha ordinato un serbatoio aggiuntivo da 20.000 litri da installare sull'Airbus A350 utilizzato nel progetto Sunrise. Questa soluzione è esclusiva e dimostra le sfide tecniche dei voli ultra‑long‑range.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/why-qantas-project-sunrise-airbus-a350-fuel-tank-no-other-airline-ever-ordered/",
+     "ora": "2026-10-03T00:00:15+00:00"
+    },
+    {
+     "titolo": "Il Pentagono assegna a Boeing il contratto per l’F/A-XX, il nuovo caccia della US Navy",
+     "titolo_it": "",
+     "riassunto": "Il Pentagono ha assegnato a Boeing il contratto per sviluppare l'F/A-XX, il nuovo caccia imbarcato della US Navy. L'accordo conferma il ruolo centrale di Boeing nella difesa aerospaziale statunitense e apre prospettive di lavoro nel settore militare.",
+     "fonte": "InsideOver - Inside the news Over the world",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYTM5cmVyQW1OVmUtdTFnNE1tOXhZX0Q4U1VDSmZPYS1fUTFVMGhfcGlyakR4VTBUOVcxMFNjWnpQcVY4cWYySGpxU09EaWY2azRnell4ZUlROFl1c3BOZFhNeGNCVDJDVzJscFRZbnhIQmY5bGYwc3hNNXdBZllUbmtrMkJEajdVcVFSX0pfQVhJVUhCWmNOVm1WUFI0SWtZVjE4UDFJdnJhcjE2WXlvSjd2UGpVNXhUZDFjaURqYw?oc=5",
+     "ora": "2026-10-02T23:39:22+00:00"
+    },
+    {
+     "titolo": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+     "titolo_it": "La missione Crew-12 di SpaceX termina con il ritorno sulla Terra",
+     "riassunto": "La missione Crew-12, effettuata con la capsula SpaceX Dragon, sta per concludersi e l'equipaggio rientrerà sulla Terra nei primi giorni di ottobre. Il volo ha completato numerosi esperimenti scientifici sulla Stazione Spaziale Internazionale.",
+     "fonte": "NASA",
+     "link": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+     "ora": "2026-10-02T19:30:00+00:00"
+    },
+    {
+     "titolo": "What The 4-Digit Code Every Commercial Aircraft Broadcasts Actually Tells Air Traffic Control",
+     "titolo_it": "Il significato dei codici a quattro cifre dei transponder negli aerei commerciali",
+     "riassunto": "L'articolo spiega cosa comunicano i codici transponder come 7500, 7600 e 7700 al controllo del traffico aereo e come vengono utilizzati per gestire emergenze. Conoscere questi codici è fondamentale per chi si occupa di ATM e procedure di volo.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/what-commercial-aircraft-transponder-codes-actually-mean/",
+     "ora": "2026-10-03T09:15:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Anthropic investirà 100 Mio USD per formare ingegneri specializzati in intelligenza artificiale",
+     "titolo_it": "",
+     "riassunto": "Anthropic investirà 100 milioni di dollari per formare ingegneri specializzati in intelligenza artificiale.",
+     "fonte": "it.marketscreener.com",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd1dUY1lsSmpYQWUtRkNUOXhMSnAxY3I0OElPNkpVTWZrdjhIdGNvcUNvLUxlb2Y1ZVRNMURLdHNpQ0NJakh5SUpjekdoNE5GNUxmVXVYZUZNVFV0LWQxeXRxMmEwQW1BeXp6SHpKWFA1R3pQb2IyREd0Z1NSRGNmMjZvNEd4WjJfeU93WW9HclhDNDF1bkg0S2Z0QTB0TzdpYlljV0RFdzZyRHNPaXJlM2FXcnU1elNDeVhKbThicDUwV3dFcXZCMFJZaU8xcVBmYW5zLUVXdGJuOHpGY09NT0wyeXQ?oc=5",
+     "ora": "2026-10-02T22:58:14+00:00"
+    },
+    {
+     "titolo": "IA, Broadcom lancia raccolta da 60 miliardi per finanziare Anthropic",
+     "titolo_it": "",
+     "riassunto": "Broadcom lancerà una raccolta di fondi da 60 miliardi di dollari per finanziare Anthropic.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUtUQ2F1NlBYV2Q0QTFySEtsaTc2b3VYVFhHUEpTc3dNUWVXZ0ZudGd1eEEzQTNvSVpZcExOaFR6X05HZ0VBcE9qdTMzazhWdWlCYmFWS09zc2dDZ2pvYVQ0NHNfenNkWmRNMW9xazlISmNYV3hvaG5MOXB3RkhKQ2hOUnVGb2hjTDhVRTMwZ2VjMHB4d2xBdU81OGRPdTduaWhiTVhXZ05nTjFveW9WTXBHYUhreThK0gG4AUFVX3lxTE5RS1RDYXU2UFhXZDRBMXJIS2xpNzZvdVhUWEdQSlNzd01RZVdnRm50Z3V4QTNBM29JWllwTE5oVHpfTkdnRUFwT2p1MzNrOFZ1aUJiYVZLT3NzZ0Nnam9hVDQ0c196c2RaZE0xb3FrOUhKY1hXeG9obkw5cHdGSEpDaE5SdUZvaGNMOFVFMzBnZWMwcHh3bEF1TzU4ZE91N25paGJNWFdnTmdOMW95b1ZNcEdhSGt5OEo?oc=5",
+     "ora": "2026-10-03T00:20:03+00:00"
+    },
+    {
+     "titolo": "OpenAI rallenta per sicurezza, niente ipo imminente",
+     "titolo_it": "",
+     "riassunto": "OpenAI ha deciso di rallentare lo sviluppo di nuovi modelli per motivi di sicurezza, rinviando qualsiasi IPO imminente.",
+     "fonte": "milanofinanza.it",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVlFlVl8zMnpoSTM2bUduLWVJdk9aNHZTZ3R1Tk4tUGUxazZCaVpSXzRpMXp0YlBXX2txbVFUalBLa29MZU5xSGp0UjEtN3VhZ19ua0JKY0xtN2xiaUFaWE1LTmItTTVCdUdtaUs3UXFTV05YczVXV05fd2twZ0lWRWlpR1g1TEZ5REVEb0ZQeGFwQWFYNUpoRlkxWGdOamFGZ0JicUdn?oc=5",
+     "ora": "2026-10-03T07:00:00+00:00"
+    },
+    {
+     "titolo": "Blog | Claude Sonnet 5.5, più veloce e meno costoso per il lavoro quotidiano - Info Data",
+     "titolo_it": "",
+     "riassunto": "Claude Sonnet 5.5 viene presentato come versione più veloce e meno costosa per l'uso quotidiano.",
+     "fonte": "Il Sole 24 ORE",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSlVrT3lSY3htWE0zQjVBa2s1ZEpYeUJ1cGdJRmdNRWJPVjR5M0czMk5ZMmZnZDRTa3dVM3JGOV9pbFF6dDZVNXg4RjhVNUpVWHVqSkR4UWpETEFyMThKcjNwdVZuTDJJTUlsX2ZhS2VVTUtuQjlDODlCNWFrNHFHWHJDbk9MejN6Sl9TS1VlUER3MU1zdkFDMldQNUxlTXV1Yzk4ak5ncDZxZ29OU1NkaGxwWHd3SEFs?oc=5",
+     "ora": "2026-10-03T09:20:32+00:00"
+    },
+    {
+     "titolo": "Tecnologia 3/10: Google lancia Gemini 4 Argon, in competizione con OpenAI e Anthropic",
+     "titolo_it": "",
+     "riassunto": "Google ha lanciato Gemini 4 Argon, nuovo modello di IA in diretta competizione con le offerte di OpenAI e Anthropic.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmhtTDNtVThpQ19Sd1VjLTRaem16RVJVd3poMUZRSk9JRmZ0VHFtXzlmd0FMVDNZclJnV3l3WmN4UEh6ZmlxWE9OZHd4VzdMdFpTdlZWemFGZmpKdUtCYUZ6RXMwRHpoTnprZDU3WTFxS3ZTNDVBcTZlTEpmeWltS2V2b0QzNG1DTHE1VXdCYjAtT0pZQUVfOVEyWkRlOEk?oc=5",
+     "ora": "2026-10-03T01:26:01+00:00"
+    },
+    {
+     "titolo": "Meta apre il codice di Muse: l’agente AI non vive più solo sullo schermo, ma si fabbrica",
+     "titolo_it": "",
+     "riassunto": "Meta ha reso open source il codice di Muse, permettendo di costruire dispositivi hardware che integrano il suo agente AI.",
+     "fonte": "SHIFTS! Magazine",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaWlITVBOS1J1U3RjWGx3eDUwSENyYXdJRjMydlZPYlhicGFzUUpNMFkwUmtSSksxM1E5QWt1bS0yV0l4Nk4zNUFtZWMzbG1QS2pnM2VVTDhTVHE3R0N5MjZsYjI5QU1tWHdfYTAzd2xXbnNwZ0FGbVBXdzRfal9mQmNHeVN3TTJxM2toVWdHSXIxSW05N0pHemU4OXRsTDlKREVPdUhHcTZkM2VGb09FblF4ZXdUSk9LZVdGaTNTZWZQdDlNcXc2c2tYdlVqQVFTelB4SDBNT2d1SGJfQkt5QzlqNA?oc=5",
+     "ora": "2026-10-03T09:32:40+00:00"
+    },
+    {
+     "titolo": "Apple changes full-disk access permissions to curb abuse from AI agents",
+     "titolo_it": "Apple limita l'accesso completo al disco per limitare gli abusi degli agenti AI",
+     "riassunto": "Apple limiterà l'accesso completo al disco sui Mac per ridurre i rischi derivanti dagli agenti di intelligenza artificiale.",
+     "fonte": "Ars Technica",
+     "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+     "ora": "2026-10-02T23:03:16+00:00"
+    },
+    {
+     "titolo": "OpenAI avvisa oltre 100 organizzazioni per le attività non autorizzate dei suoi agenti IA",
+     "titolo_it": "",
+     "riassunto": "OpenAI ha avvertito oltre 100 organizzazioni riguardo a attività non autorizzate dei suoi agenti di intelligenza artificiale.",
+     "fonte": "Hardware Upgrade",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQkg0TWVJcVRmWnRFeU54SzZsWWNob3hJU0l2by1nMjM1UVBnTEJ5LWFSR2NSREh1RGdPOG5hOHZZc0RfUExUUEtpVVQtWUIxX0hvbTVrNll3RXgyNTJDQ1NSV2gzcFJtUjZzTW9rY29HYTlhOURKOFZ1UDdjNTN3QmxLN0hPbHFCSDJyTHZxcy1UbXI2cTUwa3dVd09UV2VPY3BuUkUzZlpzTEsxR0duVlVwY0xSY1NyTjlYN2VQdlAwSHpQLW1YWm05cUtTTGVk?oc=5",
+     "ora": "2026-10-03T10:11:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Il primo Festival dell’Ingegneria alla Sapienza: l’impatto dell’IA sul futuro",
+     "titolo_it": "",
+     "riassunto": "Alla Sapienza si tiene il primo Festival dell’Ingegneria focalizzato sull’impatto dell’intelligenza artificiale sul futuro. È utile per scoprire come l’IA può essere applicata all’ingegneria aerospaziale e per creare contatti accademici e professionali.",
+     "fonte": "EZ Rome",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSFFhRGI3RUUyX2N5MmlfaVpsLVJ3MFotR1RoaFFCQTlaUk9VTlplYm1jTHo5Nmd1N05tREVxMHEzZ2ZkdHV0WmdZOHhhOUl2SlRIeXR2dWhrS2pTUzU4LTNEY0ZiN2lWSUw1RG5NYjQ4WWFyeURvcjQ4bF9qWmJHTDV5NkRIa3FfRkE3ZUNtNUFuQnJUcF84QndxcVVVTzl6azZOVDYybjJESU50U1d6WDUxWlBaVmRBMldzT1hkSFJRZVRIS21EeTlLM0lXLUpsT2lXcVRlVkg2UQ?oc=5",
+     "ora": "2026-09-30T16:15:02+00:00"
+    },
+    {
+     "titolo": "Enac Servizi-\"Sapienza\": accordo per i tirocini curriculari",
+     "titolo_it": "",
+     "riassunto": "ENAC Servizi e l’Università Sapienza hanno firmato un accordo per attivare tirocini curriculari nel settore dell’aviazione e del controllo del traffico aereo. Offre agli studenti opportunità concrete di stage in ambito ATM e sicurezza del volo.",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1RSX3RXSlNiY3Q2X2dtVkVkOWlQREZwdDVVblo0THNVYW1kT2hsU3FJMEdibTE4RmFsQ0FMWU5GY044WFdmNEdwbFFCbmctR1JJVG5NM0hVLVVNbDJTenBRWXRhanR6bXdfNlhkTUY5TzJwTHZkQ3BSWXNwQXZBeVlPQ3Jzb0FWeVlER1dwbjYxNFFOS09XVzdtNGFPeTFwMDZZ?oc=5",
+     "ora": "2026-09-28T12:36:04+00:00"
+    },
+    {
+     "titolo": "Gli eredi degli Eurofighter nasceranno a Torino: qui la sede italiana di Edgewing",
+     "titolo_it": "",
+     "riassunto": "La società Edgewing apre la sua sede italiana a Torino, occupandosi dello sviluppo dei successori degli Eurofighter. Segnala nuove prospettive di lavoro e collaborazione nel settore aerospaziale militare e di difesa.",
+     "fonte": "La Stampa",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVlZPTEg5cGNvUzRfVzJZRDhkb3cwb2x3TncyRlZGajQ5bk1HeTg2NXVCR1ZwRlZhaE9EQ2owRkNSNzc3OHpsU3kxTFBKOWg3cC1EbVBtMWxFTWFGSnZsUlRGbXhRYmowek00X2ZhMmxBSFVmd0xrWjUxVFozcWRBN2otc2E3N24xMGktcmU2ZUV5TnQtdDlLeE92aFBETndHT29fZlU4Y05QamFFMmc40gGkAUFVX3lxTFBIWi1PLWhyUmNSM1NEbnFNVEJRaUI3bXRVa2xXTGs1ZEtLV3J1X3pqbXM3dnduS18zaG05cEU2YXBpclFqVHhhUk5MRHgwSDlpYmo1RlVHRWQ2Q1lDeUx0Qm5laENWX3QybXdabE8yQjZpWHNCTlNvOGxEMV9ZMzEwVHBFeWdQZGlFNWoxOFNObE94UXhGZjBteTk0UkswYmhQZzhx?oc=5",
+     "ora": "2026-10-02T09:17:00+00:00"
+    },
+    {
+     "titolo": "Le donne crescono nelle materie Stem, ma nell'ingegneria aerospaziale sono meno del 20%",
+     "titolo_it": "",
+     "riassunto": "Le donne sono in aumento nelle discipline STEM, ma nell’ingegneria aerospaziale rappresentano ancora meno del 20% del totale. Evidenzia il tema della diversità di genere, rilevante per scelte di carriera e iniziative di inclusione.",
+     "fonte": "elle.com",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVpmeTNBaHlRVTN0VTN1OGxpeW1RQ1BVMlZrSWhNaEE1bjVjMmJsWE94eE9ibXdNSDdqOXFBM2VKeTVvczV0NHBkUEc0NGw2OWp1UmM2UGpTTlhtUVQ2VU1EbUhhQ09UQmFhS0Z2NzdMSUJpVzNPSzVKVVcyVjZ2ODF5dWVNMFJaa2d6R0x2Y1JZNVdEM0lVRU5Gdm82TkZwMkxxZGZvSUtMRVlNdVFQZjFTR2JHMkE?oc=5",
+     "ora": "2026-09-26T14:37:08+00:00"
+    },
+    {
+     "titolo": "'10 tesi per la sostenibilità', cosa prevede il bando universitario",
+     "titolo_it": "",
+     "riassunto": "Il bando universitario “10 tesi per la sostenibilità” premia ricerche su temi ambientali applicabili anche all’industria aerospaziale. Permette di ottenere finanziamenti e visibilità per progetti di sostenibilità nel volo.",
+     "fonte": "Sky TG24",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVnlEczZDZmdBNDNXSC1KM3Y2TVV4bjVINVBCWEFoaUpmekp0TjRIeW9sSXlKTHNlbjc0TkYxeUd6VV9GWEZOUmRReDZWcHNzb1lwdUpDSlB5Y1doUnM0RHVGYlBzT0prVzI4ZS04aG10WTR4YzNjaGEzT3pCY3c5VktWRElRdw?oc=5",
+     "ora": "2026-09-29T10:26:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Emirati: il copilota del volo Flydubai ha attaccato il comandante con un'ascia, atto \"terroristico\"",
+     "titolo_it": "",
+     "riassunto": "Il copilota di un volo Flydubai ha aggredito il comandante con un'ascia, tentativo definito dalle autorità emiratine un atto terroristico.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/03/emirati-il-copilota-del-volo-flydubai-ha-attaccato-il-comandante-con-unascia-atto-terroris",
+     "ora": "2026-10-03T12:13:40+02:00"
+    },
+    {
+     "titolo": "Grecia: forti piogge e temporali nel sud dell'Egeo, venti fino a 9 Beaufort",
+     "titolo_it": "",
+     "riassunto": "La Grecia ha registrato forti piogge e temporali nel sud dell'Egeo con venti fino a 9 Beaufort, provocando allerta della protezione civile.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/03/grecia-forti-piogge-e-temporali-nel-sud-dellegeo-venti-fino-a-9-beaufort",
+     "ora": "2026-10-03T08:45:49+02:00"
+    },
+    {
+     "titolo": "Come parli può svelare i primi segnali dell’invecchiamento cerebrale",
+     "titolo_it": "",
+     "riassunto": "Uno studio suggerisce che le caratteristiche della voce possono rivelare precoci segnali di invecchiamento cerebrale, collegandosi a demenza e cambiamenti cerebrali.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/03/come-parli-puo-svelare-i-primi-segnali-dellinvecchiamento-cerebrale",
+     "ora": "2026-10-03T08:40:59+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
