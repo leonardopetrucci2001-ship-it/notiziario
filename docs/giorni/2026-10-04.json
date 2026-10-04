@@ -1,0 +1,245 @@
+{
+ "giorno": "2026-10-04",
+ "creato": "2026-10-04T11:08:17+00:00",
+ "in_breve": [
+  "Enac e Sapienza hanno siglato un accordo per tirocini curriculari nel settore aerospaziale.",
+  "La Sardegna sta sviluppando una filiera dello spazio per attrarre investimenti e creare posti di lavoro.",
+  "A Torino nascerà la sede italiana di Edgewing che produrrà i successori degli Eurofighter."
+ ],
+ "modello": "nvidia/nemotron-3-super-120b-a12b:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "La Sardegna punta alla filiera dello spazio",
+     "titolo_it": "",
+     "riassunto": "La Sardegna punta a sviluppare una filiera dello spazio, attirando investimenti e aziende del settore. Questo crea nuove opportunità di stage e lavoro nell'industria spaziale italiana.",
+     "fonte": "La Maddalena TV",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVXVPZFMxUXlTMW1FTkNicFE3ZEkxb0xiT2pPTnVoTFNlRXVIZmZybkk3NHJIZHZVYWFLS3l0X2VYdjFzX1FrVWxUX1Y5TzVCZHR2UDh2OGJsWmZ1VHBKVVdydG9xZnpTSmM0VVJ1N3I0SDhPRmFJMk5KbUlIQkF0bXV3WWFNUElYaE1RN2JvUWViVi1sazdFT1paSk1ESmlJaG5ieDI3QkFsM3JlQWdpc09XTkZTcHFKdmVjSkhyWnM?oc=5",
+     "ora": "2026-10-04T08:32:35+00:00"
+    },
+    {
+     "titolo": "Polvere di tungsteno per produzione additiva: aerospazio e difesa trainano il mercato fino al 2035 - Notizie e Statistiche",
+     "titolo_it": "",
+     "riassunto": "Il mercato della polvere di tungsteno per la produzione additiva è trainato da aerospazio e difesa, con previsioni di crescita fino al 2035. Indica una domanda crescente di materiali avanzati, rilevante per carriere in manifattura e R&D.",
+     "fonte": "IndexBox",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRF8ySGlLVUpNZnhpa3dmalNEU2xTeVo4LXZMS3E4MkN1OGRUQ0RyampZX0xOZnV4eTAwOFdXRnhEWXRjV1gtR3lxTXVaZTRHU01QQjZFTzJFYVFVUENhWFFQTzJlcHlKQ3VJVDNQendoeW92ekhDT2pjTEpnRHZzTUdKSVZwNVBwVEhvZjVmYmIwN09iTE1XMFVDbDFBRzc4bVJzclB4aGtJenpnbC13S1pjZ094NGtlbDdKaVVBRlVWZ3FIc3NjZDlzcUNHSWl3MHpEUQ?oc=5",
+     "ora": "2026-10-03T18:41:03+00:00"
+    },
+    {
+     "titolo": "Addio monocultura dell'auto. Torino cerca un futuro oltre Fiat: turismo, aerospazio o difesa? Ecco cosa può davvero salvare l'economia sabauda",
+     "titolo_it": "",
+     "riassunto": "Torino cerca di diversificare l'economia oltre l'auto, puntando su aerospazio, difesa e turismo come settori di crescita. Questo suggerisce possibili aumenti di opportunità lavorative nel settore aerospaziale locale.",
+     "fonte": "Torino Cronaca",
+     "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOY090VUhYQ29rZnNwd09kNWNSakNjZy1VaS1YSFlrU25WNzFJLWc5SlVxS2RNekV2eXJDbnJ3LVhhV1VNYVBvMFFhcF9lQWhqTVZSc3E0RzNfUVFBeDh4bFdmdkFXc0N4Rks2aThhVjlibUpZWkdjbXlJZ0RWbnFZckpLVElHUzRsRnBYaHFkTmxHblc2cUlXZFlQZzljR21zUzFxdW5XMUJGUlJoMGNxWi0xdFB1cmxsMU4waEdmdmswNld5QXNrUTBfLTBGUml4YW5QSmJJSXVzRTVRdGpzY0pYMm1SRlVkQzB4OFBtMDRWT09MTE1aeXFmRzd6NFFDS0NUU1RZcVhpSTRRLUpZMzZTWm1FaWpxYWlF?oc=5",
+     "ora": "2026-10-04T07:00:01+00:00"
+    },
+    {
+     "titolo": "Aeroporto di Catania, arriva il radar “4D” anti-cenere dell'Etna",
+     "titolo_it": "",
+     "riassunto": "L'aeroporto di Catania installa un radar \"4D\" per rilevare le ceneri vulcaniche dell'Etna, migliorando la sicurezza del volo. Mostra l'innovazione nei sistemi di gestione del traffico aeroportuale e nella gestione dei rischi naturali.",
+     "fonte": "lasicilia.it",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZUpwQS1SQVlPWkU2YXU5T295bmJYV3hIZXRGZjhhWW9VZTd4TC1taEZ0bFV0U2VSNFZvX3M5YzRNaV95RTg1NmFheFl2RXVUVHhnM005Y0ItbmVRZDdTdm1HQ1lSejVuaW1hNUM2elAxWU5UZ0lieGpHSi1SVVRSNnhhMHEzZGROOG8zQVlYUzBJaWhJSWRyTTV2MDRkeExib3pHQThuUXI2WHZ0TktGbXNQS1I?oc=5",
+     "ora": "2026-10-04T08:38:35+00:00"
+    },
+    {
+     "titolo": "Missing Floor Panel: The Secret Way Airbus A380 Crew Can Escape From Their Rest Areas",
+     "titolo_it": "Il pannello mancante: la via di fuga segreta per l'equipaggio dell'Airbus A380 dalle aree di riposo",
+     "riassunto": "L'Airbus A380 dispone di un pannello del pavimento rimovibile che funge da uscita di emergenza per l'equipaggio nelle aree di riposo, come richiesto da EASA. Evidenzia un particolare aspetto di design della sicurezza utile per studi di fattori umani e sicurezza del volo.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/secret-way-airbus-a380-crew-escape-rest-areas/",
+     "ora": "2026-10-04T02:00:25+00:00"
+    },
+    {
+     "titolo": "Why United Airlines' New Guam Boeing 737 MAX 8s Include A Row That Collapses Into A Medevac Stretcher",
+     "titolo_it": "Perché i nuovi Boeing 737 MAX 8 di United per Guam hanno una fila che si trasforma in barella medica",
+     "riassunto": "United ha configurato alcuni 737 MAX 8 per le rotte Guam con una fila convertibile in barella di evacuazione medica. Questa flessibilità cabine aumenta le capacità di risposta a emergenze sanitarie e dimostra l'integrazione di soluzioni di sicurezza umanitaria.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/why-united-airlines-new-guam-boeing-737-max-8s-row-collapse-medevac-stretcher/",
+     "ora": "2026-10-04T01:00:15+00:00"
+    },
+    {
+     "titolo": "United Passengers Stuck Nearly 12 Hours On Rome Flight That Never Took Off Given $175",
+     "titolo_it": "Passeggeri United bloccati quasi 12 ore su volo Roma mai decollato, ricevono 175 dollari",
+     "riassunto": "Un volo United da Roma è rimasto a terra quasi 12 ore a causa di problemi operativi successivi, terminando con un risarcimento di 175 dollari ai passeggeri. Il caso è utile per analizzare fattori umani, gestione delle interruzioni e diritti dei passeggeri.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/united-airlines-passengers-stuck-12-hours-rome-flight/",
+     "ora": "2026-10-04T06:34:15+00:00"
+    },
+    {
+     "titolo": "US Coast Guard locates debris field in search for Gulfstream and missing six",
+     "titolo_it": "La Guardia Costiera USA individua un campo di detriti nella ricerca del Gulfstream e dei sei scomparsi",
+     "riassunto": "Durante le ricerche di un Gulfstream G100 scomparso con sei persone a bordo, la Guardia Costiera statunitense ha localizzato un campo di detriti in mare. Fornisce spunti sulle procedure di ricerca e indagine di incidenti aeronautici, rilevanti per la sicurezza del volo.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/us-coast-guard-debris-foeld-search-gulfstream-g100",
+     "ora": "2026-10-04T10:46:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Si dimette un responsabile della sicurezza di OpenAI e chiede controlli per l'IA come quelli dell'aviazione",
+     "titolo_it": "",
+     "riassunto": "Un responsabile della sicurezza di OpenAI si è dimesso chiedendo che l'intelligenza artificiale venga regolata con standard simili a quelli dell'aviazione, evidenziando parallelismi utili per chi si occupa di sicurezza del volo.",
+     "fonte": "Demócrata",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcUxUSmhvamUwZnVTLXVQQVJXVmsxVkE1SjItWUsxdUh0bTdLOEVqSVM2dXdzdFprU2ZidTA5N29IbDBLVkdvYmQ4djEta09mbU5PSFBQcmFUVXd4d2tkUXg0Q2xIaEhCcDVqbnBDVW5mTUQ0TGxzcG9KeXVSLTVYa1hzMlRpWUFwaEd0WEY2VDM1TU43dnRRakpud2lmbk53aHFkbGFQSUVraDdCQ2xIaVphQl9BTzVRUEZuZlBOdXVVeDJIVWlZNC1ualkzYWRjZGVGVVlneC1sanU5Q2VBR9IB5gFBVV95cUxOWEgxTFZTQjBLT3U3R2xtZXdhRWtzWi1WdzBGam1zOVRtdVVpWV8wbndFWl9mdjdEWVRnVVMwcGJkUFpOUW5RRFQ1TUkwTFVTbnJsR0RSUWthaHFyZHZweldpWnQ4clJrWGQ5SHNGYzhkajRsbC1IZ1ZsV0xzOVl6NEU3ZFllY1R4Q2lEWXhNX3RwR0RUcmdmRzVjS3V3QzZhc0diRWpLSzF4YmxjdXBSV19vTy1sdE00RXRMVVFBY3VMU3NhYlpBbUhSdm5Xcmo5ODVzYUxLOFpqVFhVWGZ0MnhpR0Zhdw?oc=5",
+     "ora": "2026-10-04T08:09:06+00:00"
+    },
+    {
+     "titolo": "OpenAI presenta Dots, gli agenti IA che lavorano da soli 24 ore su 24",
+     "titolo_it": "",
+     "riassunto": "OpenAI ha lanciato Dots, agenti di intelligenza artificiale autonomi capaci di operare continuamente, potenzialmente utili per automazione in gestione del traffico aereo o operazioni di terra.",
+     "fonte": "ZEUS News",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvRE5nbG9nYUxtUmFjdjRkUEg0NHY5NS1rN3ZTeTMtZmlxUHkzQjA5NlpsWXhjRUs4MDVjakEyZEloNDhKeUhJSlRVcjIyZw?oc=5",
+     "ora": "2026-10-03T20:51:40+00:00"
+    },
+    {
+     "titolo": "Anthropic lancia la Frontier Academy, 100 milioni per 10.000 ingegneri",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha creato la Frontier Academy con un investimento di 100 milioni per formare 10.000 ingegneri in AI, offrendo nuove prospettive di stage e lavoro nel settore aerospaziale che sempre più integra l'intelligenza artificiale.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaklUY05GN3NNQlpmLWEzREhDNE1lRTZ5UENreU5UVHhnamUzd1ZzQlJWZ2JYZTBtdkVldW1fbkFXMVh1QW4takJiZmdYNVJTWk5LYWo0b045bXdJdVhKNjVWYnVkSmh5TzJFeTlZN1hMNWRDcnBrTHljazJqVjRza3psdktVMlVIZGM0OUJzVExxRGpIWWwxSWRyRjJLMERuSXAxTg?oc=5",
+     "ora": "2026-10-04T07:09:11+00:00"
+    },
+    {
+     "titolo": "Leggere il pensiero con l’intelligenza artificiale: il modello che interpreta l’attività cerebrale apre nuove possibilità terapeutiche",
+     "titolo_it": "",
+     "riassunto": "Un modello IA riesce a decodificare l'attività cerebrale, aprendo applicazioni in neuroergonomia e fattori umani, utili per migliorare l'interazione uomo-macchina in cabina di pilotaggio.",
+     "fonte": "Techprincess",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNamhBNmhDNkFPSnNWTXFHMkUyR2JzUXY0MWhBeUg1T0tiZ3NSWVAxMWtlVjBBektDT0ZnWE50S2tlWjFBTDg0V2Q1WWhROEYyYldOb2c2UkdMSHZ4Q2gxQXE1R08wM3NZdkdiOXlqOXoxaVRHSVIyd0gwNUlacW1aZdIBhgFBVV95cUxPd0FxaHljWnhveUJyYzd0UWg2OWFuWTVmaXhJUXRqSVlVYTcyOVd5ZnpPOURhNFBDS0xzOHF0NW9DWFNNTFB2OE9sVE9Ga1M4RmlxMXNOQkpKcnVlNHpyeWQ1TTVWVE9JOHB1Qkc0eERWdm1NczlYdFZpYkVPTFN1OHRNNC1BUQ?oc=5",
+     "ora": "2026-10-03T18:22:04+00:00"
+    },
+    {
+     "titolo": "GLM-5.3, secondo Anthropic l’AI che crea exploit è ormai alla portata di tutti",
+     "titolo_it": "",
+     "riassunto": "Secondo Anthropic, il modello GLM-5.3 permette di generare exploit informatici con facilità, sollevando preoccupazioni sulla sicurezza dei sistemi critici, inclusi quelli aeronautici.",
+     "fonte": "notizie.ai",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMzA2Skh1eDJoQ1ZyTXJYbHk3RDBGblJra0RrRzNvamNkelgtYktwRWZhcjdkTXhLZWhvdTlwR2pmYi0tNklxaUk5U29ON0JOaFNkd3JPV3ZIWWhLckhCZ3Y0Ulp2TENtXzE5VkJxRG9zUUdKeVBBUm0xb3Fnc1pPWVlCMUZGX2xkUjlXQWVNb1ZXQ3J1RHdTS1JaeUJaTWE2cFE?oc=5",
+     "ora": "2026-10-04T06:02:53+00:00"
+    },
+    {
+     "titolo": "Gemini 4 Argon sfida GPT-6.1 Sol: Google è più potente, ma OpenAI ha un vantaggio importante",
+     "titolo_it": "",
+     "riassunto": "Google presenta Gemini 4 Argon che sfida il nuovo GPT-6.1 Sol di OpenAI; sebbene Google claims superior potenza, OpenAI mantiene un vantaggio chiave, indicando la rapida evoluzione dei modelli linguistici rilevanti per applicazioni di assistenza al volo.",
+     "fonte": "Libero",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamUybnZOTzM0SEtLZWIwNlRTYUI0bFZMQTNPRVh2U28xSnNYcVFjT3VBQjJRQjNDbmhPUGIzTjZDdUU0TmhLMkFrdWdWdUJiT3VjS2F2UnFYMld6eWJsRGxyclFnUm5WdC15UklIRU8ySFIwVktxY0dMN00teW5hcVN3bEVYMmtMMXhSajU3Y2NkVDN40gGaAUFVX3lxTE40Z3o3ZlQtQk5RTDFHb2IzRlFtX3RTVG1INVZSVjRCa1ZJSjdpdy15ZjJ4RTEzQTVFWlFmV0lVWDF6MVZBWmtTa3RKVkRlSDgtbEpNNDFYdGVIWnFCMTQxR0trN0ZZcE5EM3JwYjl4dXppbDZ6TVN6VHIxWHdjNUxmeTlWT0dub2JwZllZZmFaRWgySjkxV0dDTUE?oc=5",
+     "ora": "2026-10-04T10:45:00+00:00"
+    },
+    {
+     "titolo": "Anthropic, l’Ipo dei record che sfida i rischi dell’IA",
+     "titolo_it": "",
+     "riassunto": "Anthropic sta lanciando un'IPO da record nonostante i rischi associati all'intelligenza artificiale, segnale di fiducia del mercato che potrebbe tradursi in maggiori investimenti e opportunità di lavoro nel settore AI applicato all'aerospazio.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5WXY2WHJoVTNvem5pVmtYcDVmd0hOUlo3SXRvTXE2UTltYndTTGVreGtDYUdiaXVoQzJNTExqc3JDa0Vvb0Y5elRYMmNQSzVuMDV2QkNxNFpkTXpKTW1EcUhOVUNGMGticUtGR3ZnVTVZOVJMMnhiZFVza9IBekFVX3lxTE16ZWEwZG16LVNlVDRsV28tSmtiZ1VMVkRjZm4zTG55T183bFVPVDJPWjVyaXR4TWlULVp1enYzUGNBUktBMldjRmxTd0NsaG1oVThscHhXUS1EeG85aENuSC14ZzV6YnRDUnZmekRsMy1RZW1SZW1QM1Rn?oc=5",
+     "ora": "2026-10-04T00:15:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Enac Servizi-\"Sapienza\": accordo per i tirocini curriculari",
+     "titolo_it": "",
+     "riassunto": "ENAC e Sapienza hanno siglato un accordo per attivare tirocini curriculari nel settore dell’aviazione e del controllo del traffico aereo. Offre opportunità concrete di stage in ambito ATM e sicurezza del volo, direttamente utili per uno studente di ingegneria aeronautica.",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1RSX3RXSlNiY3Q2X2dtVkVkOWlQREZwdDVVblo0THNVYW1kT2hsU3FJMEdibTE4RmFsQ0FMWU5GY044WFdmNEdwbFFCbmctR1JJVG5NM0hVLVVNbDJTenBRWXRhanR6bXdfNlhkTUY5TzJwTHZkQ3BSWXNwQXZBeVlPQ3Jzb0FWeVlER1dwbjYxNFFOS09XVzdtNGFPeTFwMDZZ?oc=5",
+     "ora": "2026-09-28T12:36:04+00:00"
+    },
+    {
+     "titolo": "Il primo Festival dell’Ingegneria alla Sapienza: l’impatto dell’IA sul futuro",
+     "titolo_it": "",
+     "riassunto": "Alla Sapienza si è tenuto il primo Festival dell’Ingegneria focalizzato sull’impatto dell’intelligenza artificiale sul futuro dell’ingegneria. Permette di conoscere le ultime applicazioni dell’IA, inclusi modelli linguistici come Claude, nel settore aerospaziale e di entrare in contatto con esperti e possibili tirocini.",
+     "fonte": "EZ Rome",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSFFhRGI3RUUyX2N5MmlfaVpsLVJ3MFotR1RoaFFCQTlaUk9VTlplYm1jTHo5Nmd1N05tREVxMHEzZ2ZkdHV0WmdZOHhhOUl2SlRIeXR2dWhrS2pTUzU4LTNEY0ZiN2lWSUw1RG5NYjQ4WWFyeURvcjQ4bF9qWmJHTDV5NkRIa3FfRkE3ZUNtNUFuQnJUcF84QndxcVVVTzl6azZOVDYybjJESU50U1d6WDUxWlBaVmRBMldzT1hkSFJRZVRIS21EeTlLM0lXLUpsT2lXcVRlVkg2UQ?oc=5",
+     "ora": "2026-09-30T16:15:02+00:00"
+    },
+    {
+     "titolo": "Difesa: ecco il nuovo vertice Aiad (Confindustria)",
+     "titolo_it": "",
+     "riassunto": "Confindustria ha nominato il nuovo vertice dell’Aiad, l’associazione che rappresenta le industrie aerospaziali e della difesa italiane. Segnala i nuovi riferimenti industriali da tenere d’occhio per stage e lavoro nel settore aerospaziale in Italia.",
+     "fonte": "Startmag",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN0dZNVNDdkdVMHBQM19PbjhLMUVmbkd4NmV5RHMwRVN5R2lHN0o3Y0REMEttdEdKUzBPVjBIVmRKWlBEVUpNV2lpUkNkZUJXcXdMQWR5X3JqSW1nM1l2M21zcE44OVFkZjl4ZFBLaWxyMllsb21lbmpDY2xmRGJ6QldLUW9EcHlVMUlGSA?oc=5",
+     "ora": "2026-10-02T10:42:00+00:00"
+    },
+    {
+     "titolo": "Gli eredi degli Eurofighter nasceranno a Torino: qui la sede italiana di Edgewing",
+     "titolo_it": "",
+     "riassunto": "È stata aperta a Torino la sede italiana di Edgewing, azienda che sviluppa i successori dell’Eurofighter. Rappresenta una nuova realtà industriale dove cercare opportunità di lavoro o stage nel campo dei velivoli militari e della tecnologia aerospaziale.",
+     "fonte": "lastampa.it",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVlZPTEg5cGNvUzRfVzJZRDhkb3cwb2x3TncyRlZGajQ5bk1HeTg2NXVCR1ZwRlZhaE9EQ2owRkNSNzc3OHpsU3kxTFBKOWg3cC1EbVBtMWxFTWFGSnZsUlRGbXhRYmowek00X2ZhMmxBSFVmd0xrWjUxVFozcWRBN2otc2E3N24xMGktcmU2ZUV5TnQtdDlLeE92aFBETndHT29fZlU4Y05QamFFMmc40gGkAUFVX3lxTFBIWi1PLWhyUmNSM1NEbnFNVEJRaUI3bXRVa2xXTGs1ZEtLV3J1X3pqbXM3dnduS18zaG05cEU2YXBpclFqVHhhUk5MRHgwSDlpYmo1RlVHRWQ2Q1lDeUx0Qm5laENWX3QybXdabE8yQjZpWHNCTlNvOGxEMV9ZMzEwVHBFeWdQZGlFNWoxOFNObE94UXhGZjBteTk0UkswYmhQZzhx?oc=5",
+     "ora": "2026-10-02T09:17:00+00:00"
+    },
+    {
+     "titolo": "'10 tesi per la sostenibilità', cosa prevede il bando universitario",
+     "titolo_it": "",
+     "riassunto": "L’università ha lanciato un bando che premia dieci tesi di laurea su temi di sostenibilità. Permette di orientare la propria tesi magistrale verso temi di sostenibilità applicata all’aerospazio, settore sempre più attento all’impatto ambientale.",
+     "fonte": "Sky TG24",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVnlEczZDZmdBNDNXSC1KM3Y2TVV4bjVINVBCWEFoaUpmekp0TjRIeW9sSXlKTHNlbjc0TkYxeUd6VV9GWEZOUmRReDZWcHNzb1lwdUpDSlB5Y1doUnM0RHVGYlBzT0prVzI4ZS04aG10WTR4YzNjaGEzT3pCY3c5VktWRElRdw?oc=5",
+     "ora": "2026-09-29T10:26:51+00:00"
+    },
+    {
+     "titolo": "Borse di studio in memoria di Torindo Zannoni: al via i progetti di approfondimento dell’Istituto Leonardo da Vinci",
+     "titolo_it": "",
+     "riassunto": "Sono state assegnate borse di studio per progetti di approfondimento presso l’Istituto Leonardo da Vinci. Offre sostegno finanziario per attività di ricerca o progetti legati all’ingegneria e all’innovazione, utili per arricchire il curriculum nello spazio aerospaziale.",
+     "fonte": "Occhio Viterbese",
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQkFoeDVFQXQ3LW1UU3lqVlBvMlRMVmNvWE9KNkFzVnN4dTl1ZnJuYjNkd2tZX056RHpvRTMzQ0pUajJrRGRYUElCSzhxdldsczY4cTZIbURlWG5tVU1fdENieVdFT2ZmcU1rdnBLZm1hRnhUeGo4S2dZVWJma0pLVldrc1NyUVE5OTJGSUJERUFpWHhfcmJ1X0ZOYXVXUjRWLTJvLVIwTEV5RFZUUU9KODFQaDlLS3ZDQ1ZPRnVvQU5qdzd4RWw1UndnR1pJREJSSnZNX29nRm9TXzBFVVRyeGU1WHBrby1oZWJiSGV1c3Y0QkhHXzRZNQ?oc=5",
+     "ora": "2026-10-03T08:18:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Aggressione sul volo Flydubai, il capitano al telefono con Netanyahu: \"Eroe dal coraggio incredibile\"",
+     "titolo_it": "",
+     "riassunto": "Il capitano di un volo Flydubai ha subito un'aggressione a bordo e ha parlato al telefono con Netanyahu, descrivendo l'episodio come un atto di coraggio. L'evento è rilevante per la sicurezza del volo e lo studio dei fattori umani in situazioni di emergenza.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/04/aggressione-sul-volo-flydubai-il-capitano-al-telefono-con-netanyahu-eroe-dal-coraggio-incr",
+     "ora": "2026-10-04T11:55:06+02:00"
+    },
+    {
+     "titolo": "Australia investigating Flydubai co-pilot's links to country",
+     "titolo_it": "Indagine australiana sui legami del copilota Flydubai",
+     "riassunto": "Le autorità australiane stanno indagando sui possibili legami del copilota di un volo Flydubai con il paese, dopo che egli aveva tentato di prendere il controllo dell'aeromobile diretto in Israele. L'indagine riguarda la sicurezza operativa e i rischi di minacce interne nel settore aereo.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-04T06:19:17+00:00"
+    },
+    {
+     "titolo": "La Corea del Nord testa missile a medio raggio e rivendica volo evasivo e funzioni IA",
+     "titolo_it": "",
+     "riassunto": "La Corea del Nord ha testato un missile a medio raggio, dichiarando di aver impiegato manovre di volo evasivo e funzioni di intelligenza artificiale. Il lancio mostra progressi nella tecnologia missilistica e nell'applicazione dell'IA nei sistemi di difesa.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/04/la-corea-del-nord-testa-missile-a-medio-raggio-e-rivendica-volo-evasivo-e-funzioni-ia",
+     "ora": "2026-10-04T11:43:25+02:00"
+    },
+    {
+     "titolo": "Un gigantesco pallone aerostatico si disintegra nel cielo di San Paolo",
+     "titolo_it": "",
+     "riassunto": "Un enorme pallone aerostatico si è disintegrato nel cielo di San Paolo, creando pericoli per gli aerei in volo e per le strutture al suolo. L'incidente evidenzia la necessità di monitorare meglio gli oggetti non identificati nello spazio aereo per la sicurezza degli aeroporti.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/10/04/un-gigantesco-pallone-aerostatico-si-disintegra-nel-cielo-di-san-paolo_57e3c1f3-5a33-4417-9887-c22b80065fb3.html",
+     "ora": "2026-10-04T11:28:19+02:00"
+    },
+    {
+     "titolo": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+     "titolo_it": "Attacco drone su ponte a Kiev durante visita del cancelliere tedesco",
+     "riassunto": "Un ponte a Kiev è stato colpito da un attacco di drone russo, provocando un grande incendio mentre il cancelliere tedesco faceva una visita a sorpresa. L'episodio sottolinea l'uso crescente dei droni nei conflitti e le implicazioni per la difesa aerea e i sistemi anti-drone.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-04T10:11:32+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
