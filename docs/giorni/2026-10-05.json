@@ -1,0 +1,245 @@
+{
+ "giorno": "2026-10-05",
+ "creato": "2026-10-05T12:18:56+00:00",
+ "in_breve": [
+  "ENAC al Festival dell’Aerospazio 2026 offre opportunità di formazione e nuove competenze per il settore.",
+  "Anthropic stanzia 100 milioni per formare 10 mila ingegneri, con Claude che entra nelle aziende.",
+  "Primo Festival dell’Ingegneria alla Sapienza, focus sull’impatto dell’IA per il futuro tecnologico."
+ ],
+ "modello": "nvidia/nemotron-3-super-120b-a12b:free, nvidia/nemotron-3.5-lightning:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Airbus Closes In On A350 & A321neo Order From Airline That Just Doubled Down On Boeing",
+     "titolo_it": "Airbus vicino a ordine per A350 e A321neo da compagnia che ha aumentato gli ordini Boeing",
+     "riassunto": "Airbus è vicino a chiudere un ordine di dieci aeromobili A350 e A321neo da una compagnia che ha appena aumentato gli ordini Boeing. Questo mostra la competitività tra i due costruttori e le opportunità di mercato per fornitori e ingegneri.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/airbus-biman-bangladesh-a350-a321neo-order-boeing/",
+     "ora": "2026-10-05T08:05:55+00:00"
+    },
+    {
+     "titolo": "Airbus consegna satelliti per costellazione OneWeb di Eutelsat",
+     "titolo_it": "",
+     "riassunto": "Airbus ha consegnato i primi satelliti per la costellazione OneWeb di Eutelsat, contribuendo all'espansione della connettività globale dallo spazio. Evidenzia il ruolo crescente di Airbus nel settore dei satelliti e delle mega‑costellazioni.",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFpuX0N0aEZ2Yld4bjJoT2FRMUdRZmszcTB3T0lvcng3dzBEVTBGdFBxU0pYa29DT1U1TjBVbEQ4QkpsT1hBNnExSmk0c21WOURKTzdCQjM5QWxFSmFoY2MyM1dyMWhvOUFvOURtYWlRRVEteWI4cFRfQzhoa2MxdG5OQTRSdm80em1EQTVBY0dPNTBubjhrSFZfUFF6S2prcWstc25BTHE4VVU?oc=5",
+     "ora": "2026-10-05T11:12:41+00:00"
+    },
+    {
+     "titolo": "Enac al Festival dell’Aerospazio 2026: formazione e nuove competenze per il futuro del settore",
+     "titolo_it": "",
+     "riassunto": "ENAC partecipa al Festival dell’Aerospazio 2026 con iniziative di formazione e presentazione di nuove competenze richieste dal settore. Offre spunti su stage, corsi e competenze utili per chi cerca lavoro nell'aerospazio.",
+     "fonte": "enac.gov.it",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRVZZNmljVnhLcXF3Y2daV1BuVjNBbm5nWFo5d0FJNG9lbWtfZHQxQ1lYWEFBWHoycFk4elNWb09yb0VTRnllTENwRm9Ed3RKdEM5VU1sOHM2RktmTXRVWUxjM04zR3FzVHMxRGxUNDdvUXNISHVodDJEZk95V2FWdzVRYTFFWE5INjMyUll5Umo0SEZOOU9Qd3NzM0Vlc282ZTRTdmRBaTVEeHBuZ0dMU2hFOHUxTEFSc0hvc0J4RQ?oc=5",
+     "ora": "2026-10-05T09:25:27+00:00"
+    },
+    {
+     "titolo": "Enac al FIABA Day 2026: insieme per un trasporto aereo sempre più accessibile e inclusivo",
+     "titolo_it": "",
+     "riassunto": "ENAC è presente al FIABA Day 2026 per promuovere un trasporto aereo più accessibile e inclusivo, affrontando temi di fattori umani e design universale. Rilevante per chi è interessato a sicurezza, ergonomia e politiche di inclusione nel trasporto aereo.",
+     "fonte": "enac.gov.it",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMG9VMmFubUtjQ1RMazdURmtlYURVRW9WclhsVFRDNjdsZG1hT3drUUstdDFlclZaZW5ZOU02eHgxRUpaRUNScVEtTU90aEVYOE9LQW9pcC1qNHpweTN2eHhydDNRNDFaQlRzc3FEbVo0YjRZQ3JrVE1UaXRTWTBpa0RqZnBjeE5ZbXVsNEZoSk9lTGVUYUV0YlplRWRXTVZrbVVNbjJnbFZ0XzJXbjI0RXFnbjlENUxlckE?oc=5",
+     "ora": "2026-10-05T07:35:05+00:00"
+    },
+    {
+     "titolo": "Sciopero Enav, disagi si, ma, diritti intatti",
+     "titolo_it": "",
+     "riassunto": "Lo sciopero di ENAV ha causato disagi nei servizi di controllo del traffico aereo, ma i diritti dei lavoratori sono stati rispettati. Evidenzia le tensioni lavorative nel settore ATM e il loro impatto sull'operatività aeroportuale.",
+     "fonte": "Corriere Salentino",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM21kSXhjRzR2bVBCOUxIMC1OWjZZbWdZY0lSZk9OSDZBQWM5TGZST3h1QWRRR2xqekZVcGU5N3FQUVh1Y1RrLUNhNG1wLUIyRVlJZVh1SGVSc19lYVVoQUJ2bU9tMDFJMzdUN09YVUpYWFV2X3JnQXVINlZlbEhNWC1QV0ctaktnVklqbw?oc=5",
+     "ora": "2026-10-05T07:30:30+00:00"
+    },
+    {
+     "titolo": "Difesa, aeronautica e spazio elevano il loro fatturato in Spagna fino a 18.034 milioni nel 2025, un 11,6% in più",
+     "titolo_it": "",
+     "riassunto": "Il settore difesa, aeronautica e spazio in Spagna ha raggiunto un fatturato di 18,034 milioni di euro nel 2025, con un aumento dell'11,6% rispetto all'anno precedente. Indica la crescita del mercato aerospaziale europeo e le relative opportunità di investimento e occupazione.",
+     "fonte": "Demócrata",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMHREcXBkRkhnR0t0U1l6OFpVSFUzRkgzM00waThYV25wN1J4bjl4SzFBS0Q1bHNrdmNvQUlQV2Z1Uzd6b21UZkNTWjNJUmVqbGwzMm9zNkxNcGdJVW9paGFuRDk2MWpJOHR5UkM5TjE2dXlMSFQ1enhIMjdrUnRTX1dDVkx3V2hobUxYXzJSNE9HZ1NySEEtR2xiX01ERXN2Z2pUek56bXZqdzhDN1hWX3phUVY2QUJKMmkwclB0eDBNZ3JCYWptWFZ0Z0JYYm91elVQOEpJN19hS25RMm1FTXVSeE5qQdIB5gFBVV95cUxQMHREcXBkRkhnR0t0U1l6OFpVSFUzRkgzM00waThYV25wN1J4bjl4SzFBS0Q1bHNrdmNvQUlQV2Z1Uzd6b21UZkNTWjNJUmVqbGwzMm9zNkxNcGdJVW9paGFuRDk2MWpJOHR5UkM5TjE2dXlMSFQ1enhIMjdrUnRTX1dDVkx3V2hobUxYXzJSNE9HZ1NySEEtR2xiX01ERXN2Z2pUek56bXZqdzhDN1hWX3phUVY2QUJKMmkwclB0eDBNZ3JCYWptWFZ0Z0JYYm91elVQOEpJN19hS25RMm1FTXVSeE5qQQ?oc=5",
+     "ora": "2026-10-05T10:36:43+00:00"
+    },
+    {
+     "titolo": "The $4.9 Billion Problem That Made Boeing Dismantle A 777X Airframe Before Even Flying It",
+     "titolo_it": "Il problema da 4,9 miliardi che ha portato Boeing a smantellare un telaio 777X prima del volo",
+     "riassunto": "Boeing ha deciso di smantellare un telaio del 777X a causa di un problema da 4,9 miliardi di dollari, prima che l'aereo volasse. Mostra le sfide tecniche e finanziarie dei nuovi programmi di aeromobili e le lezioni per l'ingegneria aeronautica.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/boeing-problem-dismantle-777x-airframe-before-flying/",
+     "ora": "2026-10-05T08:00:14+00:00"
+    },
+    {
+     "titolo": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
+     "titolo_it": "Agile Space Industries rafforza il consiglio e lo sviluppo aziendale per sostenere la crescita",
+     "riassunto": "Agile Space Industries ha rafforzato il proprio consiglio di amministrazione e lo sviluppo aziendale per sostenere la sua crescita continua nello spazio. Segnale di espansione delle imprese private nello spazio e di possibili collaborazioni o opportunità di carriera.",
+     "fonte": "SpaceNews",
+     "link": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/",
+     "ora": "2026-10-05T12:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Anthropic, assegno da 100 milioni per formare 10 mila ingegneri. Claude mette un piede nelle aziende",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha stanziato 100 milioni di dollari per formare 10 000 ingegneri, con Claude che inizia a essere usato nelle aziende. Questo segnala un forte investimento in talenti AI e possibili opportunità di stage o lavoro per ingegneri interessati al settore.",
+     "fonte": "la Repubblica",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRk1ubzk1SE8tb2VsdVkyOWVPalZfMU5rdkt5cHRiU1hqRV9XY3VaLTlabFBRRUktcnhLSzFqQzZWaUNoQ0pNUVhxWXhIcDRBOFJpNF9GRmZkWHIyUjduMzRYZGZUb2NvVjVnaGpzVWRybzFVZDlJeXFYS2lOcWNBR2JWVG84WlpRSFE0eW5QNHRLSmJMRXFxSzBQSTJtMEZBMVFlcjhRMXFvSkh2VU42YThrZHExM0tBT3QtZ1l1MWYtTUVqMFJTdklZSmxyeXhMb1E2Z1E1WmZVOHdDN1lRZmFONXIwUDJTMnNjLW9iSXRMUQ?oc=5",
+     "ora": "2026-10-04T18:07:31+00:00"
+    },
+    {
+     "titolo": "Claude vuole anche la nostra voce: il nuovo confine dei dati regalati all’IA",
+     "titolo_it": "",
+     "riassunto": "Claude vuole anche la nostra voce: Anthropic sta chiedendo di utilizzare dati vocali per addestrare il modello, sollevando questioni di privacy e fattori umani. È rilevante per chi si occupa di interazione uomo‑macchina e gestione dei dati in ambito aerospaziale.",
+     "fonte": "Quotidiano Nazionale",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGNKeVllelJpS29uV0pRa1lBVGpYNVJDcS1Vb0RmeWhsSl80RWhoaUI2LTlaVmxhUjg2cHFoNGVzVVNWRXFyTWpsampJT3hZTF9oam5SQVlPeU0zaW9Va1pVeEFrRVVBMjVrX3YwY2JrSXctRnA4OU1Na3pON0h4bS0tOVM2R1QyN2tkc3dFQTl5RTA1cWlMTS1fTkU0a29ob1JEa3ZORDBkZW81NHRZNUhJVnQ0QQ?oc=5",
+     "ora": "2026-10-05T11:15:00+00:00"
+    },
+    {
+     "titolo": "Si dimette un responsabile della sicurezza di OpenAI. La lettera su The Atlantic: «Mi sono licenziato perché la cultura aziendale è corrotta»",
+     "titolo_it": "",
+     "riassunto": "Un responsabile della sicurezza di OpenAI si è dimesso e, nella lettera pubblicata su The Atlantic, ha denunciato una cultura aziendale corrotta e poco attenta alla sicurezza. Il caso offre spunti su come gestire la sicurezza nelle organizzazioni tecnologiche, utile per chi lavora sulla safety del volo.",
+     "fonte": "Corriere della Sera",
+     "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNekQ3QWFpOEpDQ2pZdnJjZWNkTjdaak5QYVQ3R0p1NFhBaUZkTVlXREY1dERhWUhWU2FvMFZyTWlwNUFHSU5hazg0NzNJZUNwYkExMG5vODBiLTQ2TDd2T1lOM292SUp4ajBQSFR2ODNqRmJSYm5DN1pIWFJOaUMtMlIzUFRwY2hHUEtMczBGZnNhaEZaMlcxSndyY0hka0hXQ3BGcW5lbFk5T29HbXlEOThKOEpCUFBoZzczXzg2d05md0N5THctdEpaTDB6VXF5ZGVPN3dTSXhXdTRkZWo5ZlZFMk5PQkVwaEw4YkZSWWoxWS1uWGNpTlJNT2ZDcERFSFhiTk5ZUWNGaVBGajNOQkpsSGt4WGtlVWNlSTZJUUZHdHpmZ2QtaWE1aUlTdFV0cm5PMXVGZlBWYVdFSUdPQkVn0gHHAkFVX3lxTE1NT1ZwZlFGb05Ed0VyTW95akV6eTNyUkEwZDZWdUNlNmhGRHl0THd6NDVaMWcwOGFnV1F2NWNYXzJ5VktrX29ZT00tLTJfWm5lZzBlUGc2MHN5aFdxSGhKX0trdGxLQlZySXpFZy1oRGdGMFF1ZE5kbHA4eXBaQTVvb3FvMlI1Z0ZlMDlUa3NyOGd5Q2dSOVE5U2xoX2hpOUZqdENuNWtiQmlCOFZyMFVDcWRNU1Mya3FfTURUQWVNRE95anNpQmlvZXhCeXMzbl9zc0l2LXh2cy15ZTgydEdhUTh3X1liVmVuLV96dVlfc2R1TFhibGtta2d2VUJUTXhkYlZ3cXdTekp5XzhIRnhTbmxMMmdNaExZLV9saTR6QnZEVkRfVjhnWF9MYzlVaHBtUjlyREpYRWxDeTBjUmZmelQ4MERxWQ?oc=5",
+     "ora": "2026-10-05T06:29:00+00:00"
+    },
+    {
+     "titolo": "Gary Marcus paragona gli agent AI a auto con freni di cartone mentre la FTC apre un’indagine",
+     "titolo_it": "",
+     "riassunto": "Gary Marcus paragona gli agent AI a auto con freni di cartone mentre la FTC apre un’indagine sui loro rischi. Evidenzia le preoccupazioni sulla sicurezza dei sistemi autonomi, tema direttamente collegato alla sicurezza del volo e dell’ATM.",
+     "fonte": "Yahoo Finanza",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGRMSWhfRmt1N0JwTlpxTng3WGloN2I1UFpOeFgzRlN0NXdmZ3h1RWgyZ1lGVXpFT3YzdWg2MnJPeUFVbjZXc3ctaHBXUWM4UU5nd0hkd1FrclBBRzRWOE1HeEdjc25NenFvTzVfbllza3ZISmNTOFlyQ1BTNV9PQ0d0VnBiSkdXc0E?oc=5",
+     "ora": "2026-10-05T09:00:00+00:00"
+    },
+    {
+     "titolo": "Inchiesta rivela che Anthropic premeva sul Vaticano sulla coscienza delle AI",
+     "titolo_it": "",
+     "riassunto": "Un’inchiesta rivela che Anthropic avrebbe cercato di influenzare il Vaticano sulla questione della coscienza dell’intelligenza artificiale. Mostra come le aziende AI si impegnano in dibattiti etici e di policy, utile per comprendere il contesto normativo emergente.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM3lvN0prc2dFTGF3dE1ZUDl2NzFhTUh3X3lZVmFlbFZVUEtIb1p2bk9NRm5iZGd3LUF2LVMtb0VFRjFYekpBNEdDeWZQRXhCU2pNWlAtcTlyYWZtSGVVVG5mWUxrVVM4clgxbGp2a21CVWk4OV9qN0VtLVY5elIyQVBUZ2VnRUJfeWc?oc=5",
+     "ora": "2026-10-05T10:27:10+00:00"
+    },
+    {
+     "titolo": "Un ex ricercatore di Anthropic testimonia all’udienza del Consiglio di NYC sull’IA",
+     "titolo_it": "",
+     "riassunto": "Un ex ricercatore di Anthropic ha testimoniato davanti al Consiglio di New York sull’IA, portando evidenze su rischi e necessità di governance. Fornisce una visione pratica di come le istituzioni stanno valutando la sicurezza dell’IA, pertinente per chi si interessa di policy e sicurezza.",
+     "fonte": "Investing.com - Quotazioni, Borsa, Economia e Finanza",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR3VFQTV6ckZ6NEVOemhqYWo4YlZMSDBrbTZtbVBXaVBsbklCTnJ2Z3AyRFBfazIxZzd3cDFCT2w5bFdtdTkyWXZFMXYxTmRzVWxzY3ptdDRIVlZJSThmY0JCUHk4azNGODhZbVplMWVTeEdyWnJnbkFrMDZlZm9rdGpKdDJaU1lxcmhFYmtGbjd0anM2eTU5cXFydlZ0M25KcWJrOS1BSDhlVTYwMEJBUUhjNjdVc19YUENoVjJFRFZtT3dYM003STJmZFdwVmlNOXc?oc=5",
+     "ora": "2026-10-05T01:44:09+00:00"
+    },
+    {
+     "titolo": "Lo scontro tra Anthropic e OpenaAI sulla “coscienza” dei modelli",
+     "titolo_it": "Lo scontro tra Anthropic e OpenAI sulla “coscienza” dei modelli",
+     "riassunto": "Anthropic e OpenAI hanno aperto un dibattito pubblico su se i loro modelli linguistici possiedano una forma di coscienza. Il tema tocca le questioni etiche e di fiducia nell’automazione, rilevanti per i fattori umani nell’aviazione.",
+     "fonte": "la Repubblica",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ0laM3VFQVh6NHdrOFpRSmxhei1NY0xNWGRSYmF1WkZJbmRmTm1fUThLaHJraG0wY2N0Zjd4RmNwMXlCcWJkdEE2aVNlN3pPdXV2YV9IYVI0YVJSak9scklGM1kxa0YyM3NfRGNSbUtGUzBZV0lIcDZHOF8zVVFiWGZXMU9uSFZIbHhDZTBxR0pyTlRtWElhYzNMUkF5UdIBowFBVV95cUxQbE83Q3JVajlvLUZKZEtXY3lNMU9BUzE5ekNUS2c5clQ0dHdOdzJSSUYtZUViSFBmZk9RcGRsQmx2YUdZOXFWcDNrTmhZNGVhb1NPRG4xYWhYVXFIbzZ3aTJkLXY0S3lfeFhIbWZQR2FSVjcwdXNCQlh4UDl4TDZLeUU2RThUUVhhTjdCbS1CWXNHYnotU041dGE3N0E1azNtRDlN?oc=5",
+     "ora": "2026-10-05T11:01:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Il primo Festival dell’Ingegneria alla Sapienza: l’impatto dell’IA sul futuro",
+     "titolo_it": "",
+     "riassunto": "Il primo Festival dell’Ingegneria alla Sapienza analizza l’impatto dell’intelligenza artificiale sul futuro dell’ingegneria, con focus sui modelli linguistici e sulle possibili applicazioni nel settore aerospaziale.",
+     "fonte": "EZ Rome",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSFFhRGI3RUUyX2N5MmlfaVpsLVJ3MFotR1RoaFFCQTlaUk9VTlplYm1jTHo5Nmd1N05tREVxMHEzZ2ZkdHV0WmdZOHhhOUl2SlRIeXR2dWhrS2pTUzU4LTNEY0ZiN2lWSUw1RG5NYjQ4WWFyeURvcjQ4bF9qWmJHTDV5NkRIa3FfRkE3ZUNtNUFuQnJUcF84QndxcVVVTzl6azZOVDYybjJESU50U1d6WDUxWlBaVmRBMldzT1hkSFJRZVRIS21EeTlLM0lXLUpsT2lXcVRlVkg2UQ?oc=5",
+     "ora": "2026-09-30T16:15:02+00:00"
+    },
+    {
+     "titolo": "Aeroporto di Fiumicino, 10 nuove assunzioni: requisiti",
+     "titolo_it": "",
+     "riassunto": "L’aeroporto di Fiumicino ha aperto 10 nuove posizioni, pubblicando i requisiti richiesti per lavorare in ambito aeroportuale e nella gestione del traffico aereo.",
+     "fonte": "linformazione.com",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkZLTFl0Z192Wl9lNWs5RHNFbGE1MkpYZ3o3bkdVZFdqQlFwU3pxcE84c0syNlh4S2RYT0pCWExxZ1RscDlpcjFaTDJvalpVeXhDaVE5YVVkTi1NenVXNzJxaURzU2VzSTl0dzBRYnQ5Q1JHRmxKM3R6YWNxWjBZdzZGOUpmRkdrT3VsS18yM3pYeUJmLTAxQVBrNWZpVFk3ZUwyZGVkRERxaEVQRkE?oc=5",
+     "ora": "2026-10-04T12:36:00+00:00"
+    },
+    {
+     "titolo": "Borse di studio in memoria di Torindo Zannoni: al via i progetti di approfondimento dell’Istituto Leonardo da Vinci",
+     "titolo_it": "",
+     "riassunto": "Sono disponibili borse di studio in memoria di Torindo Zannoni presso l’Istituto Leonardo da Vinci, destinate a progetti di approfondimento in ambito ingegneristico, utili per chi vuole specializzarsi nel settore aerospaziale.",
+     "fonte": "occhioviterbese.it",
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQkFoeDVFQXQ3LW1UU3lqVlBvMlRMVmNvWE9KNkFzVnN4dTl1ZnJuYjNkd2tZX056RHpvRTMzQ0pUajJrRGRYUElCSzhxdldsczY4cTZIbURlWG5tVU1fdENieVdFT2ZmcU1rdnBLZm1hRnhUeGo4S2dZVWJma0pLVldrc1NyUVE5OTJGSUJERUFpWHhfcmJ1X0ZOYXVXUjRWLTJvLVIwTEV5RFZUUU9KODFQaDlLS3ZDQ1ZPRnVvQU5qdzd4RWw1UndnR1pJREJSSnZNX29nRm9TXzBFVVRyeGU1WHBrby1oZWJiSGV1c3Y0QkhHXzRZNQ?oc=5",
+     "ora": "2026-10-03T08:18:16+00:00"
+    },
+    {
+     "titolo": "L'aeroporto di Long Thanh accelera le assunzioni in vista della fase operativa.",
+     "titolo_it": "",
+     "riassunto": "L’aeroporto vietnamita di Long Thanh sta aumentando le assunzioni in vista della fase operativa, aprendo possibilità di stage o lavoro internazionale nel campo aeroportuale.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU29sOHFwTTlxT0I2LW9saTFDMkE5TWlObjdnUEMwTTZ5TnVob0dsNHB1T2NXREZTQnFidE92RnVkWFM4ZVgxTUJ5ZVNRXzhZbDFoM2pVXzFzQWFCOUxTME0zZkN6R2tqa1lxNWlPZTlEamd5RFZtY3RSdk40RWVoSzRBV0oxU2Q0LXVqTHlNUTNFRjF0?oc=5",
+     "ora": "2026-10-03T15:24:51+00:00"
+    },
+    {
+     "titolo": "Oltre 2.000 posti di lavoro disponibili per studenti di ingegneria e tecnologia.",
+     "titolo_it": "",
+     "riassunto": "In Vietnam sono segnalati oltre 2.000 posti di lavoro per studenti di ingegneria e tecnologia, tra cui ruoli che possono interessare profili aeronautici e aerospaziali.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZUtNdmFQRU1nRjNpNjc2UXBoSEVVSEdUMVhXNUdhclVJdlRxeU1HMnNMbWV6OXFJWWMwM2J6TEx0NDRBaFEzTHpybXg5dFhjdTRZalJJcmhjTk9ERUtCRzdmbzRNN0RqZnk5bUdWbnVwdEZkZ0NvOVRTY1o2WVFweTRDREstbU5VTldyS0kxaUllblRteXc?oc=5",
+     "ora": "2026-10-03T12:46:12+00:00"
+    },
+    {
+     "titolo": "Toccare il sogno dell'aviazione",
+     "titolo_it": "",
+     "riassunto": "L’articolo ‘Toccare il sogno dell'aviazione’ racconta esperienze e opportunità per avvicinarsi al mondo dell’aviazione, offrendo spunti motivazionali per chi vuole iniziare una carriera nel settore.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tbGtGUlJSYUNpbEFWSDFLd2lPQkxRYjVaV2pHNWxkXzIyb3ZKT19sRkJsRDdxbzRNN2cyT1ZhZnVuSjZCMWFBY0M5ODhnRlZEY0hMVHcwcGNURGlodUlYLXY3UQ?oc=5",
+     "ora": "2026-10-04T04:53:23+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+     "titolo_it": "Il copilota di Flydubai avrebbe pianificato di schiantare l'aereo contro l'aeroporto di Tel Aviv",
+     "riassunto": "Secondo rapporti, il copilota omanita di un volo Flydubai aveva intenzione di dirottare l'aereo verso Tel Aviv per colpire l'aeroporto o un edificio, evidenziando rischi di fattori umani e sicurezza del volo.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-05T11:34:59+00:00"
+    },
+    {
+     "titolo": "Musk segue Trump e rinomina SpaceXAI in SpaceXSI oggi",
+     "titolo_it": "",
+     "riassunto": "Elon Musk ha rinominato la divisione IA di SpaceX da SpaceXAI a SpaceXSI, seguendo l'idea di Trump di chiamarla 'super intelligence', segnando un nuovo focus sull'intelligenza artificiale nel settore spaziale.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/05/musk-segue-trump-e-rinomina-spacexai-in-spacexsi-oggi",
+     "ora": "2026-10-05T12:44:39+02:00"
+    },
+    {
+     "titolo": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+     "titolo_it": "Il governo britannico assicura che la base RAF Fairford è sicura dopo il ritiro dei bombardieri statunitensi",
+     "riassunto": "Dopo il ritiro dei bombardieri B-1 dalla base britannica di RAF Fairford, le autorità britanniche dichiarano che la struttura rimane sicura, tema rilevante per la gestione dello spazio aereo militare e la sicurezza degli aeroporti.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-05T12:07:59+00:00"
+    },
+    {
+     "titolo": "Trump chooses top spy boss to run new AI taskforce",
+     "titolo_it": "Trump sceglie il capo dei servizi segreti per guidare la nuova taskforce sull'IA",
+     "riassunto": "Il presidente statunitense ha affidato al direttore dell'intelligence nazionale la guida di un gruppo di lavoro sull'intelligenza artificiale, riflettendo la crescente attenzione politica sull'IA e le sue implicazioni per settori ad alta tecnologia come l'aerospazio.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-05T10:03:38+00:00"
+    },
+    {
+     "titolo": "\"Io sono Giorgia Meloni\" diventa un marchio registrato: così la premier si difende da Ai e deepfake",
+     "titolo_it": "",
+     "riassunto": "La premier italiana ha registrato il proprio timbro vocale come marchio per contrastare l'uso non autorizzato di deepfake e contenuti generati da IA, un tema legato alla sicurezza dell'informazione e all'uso responsabile dell'intelligenza artificiale.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/05/io-sono-giorgia-meloni-diventa-un-marchio-registrato-cosi-la-premier-si-difende-da-ai-e-de",
+     "ora": "2026-10-05T12:54:27+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
