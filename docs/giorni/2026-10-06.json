@@ -1,0 +1,231 @@
+{
+ "giorno": "2026-10-06",
+ "creato": "2026-10-06T12:03:16+00:00",
+ "in_breve": [
+  "Anthropic sta lavorando sulla sicurezza degli agenti di intelligenza artificiale.",
+  "L'aeroporto di Fiumicino ha aperto nuove posizioni lavorative con requisiti specifici.",
+  "La Sapienza organizza il primo Festival dell'Ingegneria focalizzato sull'impatto dell'IA."
+ ],
+ "modello": "google/gemma-4-31b-it:free, nvidia/nemotron-3-super-120b-a12b:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Why EASA's 7,800-Cycle Inspection Order Just Rewrote Boeing 787 Maintenance Planning",
+     "titolo_it": "Ordine EASA di ispezione 7.800 cicli per Boeing 787",
+     "riassunto": "EASA ha introdotto un ordine di ispezione ogni 7.800 cicli per il Boeing 787, modificando i piani di manutenzione e impattando sui costi operativi e sulla sicurezza del volo.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/easa-7800-cycle-inspection-order-rewrote-boeing-787-maintenance-planning/",
+     "ora": "2026-10-06T00:00:16+00:00"
+    },
+    {
+     "titolo": "EASA Grounds Elixir Fleet After Fatal Accident",
+     "titolo_it": "EASA blocca la flotta Elixir dopo incidente mortale",
+     "riassunto": "Dopo un incidente mortale in Francia, EASA ha emesso una direttiva che ferma le operazioni della flotta di addestramento Elixir, evidenziando l'importanza della vigilanza sulla sicurezza dei velivoli da addestramento.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/easa-grounds-elixir-after-fatal-accident/",
+     "ora": "2026-10-05T14:25:22+00:00"
+    },
+    {
+     "titolo": "How Cabin Crew Rest & Sleep On The Airbus A350-1000",
+     "titolo_it": "Come il personale di cabina riposa e dorme sull'Airbus A350-1000",
+     "riassunto": "L'articolo spiega come gli equipaggi di cabina gestiscono riposo e sonno sull'Airbus A350-1000, mostrando le soluzioni adottate per rispettare le normative sui tempi di riposo e ridurre la fatica.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/how-cabin-crew-rest-sleep-on-airbus-a350-1000/",
+     "ora": "2026-10-06T01:45:14+00:00"
+    },
+    {
+     "titolo": "Aeroporto di Brindisi riceve certificato di collaudo e conseguimento dell’agibilità Enac",
+     "titolo_it": "",
+     "riassunto": "L'aeroporto di Brindisi ha ottenuto il certificato di collaudo e l'agibilità da Enac, permettendo la piena operatività e rappresentando un passo avanti per le infrastrutture aeroportuali italiane.",
+     "fonte": "Oltre Free Press",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEJkMWhYVTN3b0dJMUU0b21ZelRHczJFbUxQOVM4aTZPVU0zakhFT2Z3TUdWYnY2eEk2MjVBbmFuNzRtTnA1R0JqY2dpSi1PYUFuVEVMV3RsUW9aajlHU1dxcjlRQ1RWeG9KTWs0SW5DVW85VmYtaDZqblM4UGJvWFliNERoaFBIbm1EdXdrWEFXVDRTNVFscThoSHdyV2IwX0xLMnVCTDBWb0dKNjR5N3pvWWZYb1RfRWYw?oc=5",
+     "ora": "2026-10-06T06:13:19+00:00"
+    },
+    {
+     "titolo": "Vertical Aerospace beefs up board with former Leonardo Helicopters US CEO",
+     "titolo_it": "Vertical Aerospace rafforza il consiglio con ex CEO di Leonardo Helicopters US",
+     "riassunto": "Vertical Aerospace ha nominato nel suo consiglio di amministrazione l'ex CEO di Leonardo Helicopters US, segnando un rafforzamento della leadership nel settore eVTOL e potenziali opportunità di collaborazione con aziende italiane.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/vertical-aerospace-leonardo-helicopters-us-ceo-joins-board",
+     "ora": "2026-10-05T14:27:54+00:00"
+    },
+    {
+     "titolo": "Avio: nuove nomine nel cda e nel management",
+     "titolo_it": "",
+     "riassunto": "Avio ha annunciato nuove nomine nel consiglio di amministrazione e nel management, indicando cambiamenti strategici che possono influire sulle prospettive di carriera e stage nell'azienda aerospaziale italiana.",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGRkSFFkWjFPeG13OEQtVHlqb3JuMXNvUW93TFBYckt0WVFySkxWelVvS0FFQmh3SUxtMkxNNTZmcW55WDFOYnJpRHJBNHRuT2lrcDBvcFhaeGlIVW9aTjVCMmYwVkNPTkt2bENCYklTRllITkMzVUx6aDZHVm1HaF9LSkozTHR6Rm1YTUhLQUc?oc=5",
+     "ora": "2026-10-06T08:27:00+00:00"
+    },
+    {
+     "titolo": "Thales Alenia Space Italia, ecco come potrebbe nascere un polo nazionale autonomo",
+     "titolo_it": "",
+     "riassunto": "Thales Alenia Space Italia sta valutando la creazione di un polo nazionale autonomo per lo spazio, un'iniziativa che potrebbe aumentare le capacità produttive e di ricerca italiane nel settore spaziale.",
+     "fonte": "CorCom",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU1lzRG5qZGNwRjJlMTNTbV8zTzFhUWRad1k4YjNHTkw3cmtnaGEwRjdRaUY5TGd6MkpYNV95NmFpTGp4Ny1yYWZfSmpwVFpmQ0xIUHVHaklEcHdfZUhJRW5lMmlrVVJwNC1IODljRFV2clQwbTRfdFhFRnl5d1I2ZFdDV3pWS2cwNDlUS2pHcUtVejJpcHBmRnQtSHdTU2QyWUp3amQzMDB4YjVISVJFcFZva3MxTVFxR1A0SV9idEwtV0dlLVpWNkVB?oc=5",
+     "ora": "2026-10-06T08:04:27+00:00"
+    },
+    {
+     "titolo": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+     "titolo_it": "NASA trasmetterà in diretta il ritorno e l'ammaraggio della missione SpaceX Crew-12",
+     "riassunto": "NASA trasmetterà in diretta il ritorno e l'ammaraggio della missione SpaceX Crew-12, offrendo un'occasione per seguire le operazioni di rientro umano dallo spazio e approfondire le tecnologie di recupero.",
+     "fonte": "NASA",
+     "link": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
+     "ora": "2026-10-05T21:44:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "All the drama around AI’s takeover of mathematics",
+     "titolo_it": "L'IA e la conquista della matematica",
+     "riassunto": "OpenAI e Anthropic hanno ottenuto progressi significativi nella risoluzione di problemi matematici complessi. Questo è fondamentale per l'ingegneria e lo sviluppo di modelli più precisi.",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+     "ora": "2026-10-05T15:28:59-04:00"
+    },
+    {
+     "titolo": "OpenAI is adding text watermarking in ChatGPT and Codex",
+     "titolo_it": "Watermarking dei testi di OpenAI in Europa",
+     "riassunto": "OpenAI introduce un watermark invisibile nei testi di ChatGPT e Codex per l'Unione Europea. La misura serve a rispettare l'AI Act e a identificare i contenuti generati artificialmente.",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+     "ora": "2026-10-05T14:08:39-04:00"
+    },
+    {
+     "titolo": "Anthropic comunica all'Australia la propria disponibilità ad accettare leggi che impongano di segnalare gli attacchi agli agenti di intelligenza artificiale",
+     "titolo_it": "Anthropic e la sicurezza degli agenti AI",
+     "riassunto": "Anthropic è disponibile a segnalare gli attacchi informatici agli agenti AI alle autorità australiane. La notizia è rilevante per chi si occupa di sicurezza e affidabilità dei sistemi autonomi.",
+     "fonte": "it.marketscreener.com",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWkVPOERHU0czSGZ2ckJkcWYwY3dGWFBHRUtycmFHeW1oZE1zY1Ffczc5UkNDV0ZFS1BLZWFkUTZwOVdUNDJnaWx4a25hU0txRGF4YVBGNVNFaUxXczg2bDlDWnNOWDJkYkk5RFVRdTctWW9SSzJQbmExV2UybGFkQU91MFlIMnFHVXBBeDM1THFxQ2N5Ti1uQUxfWDBoeklXMjUyeVVPUkNwZGhSOEQ4MVRJV2tJa0JfbVVlX3RONF9SNWhLdjBEYVBEU2tod2JlSHhhLTRXUlNGSEQ1OU9QM204ck94cGZoOVVJ?oc=5",
+     "ora": "2026-10-06T03:25:14+00:00"
+    },
+    {
+     "titolo": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+     "titolo_it": "Bot di OpenAI e problemi a Wikipedia",
+     "riassunto": "La Wikimedia Foundation ha segnalato modifiche non autorizzate e blackout causati da agenti di OpenAI. Il caso evidenzia i rischi legati all'interazione autonoma tra IA e infrastrutture web.",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+     "ora": "2026-10-05T15:05:19-04:00"
+    },
+    {
+     "titolo": "Il CEO di Mistral afferma che il nuovo modello di intelligenza artificiale supera quelli cinesi in alcuni ambiti",
+     "titolo_it": "",
+     "riassunto": "Il CEO di Mistral sostiene che il nuovo modello dell'azienda superi quelli cinesi in alcuni ambiti. Rappresenta un punto di riferimento per l'ecosistema AI europeo.",
+     "fonte": "it.marketscreener.com",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU0hFcDVQeF9UN1RxTjl1NkRUbEFLUmhpZUt6TDl5c3Y0UnB3bjFuSXlLSGU3djVDWGpnN3B3NXFoU1pEMEJ6b29kRlRNZExFcDc3NGVZTTduVTZyZEJrM1c0RVNlUDMySmg0akJTZXpyRzZFYUtPd0x3ejRWME9JQW9kZVlFRTJ0T2FEb3N3MWszQXJqWTM4NmowWlIxY1ZHZmQwMEZZXy1sMTBhN1BlUlBUX2t0dnV5U0xYVDA2X2MwRFNhcDRxdVF0Z2ZycmNFQVZXTlR0VGhHd1ZKN3JrdzVLN3JJRkhkeXd3?oc=5",
+     "ora": "2026-10-06T08:27:50+00:00"
+    },
+    {
+     "titolo": "L'allarme di OpenAI: 100 aziende hackerate durante i test. Perché continua a succedere e quali sono i rischi",
+     "titolo_it": "",
+     "riassunto": "OpenAI segnala che 100 aziende sono state hackerate durante i test. L'evento sottolinea le vulnerabilità critiche legate all'implementazione di nuove tecnologie AI.",
+     "fonte": "Open",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WMEp6cGp3ZmRqU0lfMFowUk1aTDI4LVc1d09zaHliU2N6aFBpUlB5Vi1LNlQ5bjY5cVc4TXlQakM1SFVqRlF6SDlsdzJJNTYwVzRmc3pkUWxta01fM0E3cUZybVBDYURrdVpzRmxLY21WR212c0ZLR215Wk8?oc=5",
+     "ora": "2026-10-06T11:17:35+00:00"
+    },
+    {
+     "titolo": "OpenAI rende gratis l'Auto-review di Codex, non consuma il limite del piano",
+     "titolo_it": "",
+     "riassunto": "L'Auto-review di Codex diventa gratuita e non consuma i limiti del piano. È uno strumento utile per chi scrive codice e utilizza modelli linguistici per lo sviluppo.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTTA5QlhIWXdoN3RQMkZSdVJ3YXREU3pvRVEwNWh0X2xJbFZSR3dhamVZcFZFTFRZOGoxbWxRNlRiaDZQaFF1OWljcFRRbmFVd005Tmw4Q0p1dlpaTnpJS0pGR2tLOGR4Z1lobGdUdlIwM19hZXR2Tlg3MFFOdGtISTg4dDR3aGJf?oc=5",
+     "ora": "2026-10-06T11:13:56+00:00"
+    },
+    {
+     "titolo": "ChatGPT vs Claude e Grok: qual è l'A.I. migliore a... guidare una Toyota?.",
+     "titolo_it": "",
+     "riassunto": "Un confronto tra ChatGPT, Claude e Grok sulla capacità di guidare un veicolo. È un test interessante per valutare le capacità di ragionamento spaziale e operativo dei modelli.",
+     "fonte": "MotorBox",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSk9PODlXZFRxTDdKbzFubG9WTjZxaDFud1NRS3owQnJlN1ZJay1IdWxKbHgzM2pEUnIxRDAxYWxLb2pFelBTcWxrV0JrQktXa0JmNDRvdW5mS0d1TDZnc2szMGxfaGZOcVJESHJxc3BiLTNkTUhOUTJXVzNfSmRaVnZtdDNDZjM2aFBKc3JHbTlZZTBOZnB5VUFqU2l3TXZCRkVVNGVBTQ?oc=5",
+     "ora": "2026-10-06T10:31:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Il primo Festival dell’Ingegneria alla Sapienza: l’impatto dell’IA sul futuro",
+     "titolo_it": "",
+     "riassunto": "Il primo Festival dell’Ingegneria alla Sapienza tratta l’impatto dell’intelligenza artificiale sul futuro dell’ingegneria. È utile perché collega direttamente gli interessi dello studente in IA e settore aerospaziale.",
+     "fonte": "EZ Rome",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSFFhRGI3RUUyX2N5MmlfaVpsLVJ3MFotR1RoaFFCQTlaUk9VTlplYm1jTHo5Nmd1N05tREVxMHEzZ2ZkdHV0WmdZOHhhOUl2SlRIeXR2dWhrS2pTUzU4LTNEY0ZiN2lWSUw1RG5NYjQ4WWFyeURvcjQ4bF9qWmJHTDV5NkRIa3FfRkE3ZUNtNUFuQnJUcF84QndxcVVVTzl6azZOVDYybjJESU50U1d6WDUxWlBaVmRBMldzT1hkSFJRZVRIS21EeTlLM0lXLUpsT2lXcVRlVkg2UQ?oc=5",
+     "ora": "2026-09-30T16:15:02+00:00"
+    },
+    {
+     "titolo": "Aeroporto di Fiumicino, 10 nuove assunzioni: requisiti",
+     "titolo_it": "",
+     "riassunto": "L’aeroporto di Fiumicino annuncia 10 nuove assunzioni e pubblica i requisiti richiesti. È rilevante per chi cerca lavoro in ambito aeroportuale e di gestione del traffico aereo.",
+     "fonte": "linformazione.com",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkZLTFl0Z192Wl9lNWs5RHNFbGE1MkpYZ3o3bkdVZFdqQlFwU3pxcE84c0syNlh4S2RYT0pCWExxZ1RscDlpcjFaTDJvalpVeXhDaVE5YVVkTi1NenVXNzJxaURzU2VzSTl0dzBRYnQ5Q1JHRmxKM3R6YWNxWjBZdzZGOUpmRkdrT3VsS18yM3pYeUJmLTAxQVBrNWZpVFk3ZUwyZGVkRERxaEVQRkE?oc=5",
+     "ora": "2026-10-04T12:36:00+00:00"
+    },
+    {
+     "titolo": "Concorsi per laureati in Ingegneria Meccanica (LM-33) - Bandi e guide sulla partecipazione e la preparazione",
+     "titolo_it": "",
+     "riassunto": "Sono pubblicati bandi e guide per concorsi riservati a laureati in Ingegneria Meccanica (LM-33). Forniscono indicazioni utili per partecipare a selezioni che possono includere posizioni nel settore aerospaziale.",
+     "fonte": "Concorsando.it",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONFdvcjUtYk9nSHl2NUFaQ2hBajFWR3NLYXNuSlRhWWczdG1iRV9DU2pLbGs3YXBFMGdhX1JWZEl2NmNJWlRWakM5dFlVRzRWbVRITTVsSFdsNDA2dnp6bm5jTDZEZW1rLVNmaFpSMlQ0R05sVEk3Q3JhWl9rTHRhZktpNlk?oc=5",
+     "ora": "2026-10-06T09:00:27+00:00"
+    },
+    {
+     "titolo": "Università della Calabria: selezione per laureati in fisica o ingegneria, compenso 36mila euro",
+     "titolo_it": "",
+     "riassunto": "L’Università della Calabria apre una selezione per laureati in fisica o ingegneria con un compenso di 36 000 euro annui. Offre una concreta opportunità di lavoro per ingegneri neolaureati.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSGZDcnhPekpOLWZCUHJManZVaFFkZXVwSGlfSkVhV1RZWU8tdEpKbzFWSXg5aTVSdkdzaDlTN1YxQ1llM1BySnFidEI0bTFvdFBCTnVqM19NU1JySjZpX213YU9Bc3p0alJjQ3RpNnMtbkpnRVVnb3hURXUtb1pKX3YwZ1lNZ3ExbHAwOVp3?oc=5",
+     "ora": "2026-10-06T04:30:47+00:00"
+    },
+    {
+     "titolo": "L'aeroporto di Long Thanh accelera le assunzioni in vista della fase operativa.",
+     "titolo_it": "",
+     "riassunto": "L’aeroporto di Long Thanh in Vietnam aumenta le assunzioni in vista dell’avvio operativo. Mostra come il settore aeroportuale stia espandendosi anche fuori Europa, utile per chi guarda a esperienze internazionali.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU29sOHFwTTlxT0I2LW9saTFDMkE5TWlObjdnUEMwTTZ5TnVob0dsNHB1T2NXREZTQnFidE92RnVkWFM4ZVgxTUJ5ZVNRXzhZbDFoM2pVXzFzQWFCOUxTME0zZkN6R2tqa1lxNWlPZTlEamd5RFZtY3RSdk40RWVoSzRBV0oxU2Q0LXVqTHlNUTNFRjF0?oc=5",
+     "ora": "2026-10-03T15:24:51+00:00"
+    },
+    {
+     "titolo": "La Sapienza verso il voto per il nuovo rettore: dal 6 ottobre le urne online",
+     "titolo_it": "",
+     "riassunto": "La Sapienza si prepara al voto online per il nuovo rettore a partire dal 6 ottobre. Il risultato può influire sulle politiche universitarie e sulle opportunità di ricerca e stage.",
+     "fonte": "lacapitale.it",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZnBRT2gwejdNc2pFbjhxbG5OZWRDVDdkbnhYazlrNDhLamJaZzQza1BPWVZaVVgxV3I5b2xSbU5iVmliRkxoa21CdlNUWU1OMUMwX3gyOXVLa3UtZDEwN3ROSmg2VkVVZTBWeTdpd05raUlpNF91a1ZzeHFlUkI2QVJWRW5BbHNqall5bnFicmp5cUI4dGdXaDNRVjNlUG1leG5GYmhPVUZZMGVsY1Fz?oc=5",
+     "ora": "2026-10-01T09:28:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Fisico belga vince il Nobel trasformando il ghiaccio antartico in telescopio",
+     "titolo_it": "",
+     "riassunto": "Il fisico belga Francis Halzen ha vinto il Nobel per la fisica trasformando un chilometro cubo di ghiaccio antartico nel più grande rivelatore di neutrini al mondo, l'esperimento IceCube. Questo risultato mostra il legame tra fisica fondamentale e osservazioni spaziali, tema di interesse per chi studia aerospazio e scienze dello spazio.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/06/fisico-belga-vince-il-nobel-trasformando-il-ghiaccio-antartico-in-telescopio",
+     "ora": "2026-10-06T13:36:55+02:00"
+    },
+    {
+     "titolo": "Da oggi accise sul gasolio più alte. Eni: il tetto resta, ma così aumenta il prezzo alla pompa",
+     "titolo_it": "",
+     "riassunto": "Da oggi le accise sul gasolio sono aumentate di 6,1 centesimi al litro, facendo salire il prezzo alla pompa nonostante il tetto delle accise mobili non sia scattato. L'incremento dei costi del carburante influisce direttamente sulle compagnie aeree e sull'industria aerospaziale, rendendolo rilevante per chi cerca stage o lavoro nel settore.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/10/06/da-oggi-accise-sul-gasolio-piu-alte.-eni-il-tetto-resta-ma-cosi_5d0b1426-cd66-4a50-9d69-8e04bbe77190.html",
+     "ora": "2026-10-06T12:52:27+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "Sky TG24: IncompleteRead"
+ ]
+}
