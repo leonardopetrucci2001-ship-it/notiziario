@@ -1,0 +1,199 @@
+{
+ "giorno": "2026-10-07",
+ "creato": "2026-10-07T11:48:46+00:00",
+ "in_breve": [
+  "ENAC ha pubblicato la bozza del regolamento nazionale sui requisiti di aeronavigabilità continua, importante per la sicurezza del volo.",
+  "Claude di Anthropic ora offre un alternativa a Google Gemini per Docs, Sheets e Slides, ampliando le opportunità di lavoro con modelli linguistici avanzati.",
+  "Alla Sapienza si terrà il primo Festival dell’Ingegneria focalizzato sull’impatto dell’intelligenza artificiale sul futuro, occasione di networking e stage."
+ ],
+ "modello": "google/gemma-4-31b-it:free, nvidia/nemotron-3-super-120b-a12b:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Patentino Scaduto? ENAC sistema i 2 mesi di \"buco\" in cui il Pilota poteva continuare a volare in attesa del Rinnovo",
+     "titolo_it": "",
+     "riassunto": "ENAC ha introdotto un periodo di due mesi di copertura per piloti con patentino scaduto, consentendo loro di continuare a volare in attesa del rinnovo. Questo chiarisce le norme di rinnovo e migliora la sicurezza operativa evitando interruzioni improvvise.",
+     "fonte": "DronEzine",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOVZrOHpKckd6T2ZYZ1NUZ2pQTnYwVl9hUEY5TGppRHJoQm8zQ002clp5MDZxdnV4czhlSzB4ZjhvNjZublYxM2NzOWtLT25qR2FQYlVldzlTSjdidjFrY2c0WjdVYUhOYzQ5UDg0YTRsYU05YXRBM0t2LTR3TkkxNlpaTkhkVWNXT2xCWmduZVlnUVVPTWUwc3RjZWo0aWhXbzRvY3o5enIwelVKclVUUjZTUTVka3VwWW43bHpET0tJZ1hzbUxGM0dPMnpsOWhMc21OOXhtdXhGNVVweFgw?oc=5",
+     "ora": "2026-10-07T09:31:39+00:00"
+    },
+    {
+     "titolo": "Consultazione Normativa: Bozza del Regolamento ENAC “Requisiti nazionali sull’aeronavigabilità continua Ed. 1 Rev. 3",
+     "titolo_it": "",
+     "riassunto": "ENAC ha pubblicato la bozza del regolamento nazionale sui requisiti di aeronavigabilità continua (Ed.1 Rev.3). Definisce gli standard aggiornati per la manutenzione e la sicurezza degli aeromobili, influenzando progettisti e operatori.",
+     "fonte": "Ente Nazionale per l'Aviazione Civile",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONnhwQnVhT2xqaU1oNk9kcFk2M0xiNmZtajFPQ1F1WldIRE5kZHgxX2tNVjc3RllJQXlielpVc214RndlVG5tSmNnZ0EtV3h0OXd6cE9EQU1qY1ZzTlZmbHlhQi1tdUF3TDBBYVhxMG1Ya1U4bWNBQjRmT0d3VlVUTkN5NzRoVjdhQzFZd3FJWDBLM3pmaS1FckNwMklZdHZoX0ZPbFplMElNaFh6bnpaU3Z2cFlMZF92bGhVSEhQQWJfRlBaNTZRdC1mMkRueE5xenVmbHhpRzBVQjg?oc=5",
+     "ora": "2026-10-07T08:47:19+00:00"
+    },
+    {
+     "titolo": "A Captain's Perspective: Who Are We Really Putting Behind The Cockpit Door?",
+     "titolo_it": "Prospettiva di un capitano: chi mettiamo davvero dietro la porta della cabina?",
+     "riassunto": "Un capitano riflette sul processo di selezione dei piloti, sottolineando l'importanza di fattori psicologici oltre alle ore di volo e ai test tecnici. Evidenzia il ruolo dei fattori umani nella sicurezza del volo e suggerisce miglioramenti nelle pratiche di assunzione.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/captain-chris-who-are-we-putting-behind-cockpit-door/",
+     "ora": "2026-10-07T09:48:54+00:00"
+    },
+    {
+     "titolo": "Talon Blue di Northrop Grumman completa il primo volo autonomo",
+     "titolo_it": "",
+     "riassunto": "Il velivolo Talon Blue di Northrop Grumman ha completato il suo primo volo totalmente autonomo. Dimostra progressi nell'intelligenza artificiale applicata al volo, rilevante per future tecnologie UAV e sistemi di controllo autonomo.",
+     "fonte": "TecnoAndroid",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdm84VGtVOG5QTno0WjZjTzZhdzVrclB1NFo2ZWtkV29CM2R3X1pXLW0zVVFJRGFvZ2pYYldDWGs1ZFdWS3pXSFVVUnhtWUJYX2FlVUJ2NUtLZHBueHJwQjRHR2k3LTNKb25XWk9RRUJQdXJJdGJ2QjdWcUlCU0tQUHpiM2hOdzBHTGFzTDlka3JmM1RHQlNwZWtOaDVVSjdNWXVHWFNTSQ?oc=5",
+     "ora": "2026-10-07T10:55:00+00:00"
+    },
+    {
+     "titolo": "ESA at IAC 2026 – Day 2",
+     "titolo_it": "ESA al IAC 2026 – Giorno 2",
+     "riassunto": "L'ESA ha partecipato al secondo giorno dell'International Astronautical Congress 2026 ad Antalya, sottolineando la cooperazione internazionale nello spazio. Offre spunti su trend, missioni e opportunità di collaborazione nel settore spaziale europeo.",
+     "fonte": "ESA",
+     "link": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_2",
+     "ora": "2026-10-06T16:37:00+02:00"
+    },
+    {
+     "titolo": "Spain Selects Airbus A321 for New SIGINT Platform",
+     "titolo_it": "La Spagna seleziona l'Airbus A321 per una nuova piattaforma SIGINT",
+     "riassunto": "La Spagna ha scelto l'Airbus A321 come base per il nuovo programma di piattaforme SIGINT Santiago II, acquisendo tre velivoli. Segnala un investimento europeo in capacità di intelligence aerospaziale e rafforza il ruolo di Airbus nel settore difesa.",
+     "fonte": "The Aviationist",
+     "link": "https://theaviationist.com/2026/10/07/spain-selects-airbus-a321-for-new-sigint-platform/",
+     "ora": "2026-10-07T11:26:36+00:00"
+    },
+    {
+     "titolo": "Boeing wins $14.7 billion contract to triple Patriot missile seeker production",
+     "titolo_it": "Boeing vince un contratto da 14,7 miliardi per triplicare la produzione dei cercatori Patriot",
+     "riassunto": "Boeing ha ottenuto un contratto da circa 14,7 miliardi di dollari da Lockheed Martin per triplicare la produzione dei cercatori dei missili Patriot. Rappresenta un importante impulso industriale per il settore difesa e mostra la crescente domanda di sistemi di guida avanzati.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/boeing-patriot-missile-seeker-contract-production",
+     "ora": "2026-10-06T21:07:02+00:00"
+    },
+    {
+     "titolo": "Joby Hit With $116.9 Million Trade-Secret Verdict",
+     "titolo_it": "Joby condannata per 116,9 milioni di dollari per violazione di segreti commerciali",
+     "riassunto": "Una giuria ha riconosciuto a Joby Aviation una condanna di 116,9 milioni di dollari per aver violato un accordo di riservatezza e aver appropriato indebitamente tecnologia relativa a sonde di dati d'aria. Evidenzia i rischi legali nello sviluppo di eVTOL e sottolinea l'importanza della proprietà intellettuale nel settore della mobilità aerea urbana.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/joby-116-9-million-trade-secret-verdict/",
+     "ora": "2026-10-06T13:34:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Anthropic espande l'accesso ai modelli più potenti",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha reso disponibili i suoi modelli Claude più avanzati tramite API e piani di accesso più ampi. Questo permette di sperimentare con modelli linguistici di frontiera per applicazioni di sicurezza del volo, fattori umani e automazione ATM.",
+     "fonte": "Punto Informatico",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmc2b1VyTGlpbVU0LTk5UXpwaTYtNzRKQ3p6UHQ0VmdjdUlVX3JoSHFkMllFdTZfOHZoakRTdVd0RnpzMlFJbTIyMTB4SlJFRDYzSzhoc2dKZElWem1QOU11OUVsQnlXRnRORkx5dk53d0k3eG1PXzNFNVRFejlrN2hIYjBDUQ?oc=5",
+     "ora": "2026-10-07T09:22:40+00:00"
+    },
+    {
+     "titolo": "llm-mistral 0.16",
+     "titolo_it": "",
+     "riassunto": "Il rilascio della versione 0.16 del pacchetto llm-mistral aggiunge il supporto ai modelli di ragionamento come Mistral Large 4. Offre un modello open‑source potente da usare in ricerca su elaborazione di linguaggio naturale per manuali tecnici o sistemi di supporto decisionale in aeroporto.",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+     "ora": "2026-10-06T21:32:34+00:00"
+    },
+    {
+     "titolo": "Il nuovo computer personale basato sull'intelligenza artificiale di Nvidia è in grado di eseguire un modello con 100 miliardi di parametri.",
+     "titolo_it": "",
+     "riassunto": "Nvidia ha presentato un personal computer dedicato all’IA capace di eseguire modelli con fino a 100 miliardi di parametri. Fornisce una piattaforma hardware accessibile per eseguire simulazioni di fluidodinamica o addestrare modelli di IA direttamente in laboratorio universitario.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV05haGM1dWdKS2pKd0Rnei1EZWlRaktIaGNxUUJJeWd0T2RLMEdMUGk5M2hqMVdyei1CNDQxX21jbXJLdnFXb2w0V2JlYkl6aGRfajczYjl4cFc2Vm9nMmFJMVpOZDdRbkpmQzdJaGN5YUk4ekZsZEsxWHk5N0d4bktDaTVpNGlBTzBfVjB3MWFnS25DVFA1Mg?oc=5",
+     "ora": "2026-10-07T04:48:55+00:00"
+    },
+    {
+     "titolo": "Claude sfida Google in casa sua: arriva l'alternativa a Gemini per Docs, Sheets e Slides",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha lanciato un’alternativa a Google Gemini integrata in Docs, Sheets e Slides, permettendo l’uso di Claude direttamente nelle applicazioni di produttività. Utile per redigere rapporti tecnici, piani di volo o documentazione di sicurezza con assistenza IA senza lasciare l’ambiente Google Workspace.",
+     "fonte": "SmartWorld",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHh6ME5HRWd4ZC1GTTFJbzBYQi1naDdEOU1lTHlrcTZqSXhfc0dUbHdSVksxOWU3OEY3eEZLVy1xM2FMXy1HWUktQ2cyUkpGM3IxUlMzdVpySi1Vbm14STBaNXlMU2Rwd1hPODJfRlNCSFA4eUhSdVZzdTAxZmFxS2t3TEZMNWNPSFhGQjV3?oc=5",
+     "ora": "2026-10-07T07:43:00+00:00"
+    },
+    {
+     "titolo": "OpenAI drops another batch of mathematical breakthroughs",
+     "titolo_it": "OpenAI pubblica nuovi manoscritti matematici",
+     "riassunto": "OpenAI ha pubblicato 722 manoscritti contenenti soluzioni a problemi matematici a lungo irrisolti, prodotti da un modello frontier non ancora rilasciato. Dimostra la capacità dell’IA di contribuire alla ricerca matematica avanzata, rilevante per aerodinamica, controllo di volo e ottimizzazione di traiettorie.",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+     "ora": "2026-10-06T19:26:38-04:00"
+    },
+    {
+     "titolo": "Guida GPT-6 di OpenAI: costi, prompt e confini degli agenti",
+     "titolo_it": "",
+     "riassunto": "AI4Business ha pubblicato una guida dettagliata su costi, prompt engineering e limiti degli agenti basati su GPT-6. Aiuta a comprendere come impiegare efficacemente i grandi modelli linguistici in progetti di automazione, analisi di dati di volo o sviluppo di assistenti virtuali per il controllo del traffico aereo.",
+     "fonte": "AI4Business",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLTQwaU11Nzl0WllOYnRlMGdhTHpTbV82MkU1QXVtNzR6R2RXcGtfTWl6Um9VcnNoSzBqX1ZXdHBuNEtHeEl4X1Noc2ZZSmo2Y00weDJmY0RocFU5bC1wSnVoN3dWaGtJWXBYeG1qOE16cFE5TGJGVVdiNWlia3Npcy1zT1lSblFnTm01REM1dHVZeS01MjFMUG12eU1NZw?oc=5",
+     "ora": "2026-10-06T22:31:01+00:00"
+    },
+    {
+     "titolo": "llm-openai-decisions 0.1a0",
+     "titolo_it": "",
+     "riassunto": "OpenAI ha rilasciato l’API “Decisions” (stile Jev) per facilitare la presa di decisione basata su modelli linguistici. Può essere impiegata per costruire sistemi di supporto decisionale in ambito ATM o per valutare scenari di rischio volo, integrando IA nei processi operativi.",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+     "ora": "2026-10-06T23:04:13+00:00"
+    },
+    {
+     "titolo": "Gli amministratori delegati di OpenAI e Anthropic mettono in guardia dal rischio che l'intelligenza artificiale possa nuocere all'umanità.",
+     "titolo_it": "",
+     "riassunto": "Sam Altman e Dario Amodei hanno pubblicato avvertimenti congiunti sui pericoli esistenziali dell’intelligenza artificiale avanzata. Sottolinea l’importanza di considerare la sicurezza e l’etica nell’uso dell’IA per applicazioni critiche come la sicurezza del volo e i sistemi di controllo del traffico aereo.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXdyZWdVWEhBOHJtNndQQVJ4MGMxNnFqeXZpVGNDaWpUb0FOSmNWMWRDTS1KVl9sV2gwYWpOam55UEhPLTgzS2pIVkJHZVFCVFAyNC1iN0xtQ1JhV1IxQ0NmRmtLVzlVWGxIWmxVa0phZ1VrLUQ1YXpWMC16VVRQc3Y1czk5bC0tYXBtV1BGb29zbnpLRjRaWlJB?oc=5",
+     "ora": "2026-10-07T07:12:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Il primo Festival dell’Ingegneria alla Sapienza: l’impatto dell’IA sul futuro",
+     "titolo_it": "",
+     "riassunto": "Alla Sapienza si tiene il primo Festival dell’Ingegneria dedicato all’impatto dell’intelligenza artificiale sul futuro della disciplina. L’evento offre spunti su come l’IA, inclusi modelli linguistici come Claude, stia trasformando ricerca e applicazioni ingegneristiche, utili per chi cerca stage o lavoro nel settore aerospaziale.",
+     "fonte": "EZ Rome",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSFFhRGI3RUUyX2N5MmlfaVpsLVJ3MFotR1RoaFFCQTlaUk9VTlplYm1jTHo5Nmd1N05tREVxMHEzZ2ZkdHV0WmdZOHhhOUl2SlRIeXR2dWhrS2pTUzU4LTNEY0ZiN2lWSUw1RG5NYjQ4WWFyeURvcjQ4bF9qWmJHTDV5NkRIa3FfRkE3ZUNtNUFuQnJUcF84QndxcVVVTzl6azZOVDYybjJESU50U1d6WDUxWlBaVmRBMldzT1hkSFJRZVRIS21EeTlLM0lXLUpsT2lXcVRlVkg2UQ?oc=5",
+     "ora": "2026-09-30T16:15:02+00:00"
+    },
+    {
+     "titolo": "L'aeroporto di Long Thanh accelera le assunzioni in vista della fase operativa.",
+     "titolo_it": "",
+     "riassunto": "L’aeroporto vietnamita di Long Thanh sta aumentando le assunzioni per prepararsi alla fase operativa, aprendo posizioni in gestione del traffico aereo, sicurezza e ingegneria aeroportuale. Rappresenta un’opportunità internazionale per chi cerca esperienza in ATM e aeroporti fuori dall’Europa.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU29sOHFwTTlxT0I2LW9saTFDMkE5TWlObjdnUEMwTTZ5TnVob0dsNHB1T2NXREZTQnFidE92RnVkWFM4ZVgxTUJ5ZVNRXzhZbDFoM2pVXzFzQWFCOUxTME0zZkN6R2tqa1lxNWlPZTlEamd5RFZtY3RSdk40RWVoSzRBV0oxU2Q0LXVqTHlNUTNFRjF0?oc=5",
+     "ora": "2026-10-03T15:24:51+00:00"
+    },
+    {
+     "titolo": "Intelligenze, al plurale: ecco il programma di Focus Live 2026",
+     "titolo_it": "",
+     "riassunto": "Focus Live 2026 presenta un programma dedicato alle diverse forme di intelligenza, con particolare attenzione ai modelli linguistici e all’IA applicata a settori tecnici. È utile per approfondire le ultime tendenze dell’IA che interessano anche l’ingegneria aeronautica e le opportunità di stage in aziende innovative.",
+     "fonte": "Focus.it",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQjdRMHBqWldCRmVPOU1TTGFobjhpZHlSSDNOejVaV0xMS0VFYm1QVUJFdS02T2JvNDJfNkVrekcwNE41U1ByZUVGTHpDSE42eEtRbmQxdUpfZngtSVZUVkJuR3VyZ1NYYjdMaXp2RklzRERndkx2dGNaTTlHS0VXaERZVUdjWFlKbVltNUI4d28?oc=5",
+     "ora": "2026-10-07T08:05:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Finlandia ferma i data center IA di Google per l'ambiente",
+     "titolo_it": "Finlandia blocca data center IA di Google",
+     "riassunto": "La Finlandia ha fermato l'espansione dei data center di Google per motivi ambientali. La notizia è rilevante per l'impatto delle infrastrutture di intelligenza artificiale sull'energia e l'ambiente.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/07/finlandia-ferma-i-data-center-ia-di-google-per-lambiente",
+     "ora": "2026-10-07T13:34:35+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "Hacker News: HTTPError"
+ ]
+}
