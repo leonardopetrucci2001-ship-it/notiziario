@@ -1,0 +1,245 @@
+{
+ "giorno": "2026-10-08",
+ "creato": "2026-10-08T12:03:44+00:00",
+ "in_breve": [
+  "È stato inaugurato a Colleferro il nuovo polo logistico di Avio, con 24 000 m² dedicati a supportare la crescita del settore aerospaziale.",
+  "La Scuola di Ingegneria Aerospaziale della Sapienza festeggia i suoi primi 100 anni di attività, offrendo spunti per tirocini e collaborazioni.",
+  "Anthropic ha rilasciato Claude Haiku 5.5, riducendo i costi dell’intelligenza artificiale per le imprese e aprendo nuove opportunità di applicazione nel campo aerospaziale."
+ ],
+ "modello": "nvidia/nemotron-3-super-120b-a12b:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Colleferro, nasce il nuovo polo logistico di Avio: 24mila metri quadrati per sostenere la crescita dell’aerospazio",
+     "titolo_it": "",
+     "riassunto": "Avio inaugura un nuovo polo logistico a Colleferro di 24.000 mq per supportare l'espansione del settore aerospaziale. Mostra investimenti italiani in infrastrutture del settore e crea opportunità di lavoro e stage nella zona.",
+     "fonte": "Monti Prenestini",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTU5pTXdjQWJlNjdDQ2JxSEpVNXZpWWg3cUw1SGdydEhxTUlSc3dCcDJNdW83ZzFoLTh6LTBlOFNkRGM5WjlLM1NWZWw2YUtqMWZrakdQTUNOT0VTdnAxU0RnVnlrcFVhSXJkcW9tVEVUMVZ3TGRCeXZZWE5VSW9VWGlEbk5PbEFxQjN1SEo2STlmcmc4NTdGMXdwV3lPUmVVaG9rdlpEMEg2b2RYMVZuOWdjbjV1MTJERlBaZnRmdUFuZW9MUS1RTkM3OHVSYlNablZUcE54bi0?oc=5",
+     "ora": "2026-10-08T08:20:47+00:00"
+    },
+    {
+     "titolo": "A scuola di futuro: un nuovo anno con STEMLab e i percorsi FSL di Leonardo",
+     "titolo_it": "",
+     "riassunto": "Leonardo lancia nuovi percorsi STEMLab e FSL per studenti interessati a carriere aerospaziali. Offre formazione pratica e possibili tirocini in una delle principali aziende italiane del settore.",
+     "fonte": "Leonardo S.p.A.",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTFhDdVJoc1o5VnRxVHJoYTJONlRsWHhraUdiN202dTB6ZmhQLVVQc1JOR296NXhGZ3VuSllMTjJYdUpTMl9xWExfMk5aa0E5NnUwdjlidnFTSUlQdW1xMUJzUk5KSXVSSHhqdmljUE5tektXWkN4WGdQTjVJb3NRZHhacDA2cThLbjk2N01CRld4UVlXWTJQeVFub2xuUQ?oc=5",
+     "ora": "2026-10-08T07:37:32+00:00"
+    },
+    {
+     "titolo": "Enav, +10% di traffico aereo al Marco Polo di Venezia",
+     "titolo_it": "",
+     "riassunto": "ENAV riporta un aumento del 10% del traffico aeroportuale presso l'aeroporto di Venezia Marco Polo. Indica crescita della domanda di servizi di navigazione aerea, rilevante per chi studia ATM e gestione aeroportuale.",
+     "fonte": "il Nord Est",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSW8ySmNtamtReVNCMW9CYVhWcWNjVzAtNmFyM0ZkZ045T2dHalRGSE5pdnl2UVBwM0RqazA3dE8tT1JkR040aW1obUFqTmRNem1xaHVyaG9sMmEydjJQNFh0VDlqc0RqOXlib0NvUG9Ya3pjMWdzTDBwb05GU1FqYWpDbHdGcFhjaTM3NFNPTHB5cDd3NFktSWg0TTY?oc=5",
+     "ora": "2026-10-08T07:35:12+00:00"
+    },
+    {
+     "titolo": "Aeroporto del Salento, pista pronta all'utilizzo: arriva il via libera dell'Enac",
+     "titolo_it": "",
+     "riassunto": "L'ENAC ha autorizzato l'uso della pista rinnovata dell'aeroporto del Salento. Migliora la capacità infrastrutturale regionale, creando opportunità per operazioni di volo e studi su gestione aeroportuale.",
+     "fonte": "Buonasera24",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNmlxcG5jY3JSVGt3RVEwclZVU3pSbDlzMmNEZnpuVW1xWGxmSjQ3Y0IxTTNGNzg0dUE4alVLVjdGM1gwbjZrTVFPR3ZOTll1SE5sVDdYTGJDMmVkcUZ6Z05vYllWcXpzNW04TnFyNkdnTVhmY19JY3hQaWc2M3RoSEE3MnpuY0I3LTE4WjNLX2VxZEF0QWo5YThzbWdzMGdJbkxhY0JRZ21vbXQxVFpFalA2a3FhWGY2SkFCVVQyN2paRHdLOTNWNUpB?oc=5",
+     "ora": "2026-10-08T07:08:39+00:00"
+    },
+    {
+     "titolo": "Jet-A Misfueling Blamed For Cessna 421 Accident",
+     "titolo_it": "",
+     "riassunto": "L'NTSB attribuisce l'incidente di un Cessna 421 al rifornimento errato di Jet-A invece di avgas. Evidenzia l'importanza delle procedure di rifornimento e della sicurezza operativa, tema centrale per i fattori umani e la sicurezza del volo.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/ntsb-jet-a-misfueling-cessna-421-crash/",
+     "ora": "2026-10-07T19:20:00+00:00"
+    },
+    {
+     "titolo": "Leonardo apre le porte a Mbda a Pomigliano: ecco perché Mariani parla di \"scelta ottimale per tutti\"",
+     "titolo_it": "",
+     "riassunto": "Leonardo e MBDA avviano una collaborazione nello stabilimento di Pomigliano per sviluppare sistemi di difesa e aerospaziali. Mostra sinergie tra aziende italiane ed europee, con potenziali prospettive di carriera in progetti integrati difesa-spazio.",
+     "fonte": "infodifesa",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRXVYUzJHdURhQmN3a1JzU3hhZUh1d1pqd2tBSzFBS2d2aWdYNmlVQnJvbjVDWUJ6QWxZZ1lTc0ROeHU1ZWpvYWNIdGNLQkd2SGdtNHpoYjhNeERULUpuS2c0QzlpRnpvT3V4bV9xcDJNMnhsVDdIUG5KeVpDS2FwZktSbHUyS0pOMmVlWWt5SmJpQi16T0EtX0JKR09uZ0RjUVhwanpualdMQTAxdTNzXzhmS1gteFFhYjNWaQ?oc=5",
+     "ora": "2026-10-07T15:35:07+00:00"
+    },
+    {
+     "titolo": "Aerospazio e opportunità: a Grottaglie l'alta formazione incontra le imprese",
+     "titolo_it": "",
+     "riassunto": "A Grottaglie si svolge un evento che unisce formazione avanzata e incontri con aziende aerospaziali. Offre diretto contatto con possibili datori di lavoro e informazioni su stage e tirocini nel settore.",
+     "fonte": "Today",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc0lXMk42WWdWNXZ3aHBXamtmRm1kNVRiQ2tpZ3Q2bE43V1FUSWg4TnppaGZzdEY2THVwZG41ZGNvb3R1cFFZdHZVNC10VXVYQTI5alRGNGtSMy1EVlNVT1NScldySHBSbWJDWlJZZzFrV3lEOVNDWWhkMGRKSnk3Q1FoR3hQcjZnMEQyYtIBjAFBVV95cUxPc0lXMk42WWdWNXZ3aHBXamtmRm1kNVRiQ2tpZ3Q2bE43V1FUSWg4TnppaGZzdEY2THVwZG41ZGNvb3R1cFFZdHZVNC10VXVYQTI5alRGNGtSMy1EVlNVT1NScldySHBSbWJDWlJZZzFrV3lEOVNDWWhkMGRKSnk3Q1FoR3hQcjZnMEQyYg?oc=5",
+     "ora": "2026-10-08T10:47:50+00:00"
+    },
+    {
+     "titolo": "ESA at IAC 2026 – Day 3",
+     "titolo_it": "",
+     "riassunto": "Durante il terzo giorno dell'International Astronautical Congress 2026, l'ESA presenta le sue prospettive future per l'esplorazione spaziale europea. Fornisce aggiornamenti su programmi spaziali e opportunità di ricerca o lavoro nell'agenzia spaziale europea.",
+     "fonte": "ESA",
+     "link": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_3",
+     "ora": "2026-10-07T16:54:00+02:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Blog | Claude Haiku 5.5, Anthropic taglia il costo dell’AI per le imprese: le novità in cinque punti - Info Data",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha lanciato Claude Haiku 5.5, un modello più veloce e fino al 90% più economico, pensato per ridurre i costi dell’AI nelle aziende. Questo rende più accessibile l’uso di modelli linguistici avanzati per analisi di dati e simulazioni nel settore aerospaziale.",
+     "fonte": "Il Sole 24 ORE",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTllqWTd6Z25XaWVRcjdfcWptT05Fd191aG5EQ2pGaW1fQUFhM09veXFfbWxyR3RGalBhTFZ5a25zQ1FTQnhZQ0VXXy1QZ2ppNkZ6N0VNWGVNcDJLc3psaG5GdlBFZVVzVFdfZ0FEbjRCU3lTLWl4bElGUlNHR1doclhwbHlMVHNVdUVoU1o1d1ZEOWt0SW5HdkNsODJzN2s5LXY4eXNFbllaaFZrOW1ZZHN6dkhoMDJHcjhIMTZaNWFFQkRPSks5VVk0TlpHWWY4S3lnUy13?oc=5",
+     "ora": "2026-10-08T11:39:14+00:00"
+    },
+    {
+     "titolo": "Mistral AI lancia Large 4: sfida a OpenAI e Anthropic",
+     "titolo_it": "",
+     "riassunto": "Mistral AI ha presentato Large 4, un nuovo modello linguistico che compete direttamente con le offerte di OpenAI e Anthropic. L’arrivo di un nuovo concorrente aumenta le opzioni disponibili per applicazioni di intelligenza artificiale in ambito aeronautico.",
+     "fonte": "MRW.it",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQUh0Ty0zdGV5VWVMb2h3bm1DUW1jaFZTMExyQkl4cmNaR2p0dlgtVm90Vm5qQXBZWWV3dnpXTm8yeXNVRlc5WmE2WDVlVDZ3a1VRWXVDY1FROGNCNWRzNFg2SkZiZ2gwNTlCYkNYVFliNDFCcFh3aTZXYWpKTW1vSFVfSQ?oc=5",
+     "ora": "2026-10-08T09:10:46+00:00"
+    },
+    {
+     "titolo": "Anthropic, perché partecipare al programma Claude Startups?",
+     "titolo_it": "",
+     "riassunto": "Anthropic invita le startup a partecipare al programma Claude Startups, offrendo accesso privilegiato ai suoi modelli e supporto tecnico. È un’opportunità per chi cerca stage o collaborazioni nel campo dell’AI applicata all’ingegneria.",
+     "fonte": "FASI.eu",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVGg1TlJCVkJWblBIRE45QkNXdVZMbVlpNU9jSDNMbFlTZmF2QTJUenR5OGgzaThrQkhNVVg2RXFVczdVSHl4bXNRTWE2QjZTRWtocXJMZTZjc2lySG9fRnlTZFhScy1RbmZ5QTZNSmtiMWFyb1FSX3BEbG5ERV9ROG1pOGFibkJa?oc=5",
+     "ora": "2026-10-08T11:12:57+00:00"
+    },
+    {
+     "titolo": "Building a safer path to autonomous industrial AI",
+     "titolo_it": "Costruire un percorso più sicuro per l'AI industriale autonoma",
+     "riassunto": "L’articolo del MIT Technology Review esplora come i modelli di base e l’AI fisica possano migliorare la sicurezza dei sistemi industriali autonomi. Questi concetti sono trasferibili a veicoli aerei senza pilota e a sistemi di controllo del traffico aereo.",
+     "fonte": "MIT Technology Review",
+     "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+     "ora": "2026-10-08T08:17:32+00:00"
+    },
+    {
+     "titolo": "Anthropic amplia il Cyber Verification Program per Claude AI",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha ampliato il suo Cyber Verification Program per Claude AI, introducendo nuovi strumenti di verifica della sicurezza del codice generato. Questo aiuta a garantire che i modelli linguistici utilizzati in applicazioni critiche rispettino standard di affidabilità.",
+     "fonte": "AI4Business",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdG52aVgteFdWMm1uUG9Pa2pQSl9WbjBqbTNBT3BRdnV3V0NoYkxBLU10WEN0clFNbUdURU5rb1N5WDNxTU8zRXBLbXN4YnRIX2dELVFCSVhXSU51TjFZSnNaQ2h0X0Z3OTZVd2JuNnlNM3l1YlQyMFBRbWJKQ0tGcnIzWjhZME84WXNWRzd3Y0d3Wi1Va3JqV3h4RENtODZuSkdaamNB?oc=5",
+     "ora": "2026-10-07T15:46:06+00:00"
+    },
+    {
+     "titolo": "Grok Bot ora usa Claude Opus 5.5: Musk sceglie Anthropic invece dei propri modelli, e non solo Claude",
+     "titolo_it": "",
+     "riassunto": "Grok Bot, il chatbot associato a X, ora utilizza Claude Opus 5.5 al posto dei modelli proprietari di Musk, segnando un’importante adozione esterna di Anthropic. L’uso di Claude da parte di una piattaforma così diffusa evidenzia la crescente fiducia nei suoi modelli linguistici.",
+     "fonte": "SmartWorld",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3RwUm5aeHUyTFN0c2R6c2ppWjdzWDZfSlN6VDR4Q3JIYm1xbjBaTm5NZnNDZ0xURThEMjBNaU81MU5WT3o4NTJLSDBkRnMxekFkVWdKMWxFRmUwaGNka3NiZEd4R0lVbU9PSmFJY3JlZHEtbGxrS1BSUWNTWGtJMmFVRU56UHc?oc=5",
+     "ora": "2026-10-08T09:20:00+00:00"
+    },
+    {
+     "titolo": "AI, la guerra dei prezzi si intensifica e OpenAI recupera terreno su Anthropic",
+     "titolo_it": "",
+     "riassunto": "La competizione sui prezzi tra OpenAI e Anthropic si intensifica, con OpenAI che riesce a recuperare terreno offrendo tariffe più competitive. Questa dinamica può portare a costi più bassi per l’accesso a modelli linguistici avanzati nel settore aerospaziale.",
+     "fonte": "Milano Finanza",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcjVBams4bGc0eGs3bGpqamN4eU5Dc05IaXhjYXh4Q09OanB3ZzZaTUtFLUhBM3FaQXNIZnh0RzNxbXd1czJQVU5BSzN2M0JhQ3kyNlZhQWFnVlJDQkxteE5qcXJyVk9HdjR1dVBuRllsTzlaWm5uMTFzNkxycnhQcVVRd1M3WHVSTUVjcWE0Yk1NcDJvZTdLaE10QWlNNTk0dXJOWUp1WnVyWmRCeHk4TGlBWjdwLURlSHJxQWFLVEVQcnFlNVprNlR3?oc=5",
+     "ora": "2026-10-08T11:40:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "La Scuola di Ingegneria Aerospaziale della Sapienza celebra 100 anni",
+     "titolo_it": "",
+     "riassunto": "La Scuola di Ingegneria Aerospaziale della Sapienza festeggia il centenario, sottolineando la lunga tradizione e il ruolo di riferimento nel settore aerospaziale italiano. È un segnale di qualità per chi cerca formazione e contatti nel campo.",
+     "fonte": "MeteoWeb",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXhrWWFpTlVLRXJvdk5hRWZQZjdyb0x4aVN0TW1PVHFqT3NYbkhVVnJrVTdYYm81SndJZWVzZGg0Y0JLbUlPSWliYlVyNGdVU3lqUmNPMHFTQzRheWVkY3pvV0xhRWZ2RmlZNWpIY0luZlVzTDN4UVZIMGZUS1BUakJKbXRWREhZTmtaXzA1OFFXeDVEdVhJaUpPS0xvMDJ5OXVvdWZheDBFQlRMczMxRnZucUc2NlBFTnfSAboBQVVfeXFMUFl4a1lhaU5VS0Vyb3ZOYUVmUGY3cm9MeGlTdE1tT1Rxak9zWG5IVVZya1U3WGJvNUp3SWVlc2RoNGNCS21JT0lpYmJVcjRnVVN5alJjTzBxU0M0YXllZGN6b1dMYUVmdkZpWTVqSGNJbmZVc0wzeFFWSDBmVEtQVGpCSm10VkRIWU5rWl8wNThRV3g1RHVYSWlKT0tMbzAyeTl1b3VmYXgwRUJUTHMzMUZ2bnFHNjZQRU53?oc=5",
+     "ora": "2026-10-07T08:53:00+00:00"
+    },
+    {
+     "titolo": "L'aeroporto di Long Thanh accelera le assunzioni in vista della fase operativa.",
+     "titolo_it": "",
+     "riassunto": "Il nuovo aeroporto vietnamita di Long Thanh sta aumentando le assunzioni per prepararsi all'apertura operativa, offrendo opportunità di lavoro nel settore aeroportuale e ATM a livello internazionale. Utile per chi cerca stage o impiego all'estero nel management aeroportuale.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU29sOHFwTTlxT0I2LW9saTFDMkE5TWlObjdnUEMwTTZ5TnVob0dsNHB1T2NXREZTQnFidE92RnVkWFM4ZVgxTUJ5ZVNRXzhZbDFoM2pVXzFzQWFCOUxTME0zZkN6R2tqa1lxNWlPZTlEamd5RFZtY3RSdk40RWVoSzRBV0oxU2Q0LXVqTHlNUTNFRjF0?oc=5",
+     "ora": "2026-10-03T15:24:51+00:00"
+    },
+    {
+     "titolo": "Intelligenze, al plurale: ecco il programma di Focus Live 2026",
+     "titolo_it": "",
+     "riassunto": "Focus Live 2026 pubblica il suo programma, che include sessioni su intelligenza artificiale, modelli linguistici e applicazioni nello spazio e nell'aviazione. È un'occasione per aggiornarsi sulle ultime tendenze AI rilevanti per il settore aerospaziale.",
+     "fonte": "Focus.it",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQjdRMHBqWldCRmVPOU1TTGFobjhpZHlSSDNOejVaV0xMS0VFYm1QVUJFdS02T2JvNDJfNkVrekcwNE41U1ByZUVGTHpDSE42eEtRbmQxdUpfZngtSVZUVkJuR3VyZ1NYYjdMaXp2RklzRERndkx2dGNaTTlHS0VXaERZVUdjWFlKbVltNUI4d28?oc=5",
+     "ora": "2026-10-07T08:35:35+00:00"
+    },
+    {
+     "titolo": "Borse di studio nazionali a.s. 2025/2026 – avviso riscossione contributo",
+     "titolo_it": "",
+     "riassunto": "È stato pubblicato l'avviso per la riscossione delle borse di studio nazionali per l'anno accademico 2025/2026, rivolto a studenti universitari. Permette di ottenere supporto finanziario per proseguire gli studi in ingegneria aeronautica.",
+     "fonte": "La Maddalena TV",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSk1WckI2aVJUU21fYW1ZQ3dxN01PemtCT0xDUzEyQ2UzSlN3TlF4RHBKV0IyZl9kMlU5V3VJVEZTOExPM2tsNmxzTTRURlkweFp3Z2ZCSDZkQ0tXRUlmUEFqbUJYTTB4VXdWb0l6N2ZlY3hGbmVzYVk3cTFlM0c1OHNoaTZ5U1BYRGFVTUt6UkR5cWpKLXZCdnpVLWU5eTEwcS1UR0Q3eFhrU0Vsb09hbXJialE5ZG5oOC1US0pxUkQ?oc=5",
+     "ora": "2026-10-06T20:39:00+00:00"
+    },
+    {
+     "titolo": "Concorsi per laureati in Ingegneria Elettronica (LM-29) - Bandi e guide sulla partecipazione e la preparazione",
+     "titolo_it": "",
+     "riassunto": "Sono disponibili bandi e guide per concorsi rivolti a laureati in Ingegneria Elettronica (LM-29), utili per chi cerca opportunità di lavoro nel settore tecnico e ingegneristico, anche se non strettamente aerospaziale. Offre indicazioni su come prepararsi e partecipare.",
+     "fonte": "Concorsando.it",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWZObW5BcVNMSFpaSXhFX3pvMTRiOWZodlUybHdBZlVWZWFsM1ZzUVNfNG9XRFJaN3NZZzRLSzJuMkh2Skp2SjhzOUZ0bzJvckc0QmxEU3lYcll1RVZmMXlQa1ZXNDZES1ZhM1lhd3NVbjBPQ1J5XzJVR3A2UGF6S3dQRENjdm8?oc=5",
+     "ora": "2026-10-06T16:29:38+00:00"
+    },
+    {
+     "titolo": "Intercultura, dieci studenti di Latina nel mondo. Aperto il nuovo bando per partire nel 2027",
+     "titolo_it": "",
+     "riassunto": "Intercultura apre il bando per il 2027, permettendo a studenti italiani di vivere esperienze di studio e volontariato all'estero. È utile per acquisire competenze internazionali e migliorare il curriculum nel contesto aerospaziale globale.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzZrS0pXbGtzWkZia0I4OWN5MG53OVZFSWt1bjVLMUkyOVBxamRDX2lXNS1TdTRZMkdMMUV1dkxOQllnZnJaa3U1RUd3cUdGNHlOMlFJb1p4QjM3dVlDbHFLelVWV3JIYTVxWlNpMXhhbGU0Y05JU3M5V1NueHZKS05HSEZpeldnQTZXNFg0T1RBeEdVdWxBYWtEM2Y4RUh4WFc5RDlRdGUxd0R3RjVaSUpHUndYUVlSd1ZDMmVDMG7SAcYBQVVfeXFMT2Q3UDhmWmttbWlPTXZYME9FWmxxODlINGVTWnRPV2owUkZ5M2NxVXlUcHBlNmRiTXViZGtfUlIzeVFGdE5TVHpndWY0VU1TR2VoZVdIajlXN1NyV0FzSGIxcmFROTdRYzdjZUE1RjBCdms2amltNW51dExESXE3S0JlX0lvZTVCWWt5RmR0cU9URUs4OGtWT0g0Q2c0bXRpMFBJaThYNlNBQTE1QVVUSUU5cmhoR2E4V3N1eE93bkRqYVl4YUZB?oc=5",
+     "ora": "2026-10-05T10:29:19+00:00"
+    },
+    {
+     "titolo": "Sapienza, grande scalata della classifica mondiale. Eccellenza nell’Umanistica",
+     "titolo_it": "",
+     "riassunto": "La Sapienza migliora la propria posizione nelle classifiche universitarie mondiali, riconoscendo l'eccellenza anche nelle discipline umanistiche. Conferma il prestigio dell'ateneo, un fattore positivo per il riconoscimento dei titoli di ingegneria aeronautica.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0RPOGFLb3RNSTFFNkl4bGVOZHNtZDN1NDRzRktEd0VZN1g4d3dmT3ZxNWExcGRTZ21tS0RiYnZvMVpEMjBYWjd4N1VGaUliZGZJNGY3dDd0X0ZpZE9ndUcxR3N0T1NwbXd1NllyVXFWU3ZwRUc2ck5Xa1dlLUJLdmtEVVoyeF9ZdjBLWUhfQ05IUE1LNmlDUDYyQdIBkwFBVV95cUxPM3U0T0FJWXRnbjNBanowSktiSUI2VTkwTWdtVDREWTAycW5WdUx3cjI4RkM2WFVESEdNQlZ5djVUQlhKcExjYlZLVnZLQkRRLXdudHRsMU9kWGRoZjdUVnh4aG5yVE9WTUozd2o1dkxqNWs2N2xPc1ZnUVZ4bGlfUmx2bjV2QmxLVUxIa1NLZUpXdmM?oc=5",
+     "ora": "2026-10-03T22:27:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Aeroporto di Tallinn: navette autonome vicino agli aerei aprono all'automazione aeroportuale",
+     "titolo_it": "",
+     "riassunto": "L'aeroporto di Tallinn ha introdotto navette autonome che trasportano lavoratori e pezzi di ricambio vicino agli aerei, segnando un passo verso maggiore automazione aeroportuale.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/08/aeroporto-di-tallinn-navette-autonome-vicino-agli-aerei-aprono-allautomazione-aeroportuale",
+     "ora": "2026-10-08T13:22:20+02:00"
+    },
+    {
+     "titolo": "Regno Unito, e-gate aeroportuali senza passaporto e contactless entro inizio 2027",
+     "titolo_it": "",
+     "riassunto": "Gli aeroporti del Regno Unito stanno installando e-gate contactless che consentono ai viaggiatori idonei di passare senza mostrare il passaporto, con l'obiettivo di velocizzare i controlli entro inizio 2027.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/08/regno-unito-e-gate-aeroportuali-senza-passaporto-e-contactless-entro-inizio-2027",
+     "ora": "2026-10-08T12:26:16+02:00"
+    },
+    {
+     "titolo": "AD di Ryanair: nessuna carenza di carburante per aerei in Europa fino all'estate 2027",
+     "titolo_it": "",
+     "riassunto": "Il CEO di Ryanair afferma che ci sarà abbastanza carburante per i voli jet in Europa fino all'estate 2027, anche se avverte che i prezzi potrebbero comunque aumentare.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/08/ad-di-ryanair-nessuna-carenza-di-carburante-per-aerei-in-europa-fino-allestate-2027",
+     "ora": "2026-10-08T12:54:40+02:00"
+    },
+    {
+     "titolo": "Banca Mondiale: economie del Golfo in calo nonostante il caro petrolio e la guerra in Iran",
+     "titolo_it": "",
+     "riassunto": "La Banca Mondiale segnala che le economie del Golfo sono in calo nonostante il caro petrolio e la guerra in Iran, evidenziando difficoltà nelle esportazioni di energia e nell'aviazione, con ripercussioni anche in Europa.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/08/banca-mondiale-economie-del-golfo-in-calo-nonostante-il-caro-petrolio-e-la-guerra-in-iran",
+     "ora": "2026-10-08T13:33:41+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
