@@ -1,0 +1,197 @@
+{
+ "giorno": "2026-10-09",
+ "creato": "2026-10-09T11:55:43+00:00",
+ "in_breve": [
+  "Thales Alenia Space ha completato i test di uscita del rover Rosalind Franklin in vista della missione ExoMars 2028.",
+  "Enac ha organizzato un workshop sulla nuova regolamentazione europea del ground handling, con aggiornamenti e prossimi appuntamenti.",
+  "Anthropic ha aggiornato le regole d'uso di Claude per l'era degli agenti autonomi."
+ ],
+ "modello": "nvidia/nemotron-3-super-120b-a12b:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Verso Marte: Thales Alenia Space (jv Thales-Leonardo) conclude i test di uscita del rover Rosalind Franklin per ExoMars 2028",
+     "titolo_it": "",
+     "riassunto": "Thales Alenia Space ha completato i test di uscita del rover Rosalind Franklin in vista della missione ExoMars 2028. Questo dimostra il progresso italiano nell'esplorazione marziana e offre spunti per stage nel settore spaziale.",
+     "fonte": "Industria Italiana",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0NuOERKSm5SMk84WWJVcnUxVV9QakJ1b1YzS2xadzhaVC0ybnhYQ205bHM0WUNVRFQ2OElKdGU4cXhKWjIxOGkxU2ZTTWZ1UHZVVW9hT2lNSzdmX2ZrQm02aGdrTGRvQVh5TXdJQVBxd2xEblRNSHVpNFB2N1dQa21mR2FJeVhrS1RTeFJpdkdHb3VGV3lIUE5admhFWFhjMnZr?oc=5",
+     "ora": "2026-10-09T09:04:21+00:00"
+    },
+    {
+     "titolo": "25 anni dalla tragedia di Linate - il Commissario Enac Mearelli alla cerimonia commemorativa: \"La sicurezza è prima di tutto una cultura\"",
+     "titolo_it": "",
+     "riassunto": "In occasione del 25° anniversario della strage di Linate, il Commissario Enac Mearelli ha sottolineato che la sicurezza del volo deve essere una cultura condivisa. Utile per chi studia fattori umani e sicurezza aeroportuale.",
+     "fonte": "Ente Nazionale per l'Aviazione Civile",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdTgwQTVXVGJGM3hwQXFWNXRuOTlRSDU0UlBXanhJX2ZieUJwVWhHZURiTGlVVlFUc3pPNVFkM0Zfd19Pb2t6S0xxT3E1UFZJTW0ycklkQjhHajFFNVlsMWJfXzYyVzE5NTk3Z05WeEhka2NXOFNnVGNKQldKQnhlOGlveHZPYlJvYjVHbXlSeVRwTjdHLUc4MjFNaWtydnRRQ1lWRHh4NVV3US1MYUFTeFEyYWZQRWk2ampCR3hPa0hpVjRMOTg5MjlJMm1IWWkxMDV1ZFZOMzNiUWVZZ0RuaFc5MC1uc1hFQ1R4enZGaWNCUTM0?oc=5",
+     "ora": "2026-10-09T00:22:30+00:00"
+    },
+    {
+     "titolo": "Workshop Enac dedicato alla nuova regolamentazione europea sul Ground Handling: aggiornamenti e prossimi appuntamenti",
+     "titolo_it": "",
+     "riassunto": "Enac organizza un workshop sulla nuova normativa europea per il ground handling, illustrando aggiornamenti e prossimi incontri. Rilevante per chi è interessato alla gestione aeroportuale e alle norme ATM.",
+     "fonte": "Ente Nazionale per l'Aviazione Civile",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX1R2a0VPeHBCeEFTYUY3S2xkV25Ba2pwUWJ5RVNmZVBPeGplRGgyWnp4Z0Nsa1c5YlRjeFZTTDk2Qm1KQ3JvZVVXV1FWejZEOXpQV3FxLUNnT0FBR1BValIwcHdTbk1HRDBiQVZoQWtJd21Fbi1LVHhNQ0xlNTZRcXRsVFRRN3BDelBGVzJVUzROTGVvZ1ZYQjVzVzdaaWJPa2JwVmhmUlZDZEJPWUFUODcwb2JkNnJUUzlUU1R2VmNSemxod2x1V3FWRjZWQ1hrRmZxcVluMjhoeExYcWZR?oc=5",
+     "ora": "2026-10-09T10:18:16+00:00"
+    },
+    {
+     "titolo": "Airbus must target over 100 aircraft deliveries per month to hit 2026 goal",
+     "titolo_it": "Airbus deve superare le 100 consegne mensili per raggiungere l'obiettivo 2026",
+     "riassunto": "Airbus deve consegnare più di 100 aerei al mese per centrare il suo target di produzione entro il 2026. Indica una forte domanda di lavoro nel settore manifatturiero aeronautico.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/airbus-aircraft-deliveries-september-2026",
+     "ora": "2026-10-09T08:42:05+00:00"
+    },
+    {
+     "titolo": "Il Commissario straordinario Enac Mearelli incontra il Vicepremier e Ministro MAECI On. Tajani: trasporto aereo e competitività del sistema Italia",
+     "titolo_it": "",
+     "riassunto": "Il Commissario Enac Mearelli ha incontrato il Vicepremier Tajani per discutere del trasporto aereo e della competitività del sistema italiano. Offre spunti su politiche industriali e opportunità di lavoro nel settore.",
+     "fonte": "Ente Nazionale per l'Aviazione Civile",
+     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNLVB3al9oSzN0TWlZOWhnbXJoRFVqTXBtVzNQeDdHYTZLX3BSWjBaWm84OU51WVpCUEdZLU1fMGtwajNiTmNWak1uTTZ6NXBWZUt3Ujd5SnMtekJwdkZlZW1nTE1jS3poZ0tuMnBRSVZyM1BNdFAwSTZYNDFaRTlMUHo2czQxaVVrSnZPNkVtVzA1dkZqVGNQRG9zWHFwLTFiMm5PVmsyOU1uTnFod1ZfNVJTTzE2S0JYWHhvazhRbVVzZVp4NG5EcmlIMFVxM2l6bmI2aFh6VWl1RkxkaEZUUGQyYkhhOHBIRUlXUnpFUjAxTGFPS2Y4dkgtQlRvVlFRdXNmVw?oc=5",
+     "ora": "2026-10-09T07:09:56+00:00"
+    },
+    {
+     "titolo": "Interessamento di Leonardo Spa per subentrare alla Beko a Siena La Regione | Serve un impegno chiaro",
+     "titolo_it": "",
+     "riassunto": "Leonardo valuta di prendere il posto di Beko a Siena, con la regione che chiede un impegno chiaro per aerospazio ed elettronica. Possibile fonte di stage e assunzioni in Toscana.",
+     "fonte": "Zazoom Social News",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHhVZGVpc3VkVHlDNk5CVmt2OGhFWGFRV0s3b2d5aVFhaTcya2FZcHNpUDRKUVJEbHlyT1hZTHZMb09yUTc2a1pqalJDX1h1emhJc1ZyQUFiT3piOWNTb0FENTBIVTFDT2QzeVBXaEprc1o5VGlsSmpmZENyNlh0MzlLZ2ItU0ptbks4Nm9GUDJScHRuYjlUeVdvQVpHNVQ4V295ZjM1X3NCS0RZSHR1Ukg2ekNBOEJLbjJJanFMSk1JeGhNR3BkZzlRYXpobWEyT3RabWk2TUg?oc=5",
+     "ora": "2026-10-08T19:16:38+00:00"
+    },
+    {
+     "titolo": "FAST Confsal: “E’ tempo di riflettere sul futuro di ENAV”",
+     "titolo_it": "",
+     "riassunto": "Il sindacato FAST Confsal invita a riflettere sul futuro di ENAV, gestore del traffico aereo italiano. Utile per chi è interessato alla carriera nel controllo del traffico aereo.",
+     "fonte": "notizienazionali.",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa25UdXhqdFFxTE1ud2l3cnA4c3poWTBqNXV6U0Q0c0stS0RpVUU4amNuSVdocmJXUnpFWk9YUlA0TXRuYXBMeEN6SzY2dnBieVNrb1JtRU5BRHBCMFA5U2xmbEJBVTVpN0x5WHRBemFtV2N6eURRdmt1a2NoUzZUT052azdjWVZURFkwRlhSdVFjZElFd29lSm9UekJmN05LaFZR0gGjAUFVX3lxTE5rblR1eGp0UXFMTW53aXdycDhzemhZMGo1dXpTRDRzSy1LRGlVRThqY25JV2hyYldSekVaT1hSUDRNdG5hcEx4Q3pLNjZ2cGJ5U2tvUm1FTkFEcEIwUDlTbGZsQkFVNWk3THlYdEF6YW1XY3p5RFF2a3VrY2hTNlRPTnZrN2NZVlREWTBGWFJ1UWNkSUV3b2VKb1R6QmY3TktoVlE?oc=5",
+     "ora": "2026-10-08T20:54:16+00:00"
+    },
+    {
+     "titolo": "Splashdown confirmed for Sophie Adenot",
+     "titolo_it": "Ammaraggio confermato per l'astronoma ESA Sophie Adenot",
+     "riassunto": "L'astronoma ESA Sophie Adenot è rientrata sulla Terra con la missione Crew-12 dopo quasi otto mesi sulla ISS. Evidenzia le opportunità di volo umano e i fattori umani nelle missioni spaziali.",
+     "fonte": "ESA",
+     "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Splashdown_confirmed_for_Sophie_Adenot",
+     "ora": "2026-10-08T18:51:00+02:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Anthropic riscrive le regole di Claude per l’era degli agenti autonomi",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha aggiornato le policy di Claude per supportare meglio gli agenti autonomi, introducendo nuove capacità di pianificazione e interazione. Questo mostra l'evoluzione verso IA più proattive, utile per applicazioni di automazione in aerospazio.",
+     "fonte": "Matrice Digitale",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQTBzbmZwbDdmVU1LSUR2aVBFRzJRRlY4cW10QjZZamRSN2VYRUFtNG5qM2dvYzBtcEJuTklvRjNoek13aUFUbVVUb3IzZUJuUUtQVzZNTG9VQmxsZEwzXzVXLXdhVWk4ZWU3LXozbTVSSktQS29NRS1zdXIteU5PN1ZLaEVmc0h5VnpLWnNaMVZtQQ?oc=5",
+     "ora": "2026-10-09T08:38:22+00:00"
+    },
+    {
+     "titolo": "Anthropic OSS Scanner cerca i bug nel codice open source",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha rilasciato OSS Scanner, uno strumento gratuito che analizza il codice open source alla ricerca di vulnerabilità di sicurezza. Per chi lavora su software critico di volo o sistemi ATM, offre un modo rapido per migliorare la affidabilità del codice.",
+     "fonte": "Punto Informatico",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDVkcVFIbEtOUU00UXd3Y2RrOEZoLW1MOFZVT2dGZzVFcl8ydXUwUnc4ZGx4NUhWUjF2d1prc2s0R1pKRV9iTm1RYUlJRmg3Q1lOellnTmpxbnF1dFd5TGp4VHFwSi1wWFNVeXZYTnRCWUxPOTNJaEcwcm83V3NlamwtSzBndEFfZ3BoVw?oc=5",
+     "ora": "2026-10-09T08:50:25+00:00"
+    },
+    {
+     "titolo": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+     "titolo_it": "Anthropic vieta comportamenti abusivi verso Claude",
+     "riassunto": "Anthropic ha modificato le sue condizioni d'uso proibendo qualsiasi comportamento abusivo o crudele verso il suo chatbot Claude. La policy riflette una crescente attenzione all'etica dell'uso dell'IA, rilevante per chi sviluppa o gestisce sistemi IA in contesti sensibili.",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+     "ora": "2026-10-08T13:00:00-04:00"
+    },
+    {
+     "titolo": "Prezzi dei token AI in calo: le sfide per OpenAI e Anthropic",
+     "titolo_it": "",
+     "riassunto": "I prezzi dei token di AI stanno diminuendo, creando pressione sui modelli di business di OpenAI e Anthropic. Questo trend può influire sui costi di adozione di IA nelle aziende aerospaziali e sulle opportunità di stage legate a soluzioni IA a basso costo.",
+     "fonte": "Agendadigitale.eu",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN09RcDhYYnpmZFNKcWx5QWM4dU82UjYyWU9ablVGbXlpQ2RBTjJsZi1ELVhWYXV4OW1CX1FDbTZ2T1JubmJYWUFtODBNQ29HZU1zNDFaaWRLVVBhVXMyWm5XSDE0N0oweHlTOHdZb1hyYTF6S3VIQzhmaTJvVVVicjF0ZDFOampHbXBvVUpPX1dkcWNkUkFrYVgyN3JuZk9FTDQ0MmR3?oc=5",
+     "ora": "2026-10-09T11:15:18+00:00"
+    },
+    {
+     "titolo": "OpenAI nega ritorsioni verso i tre ricercatori critici sulla sicurezza dell’AI",
+     "titolo_it": "",
+     "riassunto": "OpenAI ha negato di aver attuato ritorsioni contro tre ricercatori che avevano criticato la sicurezza dei suoi modelli. La vicenda sottolinea l'importanza della trasparenza e della libertà di ricerca nella sicurezza dell'IA, temi chiave per la sicurezza del volo.",
+     "fonte": "HDblog.it",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRk9DakdJTzUxc1l1eW9nd2wzZnh1eXFIZUF5OXVCYldJeWJiNjdmbW05SHI0b18xUlBWakU2Z2xhNFYxbGNuWDNOT2ZLeGg5ZHRfRGQ3bHVQeElBTG1nRHNyNTBXaExwRGVJa0FxM3pFSGQtUmwwS3BtbVpOWjF5ZUxJR1pCWmNRaGp4WlZXSTFnX1hIOGRzMGNQdkh4WmF4OHNXYQ?oc=5",
+     "ora": "2026-10-09T11:10:26+00:00"
+    },
+    {
+     "titolo": "Hitachi partecipa al Critical Infrastructure Defense Program di Anthropic",
+     "titolo_it": "",
+     "riassunto": "Hitachi si è unita al Critical Infrastructure Defense Program di Anthropic, contribuendo alla protezione di infrastrutture essenziali contro minacce IA. L'iniziativa è rilevante per la sicurezza degli aeroporti e dei sistemi di gestione del traffico aereo.",
+     "fonte": "Business Wire",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hcWpZVTg0MExEaXFyY0haV0RoV2NBeDBpV3VlZ19TSlViR0VHSHpvRVpOdVl6WUppWW5VdFJSVUpDdWlMMzg3UGp6VzNYSjZVYWc4bW95QThTd1RKY1F6UTZlbnlkQ0E?oc=5",
+     "ora": "2026-10-09T11:28:00+00:00"
+    },
+    {
+     "titolo": "Claude ora disegna i dashboard dei tuoi dati e anima i report",
+     "titolo_it": "",
+     "riassunto": "Claude ora può generare dashboard interattive e animare report a partire dai dati degli utenti, facilitando la visualizzazione di informazioni complesse. Questa funzione può supportare l'analisi di prestazioni di volo o di dati operativi in ambito aerospaziale.",
+     "fonte": "SmartWorld",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZU1WOEpOTUtuQ0ZJQXhjS3RzbEpEX0VhVjZ6M1ZKYzF0ZjlrMlhDZ3M5SzlCZ3diQVJLYUdURmFkNUVSYm1mOE5FREFQR3ZsOVhBSVg5Rlk4RTBOelZKbmZmWm9kQnhBaVBMcnAxaS1YdFMxWjYzejlLUWpiVDZaaWg2bGJWZXpiWnhtWjNIX053Rnc?oc=5",
+     "ora": "2026-10-09T10:33:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "La Scuola di Ingegneria Aerospaziale della Sapienza celebra 100 anni",
+     "titolo_it": "",
+     "riassunto": "La Scuola di Ingegneria Aerospaziale della Sapienza celebra i suoi primi 100 anni, segnando un secolo di formazione e ricerca nel settore aerospaziale. Questo evento sottolinea la tradizione e il peso accademico della Sapienza, utile per chi cerca credibilità e contatti nel campo.",
+     "fonte": "MeteoWeb",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXhrWWFpTlVLRXJvdk5hRWZQZjdyb0x4aVN0TW1PVHFqT3NYbkhVVnJrVTdYYm81SndJZWVzZGg0Y0JLbUlPSWliYlVyNGdVU3lqUmNPMHFTQzRheWVkY3pvV0xhRWZ2RmlZNWpIY0luZlVzTDN4UVZIMGZUS1BUakJKbXRWREhZTmtaXzA1OFFXeDVEdVhJaUpPS0xvMDJ5OXVvdWZheDBFQlRMczMxRnZucUc2NlBFTnfSAboBQVVfeXFMUFl4a1lhaU5VS0Vyb3ZOYUVmUGY3cm9MeGlTdE1tT1Rxak9zWG5IVVZya1U3WGJvNUp3SWVlc2RoNGNCS21JT0lpYmJVcjRnVVN5alJjTzBxU0M0YXllZGN6b1dMYUVmdkZpWTVqSGNJbmZVc0wzeFFWSDBmVEtQVGpCSm10VkRIWU5rWl8wNThRV3g1RHVYSWlKT0tMbzAyeTl1b3VmYXgwRUJUTHMzMUZ2bnFHNjZQRU53?oc=5",
+     "ora": "2026-10-07T08:53:00+00:00"
+    },
+    {
+     "titolo": "L'aeroporto di Long Thanh accelera le assunzioni in vista della fase operativa.",
+     "titolo_it": "",
+     "riassunto": "L'aeroporto di Long Thanh in Vietnam annuncia l'accelerazione delle assunzioni in vista della fase operativa, aprendo posizioni in gestione aeroportuale e controllo del traffico aereo. È un'opportunità di stage o lavoro internazionale nel settore ATM, interessante per chi punta a esperienze all'estero.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU29sOHFwTTlxT0I2LW9saTFDMkE5TWlObjdnUEMwTTZ5TnVob0dsNHB1T2NXREZTQnFidE92RnVkWFM4ZVgxTUJ5ZVNRXzhZbDFoM2pVXzFzQWFCOUxTME0zZkN6R2tqa1lxNWlPZTlEamd5RFZtY3RSdk40RWVoSzRBV0oxU2Q0LXVqTHlNUTNFRjF0?oc=5",
+     "ora": "2026-10-03T15:24:51+00:00"
+    },
+    {
+     "titolo": "AVIO, USB: NO AI LICENZIAMENTI",
+     "titolo_it": "",
+     "riassunto": "AVIO, azienda italiana leader nella propulsione aerospaziale, vede i sindacati USB opporsi a possibili licenziamenti, segnalando tensioni occupazionali nel settore. La notizia evidenzia le dinamiche di mercato e la stabilità lavorativa nelle imprese aerospaziali italiane, rilevante per chi valuta opportunità di carriera.",
+     "fonte": "Usb Pubblico Impiego",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeEsza0N1enRlWGZHTDBlbmdFWFI5eTYyXzRiY0p1SnlEV0QxeU5wUXNpWFFzZ191UmFQa0ktRG1QTW0yZEIxTUNWMlVjZzJKRlNBTmFGNVJ2OVJjMTM3MG94Z2Q4YTcyWTJoWlRUd0xwU2dKZlRmamUxbDU5MDRScWZFbzNPOF8tR2E4?oc=5",
+     "ora": "2026-10-07T15:23:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Aerei a fusoliera stretta cambieranno il modo di viaggiare, dice il CEO di Dubai Airports",
+     "titolo_it": "",
+     "riassunto": "Il CEO di Dubai Airports prevede che gli aerei a fusoliera stretta (single‑aisle) rivoluzioneranno i viaggi aerei, spingendo gli aeroporti regionali a espandersi e influenzando la gestione del traffico e la progettazione degli scali.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/09/aerei-a-fusoliera-stretta-cambieranno-il-modo-di-viaggiare-dice-il-ceo-di-dubai-airports",
+     "ora": "2026-10-09T12:34:21+02:00"
+    },
+    {
+     "titolo": "Attacchi missilistici Houthi all'aeroporto di Riyadh: tre morti, tra cui un comandante di aereo",
+     "titolo_it": "",
+     "riassunto": "Due attacchi missilistici Houthi hanno colpito l'aeroporto internazionale King Khalid di Riyadh, causando tre morti tra cui un pilota e provocando la sospensione di decine di voli, evidenziando rischi per la sicurezza aeroportuale.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/09/attacchi-missilistici-houthi-allaeroporto-di-riyadh-tre-morti-tra-cui-un-comandante-di-aer",
+     "ora": "2026-10-09T12:20:33+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
