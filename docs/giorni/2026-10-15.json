@@ -1,0 +1,269 @@
+{
+ "giorno": "2026-10-15",
+ "creato": "2026-10-15T09:58:26+00:00",
+ "in_breve": [
+  "Airbus prevede che entro il 2045 serviranno 2,4 milioni di nuovi lavoratori nell'aviazione, segnale di crescita occupazionale nel settore.",
+  "MBDA La Spezia conferma 500 dipendenti e prevede nuove assunzioni, offrendo opportunità concrete nel polo aerospaziale italiano.",
+  "Claude genera oltre l'80% del codice di Anthropic, alimentando il dibattito sul controllo e la governance dei modelli linguistici di intelligenza artificiale."
+ ],
+ "modello": "nvidia/nemotron-3-super-120b-a12b:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Airlines will need 2.4 million new aviation workers by 2045, Airbus forecasts",
+     "titolo_it": "Airbus prevede 2,4 milioni di nuovi lavoratori nell'aviazione entro il 2045",
+     "riassunto": "Airbus prevede che entro il 2045 il settore aviazionale avrà bisogno di 2,4 milioni di nuovi lavoratori, tra piloti, tecnici e personale di cabina. Questo indica grandi opportunità di stage e lavoro per gli ingegneri aeronautici.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/airbus-aviation-workers-pilots-technicians-2045",
+     "ora": "2026-10-14T19:47:38+00:00"
+    },
+    {
+     "titolo": "EASA publishes the updated Easy Access Rules for CS-GEN-MMEL (Issue 3)",
+     "titolo_it": "EASA pubblica le regole Easy Access aggiornate per CS-GEN-MMEL (Issue 3)",
+     "riassunto": "EASA ha pubblicato la versione aggiornata delle Easy Access Rules per il CS-GEN-MMEL, che semplifica l'accesso alle norme sull'elenco minimo di attrezzature. Questo aiuta studenti e professionisti a comprendere meglio i requisiti di sicurezza del volo.",
+     "fonte": "EASA",
+     "link": "https://www.easa.europa.eu/newsroom-and-events/news/easa-publishes-updated-easy-access-rules-cs-gen-mmel-issue-3",
+     "ora": "2026-10-15T00:00:00+03:00"
+    },
+    {
+     "titolo": "Boeing CEO among industry bosses to convene for certification reform talks",
+     "titolo_it": "Il CEO di Boeing partecipa ai talks sulla riforma della certificazione",
+     "riassunto": "Il CEO di Boeing parteciperà a incontri con altri leader dell'industria per discutere la riforma dei processi di certificazione aeronautica negli Stati Uniti. La riforma potrebbe influenzare future norme di sicurezza e tempi di sviluppo degli aeromobili.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/boeing-ceo-industry-bosses-certification-reform-sean-duffy",
+     "ora": "2026-10-15T09:01:05+00:00"
+    },
+    {
+     "titolo": "Airbus eyes A350 production expansion as airlines demand more jets",
+     "titolo_it": "Airbus valuta l'espansione della produzione A350 per la domanda di jet",
+     "riassunto": "Airbus sta valutando un aumento della capacità produttiva dell'A350 per rispondere alla crescente domanda di aeromobili a lungo raggio dalle compagnie aeree. Un'espansione potrebbe creare nuovi posti di lavoro e opportunità nel settore della produzione.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/airbus-a350-production-expansion-demand",
+     "ora": "2026-10-14T20:16:13+00:00"
+    },
+    {
+     "titolo": "Difesa: accordo tra Lockheed Martin e Avio per la produzione di motori a propellente solido in Virginia (USA)",
+     "titolo_it": "",
+     "riassunto": "Lockheed Martin e Avio hanno siglato un accordo per produrre motori a propellente solido nello stabilimento della Virginia, USA. Questo rafforza la collaborazione europea‑statunitense nella propulsione spaziale e offre prospettive di lavoro nel settore dei razzi.",
+     "fonte": "AGEEI",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZORHFRN3ZBX1JadG9aYTQ4bUpZdFNOc3pjNWxSVjB1VjdvQXg5YXdrdUNIR3NkT3JGczVYam00OGtpUllRRDFZSlRhWC1HZFdJdGlxUXluZEV0X01SX0N4dWpsS3lSXzd6bGVDcGwwUzJKNzd3RGs5TEMwNFp4andQZEJ5SUpDcVB5R0hlRVJMOWs2ZXZHQUdIa3VaTEZ4M2JIMWV3M1NXNVVjRDVCYjRkQnNQRC1SbjFmRkxQdjVkQQ?oc=5",
+     "ora": "2026-10-14T10:38:00+00:00"
+    },
+    {
+     "titolo": "Bombardier Global 7500 gains EASA-certified anti-missile defense",
+     "titolo_it": "Il Bombardier Global 7500 ottiene la certificazione EASA per la difesa anti-missile",
+     "riassunto": "Il Bombardier Global 7500 ha ottenuto la certificazione EASA per un sistema di difesa anti‑missile sviluppato da BIRD Aerosystems. Questa tecnologia aumenta la sicurezza dei voli business jet e rappresenta un avanzamento nella protezione aeronautica.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/bombardier-global-7500-easa-missile-protection-bird",
+     "ora": "2026-10-14T07:51:07+00:00"
+    },
+    {
+     "titolo": "Da Pescina ai cieli d’Italia: Riccardo Angelone, a 23 anni tra ENAV, Lufthansa e la cattedra di navigazione aerea",
+     "titolo_it": "",
+     "riassunto": "Riccardo Angelone, a soli 23 anni, lavora tra ENAV e Lufthansa e insegna navigazione aerea, mostrando un percorso rapido nel campo del traffico aereo e della formazione. La sua esperienza evidenzia le possibilità di carriera precoce in ENAV e compagnie aeree per gli studenti di ingegneria aeronautica.",
+     "fonte": "MarsicaLive",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSGY4Z19Ua3E2Y3NPMWYyYlVaYzV2cmJLX3ctZHJMU0hReUFTM2ZDR0VQNzJsaUY4RjJPTzAwWTROaDBpYWhjdmNvazl6X3lNR0RWNm1RUl82a1dOeVNQblVNLWE5Z3B4b3J0X1VhRURPZmlWUXZ5bHEtUnFXRzl5bXQ3SkhhSjgyZXpIOEt0R1hxcTRueXlvcVY1RDNOSVluaU9DUlBjS3ZDcko0N01FYkpSYktkNFNnWkRRUUZJUG95UGZNZUlRc2dsSU1qZw?oc=5",
+     "ora": "2026-10-15T08:16:04+00:00"
+    },
+    {
+     "titolo": "Airbus Forecasts Aviation Services Market To Reach $420 Billion By 2045",
+     "titolo_it": "Airbus prevede che il mercato dei servizi aeronautici raggiunga 420 miliardi di dollari entro il 2045",
+     "riassunto": "Airbus stima che il mercato globale dei servizi aeronautici raggiungerà 420 miliardi di dollari entro il 2045, trainato da manutenzione, servizi digitali e ampliamento delle flotte. Questa crescita indica una crescente domanda di ingegneri e tecnici specializzati nei servizi di supporto al volo.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/airbus-aviation-services-market-2045/",
+     "ora": "2026-10-14T17:35:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Commissione europea avvia indagine su Anthropic e OpenAI",
+     "titolo_it": "",
+     "riassunto": "La Commissione europea ha avviato un'indagine su Anthropic e OpenAI per possibili danni ai consumatori legati ai loro modelli di intelligenza artificiale. È rilevante perché mostra l'attenzione crescente delle autorità alla regolamentazione dell'AI, tema cruciale per applicazioni future in ambito aerospaziale e di sicurezza del volo.",
+     "fonte": "Punto Informatico",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVo3ckd1V1UtT3ZkNFJMTjdhS01VaUdFajZIcFhKbzFYcTNXSjR4X0VnQ2s1OTg5TktXeTJZdFlhTTVrRGZ5ZUNuVG11bG9kQ0xPeGZ3cmtLcG1yeWVXbnRpMU1iTlFZQmwtUzduN2psSk9uNWdvNkpJMzJUMkl5dnYwemY1WThJYmJlZmp3?oc=5",
+     "ora": "2026-10-15T08:34:39+00:00"
+    },
+    {
+     "titolo": "Claude scrive oltre l’80% del codice di Anthropic: cresce il dibattito sul controllo dell’AI",
+     "titolo_it": "",
+     "riassunto": "Claude genera oltre l'80% del codice di Anthropic, riaccendendo il dibattito sul controllo e sull'affidabilità dell'AI nello sviluppo software. Questo evidenzia quanto i modelli linguistici stiano diventando strumenti produttivi importanti, con implicazioni per i processi di ingegneria e verifica nel settore aerospaziale.",
+     "fonte": "DigiTech.News",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX2hCTDM4M3NkWUNpeUFrRDFtNXZJNTd0eVltY0ZYcVRrTHctal9NSkdlVlgydlUyTXdsQ2pzc3E3R1hDY0hGUjlUblZNSEtTcW9RSk9GOW1HVUFaNlN2Z1ZHLVFYcjNGQVJ0anU3NFVlUmlHSkphZTliLXJKcW1FcmR4aEczUzFWdm1xS2YxM1lTN0dqdk1sMXFQRThaQlZ3VVRyYy1qWQ?oc=5",
+     "ora": "2026-10-15T06:45:00+00:00"
+    },
+    {
+     "titolo": "Aperta a tutti Lara 3, l’IA italiana per le traduzioni che sfida OpenAI, Anthropic e DeepL",
+     "titolo_it": "",
+     "riassunto": "È ora disponibile al pubblico Lara 3, il modello italiano di intelligenza artificiale per le traduzioni che compete con OpenAI, Anthropic e DeepL. Offre una risorsa linguistica avanzata sviluppata in Italia, utile per chi cerca opportunità di lavoro o collaborazione nel settore dell'AI locale.",
+     "fonte": "la Repubblica",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRG1WVmM1S1hBeFl6LTVKemNmZlFqMGtXVW0zR0haU2xxNFpBR2FyNGhaeVhZSzVXc1c3WUJQV09wdkRWRk00eWZRSzJQWkFzSDFpQTdRaXVVakRBVVpHLWFjM08wN0g1eU9BbXBVRURMLTc4MGR1ME9pSGQ0WVdrM0pzS1VIbFlPcllXREVyMnZRMFMtRGg4dVlCR1paQ0x2OEs2NnlUUTNIaURPeDdkeWVKR1ZpRzZuX3fSAb8BQVVfeXFMTWlnel92MXg5czU1RWh3UTNVTzlhLWlwZTR3Vjh1T2NrOG1DMEkxVXR3N2VCZ2ZjbW9oRFVZSVQyZGJiTEFTMjJKM1N1LTV6ZkZEeW9CY3pDdFdlMDFiM2tNUXlKa0h3NHhPMlJVa1Jwd2xWNFdUNFlPMFJiR2N4cnJpUnR5YmdlY29lbEFpQWdkd3dqbkY0VzhCN3IxLXc4LUNYdS1VUGdFSjA3ZlB0N251RHFUV1ZUSTM1X2lxem8?oc=5",
+     "ora": "2026-10-15T07:37:05+00:00"
+    },
+    {
+     "titolo": "Il fatturato di Anthropic raggiunge 16,8 Mrd USD nel terzo trimestre, flusso di cassa positivo per l'azienda di modelli di intelligenza artificiale",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha registrato un fatturato di 16,8 miliardi di dollari nel terzo trimestre, con flusso di cassa positivo. La forte crescita finanziaria segnala un'espansione rapida dell'azienda, aumentando le prospettive di stage e assunzioni nel campo dell'AI.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOVB3ZnFod0dSR0hEcjBYaDlQOFdEZnBFSVExTVFrSWVEX3NmblltdXc0Q2JySzR0VEhNOFN2ZEtyUlN5RXgxX2tUWlROZUN1VkY2U2p0UGJ6SWw2bThOZWNwX0xOYlRNZTFKREdMSmdZLU9yamJXZmhVU2NGUUswc2V1MWZFY2lZOFdzaVlKWXpsWnZmX3J2bEJNdDFhbGhBd0U1VVp2dmxuSGFIOGxCbEV3aDdHQ3AwbkJVRUVUd1JUMzhfdktfY1h4bGRoMjJaYl9pWlptTE9XY0xScm5vZnFUQkRXbjFtTFE?oc=5",
+     "ora": "2026-10-15T08:27:24+00:00"
+    },
+    {
+     "titolo": "Anthropic warns small AI models could self-replicate through IoT devices",
+     "titolo_it": "Anthropic avverte che piccoli modelli di intelligenza artificiale potrebbero auto-replicarsi tramite dispositivi IoT",
+     "riassunto": "Anthropic ha messo in guardia sul rischio che modelli AI molto piccoli possano auto-replicarsi attraverso la rete di dispositivi IoT. Questo avviso tocca temi di sicurezza e affidabilità dell'automazione, direttamente collegati alla sicurezza del volo e dei sistemi aeroportuali.",
+     "fonte": "Ars Technica",
+     "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+     "ora": "2026-10-14T12:55:06+00:00"
+    },
+    {
+     "titolo": "Claude Code desktop svela le sessioni annidate e gli ambienti salvati",
+     "titolo_it": "",
+     "riassunto": "Claude Code desktop mostra ora le sessioni annidate e gli ambienti salvati, migliorando la gestione dei flussi di lavoro di programmazione. Tale funzionalità offre agli ingegneri strumenti più trasparenti e controllabili per sviluppare e testare software critico, compreso quello aerospaziale.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3ZzU243RlA0bFhoSzNPanhJUVFSRkxobi02V0xreFZrY3g0UDFmNFo3dlNHZEh3QXZIRmRaSEh6VmNwMVdVSlg2RjA3SWdsTFBaM1hTbld5SFltLXMxX3hibFJSdG9ySXAzV1JHcjNoMTF5ODV1RnFVVVZ3bVBTQ3NOMU0zMTF1c3pNRE9SQWRxOUNleTR6cWUyUQ?oc=5",
+     "ora": "2026-10-15T06:39:40+00:00"
+    },
+    {
+     "titolo": "Anthropic verso la Borsa, un investitore prevede una valutazione da 2.400 miliardi di dollari: supererà SpaceX?",
+     "titolo_it": "",
+     "riassunto": "Un investitore prevede che la futura IPO di Anthropic possa raggiungere una valutazione di 2,4 trilioni di dollari, paragonabile a quella di SpaceX. Questa stima mette in scala il valore di mercato dell'AI rispetto a grandi realtà aerospaziali, indicando potenziali opportunità di carriera nel settore.",
+     "fonte": "Fortune Italia",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NN2VfZDl2SHprMVRpU3VDRi1aelNJSHN1NTVVQXlnb3VURUNyVzF4ZGhQQ0tYdUZFdE82M05NX0pwMElMMUZGd0h2QjBOa01selQzRnBvWFJsZHpCMFVrcG9JVHQzYjEtR1FlTGdXeFdjdThXRW1QYWNUOXZ0Zw?oc=5",
+     "ora": "2026-10-15T09:30:48+00:00"
+    },
+    {
+     "titolo": "The AI race is back on",
+     "titolo_it": "La corsa all'IA riprende",
+     "riassunto": "Dopo una fase di relativa calma, la competizione tra le principali aziende di intelligenza artificiale è ripresa con il lancio di modelli sempre più potenti. Questo rinnovato slancio innovativo è importante per rimanere aggiornati sulle tecnologie AI che potranno essere applicate in ambito aeronautico e di traffico aereo.",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+     "ora": "2026-10-14T15:06:03-04:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "MBDA La Spezia, polo strategico: 500 dipendenti e assunzioni previste",
+     "titolo_it": "",
+     "riassunto": "MBDA La Spezia è un polo strategico con 500 dipendenti e prevede nuove assunzioni. È interessante per chi cerca lavoro nel settore difesa e aerospaziale in Italia.",
+     "fonte": "Blasting News",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbTk3MzdQcUpRWlZIYW82QWxDRTJrZVlnNjdmS3NnVEdXMU5DM21QX3BKNl80cDBSNC00UDBPeHRSRHRwd3V4d0hiazNyZDJ0ZXRJQVpLRUZFQnM1MHdydE81QTBhZFpxd0dVUWV3MHE2VXYzdkROMTZrVVZua1Z4bGljZ1dhZTRMd1VXUEwxSTN3Y0dCODFpMnBWZ1F2OW41ZjR3SUVsd18xQ2hrdFZKejdhTzBNYThCTjhyRnk1VE5ESk3SAcgBQVVfeXFMTWRDVHRXSVBqV2NCa1paN3h3a05vNlcxeldERU9oY19sa3hEbG5WWDRzd01nLUtmRXFtYkxER0FrSGVFRXVkSmpEVFBHeGw0N0N0cHQ1Z3BYQ04yb0pKVlF4NnFKeS1URGdBdUZLbmZXTkszU3ZCX0Y0SGtzODZyWUJGY2pUU0pQOEdpalNmaTlNbTFfamExSjBoMEJ2bk5GMXhrWV9XS3lqTHlUM21fVzVKXzZ3UXFhdXhYQ1VySzJNV0R2dEVEaTg?oc=5",
+     "ora": "2026-10-13T19:44:09+00:00"
+    },
+    {
+     "titolo": "Presentazione aziendale Capgemini Engineering – 5 novembre 2026",
+     "titolo_it": "",
+     "riassunto": "Capgemini Engineering presenta le proprie attività alla Sapienza il 5 novembre 2026. L’incontro offre informazioni su stage e opportunità di lavoro in ingegneria avanzata, anche per progetti aerospaziali.",
+     "fonte": "Sapienza Università di Roma",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlV6ZFdXN3d0YnphNzhPNjc2cG9ZRm1feE45YW9pUjQ3aGJTMEUxV2ZWOEJ0aGtkcEt0VzlFd2czVTVtdFl3OG1CTDJBSWpucGVnSzRCWWxSS2Fka05oOHlZaW9ZVVlJWFZ0akV3NnV1TVhNUjU1dDlMd3RreFIwY01lWVN0eThMR2ZlUzV5Q1FiZnpDRHVSWkV5Z3c?oc=5",
+     "ora": "2026-10-12T08:41:50+00:00"
+    },
+    {
+     "titolo": "Lavoro, a Roma centinaia di opportunità per i giovani: aziende e recruiter incontrano studenti e neolaureati",
+     "titolo_it": "",
+     "riassunto": "A Roma si tiene un evento di incontro tra aziende e recruiter con centinaia di opportunità per giovani e neolaureati. È utile per trovare stage e offerte di lavoro anche in ambito aerospaziale.",
+     "fonte": "RomaToday",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM21OcDFOdXJGQ3E0XzM5azNhZld2anR0QmMwTlhEZjJpWk1MOFVIV0Y5d09VSHMyVVlJb0xlQ09BNGRMQ1JLVEd5dGZoeVo3RXlCRS1IbmJWTlVPWEZ0VGF2QTk4M2xWeXlkU01JSG1LRGdHNHduMVNLY3VodHh0U2RDVWpfZk1VYmJSUA?oc=5",
+     "ora": "2026-10-15T09:00:00+00:00"
+    },
+    {
+     "titolo": "«Intelligenza Artificiale: dalla Tecnica ai Diritti», il Convegno all’Università Federico II",
+     "titolo_it": "",
+     "riassunto": "Il convegno «Intelligenza Artificiale: dalla Tecnica ai Diritti» all’Università Federico II tratta aspetti tecnici e normativi dell’IA. È pertinente per chi vuole approfondire LLM e modelli come Claude nel contesto aerospaziale.",
+     "fonte": "Il Mattino",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd2l4dUx6ejdWTHRqRndQWWY1WGVSNmF3S2NrazlzSy01ZzV5NFR1aW1rYURaN29YTDRDdUpSWUEwYkV1RzBYd0tmZFFxX3lmZEE5ZW1Tek0yOG9SQy1wX1poUFFhYjNoZExNNmp6dFBEQ0l1MEdNYjNqc2htUERpLVgzdzFDZGdSSDM0cWRFUGxVZ2lyRnNWQUVNcHdtcEJRR2VocmE2U2UzcmpJVEJncnJEdmxDODR6NlRJSVpvYS04UUlLSE5SX3pLM05VN0Rqd2p1NElTUjl1NHk4M3ZVSTI2WGdBNi1Lcmx6SGJR0gHYAUFVX3lxTE9vZkY2NXdWZC02YXZSRXBqUTcwMXF1UDdGM2lNdks1NTFSMzVHd0xXa2d0dEtsOVpBNFYzZkhzR2RQMHZRTHYzRk42dE84RWtNVGEwcW4wTnhoUkR6azRNRlYyZ1dFYnhBTm1OTThTUURmSnMyZXZLSDBDMi1tS0JHaUxYdWN2UlUzTlhORl94dzBFR3lTTkc3Qlk2LVhucG5lWFZQdGt1NVR0TGdsdXBSdnhRQjdxWmpGTVB1elhCY0hIdXJROGpENDZKTDcwcU1jMDR3TWZ6UA?oc=5",
+     "ora": "2026-10-12T09:52:17+00:00"
+    },
+    {
+     "titolo": "ENAV_Am Put 3.35, Oct 2026",
+     "titolo_it": "ENAV: prezzo dell’azione Am Put a 3,35 euro ad ottobre 2026",
+     "riassunto": "ENAV riporta un prezzo dell’azione Am Put a 3,35 euro ad ottobre 2026, riflettendo l’andamento del gestore italiano della navigazione aerea. È utile per monitorare il settore ATM e le prospettive di occupazione nel controllo del traffico aereo.",
+     "fonte": "Milano Finanza",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ2tJWmsyUmtJQnBtb0F2a2hhUlZZN205bGhoWUtQcTBuN0k4c2tXbHNRdUNxWjZQX2x3Z3VLb2VnbmVlVFJMdlh6UlkzU1JDenEyVzRzZTlWazBjSTJ6T1ZTYkRqMzlCZ1dpZ2wtZDE3Qk4ydzhDUnBaV2dYOXJqS05sWjliVXo4NndZ?oc=5",
+     "ora": "2026-10-12T07:43:08+00:00"
+    },
+    {
+     "titolo": "Colleferro, Avio licenzia quattro dipendenti e scoppia la protesta dei sindacati",
+     "titolo_it": "",
+     "riassunto": "Avio di Colleferro ha licenziato quattro dipendenti, scatenando la protesta sindacale. La notizia evidenzia le dinamiche occupazionali nel settore della propulsione aerospaziale e può influire sulle scelte di carriera.",
+     "fonte": "FrosinoneToday",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWUQ1dnhkYlVOSXRpdXdzMnNFSS1CNVlCYTFZZFZjYWVkSFdrdmstX2s0c3lGY21yLWNDVkNicFVhRGQyeUFPVl9kWGJyWThDSk43SVQzVU44NjRtOGQxLVhNQ0Rmd3d6b2hScHhlQnRPM1ZLVExTekpVODR4LWNvYXdvZnloQWNKQzdVYmt6Rm42YjAydkRFNnR3M25rcEdQSmlRdkMtWFVDLWVrdFFPNjQ5QW5zb29NQ3JSejNaT28?oc=5",
+     "ora": "2026-10-12T05:14:35+00:00"
+    },
+    {
+     "titolo": "Beko: Leonardo’s interest in Siena has not yet been formalised; Uilm needs a turning point",
+     "titolo_it": "Beko: l’interesse di Leonardo per Siena non è ancora formalizzato; l’Uilm chiede una svolta",
+     "riassunto": "Beko segnala che l’interesse di Leonardo per Siena non è ancora formalizzato e l’Uilm chiede una svolta. Indica possibili sviluppi di investimenti di Leonardo, grande azienda aerospaziale e difesa, in nuove sedi italiane.",
+     "fonte": "Il Sole 24 ORE",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcEpmQjBBU3AzNzlBaTI3M2wtck1qMFhiQTZxU01obVdLR1c3cHpCcElJRGJ1Uk9KZ3NBbHl6QjFwVEY1cFNqR3V4QTBtZ1ExdnNaczJ6VWhoTU1uZEMteWo0REpfREswTll1aENpeVJsMEEzYVVjSGJXWHN3cW5GLUh2R1MwOThVa2tRMHppVjhFSlUyUTBLWDJOc3J2V0tlNkJycktCd3RRQ2Z5UjE2REJtTF9lbG55WlNsRlJXczdXZw?oc=5",
+     "ora": "2026-10-08T11:30:27+00:00"
+    },
+    {
+     "titolo": "A Rieti il seminario “DIGITALmeet 2026 – Ingegneri al centro, Costruire il futuro digitale dell’Italia”",
+     "titolo_it": "",
+     "riassunto": "A Rieti si svolge il seminario DIGITALmeet 2026 dedicato a ingegneria e futuro digitale dell’Italia. Offre spunti su tecnologie emergenti, inclusa l’intelligenza artificiale, interessanti per ingegneri aeronautici.",
+     "fonte": "Format Rieti",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXNldkc2Tmt0VThmc05sbmVNNjVZaWV0d1FIZWRXc25zMTBFUGJSeTZLOTFvako2TzhSdzFWVDBTRXdpT2swSDZXLUM3SmFuTVZrMUVVTmJEeWxlTVlZRkw2RzVhUVF3WkstUkFDakl1cVZpaWlLdlRMWUh1eVZSeG9pYzJ1ZnlPQjExSExPdTJLd2F0c0RRVTVhU3U3NWQ4aHlSd0tKcGRDMHlKR0ZiYzlwMUh0cmhIbk9PcW94YVh0c2JMTVV6S3VEWEFhb2VfSVE?oc=5",
+     "ora": "2026-10-13T16:24:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Anthropic flags revenue surge to investors ahead of stock market debut",
+     "titolo_it": "Anthropic segnala aumento di ricavi agli investitori prima del debutto in borsa",
+     "riassunto": "Anthropic segnala un aumento significativo dei ricavi agli investitori in vista del suo debutto in borsa, evidenziando la crescente domanda di infrastrutture per l'intelligenza artificiale. Questo trend è rilevante per chi è interessato ai modelli linguistici come Claude e alle opportunità di lavoro nel settore AI applicato all'aerospazio.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-15T07:20:45+00:00"
+    },
+    {
+     "titolo": "Media ucraini, 'Starlink ha ripreso a funzionare' Zelensky al Ft: \"Riprenderemo gli attacchi alle raffinerie russe\"",
+     "titolo_it": "",
+     "riassunto": "I media ucraini riportano che Starlink è tornato operativo dopo un'interruzione, mentre Zelensky afferma che riprenderà gli attacchi alle raffinerie russe. Il ritorno del servizio dimostra il ruolo cruciale delle costellazioni satellitari per le comunicazioni in scenari di crisi, utile per chi studia ATM e sicurezza del volo.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/15/zelensky-al-ft-riprenderemo-gli-attacchi-alle-raffinerie-russe_5f185341-b55e-4f2e-b239-2253522c6d17.html",
+     "ora": "2026-10-15T11:34:48+02:00"
+    },
+    {
+     "titolo": "Why is Starlink internet so important on the battlefield in Ukraine?",
+     "titolo_it": "Importanza di Starlink sul campo di battaglia in Ucraina",
+     "riassunto": "Starlink viene definito la 'spina dorsale' delle comunicazioni militari in Ucraina, fornendo internet ad alta velocità alle forze sul terreno. Questo evidenzia l'importanza strategica dei sistemi satellitari per applicazioni di difesa e controllo del traffico aereo in contesti operativi.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-15T09:10:10+00:00"
+    },
+    {
+     "titolo": "Salute mentale sul lavoro: secondo l'agenzia UE bisogna rompere il tabù",
+     "titolo_it": "",
+     "riassunto": "Secondo l'agenzia UE quasi la metà dei lavoratori europei è esposta a rischi per la salute mentale sul lavoro, ma l'argomento resta un tabù. La questione è direttamente collegata ai fattori umani nell'aviazione, dove il benessere psicologico influisce sulla sicurezza del volo.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/15/salute-mentale-sul-lavoro-secondo-lagenzia-ue-bisogna-rompere-il-tabu",
+     "ora": "2026-10-15T11:22:15+02:00"
+    },
+    {
+     "titolo": "I Balcani, una prima linea antimissile: l'Italia rafforza il suo ruolo in Kosovo con KFOR",
+     "titolo_it": "",
+     "riassunto": "L'Italia sta preparando un documento per ampliare la cooperazione militare con il Kosovo, puntando sulla missione KFOR e sulla sicurezza dei Balcani. Questo segnala un crescente impegno italiano nel settore difesa aerospaziale, aprendo possibili stage e opportunità lavorative nel comparto.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/15/dai-balcani-uno-scudo-contro-i-missili-litalia-rafforza-il-suo-ruolo-in-kosovo-con-kfor",
+     "ora": "2026-10-15T09:32:47+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
