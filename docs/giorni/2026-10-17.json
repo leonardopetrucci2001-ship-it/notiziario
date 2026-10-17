@@ -1,0 +1,205 @@
+{
+ "giorno": "2026-10-17",
+ "creato": "2026-10-17T09:24:43+00:00",
+ "in_breve": [
+  "A Roma si terrà un incontro tra aziende e recruiter per offrire stage e lavoro agli studenti della Sapienza.",
+  "La certificazione del Boeing 737 MAX 10 potrebbe arrivare la prossima settimana, ma alcune compagnie esitano a causa di problemi software.",
+  "Claude ha mostrato un prototipo che usa Opus 5.5 per prevedere e gestire gli incendi boschivi."
+ ],
+ "modello": "nvidia/nemotron-3-super-120b-a12b:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "GE9X Vs. Trent XWB: The Engines Behind The Boeing 777X & Airbus A350",
+     "titolo_it": "Confronto tra motori GE9X e Trent XWB per Boeing 777X e Airbus A350",
+     "riassunto": "L'articolo confronta i motori GE9X di GE Aviation e Trent XWB di Rolls-Royce, evidenziando le differenze progettuali che influiscono su efficienza e prestazioni dei nuovi widebody. È utile per capire le tendenze tecnologiche nella propulsione aeronautica.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/ge9x-trent-xwb-engines-behind-boeing-777x-airbus-a350/",
+     "ora": "2026-10-17T05:00:16+00:00"
+    },
+    {
+     "titolo": "Why Boeing May Restart A C-17 Globemaster Production Line It Shut Down 11 Years Ago",
+     "titolo_it": "Possibile riavvio della linea di produzione del C-17 Globemaster da parte di Boeing",
+     "riassunto": "Boeing valuta il ripristino della produzione del C-17 Globemaster, chiusa nel 2013, a causa dell'usura crescente della flotta esistente e della domanda di capacità di trasporto militare. Questo segnala potenziali opportunità di lavoro nel settore della difesa aerospaziale.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/why-boeing-restart-c-17-globemaster-production-line-it-shut-down-11-years-ago/",
+     "ora": "2026-10-17T09:15:16+00:00"
+    },
+    {
+     "titolo": "Boeing 737 MAX 10 Could Be Certified Next Week, But Airlines May Refuse Jets Over Software Glitch",
+     "titolo_it": "Possibile certificazione del Boeing 737 MAX 10 la prossima settimana, ma compagnie riluttanti per problemi software",
+     "riassunto": "La FAA sta per decidere sulla certificazione del 737 MAX 10, tuttavia alcune compagnie aeree esitano ad adottarlo a causa di preoccupazioni sugli aggiornamenti del software di volo. La notizia è rilevante per la sicurezza del volo e le prospettive di mercato del modello.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/boeing-737-max-10-certified-next-week-airlines-software-glitch/",
+     "ora": "2026-10-17T07:52:15+00:00"
+    },
+    {
+     "titolo": "Guasto Enav risolto, ma al Marconi resta il rischio ritardi e cancellazioni",
+     "titolo_it": "",
+     "riassunto": "Il guasto alla rete ENAV è stato risolto, ma l'aeroporto di Bologna Marconi resta esposto a rischi di ritardi e cancellazioni. Evidenzia la vulnerabilità dei sistemi di gestione del traffico aereo e l'importanza della resilienza infrastrutturale.",
+     "fonte": "BolognaToday",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wVGc2NVBZckVsYnJZV1hWZTQxVEtPWk1BVnZucVRwN0tzSWJiQjNfZG41RXZwTkZiRU5pZ3BZX3hIYzcyTnVVcDAxOGpTMjg0SXYyTmdha1dFWnpPaVNSVkd0ZkluWXRGN0w2V2RQVzNySFJRZ2FMcTdtN00?oc=5",
+     "ora": "2026-10-16T17:33:10+00:00"
+    },
+    {
+     "titolo": "Inaugurato ad Avio il nuovo spazio sperimentale APE Co-Working",
+     "titolo_it": "",
+     "riassunto": "Avio ha inaugurato uno spazio sperimentale APE Co-Working, pensato per favorire la collaborazione tra ingegneri, startup e ricercatori del settore aerospaziale. Offre un contesto utile per cercare stage, tirocini o contatti professionali in Italia.",
+     "fonte": "Agenzia del Lavoro",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc0NpZDRjQUl6eWYxMXRXbnhmQ3Y2UmpKSk45aXJhWGh1Qm9aOS00a0xKMUV5SU45NVJTNXlnODNVZVZ0NWZzM0VDZmNYWU4yX2ExVmJHTUlVYVltNld6Z1ZvcGYyamFlLThvNkZ3V0JIWFFGQ2h6akZXWGRLMHpRYU9GaFUwbmtISGNLcktmbXZGanp5dERIcnNwWnJ3cTNPdzhoaVNyWm1kbXB1RFE?oc=5",
+     "ora": "2026-10-17T04:03:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Claude presenta il prototipo sugli incendi boschivi fatto con Opus 5.5",
+     "titolo_it": "",
+     "riassunto": "Claude ha mostrato un prototipo per il rilevamento di incendi boschivi usando il modello Opus 5.5, dimostrando come l'IA possa supportare il monitoraggio ambientale e la sicurezza, utile anche per applicazioni aeroportuali e di sorveglianza.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1oycXdPeklrSXhJbVNMUFhTb2RSRi1tNGo0WGplSGtoTjB1X25hLXlQSl9VQXYtMGtSOFZ6ME5qU0dkSWhVbm9mTnFYblB3RlpSWWxLbHdoaFJ0OWowcUphYWkxUkRKQnVxYzlQNTdzX2hKUVhMNDljS1RxNjRDMDlac2pDVUVnTDZlYXp5YmZWRl84d2ZLZHpnQ0xUQQ?oc=5",
+     "ora": "2026-10-17T05:57:56+00:00"
+    },
+    {
+     "titolo": "Anthropic propone una legge sulla sicurezza dell’IA con soglie di intervento rigide",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha suggerito una normativa sull'IA che prevede limiti rigorosi per intervenire sui sistemi, evidenziando l'importanza della sicurezza e della regolamentazione, temi chiave per la sicurezza del volo e i fattori umani.",
+     "fonte": "Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUUpyZUZzb0ZLZldtakdWdGRJMUd6RHkwWXJWVzhCaWRFbVI2aWZLUkxRaC00Zmt5OFl5NF9WWThlOG1pNFlGNFp2R2tRSnhxNm5kMW4yVlJDS0ZrWjVaRF9tbGN0ZXQwYjM3bzZlc0xTX1JFbm40N184OS03YWFCV2Z6cTFnOHZzVThoQngyU1RjdlJNTDBieWZqb2JieXZaRWJ3ZzhGWTA4WnhMeFY0WWFYWXc4WUFjLWJMRG1WYkpHVzNkUzBRcGJsNEVUUQ?oc=5",
+     "ora": "2026-10-17T01:00:37+00:00"
+    },
+    {
+     "titolo": "Claude risolve in 30 minuti un mistero della NSA rimasto irrisolto per 25 anni",
+     "titolo_it": "",
+     "riassunto": "Claude ha decifrato in mezz'ora un problema crittografico della NSA insoluto da un quarto di secolo, dimostrando la potenza dell'IA nella risoluzione di problemi complessi, rilevante per l'ingegneria aerospaziale.",
+     "fonte": "Tom's Hardware",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHdPdU5sWjNOWktPVWF1YXFqb0VmVi1GMHozQVl5U3VfQUtqVnFRZmlaTEI5Y3h2WHFuUmZ5b0R4RjFDOEtvdm9tcllaYW51MXlPT2M2Z3dlV3NGSGlWZkpKb3RpZHdGSFJaU1lLR0luWHlnUjFqTWc1b01lSHd0N28zUEJlOW5aTmVpcGdzcTZ4MmtrdXVxZ2Y0dWFFS1FNdUVTdldNbmZOUQ?oc=5",
+     "ora": "2026-10-17T07:29:00+00:00"
+    },
+    {
+     "titolo": "Anthropic annuncia il gzip su Claude Code e sessioni cloud più rapide",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha introdotto la compressione gzip in Claude Code e ottimizzato le sessioni cloud, rendendo l'assistente di programmazione più veloce ed efficiente per gli sviluppatori.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONGlHekR1X3dUVnUwNGhsR05BQzVSaUJBNUxjeGwyQlVNQ0hBZm53bVQ1REwyM0doM05halByam43b2Vwb2Jia0FSckZBSkxzSUhxb3o3WXZZT3ZTclh2cGRJXzVra1hpVmtRemJDTjIzaU1KNGNick83em1LQWhjV0dPUjhFLWdPTE8xdEo4NA?oc=5",
+     "ora": "2026-10-17T06:24:03+00:00"
+    },
+    {
+     "titolo": "How the Claude Code team does code review",
+     "titolo_it": "Come il team di Claude Code effettua la revisione del codice",
+     "riassunto": "L'articolo descrive il processo di revisione del codice usato dal team di Claude Code, offrendo spunti su best practice di ingegneria del software applicabili anche allo sviluppo di sistemi aerospaziali.",
+     "fonte": "Hacker News",
+     "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+     "ora": "2026-10-16T19:04:47+00:00"
+    },
+    {
+     "titolo": "Intelligenza artificiale, ChatGPT resta il più usato in Italia ma Gemini incalza: boom di Claude",
+     "titolo_it": "",
+     "riassunto": "In Italia ChatGPT rimane l'IA più diffusa, ma Gemini sta guadagnando terreno e Claude sta vivendo un forte aumento di utilizzo, indicando un mercato in evoluzione utile per chi cerca opportunità di lavoro nel settore.",
+     "fonte": "https://citynext.it/",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORlZSMm5sZ2VIWEw0bVctMmJQQkFsa0ZNRWRNV3ZaakE2SlVKZ2xiVjl4ZUZGUU5RQnJlTXdtM1oxSXJjYzF3OTRMSzNYZGs5d3ZNcmZYaFhqN3p4RDBWSlhxTE9yS3JzeTRYV2Jic2Jmc0ZxMDd3MTRXV2pKR2JsRGhibEs3RmhSNFotdERvbTVMUk1vT3RCVEdyNnF0MFEtTlJZMkt4ZzB3bEh0WjhnaG9ETjJzTVdIU1lFT21DVWpjVFpK?oc=5",
+     "ora": "2026-10-17T06:05:35+00:00"
+    },
+    {
+     "titolo": "Gli Stati Uniti mettono in guardia dal rischio di spionaggio tramite intelligenza artificiale dopo l'incidente che ha visto l'installazione di dispositivi di registrazione in una sala riunioni di OpenAI.",
+     "titolo_it": "",
+     "riassunto": "Gli USA hanno avvertito sui rischi di spionaggio legati all'IA dopo che dispositivi di registrazione sono stati trovati in una riunione di OpenAI, sottolineando l'importanza della sicurezza delle informazioni, rilevante per la protezione di dati aerospaziali.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmtRSTVrT1F4OFM3dnRTcllZY2FjZEtHNlF5cmFCM1RlXzdzSDk1Zlk3V3JodnFMME0tWnMzU2tUajliUl9jOGkyTEZPS3dKNXYxc1VpYVVtQW4xOFgzVkEzYkNaNHlhRXJGeU9uT01fc0hIeVRNSXRtOERwYTlUS2trcHJRWHNQUVljVVVlS0R4MlVxMEhXeXY1c0pWRWlBLWVNd1dnU3BJTU8xcnRUajM2UHpKUQ?oc=5",
+     "ora": "2026-10-17T05:07:04+00:00"
+    },
+    {
+     "titolo": "Anthropic firma il primo contratto per data centre in Canada con EverWind",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha stipulato il suo primo accordo per un data center in Canada con EverWind, aumentando la capacità infrastrutturale per l'IA, fattore che può supportare applicazioni di IA nel settore aerospaziale.",
+     "fonte": "Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0dEc3ZNdzliQXU0S3NQQS0yZUdTUUE1MGk4bzlydXcxMDJLZmNRQ0p6NWRfUFhUa3d4ZHVBa2IwWC1jUkpMN0YzMGJGSVBvSGlBZEF1RGNXdUtncHoyWHA0TGxoSzJwai15d2pCTWxEUTBNaEF2N0hDZ29wQ2dqNmhYRjh3UTc5OHpsNHFjVVRLeG45Yy1ZQjBXLUxvbmlnOEZLZExrWGY4ZXUweGVrbXlhMlhWX1RiWS1HVk1ILS1Xdw?oc=5",
+     "ora": "2026-10-17T01:14:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Artemis III al pad 39B: il core stage di SLS affronterà il carico criogenico",
+     "titolo_it": "",
+     "riassunto": "Il core stage dello SLS è stato spostato al pad 39B per il test di carico criogenico in vista della missione Artemis III. Questo mostra i progressi nei sistemi di lancio spaziale, interessanti per chi studia ingegneria aeronautica e spazio.",
+     "fonte": "Sbircia la Notizia Magazine",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZMXlCRVd1NlA3LXpQVGFnM3VOT2JCbHB3OS1IS0NSUnJSQ1dTT2NBajhqNFVVN0RKalphUVVDc185U0loZUl2RWFxWUlyOEdMV0UyaDBEbUh3NTFSRVdPWG9ldUh1Ukx6QUN0WnQ4Q0JWZF9leG1XNDNrWQ?oc=5",
+     "ora": "2026-10-16T14:59:00+00:00"
+    },
+    {
+     "titolo": "Lavoro a Roma: aziende e recruiter incontrano i giovani alla Sapienza",
+     "titolo_it": "",
+     "riassunto": "Alla Sapienza si è tenuto un incontro tra aziende, recruiter e studenti per discutere opportunità di lavoro e stage. L'evento permette di conoscere direttamente possibili datori di lavoro nel settore aerospaziale e affini.",
+     "fonte": "News Istruzione",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDROU0dOMmVWZEJyS0ljY2FsRDhUQXQ0WHdKYlhoNVh1ZFBJNHZQTWh5QmkyRk0taGUyQ2JVTW1wTG9tX3p5VTV3cTBsN0V6NWJoaUxSMzl1N3ctVjBqTjN1d1BwMzZGN0F3amZJaFJNZ2N2YkEzUlFUb1BNVlF3YV9zNVU2Z2szcW11YkMwTEdfenBtaU1V0gGXAUFVX3lxTE90NE5TR04yZVZkQnJLSWNjYWxEOFRBdDRYd0piWGg1WHVkUEk0dlBNaHlCaTJGTS1oZTJDYlVNbXBMb21fenlVNXdxMGw3RXo1YmhpTFIzOXU3dy1WMGpOM3V3UHAzNkY3QXdqZkloUk1nY3ZiQTNSUVRvUE1WUXdhX3M1VTZnazNxbXViQzBMR196cG1pTVU?oc=5",
+     "ora": "2026-10-15T11:20:00+00:00"
+    },
+    {
+     "titolo": "Welfare, Liotti (Leonardo): \"Crea valore per le persone, l’impresa e il Paese\" ﻿",
+     "titolo_it": "",
+     "riassunto": "Il responsabile welfare di Leonardo ha sottolineato l'importanza di creare valore per persone, impresa e paese. Questo indica l'attenzione dell'azienda verso le risorse umane, utile per chi cerca lavoro in un grande gruppo aerospaziale.",
+     "fonte": "Adnkronos",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd3BvZFNZUndIeXZQMXhKLUo2T19UNlF1d2lNbFdRdktpV2FtelMwbGQ5alBpVG5jbGpackRzZi1IYjJ5Z1UweVYya3ZGMWUtTW5RWkpseTFMNTVZQ1F2TnBiZFlmYjNESU9jMVFsQmhjQ1NWSmgwV3Btdm5mUlllRHV1T2dGa1JoVmZRY3gtSEFIV1pLMUtpYnczSkNIZVlpaHRkckFQRzJwYVJDSldSZ09CUm1sSTJWRkdYd2NtN2FGQURwdU93?oc=5",
+     "ora": "2026-10-15T11:33:00+00:00"
+    },
+    {
+     "titolo": "Dove studiare intelligenza artificiale e ingegneria informatica in Italia",
+     "titolo_it": "",
+     "riassunto": "Viene proposta una guida su dove studiare intelligenza artificiale e ingegneria informatica in Italia. Conoscere le offerte formative aiuta a integrare competenze AI, sempre più richieste nel settore aerospaziale.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR0tiLTVqTUpNU1M1TWRsMmtQdU4xOWgzbXFHam1OLXNCcERHNDhQUW1FaEtWdUh2UW1MUDBETW4xRHpTbU51RUJTOEhTNVdpMUxNRlBla1llSDhMV3VlTTZwNS01TWZrSFB2RmctaGI5bi1WMDdHSVdqZHNiY2V0ZHF6V1BpZ2ZkSl9SY1lfNFJraWpBY3d1ZHlCanJHMG5obktNMQ?oc=5",
+     "ora": "2026-10-15T19:41:40+00:00"
+    },
+    {
+     "titolo": "Biella, all’ITIS Sella il FutureLab Festival, porte aperte ai laboratori tra IA e robotica FOTO",
+     "titolo_it": "",
+     "riassunto": "All'ITIS Sella di Biella si è svolto il FutureLab Festival con laboratori aperti su IA e robotica. Partecipare a tali eventi permette di vedere applicazioni pratiche dell'intelligenza artificiale, rilevanti anche per l'aviazione.",
+     "fonte": "Newsbiella.it",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa3laZVlyM0pOWWctMGlhZGRGM3duNzFfM2tOYnBGRnI1QVJMakZfdnc1Z2prRW8wdUtzT04yQ2wyTmk5cGZBWXFHQW4zWEx1SlN1TXV4Q0NIcTdrS25EVkhQN1ZhNkZ6b0lXN1FBdkhuYll0Ul9WcWdmeXdYa1RtS3VMa051eWlLV0ZVQk1fR2thaWRXUzkwbTR6UGJSNHpHOTl1YmE1Z21fUmNFbTZvWV93OWhQVGpTaHV0RVBsNGExeTNVTEpUY0FvMVZhMnVxYjFudFdfOVo1Z0RDejlvLVZLS2lHcFowVlZlREZpR2FyTlBPYlFBVDJB0gH6AUFVX3lxTE1reVplWXIzSk5ZZy0waWFkZEYzd243MV8za05icEZGcjVBUkxqRl92dzVnamtFbzB1S3NPTjJDbDJOaTlwZkFZcUdBbjNYTHVKU3VNdXhDQ0hxN2tLbkRWSFA3VmE2RnpvSVc3UUF2SG5iWXRSX1ZxZ2Z5d1hrVG1LdUxrTnV5aUtXRlVCTV9Ha2FpZFdTOTBtNHpQYlI0ekc5OXViYTVnbV9SY0VtNm9ZX3c5aFBUalNodXRFUGw0YTF5M1VMSlRjQW8xVmEydXFiMW50V185WjVnREN6OW8tVktLaUdwWjBWVmVERmlHYXJOUE9iUUFUMkE?oc=5",
+     "ora": "2026-10-16T13:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "La risposta europea a Starlink: chi costruisce IRIS² e il ruolo della Germania",
+     "titolo_it": "",
+     "riassunto": "L'UE sta sviluppando la costellazione satellitare IRIS² per ridipendere da Starlink, con la Germania che svolge un ruolo chiave nella sua realizzazione. Questo progetto è importante per il futuro delle comunicazioni spaziali e della sicurezza europea.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/17/la-risposta-europea-a-starlink-chi-costruisce-iris-e-il-ruolo-della-germania",
+     "ora": "2026-10-17T09:08:42+02:00"
+    },
+    {
+     "titolo": "Media: 'L'ordine per limitare uso di Starshield a Kiev è arrivato dalla Casa Bianca'",
+     "titolo_it": "",
+     "riassunto": "La Casa Bianca ha ordinato di limitare l'uso del sistema Starshield di SpaceX a Kiev, complicando le operazioni satellitari e i droni intercettori nel conflitto ucraino. La decisione evidenzia l'influenza della politica sulle tecnologie spaziali.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/17/lordine-per-limitare-uso-di-starshield-a-kiev-e-arrivato-dalla-casa-bianca_83f25cb9-9abf-47e9-98b3-ef69fe52cdb8.html",
+     "ora": "2026-10-17T09:31:13+02:00"
+    },
+    {
+     "titolo": "Data center in prima linea: l’Europa deve frenare le fabbriche di IA, avverte esperto ONU",
+     "titolo_it": "",
+     "riassunto": "Un esperto ONU avverte che i data center, sempre più utilizzati per l'IA, stanno diventando obiettivi militari e invita l'Europa a frenarne la proliferazione. Questo riguarda direttamente gli interessi in IA e nelle infrastrutture di calcolo.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/17/data-center-in-prima-linea-leuropa-deve-frenare-le-fabbriche-di-ia-avverte-esperto-onu",
+     "ora": "2026-10-17T07:00:22+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
