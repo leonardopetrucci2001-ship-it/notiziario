@@ -1,0 +1,245 @@
+{
+ "giorno": "2026-10-18",
+ "creato": "2026-10-18T09:39:31+00:00",
+ "in_breve": [
+  "Enav ha subito un guasto ai sistemi che ha ridotto il traffico aereo al 50%.",
+  "A Settimo Torinese sorge ora lo Stellar Hub, un nuovo stabilimento che trasforma un'ex vetreria in una fabbrica di satelliti.",
+  "In Italia Claude ha superato ChatGPT e Gemini con una crescita del 677% prevista per il 2026, evidenziando l'ascesa dei modelli linguistici locali."
+ ],
+ "modello": "cohere/north-mini-code:free, google/gemma-4-31b-it:free, nvidia/nemotron-3-super-120b-a12b:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Enav, guasto ai sistemi: traffico ridotto al 50%",
+     "titolo_it": "",
+     "riassunto": "Un guasto ai sistemi Enav ha ridotto il traffico aereo italiano al 50% delle capacità normali. L'episodio mostra la criticità delle infrastrutture di gestione del traffico e il loro impatto sulla sicurezza e sulle operazioni aeroportuali, temi centrali per chi studia ATM.",
+     "fonte": "www.ttgitalia.com",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeHpBUE1ZY21seDdROTNRd2FUUU1kMWNVZzkzZFdBUEtlU1htb29qeU00WVFDSDhab1BocURON2E5UzhKNVdfYkNSQ0Yxdy1ZeW1uNmZCRFJPVF9uc1hNd0lDeXYyNkRNTk1aOUF4MUl6X0traVFBcUQtTzF5VmMtbC16eTNlN21Xa05tQ1NUeDBGUGc4LXlHdXp0OWVRZ28?oc=5",
+     "ora": "2026-10-18T01:04:55+00:00"
+    },
+    {
+     "titolo": "Azioni Avio in scatto a 30,6 euro a Piazza Affari: l’accordo sulla Manovra spinge la Difesa",
+     "titolo_it": "",
+     "riassunto": "Le azioni Avio sono salite a 30,6 euro dopo l'accordo sulla Manovra che favorisce il settore della Difesa. L'aumento segnala una fase di crescita per l'azienda e apre prospettive di stage e lavoro nel campo della propulsione aerospaziale e della difesa.",
+     "fonte": "Istituto Impariamo",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjFrcHdqLVN1cmZZWHlfSjlKYzl3ZzhXTVh6T196czAydXF3NWd1VmNfWkZMazh2SVZhQkdLQUVkdGJuVEZESEJneHF1bFpOcllqb0ExdHlPb0kwXzhLMHhPZnI0eWltVjFWMVVmSVNxcWVCNklHRnN5Y0RNVHkyWklOWVFCOVBaYURPUGxWaXRuWThfMnp2S2NtcDZLUVdCUlNDSUNDS0VYUC1lV3lHZlA5cDdFVXdjTjFUZkFyVQ?oc=5",
+     "ora": "2026-10-17T21:22:18+00:00"
+    },
+    {
+     "titolo": "Boeing Quietly Raised The 777-9's Range From 7,285 To 8,000 Nautical Miles Without Announcing It",
+     "titolo_it": "Boeing aumenta silenziosamente la gittata del 777-9 a 8.000 miglia nautiche",
+     "riassunto": "Boeing ha incrementato la gittata dichiarata del 777-9 da 7.285 a 8.000 miglia nautiche senza un annuncio ufficiale. Il miglioramento evidenzia gli sviluppi prestazionali di un nuovo widebody, utile per valutare competenze in progettazione di velivoli e analisi di range.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/boeing-quietly-raised-777-9-range-7285-8000-nautical-miles-without-announcing/",
+     "ora": "2026-10-18T00:00:16+00:00"
+    },
+    {
+     "titolo": "The Trent XWB-97 Has 4.5 Million Flight Hours Before The GE9X Carries Its First Pound Of Freight",
+     "titolo_it": "Il Trent XWB-97 raggiunge 4,5 milioni di ore di volo prima che il GE9X trasporti il primo carico",
+     "riassunto": "Il motore Trent XWB-97 ha accumulato 4,5 milioni di ore di volo prima che il GE9X trasporti il primo carico merci. Questo dato sottolinea la maggiore maturità e affidabilità del Trent rispetto al nuovo concorrente GE9X, elemento chiave per la valutazione dei rischi tecnologici nei motori turbofan.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/trent-xwb-97-4-million-flight-hours-before-ge9x-first-pound-freight/",
+     "ora": "2026-10-18T07:00:16+00:00"
+    },
+    {
+     "titolo": "How US Legacy Carriers Fly For The Pentagon: The Civil Reserve Air Fleet Explained",
+     "titolo_it": "Come i vettori statunitensi supportano il Pentagono con la Civil Reserve Air Fleet",
+     "riassunto": "I vettori statunitensi United, Delta, American e altri forniscono capacità di trasporto militare attraverso la Civil Reserve Air Fleet. L'iniziativa mostra come l'industria civile contribuisca alla difesa e offra opportunità di collaborazione e impiego nel settore della difesa aerea.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/us-legacy-carriers-fly-pentagon-civil-reserve-air-fleet/",
+     "ora": "2026-10-17T23:00:16+00:00"
+    },
+    {
+     "titolo": "Why Pilots Deliberately Pull Back Thrust Seconds After Lifting Off The Runway",
+     "titolo_it": "Perché i piloti riducono la spinta poco dopo il decollo",
+     "riassunto": "I piloti riducono brevemente la spinta subito dopo il decollo per gestire carichi strutturali e limitare il rumore. La procedura illustra l'interazione tra fattori umani, prestazioni del velivolo e sicurezza del volo, rilevante per studi di fattori umani e operazioni di volo.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/why-do-pilots-pull-back-thrust-seconds-after-lifting-off-runway/",
+     "ora": "2026-10-18T01:45:16+00:00"
+    },
+    {
+     "titolo": "LATAM Boeing 767 Drops 23,000 Feet As Oxygen Masks Deploy In Midair Emergency",
+     "titolo_it": "Un Boeing 767 LATAM perde 23.000 piedi e scattano le maschere di ossigeno",
+     "riassunto": "Durante un volo, un Boeing 767 LATAM è sceso di 23.000 piedi dopo l'attivazione delle maschere di ossigeno a causa di una depressurizzazione. L'evento è un caso studio sulla gestione delle emergenze in volo e sulla sicurezza dei passeggeri.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/latam-boeing-767-oxygen-masks-midair-emergency/",
+     "ora": "2026-10-18T07:42:19+00:00"
+    },
+    {
+     "titolo": "Woman Trapped In United 737 MAX Lavatory At 35,000 Feet Forces Emergency Descent",
+     "titolo_it": "Passeggera bloccata nel bagno di un United 737 MAX a 35.000 piedi provoca discesa di emergenza",
+     "riassunto": "Una passeggera è rimasta bloccata nel bagno di un United 737 MAX a 35.000 piedi, costringendo l'equipaggio a iniziare una discesa di emergenza. L'incidente evidenzia aspetti di fattori umani e progettazione degli interni che possono influire sulle procedure di emergenza e sulla sicurezza.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/woman-trapped-united-airlines-737-max-lavatory-emergency-descent/",
+     "ora": "2026-10-18T05:02:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Anthropic ha proposto al Congresso degli Stati Uniti una legge sulla sicurezza dell’IA con restrizioni per il governo",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha chiesto al Congresso USA una legge sulla sicurezza dell’intelligenza artificiale che prevede limiti per l’uso governativo. È rilevante per chi si occupa di sicurezza del volo e fattori umani, poiché indica la direzione futura della regolamentazione dell’IA.",
+     "fonte": "Incrypted",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeFNYbzI1QjVVQ3BIeG1JcXRaZC1uRnAtc0M0LUVfTlh6WF9ibVZEQXRXTHpGUG9GcVFFZTczX1lzdExXRnFUZDZuUUc2aEVjcW1KSmwxaWNPOWtMX3VIenY4bXFlZW5jcVQ0b002ZERiSFN1OHNBQmtnYnNRUFhId2xUcG9HMFI5Mi02NGlrblFicXBTemxJaUVfYll0em5WaDAzZDlQcS1lSncwMUxQNTYyZkpfYjJjYnJrRDBmNG9XdVNWNlVuZkprbVFweEk3b09WbEx6OUxDUQ?oc=5",
+     "ora": "2026-10-18T09:02:36+00:00"
+    },
+    {
+     "titolo": "Meta lancia un modello di intelligenza artificiale aperto per competere con i rivali globali.",
+     "titolo_it": "",
+     "riassunto": "Meta ha rilasciato un modello di intelligenza artificiale open source progettato per competere con i principali rivali globali. Questo amplia le risorse disponibili per ricerca e applicazioni nel settore aerospaziale.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2ppVEtTMExWYXIyM2NBMVpzYmMzR0FwTzJaYi1GVmlSTktha1FUSDA1XzBXLS0wMEpNOVZoZmRxOHpGRmNYd0IxNXVnSlcwbzV0QmZ3b3g1QWtQVGdUUGlwcmFPc1AyWEdnSElrTDBGUy1DZ0VSS2c0VVFTamEzYU1lWHN1Q3dIQjFpOUdfM1c?oc=5",
+     "ora": "2026-10-18T00:23:02+00:00"
+    },
+    {
+     "titolo": "ChatGPT vs Gemini vs Claude Italia: Claude +677% [2026]",
+     "titolo_it": "",
+     "riassunto": "In Italia l’uso di Claude è cresciuto del 677% rispetto all’anno precedente, secondo un confronto tra ChatGPT, Gemini e Claude. La rapida diffusione segnala opportunità di lavoro e stage legati a questi modelli linguistici.",
+     "fonte": "tech-insider.org",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uWTZCOTk0amt0aFRZbDhwVW1mTE5SVENMVzdMSzJpLWc1d192UllWNUM3N2xmVmNiRUpIaFZQN25fb1JVTElyRTJidmQ1Qm5xbkR6XzRiZTM4MkNuS2M5WWVGUjV4d0dZTDFtcmhDcXctUmhQN25wMnlQcw?oc=5",
+     "ora": "2026-10-17T19:02:35+00:00"
+    },
+    {
+     "titolo": "Blackstone finanzia Anthropic con 60 miliardi di dollari al 10% di interessi annui",
+     "titolo_it": "",
+     "riassunto": "Blackstone ha investito 60 miliardi di dollari in Anthropic con un interesse annuo del 10%, segnando un forte sostegno finanziario alle imprese di IA. Questo indica un mercato in espansione utile per chi cerca opportunità nel settore.",
+     "fonte": "Techpost",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcFZvRnZvdUl2U2RtYjBiVWZ5ZnJ5d25USDhEc2E4WHY1T1dad2FOd1ZlS25uYktkNGNtb01lLWJfVHdxcnpHLVhqWmFmRWRiVDhQQmxLUHIxa3JtWS1TRDlXTkp1bUJ6dU1WSEt5VDVmTEJBUDNwdmlldzcyLThvclFuSkpKWG42UFBMaUp4MkRZdDgxd0tQazFPcjVDOE9Eb1BGU3lSeHB5UFkyQ2hMdXptUWk2ZW5hOFFmLUZ0cWhuMi1KN09waW1IdlRiS0VkOWFHcUI0dHR3dw?oc=5",
+     "ora": "2026-10-18T05:49:00+00:00"
+    },
+    {
+     "titolo": "Il “black box” dell’IA si sta davvero aprendo? Ex ricercatore OpenAI: il 90% dei neuroni fa un solo mestiere",
+     "titolo_it": "",
+     "riassunto": "Un ex ricercatore di OpenAI afferma che il 90% dei neuroni dei modelli di IA svolge una sola funzione specifica, suggerendo che la “black box” dell’IA sta cominciando a essere compresa. Migliore interpretabilità è cruciale per applicazioni di sicurezza nel volo.",
+     "fonte": "Yellow.com",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY3F5WnItU3pCbEh0c0o0U1k1dk9rQUMtSDBmaW0xdllrOXlwRWw0MElHT0xGdlFUMlgxVkV1X3JKUmxUV3RUU0QxRHlTTGJ5Z1V0YXFJOG9MX29lczVxUmJ1T0ZuRUhJTzZCZWI2bWhwWjYtNEs4bGpaU2JDdHNWWkxOWlNfOTVjbFdZaDlBZnNXcERNblJIMFNESkd1X3dQNFJzN3Z0LVh0Q3NWSXhFb1FuSXRmRnM2OE1FWWNjT2tldjBRVkYySlhYdHRsTmhMRGthaUtxdUFNa3g5SjlES1p0X1ZXZm9pVDRheA?oc=5",
+     "ora": "2026-10-18T05:35:36+00:00"
+    },
+    {
+     "titolo": "Quali lavori l'AI non può sostituire secondo ChatGPT e Claude",
+     "titolo_it": "",
+     "riassunto": "Secondo le risposte di ChatGPT e Claude, alcuni lavori sono difficili da sostituire dall’intelligenza artificiale, tra cui ruoli che richiedono giudizio umano complesso. Questo aiuta a orientare la scelta di stage e carriere meno automatizzabili.",
+     "fonte": "Punto Informatico",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeTdHdGlPa3duMXdaUHdFTmhrVE9fc2NuSk1faDVHYXlNdTJ3WmVpSktvaXhhYUw2RWp4Y3pNcmdfRHJEQ0xBeGZEaUsxRERVOTN3WjNsR25qQVV1T3puc2tuSkplbFhZbUdDYUplU0pCOVNyT1N1ZUlTS0JVT2JCNDc5MEh3OTBUaDhoeGVIM2tORHhoY2c?oc=5",
+     "ora": "2026-10-18T07:32:09+00:00"
+    },
+    {
+     "titolo": "AI Strategy Bootcamp, a Ercolano l’AI per chi guida le imprese",
+     "titolo_it": "Bootcamp di strategia AI a Ercolano per manager",
+     "riassunto": "A Ercolano si terrà un AI Strategy Bootcamp rivolto a chi guida imprese, focalizzato sull’applicazione pratica dell’intelligenza artificiale. È un’occasione di formazione e networking utile per chi cerca lavoro in Italia nel settore tech.",
+     "fonte": "Stylo24",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMVo5T1FELTdGRHhsWjBMektwMV9LaXNhRDNic2Rwc3dvUmRmVzY5OExhUmlJV2Y1TDAyQjY1QnU5V2x3QjZEbVM3bXppWm03WnJpOUZpcmJkVVpEQXZsQlZkSkk4eVF0ZWl3RzNPRGVzMlZSb1R0Ukx6STNwYTFyMFBrNE4wVUVPZGM3Zl9ETQ?oc=5",
+     "ora": "2026-10-18T09:31:16+00:00"
+    },
+    {
+     "titolo": "Amazon, Yelp, Delta, JPMorgan e Schwab bloccano gli agenti AI",
+     "titolo_it": "",
+     "riassunto": "Amazon, Yelp, Delta, JPMorgan e Schwab hanno deciso di bloccare l’accesso degli agenti AI ai propri sistemi, citando rischi di sicurezza e affidabilità. La decisione evidenzia le attuali limitazioni degli agenti autonomi, rilevante per chi studia automazione in aeroporto e ATM.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU1UxeldnTG1Sb1NleUw2N0lldkkwcGZyckN1RHc0NGxEd2N5cUhNRFlLeU9TQmxrelZRUHNyWUxoRUpfQXExYkJuWWc4OVE1b1dLNy1TSWVqYkhJNW1jWUxUMjF4aTVHcnRad1YzOVVjQ1UwMTVCbWw0WmlGcTRoYkZJSGw4QzdmbWdtZQ?oc=5",
+     "ora": "2026-10-18T06:58:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Lavoro a Roma: aziende e recruiter incontrano i giovani alla Sapienza",
+     "titolo_it": "",
+     "riassunto": "Aziende e recruiter incontrano giovani alla Sapienza. È un'occasione diretta per cercare stage e lavoro nel proprio ateneo.",
+     "fonte": "News Istruzione",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDROU0dOMmVWZEJyS0ljY2FsRDhUQXQ0WHdKYlhoNVh1ZFBJNHZQTWh5QmkyRk0taGUyQ2JVTW1wTG9tX3p5VTV3cTBsN0V6NWJoaUxSMzl1N3ctVjBqTjN1d1BwMzZGN0F3amZJaFJNZ2N2YkEzUlFUb1BNVlF3YV9zNVU2Z2szcW11YkMwTEdfenBtaU1V0gGXAUFVX3lxTE90NE5TR04yZVZkQnJLSWNjYWxEOFRBdDRYd0piWGg1WHVkUEk0dlBNaHlCaTJGTS1oZTJDYlVNbXBMb21fenlVNXdxMGw3RXo1YmhpTFIzOXU3dy1WMGpOM3V3UHAzNkY3QXdqZkloUk1nY3ZiQTNSUVRvUE1WUXdhX3M1VTZnazNxbXViQzBMR196cG1pTVU?oc=5",
+     "ora": "2026-10-15T11:20:00+00:00"
+    },
+    {
+     "titolo": "Da ex vetreria a fabbrica di satelliti: a Settimo Torinese arriva lo Stellar Hub. Ecco di cosa si tratta",
+     "titolo_it": "",
+     "riassunto": "Nasce lo Stellar Hub a Settimo Torinese per la produzione di satelliti. Rappresenta una nuova opportunità industriale nel settore spaziale italiano.",
+     "fonte": "Giornale La Voce",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLUlIY1VaOWloS3ZRYmxxYll1RC12c2pjT2x4ejZVZ2NVRW1SSHNFQXIxRFd0SVhGWWR6eTBlaWR0aFozcFBESjVIUjVZejNIdmNDcW4tTjA3VWNJV0F2UThkQXhqNVhmaG14eGlWYllOR3hXblhISmNsdjZyWnVuWS01Y3ZXbTZOTmM0SkdwM3NKaE56VHBCNUxWeDAyeGlyWFVhX2hZakVLZXhuVzdzN3oyb1VpOTBDakg0eVhmR2NELTN3VGpNVFhtdFpmTTNuXzY3Zk93R08wM1F0WG5BdkU2ZWx4WVJmTVliZGZnclc?oc=5",
+     "ora": "2026-10-18T07:21:54+00:00"
+    },
+    {
+     "titolo": "la scuola di ingegneria aerospaziale della sapienza compie 100 anni: al via le celebrazioni a roma",
+     "titolo_it": "",
+     "riassunto": "La scuola di ingegneria aerospaziale della Sapienza festeggia i 100 anni. L'evento è rilevante per il networking con l'alumni della propria facoltà.",
+     "fonte": "Aise.it - Agenzia Internazionale Stampa Estero",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ0w3RlQxSUVhdFo1aDFtUWtRdTBteEQyejZTUGg4cFBEM0F2Vjg5QndoQTZFSDc1QUpxdHRLRHlQWFdsNkZhOFdFTVJscXl3MFdJekljXzBFa2lGR0NrbFpDQzZnQVh5MDRSeXo4QkNzRTlqZldLdExNNTBQcU1zcnNFTkdCOEp6b0E3Rk5wcW9INnd4SWRlM3BaTk1SV1B4N3ZSSDg0bzZUTU1VZnVib1g3NHVHWTBhdkQzYm9STVZiWDB2bWJ5S2Z2SjRrVDds?oc=5",
+     "ora": "2026-10-17T14:17:00+00:00"
+    },
+    {
+     "titolo": "Il ricambio generazionale in Ferrovie dello Stato e la ricerca di neolaureati",
+     "titolo_it": "",
+     "riassunto": "Ferrovie dello Stato ricerca neolaureati per il ricambio generazionale. Interessante per chi si occupa di trasporti e infrastrutture.",
+     "fonte": "Corriere della Sera",
+     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVUtuQl9SU0oyM1FlT0pmVzZsdGE2ejFhM2R6azl6dnhhVTkwWkItSnlWUTR5TUhwcXRHRGNVeEwtLWxVdmVXRmhPTmRGV3JCcnRSMUxEV2pfVnB6QTRkVG1jUE5ZMHVESi14a0xsdEVNZGNDb3dWbW00NThnQlVNLTNCNkRGUml2SHlhSFpjUFhVd2NueU56MEJjbUNKVkVZeEl5VXZ4S1FHYVl3LVJ0R3ZWeUJ6aHk5YnZzTVR3eGd4MXc0bXJMZ2RGMkd1a2hPUXduSlAzbHdzZFk5VDhZQ1dVcTROSWgxRTFjV2FkQVFQRkxpZzJDR2xZcXBGTDRfVzB5M25Qek5wd9IBigJBVV95cUxPVUtuQl9SU0oyM1FlT0pmVzZsdGE2ejFhM2R6azl6dnhhVTkwWkItSnlWUTR5TUhwcXRHRGNVeEwtLWxVdmVXRmhPTmRGV3JCcnRSMUxEV2pfVnB6QTRkVG1jUE5ZMHVESi14a0xsdEVNZGNDb3dWbW00NThnQlVNLTNCNkRGUml2SHlhSFpjUFhVd2NueU56MEJjbUNKVkVZeEl5VXZ4S1FHYVl3LVJ0R3ZWeUJ6aHk5YnZzTVR3eGd4MXc0bXJMZ2RGMkd1a2hPUXduSlAzbHdzZFk5VDhZQ1dVcTROSWgxRTFjV2FkQVFQRkxpZzJDR2xZcXBGTDRfVzB5M25Qek5wdw?oc=5",
+     "ora": "2026-10-16T11:35:33+00:00"
+    },
+    {
+     "titolo": "Welfare, Liotti (Leonardo): \"Crea valore per le persone, l’impresa e il Paese\" ﻿",
+     "titolo_it": "",
+     "riassunto": "Leonardo discute l'importanza del welfare aziendale. Utile per conoscere la cultura interna di una delle principali aziende aerospaziali.",
+     "fonte": "Adnkronos",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd3BvZFNZUndIeXZQMXhKLUo2T19UNlF1d2lNbFdRdktpV2FtelMwbGQ5alBpVG5jbGpackRzZi1IYjJ5Z1UweVYya3ZGMWUtTW5RWkpseTFMNTVZQ1F2TnBiZFlmYjNESU9jMVFsQmhjQ1NWSmgwV3Btdm5mUlllRHV1T2dGa1JoVmZRY3gtSEFIV1pLMUtpYnczSkNIZVlpaHRkckFQRzJwYVJDSldSZ09CUm1sSTJWRkdYd2NtN2FGQURwdU93?oc=5",
+     "ora": "2026-10-15T11:33:00+00:00"
+    },
+    {
+     "titolo": "Recruiting Day Mapei – 15 ottobre 2026",
+     "titolo_it": "",
+     "riassunto": "La Sapienza ospita il Recruiting Day Mapei il 15 ottobre. Un'ulteriore opportunità di inserimento professionale per gli studenti dell'ateneo.",
+     "fonte": "Sapienza Università di Roma",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vbFVDY2t1cC1BajJYN1Y5bzZUMHRydHhCSDUzQXlKZnFvUkpJdEJkdkRQNGJBeGVaTWFUWnZ1NjBuclBDRi1XM2o5NE5QWFhjRllhTEN0N1RObllJZXkxN1RnaHZ1VFVMVUlKNTBNUkRxTjJzUGtBVDd2bw?oc=5",
+     "ora": "2026-10-15T07:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Possibile esplosione di drone nel nord della Lituania vicino al confine lettone",
+     "titolo_it": "Possibile esplosione di drone vicino al confine Lituania-Lettonia",
+     "riassunto": "Si segnala un possibile incidente con un drone nel nord della Lituania, vicino al confine lettone, nell'ambito di un aumento delle incursioni di droni lungo il fianco orientale della NATO. L'evento è rilevante per la sicurezza dello spazio ATM e per i rischi legati all'integrazione degli UAV nello spazio aereo.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/18/possibile-esplosione-di-drone-nel-nord-della-lituania-vicino-al-confine-lettone",
+     "ora": "2026-10-18T11:27:02+02:00"
+    },
+    {
+     "titolo": "Crosetto: 'Entro la fine dell'anno nuovo pacchetto di aiuti a Kiev'",
+     "titolo_it": "",
+     "riassunto": "Il ministro della Difesa Crosetto ha annunciato un nuovo pacchetto di aiuti militari per l'Ucraina da consegnare entro la fine dell'anno. Questo segnala un aumento della spesa difesa europea e potenziali opportunità di lavoro e stage nel settore aerospaziale della difesa.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/crosetto-entro-fine-dellanno-nuovo-pacchetto-di-aiuti-a-kiev_d5f3a95d-9207-423d-b345-ee07fe1e1623.html",
+     "ora": "2026-10-18T10:42:20+02:00"
+    },
+    {
+     "titolo": "Trump: \"Il congelamento delle nuove sanzioni alla Russia è un'ottima decisione\"",
+     "titolo_it": "",
+     "riassunto": "Trump ha definito positivo il congelamento delle nuove sanzioni contro la Russia, affermando che sarebbe una scelta vantaggiosa per gli Stati Uniti e per il mondo. La decisione influisce sulle catene di approvvigionamento aerospaziali che coinvolgono componenti russi e sulle prospettive di collaborazione internazionale nel settore.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/18/trump-il-congelamento-delle-nuove-sanzioni-alla-russia-e-unottima-decisione_e518ae1f-187f-46fd-bb08-c45dde796338.html",
+     "ora": "2026-10-18T09:24:42+02:00"
+    },
+    {
+     "titolo": "Arriva pioggia sull'Italia e calano le temperature",
+     "titolo_it": "",
+     "riassunto": "È previsto l'arrivo di pioggia su gran parte del territorio italiano nei prossimi giorni, accompagnato da un calo delle temperature. Le variazioni meteorologiche influiscono direttamente sulla pianificazione dei voli, sulle operazioni aeroportuali e sulla gestione del traffico aereo.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/meteo-da-domenica-arrivano-le-piogge-e-calano-le-temperature_384eef23-ee9b-49dc-a79c-5b11c00ed68e.html",
+     "ora": "2026-10-18T09:19:33+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
