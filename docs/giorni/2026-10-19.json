@@ -1,0 +1,261 @@
+{
+ "giorno": "2026-10-19",
+ "creato": "2026-10-19T10:48:43+00:00",
+ "in_breve": [
+  "La scuola di ingegneria aerospaziale della Sapienza compie 100 anni e inizia le celebrazioni a Roma.",
+  "A Roma si tiene un incontro tra aziende, recruiter e studenti della Sapienza per opportunità di stage e lavoro.",
+  "Anthropic propone una legge al Congresso statunitense per scrivere le regole sull’intelligenza artificiale."
+ ],
+ "modello": "nvidia/nemotron-3-super-120b-a12b:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Avio, Leonardo & Co, ecco la filiera italiana che mette a terra il business delle stelle",
+     "titolo_it": "",
+     "riassunto": "La filiera italiana composta da Avio, Leonardo e altre aziende mostra come il settore aerospaziale nazionale riesca a trasformare il business delle stelle in attività concrete sul territorio.",
+     "fonte": "https://www.monetaweb.it/",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUzI5b3hUSkxvWm16MWtXMi1KeFNZaGkxdXkwRnFNNnhmUExPS1R2RzJZcHJKVkZBUW5QNzFmMkU0MG5uc3JSWnA0bUtwR2w0a1c2WGM5dHo2d0l0enk1XzFfN19NS2dkc3JUR1JvWF92dGo2dndmOEkzV3ZhY0FBVmVNQ1BWeEpTTU1WRTJHR1JBTUkwMzZNbTdUVERNcnF4S1d5X0NVZWNCV3pwTUpJV3NEaUdpRFNyQ3NlMVVaWTJrZXlweDNnYk56QQ?oc=5",
+     "ora": "2026-10-18T14:18:00+00:00"
+    },
+    {
+     "titolo": "Colleferro, nasce il nuovo polo logistico di Avio: 24mila metri quadrati per sostenere la crescita dell’aerospazio",
+     "titolo_it": "",
+     "riassunto": "È stato inaugurato a Colleferro un nuovo polo logistico di Avio di 24.000 m², destinato a supportare l'espansione delle attività aerospaziali dell'azienda.",
+     "fonte": "Monti Prenestini",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTU5pTXdjQWJlNjdDQ2JxSEpVNXZpWWg3cUw1SGdydEhxTUlSc3dCcDJNdW83ZzFoLTh6LTBlOFNkRGM5WjlLM1NWZWw2YUtqMWZrakdQTUNOT0VTdnAxU0RnVnlrcFVhSXJkcW9tVEVUMVZ3TGRCeXZZWE5VSW9VWGlEbk5PbEFxQjN1SEo2STlmcmc4NTdGMXdwV3lPUmVVaG9rdlpEMEg2b2RYMVZuOWdjbjV1MTJERlBaZnRmdUFuZW9MUS1RTkM3OHVSYlNablZUcE54bi0?oc=5",
+     "ora": "2026-10-18T21:41:21+00:00"
+    },
+    {
+     "titolo": "Colleferro, bufera ad Avio: quattro licenziamenti e sindacati pronti allo sciopero",
+     "titolo_it": "",
+     "riassunto": "Ad Avio di Colleferro sono stati annunciati quattro licenziamenti, mentre i sindacati dichiarano lo stato di agitazione e preparano possibili scioperi.",
+     "fonte": "www.numerozero.org",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVW9uS0lrNFFaVDVJOS16YUtyV2RLQlhCQUEybG9Weks3ZVozNjVaMDFIUHFLeEtxRDNPNFZxS1p2cTAzeEphVEhEc0RMQ0p5Uy1BMGxubktrRjFnUms2N3RBZXJTLTNSdjEtcF9SWjlXRGtzMVpDY2pxSm9BOTktbXJMSzB6LTV3MHBlalhLb0pXX213UTlseFEyUlZaM1owQ2d3MFVubkNweXlW?oc=5",
+     "ora": "2026-10-19T07:38:29+00:00"
+    },
+    {
+     "titolo": "Dopo il diploma, l’aerospazio può essere un'opportunità: in Puglia cresce la formazione tecnica specializzata",
+     "titolo_it": "",
+     "riassunto": "Dopo il diploma, in Puglia sta aumentando l'offerta di formazione tecnica specializzata in ambito aerospaziale, creando nuove opportunità di stage e lavoro per i giovani laureati.",
+     "fonte": "BrindisiReport",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU19McVhmVW5BbHlENzFOVkhhcW1EeVpiMl9WU25vRjVjMmxTM0dZZ0Z5c3VHQ0E4MVF5TDRUVlJlNVVJQVpqV2dMMHV0VXp5MzBpMlBna3c4ZGhib1BXdDM1TTVnQ2NQWGtHTVQ4YXE0SDZnaUF0cTBTa1R3YVFNa3hQLW5ianFfbDF5Ug?oc=5",
+     "ora": "2026-10-19T06:25:21+00:00"
+    },
+    {
+     "titolo": "How The Airbus A380's 575-Tonne Maximum Weight Creates Infrastructure Problems At Airports Built Around The Boeing 747",
+     "titolo_it": "Problemi infrastrutturali degli aeroporti per il peso dell'A380",
+     "riassunto": "Il peso massimo di 575 tonnellate dell'Airbus A380 crea problemi infrastrutturali negli aeroporti progettati per il Boeing 747, richiedendo adeguamenti di piste, piazzali e servizi di terra.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/airbus-a380-575-tonne-airport-infrastructure-problems/",
+     "ora": "2026-10-19T10:37:25+00:00"
+    },
+    {
+     "titolo": "Guasto ENAV: continuità operativa e responsabilità sotto esame",
+     "titolo_it": "",
+     "riassunto": "Un guasto nei sistemi ENAV ha messo alla prova la continuità operativa del servizio di navigazione aerea, sollevando questioni di responsabilità e di gestione delle emergenze.",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORktUeEQteS1NWjVHdGRMRWpOUDlfNWZxUGtqWVRPSnNxWUtCY3lUWjNKdnBFMDA4OVRiMUFLbm1aUTJxbmZvMXBuMkhUUmpOcmtnQ2FVNm5TUnMzUG9QRUVsd1B2RVp6YURKRzZfelluYXIwck1qUDBTMVhxZ2lmRzhBLWhKdkw2QTc0TzV5R1VmUjZyaTdwdklsLU1kUF9GUDNNdjZn?oc=5",
+     "ora": "2026-10-18T17:49:12+00:00"
+    },
+    {
+     "titolo": "Ceneri vulcaniche e voli - Enac prepara VOLCEX26 a Napoli",
+     "titolo_it": "",
+     "riassunto": "L'ENAC sta organizzando l'esercitazione VOLCEX26 a Napoli per testare le procedure di gestione del volo in presenza di ceneri vulcaniche, tema cruciale per la sicurezza del volo.",
+     "fonte": "www.hangaritaly.it",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUJwMnNuR2hvdmZwVzczMGV5YmQ3bnZkYzN6elJLeXFlZmk0R3lwNmMwOUtwd1l2ZlVCMnlLQTBpZ2ZkRTY2MGR1QlBlQUt4Y0tGM2RYNkxnSm0zamxKaU43cGdhdGVFX0tZRjVIcF9lbEpINkZOTHRBa0RoRklRZlpqOEpCak5tWkRn?oc=5",
+     "ora": "2026-10-18T22:50:56+00:00"
+    },
+    {
+     "titolo": "German authorities investigate new security breach at Leipzig-Halle airport",
+     "titolo_it": "Indagine su una violazione della sicurezza all'aeroporto di Leipzig-Halle",
+     "riassunto": "Le autorità tedesche stanno indagando su un tentativo di violazione del perimetro dell'aeroporto di Leipzig-Halle, episodio che solleva preoccupazioni sulla sicurezza aeroportuale.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/german-authorities-investigate-new-security-breach-at-leipzig-halle-airport",
+     "ora": "2026-10-19T09:13:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Anthropic vuole scrivere le regole sull’intelligenza artificiale. La proposta di legge al Congresso",
+     "titolo_it": "",
+     "riassunto": "Anthropic propone una legge per regolare l’intelligenza artificiale negli USA. Conta perché definire norme di sicurezza influisce sul futuro di sistemi autonomi, inclusi quelli aerospaziali.",
+     "fonte": "Quotidiano Nazionale",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQXhpeFltVlpnQVE2dnRIWFAwNE9nMnU5aW1uQWljVDBzeEJEUWdPeHhkbTJTb3ltSkwtcFV6WDk5cFRrbDBJU2ltVTEyRHRaZHRXQ1I3VXZncUtVOVhLQW1ucGJ6cXJkaVA4eTF2Qmo2d09KaVU2eWN6QTBrMjNndi1Ja1pNZmRETXFzbjM0WXdCV2g2Mm9OSURsUmxyLVpNRHQwWENldFdvOU1qb0ZySVlIYzF2T0RsTF82aVdpek9HUUI3RWZIRS15SGsxdzNaWmhTNmhuTDI?oc=5",
+     "ora": "2026-10-19T10:45:52+00:00"
+    },
+    {
+     "titolo": "Anthropic apre a METR i suoi uffici per una valutazione dei rischi IA",
+     "titolo_it": "",
+     "riassunto": "Anthropic collabora con METR per valutare i rischi dei propri modelli IA. Conta perché una valutazione rigorosa dei rischi è essenziale per applicazioni sicure in aviazione e ATM.",
+     "fonte": "TuttoTech.net",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YVjBrdG5ib2N2SWNMYjVaakdtbTlPMktLMDMxS1RSRXdvTV9MM1hlTDVhOW5XZHdCVkdKOVdrbDNqM09EbnA1eHZJbjRhcXNEZDhtZG5wUXkwN21aUEJudXBFaFVzaGZaR0d6QU5YZDFONzlEUFZIWHUtdVZZdw?oc=5",
+     "ora": "2026-10-19T09:14:29+00:00"
+    },
+    {
+     "titolo": "Anthropic avverte sui piccoli modelli di IA capaci di replicarsi negli oggetti connessi",
+     "titolo_it": "",
+     "riassunto": "Anthropic avverte che piccoli modelli IA possono autoriprodursi nei dispositivi connessi. Conta perché solleva preoccupazioni di sicurezza per avionica e infrastrutture aeroportuali vulnerabili a codice malevolo.",
+     "fonte": "Notizie.AI",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVpIVkU0dGh4UEk3LVR0cFlVQVNWYko5SDVWdGE0ODdiNjBGb2kwcVlUR2c0RU0zVC1faDJHWEdWaUFibXA5bmNRdzh4N0Jqc1dtekR2end1OW50MGNUZk8yY29rcTk0d212M1BncHQ3QU5ReU5kUmdWckE5Xzl2QTFQdEYwNkZheXpxQzd1T0gtZURuYUg5VFliNkM0a2hjeC1KUXVqM2VFTE1ITXZXMA?oc=5",
+     "ora": "2026-10-19T07:36:26+00:00"
+    },
+    {
+     "titolo": "Come un hacker ha usato agenti di intelligenza artificiale e poche migliaia di dollari per violare decine di siti",
+     "titolo_it": "",
+     "riassunto": "Un hacker ha usato agenti IA con poche migliaia di dollari per compromettere decine di siti web. Conta perché dimostra quanto l’IA possa abbassare la soglia di attacchi cyber, rilevante per la protezione di sistemi di volo e di terra.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYzZRQ0xRMWM3SFE0TjAxd202SldzQjYzdmlNUmJrZkRmRkhTYmJfamdRaVUtVXBGNFpuQTF2Mk1CUlBRS1MxRDVtelNLQk1rSF9jdHhtSlFYZ2FIV3RTTHdrVjNlckRjblF0OWZyN1VoSUhzME54QXpQTnRTQUxGRkFJY0twUzF3dm94dXpNSEpVRWdPRFI4V2c1YnRsUXJ5Y21UZ3dJV0VHYlhfRHhIRTc1N1JVOUpYWmctcHQ0Rms5ZktKOWtIY3JOS2FWQmY3allWcUVPQ1FENHlyVEtqaVNHcGdqWVppTG8w?oc=5",
+     "ora": "2026-10-19T10:03:56+00:00"
+    },
+    {
+     "titolo": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+     "titolo_it": "Agenti di ragionamento ibrido: LLM che pensano nello spazio latente e agiscono tramite testo",
+     "riassunto": "Hybrid Reasoning Agents sono agenti LLM che ragionano nello spazio latente e agiscono tramite testo. Conta perché rappresenta un passo verso IA più autonome e capaci di prendere decisioni complesse, utile per futuri sistemi di assistenza al pilota o controllo del traffico aereo.",
+     "fonte": "Hacker News",
+     "link": "https://arxiv.org/abs/2610.18861",
+     "ora": "2026-10-18T20:48:14+00:00"
+    },
+    {
+     "titolo": "Anthropic assume sempre meno junior. Chi imparerà a programmare se il codice lo scrive l’IA?",
+     "titolo_it": "",
+     "riassunto": "Anthropic sta riducendo l’assunzione di junior programmer, affidando più codice all’IA. Conta perché segnala un cambiamento nel mercato del lavoro per ingegneri software, suggerendo di focalizzarsi su competenze di supervisione e integrazione IA piuttosto che su pura programmazione.",
+     "fonte": "DDay.it",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjBiM1RobVJlOFh3cWdpMjdvMVA1bjZXSjZtNkN1Y05uT3ZIWHJWUGZubHBvanVlcmI0ZUR6d1pCOGFhRTlLT1Zxa3lYNUVEYXZBR29HdDcyVktTMWJoZUdTc1pPTVVON3hGYUZLVHE4M1NfbElucXdlRzZVb1JtS1RKcXZuSFVRRjRvZFpZaGZlNm8xLUluRjVQU0xIRkVBUTc5c0JSZDE5UkJUeUJEM1pZTDlra19zZWFVcm1wS01fNmM?oc=5",
+     "ora": "2026-10-19T08:30:00+00:00"
+    },
+    {
+     "titolo": "OpenAI vuole costruire robot umanoidi con un prototipo entro il 2027",
+     "titolo_it": "",
+     "riassunto": "OpenAI prevede di realizzare un prototipo di robot umanoide entro il 2027. Conta perché lo sviluppo di robotica avanzata potrebbe trovare applicazione in assistenza a terra, manutenzione aeromobili e logistica aeroportuale.",
+     "fonte": "SmartWorld",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUl82Yk9yVjNZYXhZcHQtbnlzaVJwMGpjVnZiTWtBdDdmaFMzWlNRSDdVOGdDOGFJc1BvU2ZqV0dIY2drRDZwTS1tbjcyYjRWcXRSZ2hjRGpad3dtaEhGekFlV0J1SktEVHFTSS1OT09Sb292TGk3QWNWU1B5ZHVrN21Pb3VpNTV0bG1RbGpXU1BMUTZiazVHbGFn?oc=5",
+     "ora": "2026-10-19T09:42:08+00:00"
+    },
+    {
+     "titolo": "Anthropic destina il 5% delle azioni a un fondo per il bene pubblico",
+     "titolo_it": "",
+     "riassunto": "Anthropic destina il 5% delle proprie azioni a un fondo per il bene pubblico. Conta perché mostra l’impegno dell’azienda verso la responsabilità sociale, un aspetto da valutare quando si cercano stage in realtà attente all’etica dell’IA.",
+     "fonte": "Arena Digitale",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbFc5dzVkMTZ6MlBnMldlYmxNWXNiNFBYcldpbHUyYjE4aWhxQ1Q0QzA3NGRGSXdDWGhZbi00WjVGb0dMVGdRbnZaNWNkVXVIcFplMkN1NGNVbFJGRG10V3NMR3Z1Mmx0TDltNGw1VU5qd29wS1U0Z0QxMFF0TmJCSkNzNC1zM0dJODlnaWk3eEtrd3ZWS0JpdVJVbkxwUnA0YUdhRlM0MA?oc=5",
+     "ora": "2026-10-19T10:42:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "la scuola di ingegneria aerospaziale della sapienza compie 100 anni: al via le celebrazioni a roma",
+     "titolo_it": "",
+     "riassunto": "La scuola di ingegneria aerospaziale della Sapienza celebra i suoi 100 anni con eventi a Roma. Questo segnala un punto di riferimento storico per gli studi e le opportunità di networking nel settore aerospaziale.",
+     "fonte": "Aise.it - Agenzia Internazionale Stampa Estero",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ0w3RlQxSUVhdFo1aDFtUWtRdTBteEQyejZTUGg4cFBEM0F2Vjg5QndoQTZFSDc1QUpxdHRLRHlQWFdsNkZhOFdFTVJscXl3MFdJekljXzBFa2lGR0NrbFpDQzZnQVh5MDRSeXo4QkNzRTlqZldLdExNNTBQcU1zcnNFTkdCOEp6b0E3Rk5wcW9INnd4SWRlM3BaTk1SV1B4N3ZSSDg0bzZUTU1VZnVib1g3NHVHWTBhdkQzYm9STVZiWDB2bWJ5S2Z2SjRrVDds?oc=5",
+     "ora": "2026-10-17T14:17:00+00:00"
+    },
+    {
+     "titolo": "Dove studiare intelligenza artificiale e ingegneria informatica in Italia",
+     "titolo_it": "",
+     "riassunto": "Una guida indica le migliori università italiane dove studiare intelligenza artificiale e ingegneria informatica. È utile per chi vuole approfondire l'AI, settore trasversale anche all'ingegneria aerospaziale.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR0tiLTVqTUpNU1M1TWRsMmtQdU4xOWgzbXFHam1OLXNCcERHNDhQUW1FaEtWdUh2UW1MUDBETW4xRHpTbU51RUJTOEhTNVdpMUxNRlBla1llSDhMV3VlTTZwNS01TWZrSFB2RmctaGI5bi1WMDdHSVdqZHNiY2V0ZHF6V1BpZ2ZkSl9SY1lfNFJraWpBY3d1ZHlCanJHMG5obktNMQ?oc=5",
+     "ora": "2026-10-15T19:41:40+00:00"
+    },
+    {
+     "titolo": "Artemis III al pad 39B: il core stage di SLS affronterà il carico criogenico",
+     "titolo_it": "",
+     "riassunto": "Il core stage dello SLS per la missione Artemis III è stato trasferito al pad 39B per affrontare il test di carico criogenico. Il test è cruciale per verificare la prontezza del razzo che porterà astronauti sulla Luna, rilevante per chi segue lo spazio e i lanci.",
+     "fonte": "Sbircia la Notizia Magazine",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZMXlCRVd1NlA3LXpQVGFnM3VOT2JCbHB3OS1IS0NSUnJSQ1dTT2NBajhqNFVVN0RKalphUVVDc185U0loZUl2RWFxWUlyOEdMV0UyaDBEbUh3NTFSRVdPWG9ldUh1Ukx6QUN0WnQ4Q0JWZF9leG1XNDNrWQ?oc=5",
+     "ora": "2026-10-16T14:59:00+00:00"
+    },
+    {
+     "titolo": "Lavoro a Roma: aziende e recruiter incontrano i giovani alla Sapienza",
+     "titolo_it": "",
+     "riassunto": "A Roma, aziende e recruiter incontrano studenti e neolaureati alla Sapienza in un evento di recruiting. Partecipare permette di conoscere offerte di stage e lavoro nel settore aerospaziale e ATM.",
+     "fonte": "News Istruzione",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3dPbEdsQTNCMUhEY1lnRWFoblQwaG0zMGhxVVBRcDBieUE5WmpjVnUzeG0wXzhRTXdUVmpZYVZaMVl3aGVqS0hqNmdoOHRmUUtZb3VjRzlwS29TLXZtbWZzNU9fVjlPUEZnc1p3TGlVMTlkZHlYYmZ5aWNLbDBGN3pROEItNmV4WUhxZ3lZN3ZFQdIBlwFBVV95cUxPdDROU0dOMmVWZEJyS0ljY2FsRDhUQXQ0WHdKYlhoNVh1ZFBJNHZQTWh5QmkyRk0taGUyQ2JVTW1wTG9tX3p5VTV3cTBsN0V6NWJoaUxSMzl1N3ctVjBqTjN1d1BwMzZGN0F3amZJaFJNZ2N2YkEzUlFUb1BNVlF3YV9zNVU2Z2szcW11YkMwTEdfenBtaU1V?oc=5",
+     "ora": "2026-10-15T11:20:00+00:00"
+    },
+    {
+     "titolo": "Da ex vetreria a fabbrica di satelliti: a Settimo Torinese arriva lo Stellar Hub. Ecco di cosa si tratta",
+     "titolo_it": "",
+     "riassunto": "A Settimo Torinese nasce lo Stellar Hub, una ex vetreria trasformata in fabbrica di satelliti. Il progetto mostra la crescita industriale italiana nel settore dei piccoli satelliti e offre possibili opportunità di tirocinio o lavoro.",
+     "fonte": "Giornale La Voce",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLUlIY1VaOWloS3ZRYmxxYll1RC12c2pjT2x4ejZVZ2NVRW1SSHNFQXIxRFd0SVhGWWR6eTBlaWR0aFozcFBESjVIUjVZejNIdmNDcW4tTjA3VWNJV0F2UThkQXhqNVhmaG14eGlWYllOR3hXblhISmNsdjZyWnVuWS01Y3ZXbTZOTmM0SkdwM3NKaE56VHBCNUxWeDAyeGlyWFVhX2hZakVLZXhuVzdzN3oyb1VpOTBDakg0eVhmR2NELTN3VGpNVFhtdFpmTTNuXzY3Zk93R08wM1F0WG5BdkU2ZWx4WVJmTVliZGZnclc?oc=5",
+     "ora": "2026-10-18T07:21:54+00:00"
+    },
+    {
+     "titolo": "Napoli, l'Intelligenza Artificiale tra tecnica e diritti: convegno internazionale alla Federico II",
+     "titolo_it": "",
+     "riassunto": "A Napoli si tiene un convegno internazionale sull'intelligenza artificiale tra tecnica e diritti presso l'Università Federico II. L'evento affronta aspetti etici e tecnologici dell'AI, temi importanti per applicazioni future in aeronautica.",
+     "fonte": "Il Mattino",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSkl0eTQ1al9jMmxlVXJYVHkwZlVrdWFtQmtfcXNvQUJ6OWdBYXMwMEhuQWhMVWE1elpVOFBsdkxITjZrclRPZXlLTURfWWt2YklyWjQ0OHhveGxyWFVCMGJzS21sT2w3NWR2REdtbzFITF9uVEpfM1hZSUpwMzVYVGN0YlI0MTRoSUIzVDhkLTR2eTVUSS1MeS1jQl9DbDgyYWxrdW03OHNIMVFpRER3RDFxV3JLSERSdloyZDgya1c0eU9RbVdVZGh3WlpqZjRKRWJJ0gG-AUFVX3lxTE5sdUFFa1FmMU5maW5oNGpoSko2bEw1MHdiVE12RGhOMG1IRl9Xdk1lNXpmcEJ6V21LRUNDeS0wSURrVTRZbTBIV1BqU3ZnWU9tUEU1Z1pILWdhX3V1bkxqRXRCRUxkZXF0LUpBdXFTNGV4ckFFMklseDAwM2pDb1Nsb3NRVEFMWUZaR0Mxdk5jQV9hZm1zeVNtenlzOEhxUUd3RnlnRU4wcUtFWmVmcklHdHZlNDZVQ0dQY3FVR0E?oc=5",
+     "ora": "2026-10-16T07:00:00+00:00"
+    },
+    {
+     "titolo": "Welfare, Liotti (Leonardo): \"Crea valore per le persone, l’impresa e il Paese\" ﻿",
+     "titolo_it": "",
+     "riassunto": "Il rappresentante di Leonardo sottolinea che il welfare aziendale crea valore per persone, impresa e paese. Questo indica l'attenzione della grande azienda aerospaziale verso condizioni di lavoro e possibili programmi di assunzione.",
+     "fonte": "Adnkronos",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd3BvZFNZUndIeXZQMXhKLUo2T19UNlF1d2lNbFdRdktpV2FtelMwbGQ5alBpVG5jbGpackRzZi1IYjJ5Z1UweVYya3ZGMWUtTW5RWkpseTFMNTVZQ1F2TnBiZFlmYjNESU9jMVFsQmhjQ1NWSmgwV3Btdm5mUlllRHV1T2dGa1JoVmZRY3gtSEFIV1pLMUtpYnczSkNIZVlpaHRkckFQRzJwYVJDSldSZ09CUm1sSTJWRkdYd2NtN2FGQURwdU93?oc=5",
+     "ora": "2026-10-15T11:33:00+00:00"
+    },
+    {
+     "titolo": "Concorso Università La Sapienza Roma Collaboratori e Tecnologi 2026: 30 posti a tempo indeterminato",
+     "titolo_it": "",
+     "riassunto": "La Sapienza bandisce un concorso per 30 posti di collaboratore e tecnologo a tempo indeterminato. Queste posizioni tecniche possono riguardare laboratori di ricerca aerospaziale e rappresentano una strada per entrare nel mondo accademico e industriale.",
+     "fonte": "Concorsando.it",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFdROUlOaUNLLXlFLTZYb0hSUjRldlV5d1lrSk1WTUQzNDUyTlczUnk5Yi1SVjVyMENlbC1JWnJnYnMwekpwNDJqa0Y2ZjZOOEhjYnBfTGhvVzUySTBUSXB5Mi1xemNuYjRIczVDcFo3QlJOSjJyVDQ1Q2FnQ0tMdi1tQmQtV2V1RUI4TUgwWk51RzgxNGFwMW56c0czTGJzc1E?oc=5",
+     "ora": "2026-10-19T08:33:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "World Travel Awards Europe 2026: i grandi vincitori da conoscere",
+     "titolo_it": "",
+     "riassunto": "I World Travel Awards Europe 2026 hanno premiato le migliori destinazioni, hotel e compagnie aeree del continente, indicando le tendenze di mercato e le opportunità per chi cerca lavoro nel settore aeroportuale e delle compagnie aeree.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/19/world-travel-awards-europe-2026-i-grandi-vincitori-da-conoscere",
+     "ora": "2026-10-19T11:43:20+02:00"
+    },
+    {
+     "titolo": "Musk and Anthropic pledge public share giveaways",
+     "titolo_it": "Musk e Anthropic promettono azioni pubbliche gratuite",
+     "riassunto": "Elon Musk e l'azienda AI Anthropic hanno annunciato la distribuzione di azioni al pubblico, segnale di forte crescita e potenziali nuove assunzioni nel campo dei modelli linguistici come Claude, rilevante per chi è interessato all'intelligenza artificiale applicata all'aerospazio.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-19T09:38:25+00:00"
+    },
+    {
+     "titolo": "Lavoratori dell'ex Ilva di Cornigliano occupano l'aeroporto di Genova",
+     "titolo_it": "",
+     "riassunto": "Lavoratori dell'ex Ilva di Cornigliano hanno occupato l'aeroporto di Genova per protestare contro la richiesta di nuova cassa integrazione, evidenziando tensioni che possono influire sulle operazioni aeroportuali e sulla gestione del traffico aereo.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/ex-ilva-a-genova-lavoratori-in-corteo-verso-laeroporto_d610556e-d51b-4320-971c-d7a8467dfa69.html",
+     "ora": "2026-10-19T10:46:01+02:00"
+    },
+    {
+     "titolo": "Borse europee aprono in calo: le imprese francesi fanno i conti con i disordini",
+     "titolo_it": "",
+     "riassunto": "Le borse europee hanno aperto in ribasso dopo le proteste violente in Francia, riflettendo preoccupazioni per il settore industriale francese, inclusi grandi gruppi aerospaziali come Airbus e Safran, utili per valutare l'impatto economico sulle prospettive di stage e lavoro.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/19/borse-europee-aprono-in-calo-le-imprese-francesi-fanno-i-conti-con-i-disordini",
+     "ora": "2026-10-19T10:58:54+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
