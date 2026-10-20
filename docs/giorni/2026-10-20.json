@@ -1,0 +1,253 @@
+{
+ "giorno": "2026-10-20",
+ "creato": "2026-10-20T10:06:49+00:00",
+ "in_breve": [
+  "La scuola di ingegneria aerospaziale della Sapienza celebra il suo centenario con eventi a Roma.",
+  "Il Forum Enac discute di aeroporti sostenibili usando fotovoltaico, intelligenza artificiale ed elettrificazione.",
+  "OpenAI raccoglie 30 miliardi di dollari per un nuovo round prima dell’IPO di Anthropic, mentre l’azienda sfida i concorrenti."
+ ],
+ "modello": "cohere/north-mini-code:free, minimax/minimax-m3.1-flash:free, nvidia/nemotron-3.5-super-vl:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Droni al Pirellone: ENAV, ENAC, Leonardo e Coldiretti allo stesso tavolo il 26 ottobre",
+     "titolo_it": "",
+     "riassunto": "ENAV, ENAC, Leonardo e Coldiretti si incontreranno il 26 ottobre al Pirellone per discutere dello sviluppo dei droni in Italia. Questo incontro evidenzia la collaborazione tra le principali agenzie di navigazione aerea, l'industria della difesa e il settore agricolo per integrare i droni nelle operazioni nazionali, un'area chiave per le opportunità di lavoro e di studio nel settore aerospaziale.",
+     "fonte": "Quadricottero News",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTBJYm1qN2hXTzNjRVBQQjJPWDh4N2N2SWpxX2Z2dmc5SUE1cFk4SEdCaVNGQmUtdm9GSF9UQkI0WjJUWFZmQVR2YjMzMHRrdHlrc1pvMVpENk1uRk54dmJHMC1EOXRtdEExVmZvbUx3QU0tZHJSMGdpaGI2Y3JNdV9DekF5TGxu?oc=5",
+     "ora": "2026-10-20T09:03:00+00:00"
+    },
+    {
+     "titolo": "\"Il piano Enac vìola le norme europee\"",
+     "titolo_it": "",
+     "riassunto": "Il piano di ENAC è stato accusato di violare le norme europee, sollevando preoccupazioni sulla conformità regolatoria nel settore della gestione del traffico aereo italiano. Comprendere queste sfide normative è fondamentale per gli studenti interessati alla sicurezza del volo e al quadro istituzionale che governa gli aeroporti e l'ATM in Europa.",
+     "fonte": "La Nazione",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wcnkxRnpTVmFOSDhfN0UzeVAxcXpoYkFiQnhFZHhmU21GYkxJdmd6Q2JtZXZ2emd2VmRiMlZ4OGUtMDE5YkY5TElyTnJvSUFEZ2FCaDVRT2tZME5oQXN3ZW1ZVmlhSmtyUG12RDI1NWlnQ2ZFX0E?oc=5",
+     "ora": "2026-10-20T04:57:15+00:00"
+    },
+    {
+     "titolo": "Enav, guasto ai sistemi: traffico ridotto al 50%",
+     "titolo_it": "",
+     "riassunto": "Un guasto ai sistemi di ENAV ha ridotto il traffico aereo nazionale di circa il 50%, evidenziando la vulnerabilità delle infrastrutture critiche di ATM. Questo evento sottolinea l'importanza di sistemi affidabili e resilienti e delle misure di mitigazione dei rischi, temi centrali per la sicurezza del volo e l'affidabilità operativa.",
+     "fonte": "www.ttgitalia.com",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeHpBUE1ZY21seDdROTNRd2FUUU1kMWNVZzkzZFdBUEtlU1htb29qeU00WVFDSDhab1BocURON2E5UzhKNVdfYkNSQ0Yxdy1ZeW1uNmZCRFJPVF9uc1hNd0lDeXYyNkRNTk1aOUF4MUl6X0traVFBcUQtTzF5VmMtbC16eTNlN21Xa05tQ1NUeDBGUGc4LXlHdXp0OWVRZ28?oc=5",
+     "ora": "2026-10-20T04:11:56+00:00"
+    },
+    {
+     "titolo": "Aeroporti, il futuro è sostenibile: fotovoltaico, intelligenza artificiale ed elettrificazione al centro del Forum Enac",
+     "titolo_it": "",
+     "riassunto": "Il Forum ENAC ha evidenziato come il futuro degli aeroporti italiani passerà attraverso il fotovoltaico, l'intelligenza artificiale e l'elettrificazione per raggiungere la sostenibilità. Queste tecnologie emergenti offrono nuove opportunità di ricerca e di carriera, in particolare per gli studenti interessati all'automazione, all'AI e alla riduzione dell'impatto ambientale nel settore aerospaziale.",
+     "fonte": "MeteoWeb",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSUdrLXFXRGZ0TnZLTG80enlKUkxfTFlLanZhTzRZUmg5c0lFbGJ4eUlRNGpRUFVkRy1NdncycXkyRkVBZk1hTlhzZWVLb3ZmS1dBNy1yZ25CT0FpcFE0VUhoQTRSWjlBNXRpaWFkTV9yNnVWYjRPc1JxaUM3WklHSGVEWktKbEtubkZOOEk1UGxMRzFQRmZUVnZ4SWdyWkVpbVpGdnRRZHJxODRnV3BpUm1iNHlwUC1lYTBUZ1htcHpETjdiZ25ucWtfSnFWc3V6eUN6bThKbkl0TmxTM1RCNzNFaHp5Z3ItZDRFMHAwdHlDQdIB-gFBVV95cUxPbXhVTk1OLVhHaVpJTncyOGNkdm92aWJkeHVLZGEzSDUtd3NPRHFSTnZVWG9QYVh0aXNoVnJRMWhVZW9fSktjTjlSR0ZVbzVudGtWRjlpUV84ckJUbFZoOGprcXhFd0IxNlRMYTViWWoxRWpteTgxZngzWGU0T3RfUk0xMFFwc2xyeEZSMFpScC1jV2UyZXBEdDBZRXpmSHVXQkNsNjlLcVVrOFRYZ09iZEhtazlqVzFPajhqOWxYZ3dpOWZXal9QQlFmWENITDE2QU9tVldvZW0wWEJ0Rng1b1ZUV3JTN2NtdFVMQUFGSzA3VGR5TkFOTjRB?oc=5",
+     "ora": "2026-10-19T16:36:00+00:00"
+    },
+    {
+     "titolo": "Il ministro Urso incorona Torino: \"AI, robotica, aerospazio e Difesa: sta diventando una delle capitali industriali del Paese\"",
+     "titolo_it": "",
+     "riassunto": "Il ministro Urso ha definito Torino un nuovo polo industriale per AI, robotica, aerospazio e difesa, evidenziando il sostegno del governo a queste tecnologie strategiche. Questo sviluppo segnala l'emergere di importanti opportunità di stage e lavoro in Italia per gli studenti di ingegneria aerospaziale.",
+     "fonte": "Torino Oggi",
+     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPd1lqbWFtYU02TzFELWxta0tlbnZTZTY2NHJlVXUwSXMyaElLbXBfd1ZWUFJoVW5ockJ5b3pQanhSbWt4dk51ZFZ1ZWw2djdJNGw1ZDA1LUNEcm9zNFUzQlhBVDBrMnhiOWl6bTVUSXU0OUpDN2tBaUc5Q2F1STNsVDR2cGs4QlFiME4wR2txVTRHTzN5RUpYTGp3QkZhRVFna080c0dDTXplcDRKYTBhd08yRVJEWkItUjVGcktjdThsVHliZUFoNnZZS2pwbWFVdU1Hb29HaE84LWhKWDZCbGJLTlE5SHdVdkZjcmllbnJ1dGt4VUp3NWdWNFZaQjU2Nk4tWlRqSmk0MEVx?oc=5",
+     "ora": "2026-10-19T16:29:00+00:00"
+    },
+    {
+     "titolo": "\"Aerospazio e Difesa: dalla crisi dell'Automotive alle nuove opportunità per le imprese\", intervento assessore regionale Latronico al convegno a Matera",
+     "titolo_it": "",
+     "riassunto": "L'assessore regionale Latronico ha discusso di come le crisi del settore automotive stiano creando nuove opportunità per le aziende aerospaziali e della difesa durante un convegno a Matera. L'evento evidenzia le tendenze del mercato del lavoro e le possibilità di crescita del settore per i laureati in ingegneria.",
+     "fonte": "SassiLive",
+     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNXzQ3c09JNUVYcFl5bzJYY3I4WEx5Z2xMTjVBOE4yTkk2a3ltV2pudlpOMEVWaGJwWXhtdGswYW9BU0VmUGdaN3RuYUhEeHhpUTh4QVJkRVBHUTU0YkFDTGlDTmVrMVJSTUdCUVF6QzZfNXl3NmtheHBwOU1JUndaTk1mMzVkcjFQbEh6MlpUaVFhMmRObVZOZThpa3dyYUlhRlJvcmxHRGpyTnVHczdyMFA2VEswSW91dnVTS3VGcFA4eDZfQkNSWEl0WGEydlZRdGpERzBGNVZxR1VLLVpZRGFkLVFiYXVKejBxRDR2a203N0wtX1l6TThILWh1X29YM1ZLMFRyUlM0M0Q5dGFYRTBWWENyZTlt?oc=5",
+     "ora": "2026-10-20T07:11:10+00:00"
+    },
+    {
+     "titolo": "FAA Proposes Inspections for 980 Airbus Helicopters",
+     "titolo_it": "Ispezioni FAA su 980 elicotteri Airbus",
+     "riassunto": "La FAA ha proposto ispezioni per 980 elicotteri Airbus a seguito di problemi simili su altri modelli Airbus, tra cui un caso di distacco di un componente di controllo del rotore. Questo sforzo regolatorio mira a migliorare la sicurezza e fornisce informazioni preziose sulle pratiche di manutenzione e ispezione che saranno importanti per le future operazioni di aeronavigazione.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/faa-proposes-inspections-for-980-airbus-helicopters/",
+     "ora": "2026-10-19T19:43:58+00:00"
+    },
+    {
+     "titolo": "Software",
+     "titolo_it": "Sviluppo di software per la previsione del rumore dei motori degli aerei presso NASA Glenn",
+     "riassunto": "I ricercatori del NASA Glenn Research Center stanno sviluppando modelli software per prevedere il rumore generato dai motori degli aerei, un'area cruciale per il progetto di aeromobili più silenziosi e rispettosi dell'ambiente. Questo lavoro di ricerca rappresenta un'opportunità per gli studenti di ingegneria di applicare le proprie competenze in acustica, fluidodinamica computazionale e intelligenza artificiale in un contesto spaziale di alto livello.",
+     "fonte": "NASA",
+     "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/",
+     "ora": "2026-10-19T18:11:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "OpenAI prepara un round da 30 miliardi prima dell’ipo di Anthropic: così Altman sfida Amodei",
+     "titolo_it": "",
+     "riassunto": "OpenAI sta raccogliendo 30 miliardi di dollari prima dell’IPO prevista di Anthropic, intensificando la competizione tra le due principali aziende di intelligenza artificiale. Conta perché segnala la crescita del settore e le possibili opportunità di lavoro per ingegneri in Italia e in Europa.",
+     "fonte": "Milano Finanza",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTkdzRkU5dUFSRklCdFppVWFkZWZDdGh1RzlwUkF6UEtmNHpVUU1GOXdSbnlaQXgtLTBVYzFrQlU5bl9EbXdxbzViejczd2JTdjcwX2YwcTB6RS12djJ5SkhoVXQ3aGYxWUZ1YVU4ZE1jZ0xjXzBjWjhFOUMxM2pGaFRlT3EySHl0bjhWZ01XM010a0ppN002czRtNnN5MTdZTTQzS0dXWmNtV1BhalN0MWdyak4wQmw5S0ZpWVBRdzc1ZHZxdWRSc0V0cDFpSTZwaHJRZm05eVFQai1nM2JuVVRLVUt0cGY2cFE?oc=5",
+     "ora": "2026-10-20T09:07:00+00:00"
+    },
+    {
+     "titolo": "Amodei, Anthropic: \"Il lavoro del futuro? Sempre più gestione di agenti AI\"",
+     "titolo_it": "",
+     "riassunto": "Il CEO di Anthropic prevede che il lavoro futuro consisterà sempre più nel supervisionare e gestire agenti di intelligenza artificiale. Conta perché indica le competenze che serviranno agli ingegneri nel settore aerospaziale e tecnologico.",
+     "fonte": "Fortune Italia",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQclBlOWM3VWJZZ3BsZlhheThld2szQ0oyT3A2X01nQlkzWXJ2UkRFNVp4eHFLcHpUZFVSVExNTERwUGRGM3hQaVZGZlhNdW5TSEpPZGJReENZbXB5RURYeFFSdDRCTVFqUGU5UlZBcDBZYng3TmpKbDRTcXNmMGpnR1BwZ1FKYkNzMnFkMXpTYVpueENPX3daanF5aE0xREJPeXkwOFFnNkRNbWRpMXc?oc=5",
+     "ora": "2026-10-20T07:53:38+00:00"
+    },
+    {
+     "titolo": "Anthropic propone di bloccare un'AI solo oltre 1 miliardo di danni o 50 morti",
+     "titolo_it": "",
+     "riassunto": "Anthropic suggerisce di intervenire e bloccare un sistema AI solo se causano oltre un miliardo di danni o cinquanta morti. Conta perché introduce criteri concreti di sicurezza e rischio applicabili anche ai sistemi critici del trasporto aereo.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObS1hYjZJMDl3Q3BnRU43Z0E1Zk5tMHRIZ1NqRHM4bFRpLTgwdl83Vm9LRE1vUjJQeFRIWm15bFI4VFRjX2tQemwzVm5MS3BtTm5hRmxHZVdUbW1wRmYxdEU1NDg4Z1FRTVRKdzRuOVhzNmRTUm95Rm03UmFMN245dXpISUk?oc=5",
+     "ora": "2026-10-20T06:57:01+00:00"
+    },
+    {
+     "titolo": "Anthropic apre le porte agli ispettori di METR, liberi di pubblicare senza veti",
+     "titolo_it": "",
+     "riassunto": "Anthropic permette agli ispettori di METR di testare i propri modelli e pubblicare i risultati senza restrizioni. Conta perché aumenta la trasparenza e la verificabilità della sicurezza dell’AI, tema centrale per l’affidabilità dei sistemi.",
+     "fonte": "Notizie.AI",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGkwZ29FaUFNU0JmdDF5bDk2cUw5T0FtZDQ4NzlFanVQZnN6WG1KMGZyT1pzSU9XSDRNclhRYzk5d3BSalA4QlFkYk41YWlmTGxNcmdBX083amtoYWpYc1RZVzBwRnRrRjdyYk9GOTlnOEJGSmZJLXlkQWdVVkprSW5uY04zODBwNVlvUklVTUxkTmF2M3k2MU90bnI4bU5yUnZrNA?oc=5",
+     "ora": "2026-10-20T06:19:07+00:00"
+    },
+    {
+     "titolo": "AI agents are taking too many liberties. Microsoft’s new safeguards",
+     "titolo_it": "Microsoft introduce nuove salvaguardie per gli agenti AI",
+     "riassunto": "Microsoft sta aggiungendo controlli per limitare l’autonomia eccessiva degli agenti di intelligenza artificiale. Conta perché riguarda la gestione della sicurezza e del controllo umano sui sistemi autonomi, utile per ATM e sicurezza del volo.",
+     "fonte": "Il Sole 24 ORE",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVlJPUG1lRVU2c1hsVEE3cGwwZ0l6VkpSVE0wMlVWclB6emZ2bGY0a3I2YTlveUxUM2dNZGJ6TFo1cmJQOE5nVU9sMlB1ZmZWUktZaURxV2pOZHpueGZrRl9YejVxQ3A0UlpBVlVkYWhpUEI1VDVWaUpWVVhYQ0plenRKaGhmN2VYTXdFZDlsemxIa25vZHpScmNjanFMT0xid0pNUUlScmZoQmJvbHQ0?oc=5",
+     "ora": "2026-10-20T05:31:28+00:00"
+    },
+    {
+     "titolo": "Claude Code scova un programma nascosto che genera criptovalute, come ha fatto",
+     "titolo_it": "",
+     "riassunto": "Claude Code ha individuato un programma nascosto utilizzato per generare criptovalute, mostrando come l’AI possa aiutare nella sicurezza del software. Conta perché dimostra l’uso pratico di Claude nell’analisi e nella protezione del codice, competenza utile per l’ingegneria del software aerospaziale.",
+     "fonte": "Tom's Hardware",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTZvekl2ZFR2azVQMDh4Z0dRYkdrZ2k4R3dFb25SYnE0eThMaUVvOHpTOHdiUEtPQzZwX2dWNkFLTmxFMUh4RE1fUWIxZFpVRFQ1V2dFUUk4OTJOTkg5Z2NKY2lFMld6cng5djlfU3Zua2haYXRyTkNDYW1iNDY2aFVUMlpkQ041Vkozd3NQNzAxN0hRZWdxMnlGNU9BbzBKQnBkam13aDJSSk5t?oc=5",
+     "ora": "2026-10-20T08:37:00+00:00"
+    },
+    {
+     "titolo": "Mercury 3, l’AI a diffusione di Inception genera testo fino a 8 volte più velocemente di GPT-6 Luna e Claude Haiku 5.5",
+     "titolo_it": "",
+     "riassunto": "Il nuovo modello Mercury 3 di Inception genera testo fino a otto volte più velocemente di modelli come GPT-6 e Claude Haiku. Conta perché mostra l’evoluzione rapida dei modelli linguistici e le implicazioni per applicazioni in tempo reale nel settore aerospaziale.",
+     "fonte": "01net",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00bnlROWRET041amJ1OWVTcGFqcmcwNXlmUVFzQ24waGtKay1JbGxJVHNMYVB3dW9PdUMzX3Vyc3pfSGtmcWJ0SWhPYlJHUGdyN3lRYWYzQnRDc19TU053cTlZcTBMMkRGdl96N0xHSDdGUkg1WEtJZ00xYXVJLVU?oc=5",
+     "ora": "2026-10-20T08:03:04+00:00"
+    },
+    {
+     "titolo": "A visit to Samsung’s massive new semiconductor hub",
+     "titolo_it": "Samsung apre un nuovo hub per i semiconduttori",
+     "riassunto": "Samsung ha inaugurato un grande centro per la produzione di chip e memorie specializzate per l’AI. Conta perché l’hardware sottostante determina le prestazioni e la disponibilità dei modelli di intelligenza artificiale usati nell’industria.",
+     "fonte": "MIT Technology Review",
+     "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+     "ora": "2026-10-20T09:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "la scuola di ingegneria aerospaziale della sapienza compie 100 anni: al via le celebrazioni a roma",
+     "titolo_it": "",
+     "riassunto": "La scuola di ingegneria aerospaziale della Sapienza compie cento anni e avvia le celebrazioni a Roma. Conta perché riguarda direttamente il suo corso di studi e offre eventi utili per entrare in contatto con il settore.",
+     "fonte": "Aise.it - Agenzia Internazionale Stampa Estero",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ0w3RlQxSUVhdFo1aDFtUWtRdTBteEQyejZTUGg4cFBEM0F2Vjg5QndoQTZFSDc1QUpxdHRLRHlQWFdsNkZhOFdFTVJscXl3MFdJekljXzBFa2lGR0NrbFpDQzZnQVh5MDRSeXo4QkNzRTlqZldLdExNNTBQcU1zcnNFTkdCOEp6b0E3Rk5wcW9INnd4SWRlM3BaTk1SV1B4N3ZSSDg0bzZUTU1VZnVib1g3NHVHWTBhdkQzYm9STVZiWDB2bWJ5S2Z2SjRrVDds?oc=5",
+     "ora": "2026-10-17T14:17:00+00:00"
+    },
+    {
+     "titolo": "Lavoro a Roma: aziende e recruiter incontrano i giovani alla Sapienza",
+     "titolo_it": "",
+     "riassunto": "A Roma aziende e recruiter incontrano i giovani alla Sapienza. Conta perché è un'occasione diretta per cercare stage o lavoro nel settore aerospaziale restando in ateneo.",
+     "fonte": "News Istruzione",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3dPbEdsQTNCMUhEY1lnRWFoblQwaG0zMGhxVVBRcDBieUE5WmpjVnUzeG0wXzhRTXdUVmpZYVZaMVl3aGVqS0hqNmdoOHRmUUtZb3VjRzlwS29TLXZtbWZzNU9fVjlPUEZnc1p3TGlVMTlkZHlYYmZ5aWNLbDBGN3pROEItNmV4WUhxZ3lZN3ZFQdIBlwFBVV95cUxPdDROU0dOMmVWZEJyS0ljY2FsRDhUQXQ0WHdKYlhoNVh1ZFBJNHZQTWh5QmkyRk0taGUyQ2JVTW1wTG9tX3p5VTV3cTBsN0V6NWJoaUxSMzl1N3ctVjBqTjN1d1BwMzZGN0F3amZJaFJNZ2N2YkEzUlFUb1BNVlF3YV9zNVU2Z2szcW11YkMwTEdfenBtaU1V?oc=5",
+     "ora": "2026-10-15T11:20:00+00:00"
+    },
+    {
+     "titolo": "Da ex vetreria a fabbrica di satelliti: a Settimo Torinese arriva lo Stellar Hub. Ecco di cosa si tratta",
+     "titolo_it": "",
+     "riassunto": "A Settimo Torinese nasce lo Stellar Hub, una fabbrica di satelliti ricavata da un'ex vetreria. Conta perché crea un nuovo polo industriale spaziale in Italia con possibili sbocchi occupazionali.",
+     "fonte": "Giornale La Voce",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLUlIY1VaOWloS3ZRYmxxYll1RC12c2pjT2x4ejZVZ2NVRW1SSHNFQXIxRFd0SVhGWWR6eTBlaWR0aFozcFBESjVIUjVZejNIdmNDcW4tTjA3VWNJV0F2UThkQXhqNVhmaG14eGlWYllOR3hXblhISmNsdjZyWnVuWS01Y3ZXbTZOTmM0SkdwM3NKaE56VHBCNUxWeDAyeGlyWFVhX2hZakVLZXhuVzdzN3oyb1VpOTBDakg0eVhmR2NELTN3VGpNVFhtdFpmTTNuXzY3Zk93R08wM1F0WG5BdkU2ZWx4WVJmTVliZGZnclc?oc=5",
+     "ora": "2026-10-18T07:21:54+00:00"
+    },
+    {
+     "titolo": "MBDA assume personale nel settore Difesa e offre 330 posti di lavoro in Italia, da Nord a Sud: si cercano laureati e diplomati",
+     "titolo_it": "",
+     "riassunto": "MBDA assume personale nel settore Difesa e offre 330 posti in Italia, cercando laureati e diplomati. Conta perché è un'azienda aerospaziale con assunzioni concrete per profili tecnici.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtaEUyNEJ6aV93U1Q0aG00Z0lKWldlb0RXLXIxVEhfX2hicFdnT01fUUhZRHJZMUZ1ZTZVWkRGRUtBQkRzdEhHZXRjbGlDNUxscHNmbHRycmlWcjRtbWtfRzdNZ1NKWTR6RU1zMjY2NzVXZ3M?oc=5",
+     "ora": "2026-10-15T09:05:13+00:00"
+    },
+    {
+     "titolo": "Concorso Università La Sapienza Roma Collaboratori e Tecnologi 2026: 30 posti a tempo indeterminato",
+     "titolo_it": "",
+     "riassunto": "La Sapienza bandisce un concorso per 30 collaboratori e tecnologi a tempo indeterminato nel 2026. Conta perché offre un posto stabile all'interno dell'università per profili tecnici.",
+     "fonte": "Concorsando.it",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFdROUlOaUNLLXlFLTZYb0hSUjRldlV5d1lrSk1WTUQzNDUyTlczUnk5Yi1SVjVyMENlbC1JWnJnYnMwekpwNDJqa0Y2ZjZOOEhjYnBfTGhvVzUySTBUSXB5Mi1xemNuYjRIczVDcFo3QlJOSjJyVDQ1Q2FnQ0tMdi1tQmQtV2V1RUI4TUgwWk51RzgxNGFwMW56c0czTGJzc1E?oc=5",
+     "ora": "2026-10-19T08:33:36+00:00"
+    },
+    {
+     "titolo": "CNR Roma: concorsi per tecnologi, assunzioni per architetti e ingegneri, stipendio 34.700 euro",
+     "titolo_it": "",
+     "riassunto": "Il CNR di Roma bandisce concorsi per tecnologi e ingegneri con stipendio intorno a 34.700 euro. Conta perché è un ente di ricerca pubblico che assume ingegneri nella sua città.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbEd6cUU4cW9tTWptc0hRZkd2dzJrbVN4YVFBYzd6b3BVbTd2dE1NbTlOSjlNckhhQW5nZ1B5R3lEeDE3UGpha0VMY3NLVkxBRnhaX2RMQTl5UXRHd2FTaWQtSFg0bHc3VzQ3SWxEUVBlSGJER0p5b0JoMDFDRXVDTGh1NGJxYnZPR0hCY3JVejR2QQ?oc=5",
+     "ora": "2026-10-16T05:30:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Giappone lancia missione per riportare campioni da Phobos, luna di Marte",
+     "titolo_it": "",
+     "riassunto": "Il razzo H3 giapponese ha lanciato la missione MMX, che punta a raccogliere campioni dalla luna marziana Phobos nell'arco di tre anni. La missione dimostra l'importanza scientifica e industriale dell'esplorazione robotica e delle tecnologie per il ritorno di campioni extraterrestri.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/video/2026/10/20/giappone-lancia-missione-per-riportare-campioni-da-phobos-luna-di-marte",
+     "ora": "2026-10-20T11:22:47+02:00"
+    },
+    {
+     "titolo": "Prezzi del petrolio sopra 110 dollari, trader valutano i rischi per le forniture dal Medio Oriente",
+     "titolo_it": "",
+     "riassunto": "Il Brent è tornato sopra 110 dollari al barile, ai massimi da cinque mesi, mentre aumentano i timori per le forniture mediorientali. Un rincaro persistente del petrolio si tradurrebbe in maggiori costi per carburante aviation, trasporto e produzione, con effetti sulle compagnie aeree e sui fornitori aerospaziali.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/20/prezzi-del-petrolio-sopra-110-dollari-trader-valutano-i-rischi-per-le-forniture-dal-medio",
+     "ora": "2026-10-20T10:04:03+02:00"
+    },
+    {
+     "titolo": "Ucraina, drone evacua per la prima volta soldato ferito dal fronte",
+     "titolo_it": "",
+     "riassunto": "La 92ª Brigata ucraina ha evacuato per la prima volta con un drone un soldato ferito da una posizione bloccata da mine e altri droni. L'impiego dei sistemi senza equipaggio nel soccorso evidenzia nuove potenzialità operative, ma anche sfide di coordinamento, affidabilità e sicurezza.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/video/2026/10/20/ucraina-drone-evacua-per-la-prima-volta-soldato-ferito-dal-fronte",
+     "ora": "2026-10-20T10:11:44+02:00"
+    },
+    {
+     "titolo": "L’Europa consuma più elettricità, ma a prezzi diversi: perché l’Italia parte svantaggiata",
+     "titolo_it": "",
+     "riassunto": "La domanda europea di elettricità torna a crescere trainata da data center, auto elettriche e nuove reti, mentre l'Italia soffre prezzi più elevati. L'espansione dei data center riguarda l'infrastruttura dell'AI, mentre il costo dell'energia incide sulla competitività anche delle filiere industriali aerospaziali.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/20/leuropa-consuma-piu-elettricita-ma-a-prezzi-diversi-perche-litalia-parte-svantaggiata",
+     "ora": "2026-10-20T09:45:28+02:00"
+    },
+    {
+     "titolo": "Spagna e Marocco: le forze armate dei due Paesi nel 2026",
+     "titolo_it": "",
+     "riassunto": "Nel 2026 la Spagna triplica la spesa militare del Marocco e domina in capacità aerea e marittima, mentre il Marocco dispone di più truppe e artiglieria. Il riarmo europeo sostenuto dagli Stati Uniti può aumentare la domanda di velivoli, sistemi aerospaziali e competenze specialistiche.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/20/spagna-e-marocco-le-forze-armate-dei-due-paesi-nel-2026",
+     "ora": "2026-10-20T09:39:16+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
