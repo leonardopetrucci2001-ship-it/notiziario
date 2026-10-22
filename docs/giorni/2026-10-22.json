@@ -1,0 +1,219 @@
+{
+ "giorno": "2026-10-22",
+ "creato": "2026-10-22T10:14:26+00:00",
+ "in_breve": [],
+ "modello": null,
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Borse oggi in diretta | Il Ftse Mib peggiora, contro corrente Avio e Leonardo. Petrolio +3%",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Milano Finanza",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeVBpM1IwbUo3d3llaVZDYW9zRlBpVXNPNjdzREI5ZGt0RzNaT2RhUnhNRmp6Y3dzQ29kVXZlM2RpRmhhRUVRck1CUWN1TXZPUXE4Mk5CcDBvc3U2aFhNQ0wwdDBIeXIxa1lqQlEwbWs4UW5jeGlQQk1PY0JxVk9qZVRBZVBIYXRLZDU4NDhTa0oxempBR0l0VG5ESXA3OEtPWTRnZnJLQk9MUXQtUGxmYVdlNzZGTjdvRWVTVEc5VEdwd0xGSFNjcUhFV1hraTVVXzlLWGRVZUZGMFVzd3htZHhIOA?oc=5",
+     "ora": "2026-10-22T08:51:00+00:00"
+    },
+    {
+     "titolo": "Malpensa, Enac valuta di ridurre la capacità del Terminal 1 per l’estate 2027: pesano le code ai passaporti",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "La Provincia Di Varese",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMDNfeEN4WWNYZG9uNFNaNUJjMmlYak5MaUpGRGFpa3pENW5GR0M0d242TkxtNk1TcEw4T0xtZElJVGdmWUJDd3JvaXZFS2MxT2FUdWgxNmtqdnJBeWhUYmxDNkp3b3NwQjJmcW9YTjhBcC1iM2RFQW1KQzBXMkZQVkpFRm1PdHI5VFNJandQMUZJWGlRMUNTX2RuMHFNVUFEdG5MbENFUTFlYnFwbHo3SzhlZVYtaHNGRmpuQlMyQXR5ZHBWR1VhX0xHcW1mSDRqRnhBT3B2Z2RsSmF5a1pFYw?oc=5",
+     "ora": "2026-10-22T06:37:49+00:00"
+    },
+    {
+     "titolo": "ESA Open Days 2026",
+     "titolo_it": "",
+     "riassunto": "Video: 00:00:49 ESA Open Days 2026 welcomed over 23 000 visitors across its six establishments, giving the public the opportunity to discover more about Europe’s space activities, meet the people behind the missions and explore how ESA is shaping the future of space.",
+     "fonte": "ESA",
+     "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026",
+     "ora": "2026-10-22T11:00:00+02:00"
+    },
+    {
+     "titolo": "First M-346 For Frecce Tricolori Breaks Cover",
+     "titolo_it": "",
+     "riassunto": "The first M-346 trainer jet destined to the Frecce Tricolori aerobatic team was spotted at Leonardo’s facilities in Venegono after receiving its livery. The first M-346 trainer jet destined to the Italian Air Force’s Frecce Tricolori aerobatic team was spotted after being rolled out of factory at Leonardo’s facilities…",
+     "fonte": "The Aviationist",
+     "link": "https://theaviationist.com/2026/10/21/first-m-346-for-frecce-tricolori-breaks-cover/",
+     "ora": "2026-10-21T20:21:02+00:00"
+    },
+    {
+     "titolo": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+     "titolo_it": "",
+     "riassunto": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now…",
+     "fonte": "NASA",
+     "link": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+     "ora": "2026-10-21T18:35:56+00:00"
+    },
+    {
+     "titolo": "FAA Clears BETA’s ALIA eVTOL for Demonstration Flights",
+     "titolo_it": "",
+     "riassunto": "BETA Technologies has received the first FAA market survey authorization for an electric VTOL aircraft.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/faa-clears-beta-alia-evtol-market-flights/",
+     "ora": "2026-10-21T16:13:31+00:00"
+    },
+    {
+     "titolo": "Tracks Along the Longest Drive on Another World",
+     "titolo_it": "",
+     "riassunto": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest…",
+     "fonte": "NASA",
+     "link": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+     "ora": "2026-10-21T15:50:44+00:00"
+    },
+    {
+     "titolo": "FAA allows BETA Technologies to fly customers on ALIA eVTOL",
+     "titolo_it": "",
+     "riassunto": "BETA Technologies has been granted a Special Airworthiness Certificate for market surveys from the Federal Aviation Administration (FAA),…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/faa-allows-beta-technologies-to-fly-customers-on-alia-evtol",
+     "ora": "2026-10-21T15:12:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Claude Duet: come funziona l'agente AI di Anthropic per Pmi",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "AI4Business",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUUxek9PeV9RaUNrU21XNXBhNDBKeDA1TDh2Z1lQb1dYcU0zRFlBYXdELTNSWTljTlRQTE9xejVESkRZaVo1UnpxMFhndGV3al8zQnI1cDE5a081dHh5Y25ES3JaZzdiOXhBODBhTklfMDVEdEVqQjZlOUxKR0dtMjRURWVkczhmX2phdUlQMk16VmRSejIyMlBSNFBpQ01BMGc?oc=5",
+     "ora": "2026-10-22T08:50:16+00:00"
+    },
+    {
+     "titolo": "Claude Duet, arriva l'agente AI di Anthropic: come funziona e chi può usarlo",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "HDblog.it",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOV9FM1UtU09mR1pMd3ZjUDgyaVNMYUFpTmEwSUp1eFVsaXFqd2JIYUtialRCUVJ2cFpyVHNKajlEbklCbUVYaDNod1Z3eDN5S0F0ckktYnRwLWZhVW9TNlZTd0JFTzN4TXhKemJvUm5hU0I2M3lCMzRHUFp3d0dSbFpwMGxBTnFxelcxX1ZET0JvdVowbFE?oc=5",
+     "ora": "2026-10-22T08:18:07+00:00"
+    },
+    {
+     "titolo": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+     "titolo_it": "",
+     "riassunto": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+     "ora": "2026-10-21T15:53:20-04:00"
+    },
+    {
+     "titolo": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+     "titolo_it": "",
+     "riassunto": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+     "ora": "2026-10-21T09:57:43-04:00"
+    },
+    {
+     "titolo": "AI’s hidden storage bill: What inference leaves behind",
+     "titolo_it": "",
+     "riassunto": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily…",
+     "fonte": "MIT Technology Review",
+     "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+     "ora": "2026-10-22T08:41:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Assunzioni all'Università La Sapienza: stipendio e scadenza del bando per i posti di lavori a tempo indeterminato",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Canale Dieci",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRHVjYVptdnM5N2xYdmFPRG9IbHFzaXBwTTRPekR5ZHBKVnp2YlpUODNTOVZfMnh1VTdIa3htVzM4c2J5S25RM1loZDFhYVpOZ1hoaV9KVFZ6a0ZmTm1fV1BaSkdScUNRSTdSWm9KY2E3dUU3ZUJ0WjlSQXJkTkI5Q3F1VHhJS3FmcS10aXN0WHpkNU5IUDNONWJWVGxpNC1TX0xFTGNqS3lYS3h2NVg0NFk4Z3BWUkY4XzdncVAzOUNMa1lGcWwwNk9reFVHOWtUajN5dE5NOEJIazVZcWVj?oc=5",
+     "ora": "2026-10-21T16:22:44+00:00"
+    },
+    {
+     "titolo": "la scuola di ingegneria aerospaziale della sapienza compie 100 anni: al via le celebrazioni a roma",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Aise.it - Agenzia Internazionale Stampa Estero",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRWZ2VElBdHZqTlJsekZSNlRjQVJQU3I1R09lLVY0QThXOWN5QWtxT3JyUzZwbVg4U2k4X1I1MW1LRVFWSEV6RkFDX3NXQUpKcWJvTjQ5a3BuTV9uM2VUYkx3Um5mdHRHT2VfVldIRDRNQWJVX1d3eGhSQjdWdEZzNDJBWDZ3a185Z2E1UmxLdklhZjU0TXZDMm1zczJkVkx1UC1McERqMEdfcXRlUHdONWVzYmxxYmtDV0U3bWw5WUdIMzFub2V5bFdWb28yYzF4?oc=5",
+     "ora": "2026-10-17T14:17:00+00:00"
+    },
+    {
+     "titolo": "AlbinoLeffe, 15 delle giovanili per lo stage delle Rappresentative di Lega Pro",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Bergamo e Sport",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOGNBN21fWFFrUF9xeTFBam0xVEtobF9RdHN5SFdQUV9QclhCcUJQMzVCd3pVejFtU2ozTGJiSldmNHhud0dyaTAxQ2tBb3NZbWdnTGpRdDJwcGtuZTlKcDF5bDVaRHViU3liSjRXcVYtQmRqdzBiTm9lV2lFMnJqQ0Y2bGp2VWZpOGhJOW80bVE2NHZodFN5bTJNRkx4cjkzMkhzeVRfQzJwZnc?oc=5",
+     "ora": "2026-10-20T20:27:23+00:00"
+    },
+    {
+     "titolo": "Da Milano riparte la corsa alle Rappresentative Lega Pro: 117 talenti chiamati per il primo stage",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Sprint e Sport",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZmtPcEtGaGxnVm9IUHVHendjY1cwQ2cxSGQxUlNJcmwxZUxNYXo3ZU9lQy1LNU9XUVZ0a0E5VnRRSGtsMnhpUWxwWWtwRzY4R0EzemhEbjkxdW80ZExRbjFUOGRSMzhHLXM3TFQxLXlNLUs1TTZVOThJY1hDdC1aZW42MDBjWXBMclQySHdMdmxud2F4WVNKNHAzc3Z6RURoSmtXTk43M1padXNXdnliWG44RTR1TjFNSGZtX3dxdVpFaUEzV1AtQmUxWENkZVhuczEtMnRQdlU5WTVublFZdE9kT1VDLV9uYTJzSkhWMA?oc=5",
+     "ora": "2026-10-19T14:23:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+     "titolo_it": "",
+     "riassunto": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-22T10:10:13+00:00"
+    },
+    {
+     "titolo": "Continuano i blocchi dei Tir al Sud, sospesi in Calabria e Sicilia. Oggi il Cdm sul decreto aiuti",
+     "titolo_it": "",
+     "riassunto": "Denunce e scorte ai camion, ma arriva il decreto sugli aiuti. Mercati vuoti e imprese pronte a fermarsi, chiuso uno snodo autostradale. I sindaci di Napoli e Bari lanciano l'allarme: 'Città a rischio paralisi'",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/dilagano-i-blocchi-dei-tir-il-governo-sceglie-la-linea-dura.-oggi-il-cdm_416e7ef3-b46a-4594-90dd-671b4eb1cc0e.html",
+     "ora": "2026-10-22T12:02:29+02:00"
+    },
+    {
+     "titolo": "Ucraina, Zelensky: \"Dai compassionevoli russi tre ondate di missili balistici su Kiev\"",
+     "titolo_it": "",
+     "riassunto": "Il sindaco di Mosca: \"Nella notte oltre 600 droni lanciati contro la città\"",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/22/ucraina-zelensky-dai-compassionevoli-russi-tre-ondate-di-missili-balistici-su-kiev_98c24b57-9871-4c38-bc42-2d378bac89ad.html",
+     "ora": "2026-10-22T11:57:42+02:00"
+    },
+    {
+     "titolo": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+     "titolo_it": "",
+     "riassunto": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-22T09:56:36+00:00"
+    },
+    {
+     "titolo": "Prix Pascal, nuovo premio letterario francese per libri scritti con l'IA",
+     "titolo_it": "",
+     "riassunto": "È stato appena lanciato un nuovo premio letterario che intende valorizzare opere scritte in collaborazione con l'IA. La sua tempistica è quanto meno problematica.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/22/prix-pascal-nuovo-premio-letterario-francese-per-libri-scritti-con-lia",
+     "ora": "2026-10-22T11:54:15+02:00"
+    },
+    {
+     "titolo": "Proteste in Francia: Macron convoca i servizi d'intelligence e Lecornu vede i partiti",
+     "titolo_it": "",
+     "riassunto": "A due giorni da una nuova mobilitazione, il presidente francese Emmanuel Macron ha riunito all’Eliseo i servizi di intelligence, criticati dopo il flop della sicurezza del 17 ottobre. Nel pomeriggio i partiti e i sindaci delle grandi città saranno ricevuti a Matignon",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/22/proteste-in-francia-macron-convoca-i-servizi-dintelligence-e-lecornu-vede-i-partiti",
+     "ora": "2026-10-22T11:41:43+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "Simple Flying: RemoteDisconnected"
+ ]
+}
