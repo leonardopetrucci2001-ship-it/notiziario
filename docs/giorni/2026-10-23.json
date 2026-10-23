@@ -1,0 +1,233 @@
+{
+ "giorno": "2026-10-23",
+ "creato": "2026-10-23T10:07:14+00:00",
+ "in_breve": [],
+ "modello": null,
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Elicotteri Protezione civile trentina, lezione di sicurezza a ENAC",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "www.agenziagiornalisticaopinione.it",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbHN4QmwxT1EzN053S1dnd0ZFTjEyN0NJMFM0MFo2WmtRang4VldiTzE3enJ5dEpjdXZQYkJiTlFsZllLMDNaSDY2UjZMX1FDaFVES0xMWFYyNG5CRTB0UEtIUTNobUh5REtGSEktX3BqTW5xTFJONDlwTmhHQzBGdkxidXdTTWRsS0VZOVIwOHBTaXJqbTBEbUFYTDVZbnQ1OGt0Tl9Od09sekw3VVlzd1liMkRhVTdOV010dUNKTGVZMGE5WDZzY3ZJZ19PRGN6WnZQSUU4eXpuTWNpTmtfYTF6Ty1ZaXdYZjd1aEhXdkRmMnM?oc=5",
+     "ora": "2026-10-23T10:01:52+00:00"
+    },
+    {
+     "titolo": "Elicotteri della Protezione civile trentina, nove funzionari ENAC a lezione di sicurezza",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "L'Adige",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUtJVXdPZ3VLQjMwNTVFck1TV3VtZUhnbjhHSEVRZXR1MXpBcGZfQXJ5Yk55ckhacjlwemhqbHdTaThCdWs1TURFeHBJdVZxcHM2YmhmR29pZ3NFT0dWUC1Lczd3dU1ueGV4aHhPWE9Vb09qcHVLYWRkUUpFR2RFMFotVlpObWl1c3VkM0trLUk3WTdpOW1DbG9peW1rTWtqRzZ0ajhkNTBYUjA4aENLeUNib0h3MW1uNlMzbW05WHBhOFhn?oc=5",
+     "ora": "2026-10-23T09:43:19+00:00"
+    },
+    {
+     "titolo": "How Airbus' Influence Prompted Rolls-Royce's Shift From Developing Shared Engines To Exclusive Powerplants",
+     "titolo_it": "",
+     "riassunto": "The history behind the partnership forged by two of Europe's aerospace titans.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/airbus-influence-rolls-royce-shift-developing-shared-engines-exclusive-powerplants/",
+     "ora": "2026-10-23T08:00:19+00:00"
+    },
+    {
+     "titolo": "Allegiant Air’s Longest Nonstop Routes With The Boeing 737 MAX In 2027",
+     "titolo_it": "",
+     "riassunto": "Allegiant Air's five longest Boeing 737 MAX 8 routes in January 2027 span up to 1,525 miles, linking Florida with distant US markets nonstop.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/allegiant-air-longest-737-max-flights/",
+     "ora": "2026-10-23T05:00:18+00:00"
+    },
+    {
+     "titolo": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+     "titolo_it": "",
+     "riassunto": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and…",
+     "fonte": "NASA",
+     "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
+     "ora": "2026-10-22T21:39:58+00:00"
+    },
+    {
+     "titolo": "Falcon Field Receives $1.7 Million in FAA Grants",
+     "titolo_it": "",
+     "riassunto": "Funding will support taxiway construction, road improvements and new surface-safety equipment.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/falcon-field-receives-millions-faa-grants/",
+     "ora": "2026-10-22T20:29:27+00:00"
+    },
+    {
+     "titolo": "Boeing aims to shorten cabin completion times for $100 million BBJ Select",
+     "titolo_it": "",
+     "riassunto": "Boeing Business Jets is targeting a shortened cabin completion process for its BBJ Select aircraft, using preconfigured interiors…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/boeing-bbj-select-cabin-completion-times",
+     "ora": "2026-10-22T15:42:14+00:00"
+    },
+    {
+     "titolo": "350th ESA Council: Media information session",
+     "titolo_it": "",
+     "riassunto": "Video: 01:45:34 Watch the replay of the media information session where ESA Director General Josef Aschbacher and ESA Council Chair at delegate level Juan Carlos Cortés outline the key decisions and main outcomes of the 350th Council meeting held at ESA Headquarters in Paris on 21—22 October 2026.",
+     "fonte": "ESA",
+     "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session",
+     "ora": "2026-10-22T16:00:00+02:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Claude Duet: come funziona l'agente AI di Anthropic per Pmi",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "AI4Business",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUUxek9PeV9RaUNrU21XNXBhNDBKeDA1TDh2Z1lQb1dYcU0zRFlBYXdELTNSWTljTlRQTE9xejVESkRZaVo1UnpxMFhndGV3al8zQnI1cDE5a081dHh5Y25ES3JaZzdiOXhBODBhTklfMDVEdEVqQjZlOUxKR0dtMjRURWVkczhmX2phdUlQMk16VmRSejIyMlBSNFBpQ01BMGc?oc=5",
+     "ora": "2026-10-22T14:45:30+00:00"
+    },
+    {
+     "titolo": "OpenAI ha il suo Jev, come funziona il modello decisionale",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "www.tomshw.it",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUHpyX0pyTUVxQmZzZ0dGVjRLUlY4YjdrbHVJdTZIemlYbWY4UTNWWkw1SFBsNTRqNURZTmxVa21ORmtJUVUtTXowOWdmODgxVjdocWhsNFJ1MTB3UGZqbHpUb0g0THBIVFZ6SWZEUnpkNVVpYUgtSWdjbG9WQjBKNDRkVXNEOHk2VTFZbnp3?oc=5",
+     "ora": "2026-10-23T08:12:00+00:00"
+    },
+    {
+     "titolo": "Donating Agent Skills to the Agentic AI Foundation",
+     "titolo_it": "",
+     "riassunto": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and…",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+     "ora": "2026-10-22T18:09:56+00:00"
+    },
+    {
+     "titolo": "LLMs are making formal software verification feasible at a much larger scale",
+     "titolo_it": "",
+     "riassunto": "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 348 # Comments: 205",
+     "fonte": "Hacker News",
+     "link": "https://www.anthropic.com/research/formal-verification",
+     "ora": "2026-10-22T22:54:43+00:00"
+    },
+    {
+     "titolo": "Canva’s first AI image model plans designs before generating them",
+     "titolo_it": "",
+     "riassunto": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+     "ora": "2026-10-22T17:51:25-04:00"
+    },
+    {
+     "titolo": "Discord now formats Markdown previews right",
+     "titolo_it": "",
+     "riassunto": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+     "ora": "2026-10-22T14:58:19-04:00"
+    },
+    {
+     "titolo": "Designing an AI serving harness built to last",
+     "titolo_it": "",
+     "riassunto": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark…",
+     "fonte": "MIT Technology Review",
+     "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+     "ora": "2026-10-22T21:17:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Assunzioni all'Università La Sapienza: stipendio e scadenza del bando per i posti di lavori a tempo indeterminato",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Canale Dieci",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRHVjYVptdnM5N2xYdmFPRG9IbHFzaXBwTTRPekR5ZHBKVnp2YlpUODNTOVZfMnh1VTdIa3htVzM4c2J5S25RM1loZDFhYVpOZ1hoaV9KVFZ6a0ZmTm1fV1BaSkdScUNRSTdSWm9KY2E3dUU3ZUJ0WjlSQXJkTkI5Q3F1VHhJS3FmcS10aXN0WHpkNU5IUDNONWJWVGxpNC1TX0xFTGNqS3lYS3h2NVg0NFk4Z3BWUkY4XzdncVAzOUNMa1lGcWwwNk9reFVHOWtUajN5dE5NOEJIazVZcWVj?oc=5",
+     "ora": "2026-10-21T16:22:44+00:00"
+    },
+    {
+     "titolo": "Università, Aurigemma a centenario scuola ingegneria aerospaziale La Sapienza",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "NewTuscia",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUnNSbV9PQTVybnRkWENQVkE4WUluUVNSUi0tTno2WWUyM3BPZlIwcm05OTlaNWk5NEV5YzNMc3FDV2E3VVN1OXp2dUdRWDBIcy1ucmlVMHNNa1NMbVN1bmtPYWxJMndka2xNVGFhWTlLeElTM21TNWdEZUZ4c2tPb0NhYzBYQ0RiRm9pb2ZZYk1wYlZmU0FNeHhtbTQ4NWNhZFQ0SzNYODg3c2ttUTZaNElXOA?oc=5",
+     "ora": "2026-10-22T13:12:18+00:00"
+    },
+    {
+     "titolo": "AlbinoLeffe, 15 delle giovanili per lo stage delle Rappresentative di Lega Pro",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Bergamo e Sport",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOGNBN21fWFFrUF9xeTFBam0xVEtobF9RdHN5SFdQUV9QclhCcUJQMzVCd3pVejFtU2ozTGJiSldmNHhud0dyaTAxQ2tBb3NZbWdnTGpRdDJwcGtuZTlKcDF5bDVaRHViU3liSjRXcVYtQmRqdzBiTm9lV2lFMnJqQ0Y2bGp2VWZpOGhJOW80bVE2NHZodFN5bTJNRkx4cjkzMkhzeVRfQzJwZnc?oc=5",
+     "ora": "2026-10-20T20:27:23+00:00"
+    },
+    {
+     "titolo": "Serie C, al via gli stage delle Rappresentative: 117 giovani convocati a Pero",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "ilRossoBlu",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFlhNUlkNGJkcEZLUDV5aWppdWRoWVhKLVU3WEM2aGI1aG8tZDRHRTdrVXdfc3hpMnc5cXFyY0h0bWhKaEpVN0M0MzVTVExrak9QYkJGYlFvZHZzZlRzeGk5bmJDUmplZk9CVV9CUzQxRVhZZFlwdmlLNmFfWmEwdlNiSjRQRnNDUmFJZURpbzk5WHU5cEFBQVpFem10bHdqTVF3?oc=5",
+     "ora": "2026-10-20T16:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Scontri del 17 e 18 ottobre, perquisizioni della Digos in diciotto città",
+     "titolo_it": "",
+     "riassunto": "Identificati in 100, tra loro 51 minorenni. La mappa delle piazze a rischio",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/scontri-del-17-e-18-ottobre-perquisizioni-della-digos-in-diverse-citta_c576aa3c-07aa-4c48-838f-2ac212b76996.html",
+     "ora": "2026-10-23T12:00:16+02:00"
+    },
+    {
+     "titolo": "Uccide la fidanzata vicino a Varese e si costituisce in Abruzzo",
+     "titolo_it": "",
+     "riassunto": "L'uomo è in stato di fermo, la vittima raggiunta da diverse coltellate",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/uccide-la-fidanzata-vicino-a-varese-e-si-costituisce-in-abruzzo_d59f3266-b325-4df0-9380-98ea552c009d.html",
+     "ora": "2026-10-23T11:58:24+02:00"
+    },
+    {
+     "titolo": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+     "titolo_it": "",
+     "riassunto": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-23T09:44:40+00:00"
+    },
+    {
+     "titolo": "Nuovo 007 in arrivo: il casting di James Bond si restringe a pochi attori",
+     "titolo_it": "",
+     "riassunto": "Un annuncio ufficiale sul nuovo attore chiamato a interpretare James Bond è atteso a breve. E, stando alle indiscrezioni, un nome sarebbe già in pole position per diventare il nuovo 007.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/23/nuovo-007-in-arrivo-il-casting-di-james-bond-si-restringe-a-pochi-attori",
+     "ora": "2026-10-23T11:37:23+02:00"
+    },
+    {
+     "titolo": "Ukraine says Starlink still restricted after Trump says limits lifted",
+     "titolo_it": "",
+     "riassunto": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-23T09:36:43+00:00"
+    },
+    {
+     "titolo": "La tempesta Austen colpisce la Francia: blackout in 161mila case",
+     "titolo_it": "",
+     "riassunto": "La prima grande tempesta d'autunno investe il nord-ovest della Francia. Chiamata Austen dai servizi meteorologici britannici, porta forti raffiche di vento, e sta creando disagi ai trasporti, oltre a interruzioni nell'erogazione dell'energia elettrica. Le autorità invitano alla prudenza",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/23/la-tempesta-austen-colpisce-la-francia-blackout-in-161mila-case",
+     "ora": "2026-10-23T11:27:28+02:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
