@@ -1,0 +1,169 @@
+{
+ "giorno": "2026-10-25",
+ "creato": "2026-10-25T09:50:30+00:00",
+ "in_breve": [],
+ "modello": null,
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Why The A350-1000 Is Gaining The Popularity Airbus Wished It Would A Decade Ago",
+     "titolo_it": "",
+     "riassunto": "The aircraft is gaining ground as Boeing's 777X slips further behind schedule, reshaping the battle for long-haul dominance.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/airbus-a350-1000-popularity-airbus-wished-decade-ago/",
+     "ora": "2026-10-25T00:00:18+00:00"
+    },
+    {
+     "titolo": "Enav, guasto ai sistemi: traffico ridotto al 50%",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "www.ttgitalia.com",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeHpBUE1ZY21seDdROTNRd2FUUU1kMWNVZzkzZFdBUEtlU1htb29qeU00WVFDSDhab1BocURON2E5UzhKNVdfYkNSQ0Yxdy1ZeW1uNmZCRFJPVF9uc1hNd0lDeXYyNkRNTk1aOUF4MUl6X0traVFBcUQtTzF5VmMtbC16eTNlN21Xa05tQ1NUeDBGUGc4LXlHdXp0OWVRZ28?oc=5",
+     "ora": "2026-10-25T07:07:58+00:00"
+    },
+    {
+     "titolo": "L’impresa è compiuta. Torna il Savoia Marchetti S.55X. L’aereo di Italo Balbo è realtà",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Il Giorno",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOFNXRU5keUN5SE5uT0tGZDV4RmREZTRhZzFPaXVjNHZBQUVrdGktUUhHTjVRLVhTNXRSakp6VzRqc0tYNVVraEZIREJiYmwyXzR6OEtQUVVTSEoxaE4zNDJZWm55ajdSR3pNa0tzUTV6YTNOWVYyaVJmcGVDc3c2YVZn?oc=5",
+     "ora": "2026-10-25T04:21:15+00:00"
+    },
+    {
+     "titolo": "Boeing 737 MAX Cockpit: What Pilots See & Do On Every Flight",
+     "titolo_it": "",
+     "riassunto": "Legacy is no more apparent than within the cockpit of the Boeing 737 MAX, taking an original, time-tested design and bringing it into the future",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/boeing-737-max-cockpit-pilots-see-do-every-flight/",
+     "ora": "2026-10-24T22:00:18+00:00"
+    },
+    {
+     "titolo": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+     "titolo_it": "",
+     "riassunto": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+     "fonte": "NASA",
+     "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+     "ora": "2026-10-25T08:19:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Un modello OpenAI usa token senza autorizzazione: cosa insegna il caso sull’AI negli uffici",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Actainfo",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wZWRRSWVPZVFuNURyTVdSd3ZZQjRLbzJlRnVFS1lHZHpqZUNBb0Vmd3JrakZ4QkdCUDhXSmZuY3BWcmVRaTBZaXRlbk0xNHBTUjczNXNYRVh3bXFtN2VkT0E5bFh5RXp0dDFGT1ZKc2JTb3M?oc=5",
+     "ora": "2026-10-24T17:26:19+00:00"
+    },
+    {
+     "titolo": "Il governo svedese chiude a OpenAI e Anthropic: problemi di sicurezza dei dati. Non è il primo",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Criptovaluta.it",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tTjhNeGFEU1Btc3BqTjFaUDA5WEFVYXJ4akJLbGdaZHRKN2hQOW54Vm9nSnk5MGJxME82TW1sWGZwNnBpWjd4TGFCZW1VZGtjTndiQndmT1FiVGUxbmlVaTRCbHkzdzZrLVg0?oc=5",
+     "ora": "2026-10-25T09:40:20+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Assunzioni all'Università La Sapienza: stipendio e scadenza del bando per i posti di lavori a tempo indeterminato",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Canale Dieci",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRHVjYVptdnM5N2xYdmFPRG9IbHFzaXBwTTRPekR5ZHBKVnp2YlpUODNTOVZfMnh1VTdIa3htVzM4c2J5S25RM1loZDFhYVpOZ1hoaV9KVFZ6a0ZmTm1fV1BaSkdScUNRSTdSWm9KY2E3dUU3ZUJ0WjlSQXJkTkI5Q3F1VHhJS3FmcS10aXN0WHpkNU5IUDNONWJWVGxpNC1TX0xFTGNqS3lYS3h2NVg0NFk4Z3BWUkY4XzdncVAzOUNMa1lGcWwwNk9reFVHOWtUajN5dE5NOEJIazVZcWVj?oc=5",
+     "ora": "2026-10-21T16:22:44+00:00"
+    },
+    {
+     "titolo": "Dal 1926 al San Marco 1: il secolo della Scuola di Ingegneria Aerospaziale della Sapienza",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Sbircia la Notizia Magazine",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xXzB1djEtVklSZDV4a2NhTHpid2ZJclQ5QXBTN0xnNFIydmRoSTVaSmcyMllGNEpHazhvLWk1MVQ4b1VOMWNydFYxOGhJNkRJaDNZaDF0ZmIzbml0U3pHa0JHNVI2WGd4d19URkZWZGtmVHdlQloxOVdIVEFCZw?oc=5",
+     "ora": "2026-10-23T14:02:40+00:00"
+    },
+    {
+     "titolo": "Borse industriali Lazio Aerospazio: alla Sia della Sapienza tre sostegni da 30 mila euro",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Radio Roma",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaC1ndGI0czRhTWswRG54SzVFem5tWTNDYWlRUTdmNk5vQll3VXNaZFEyY1RiTnNjYy1VSkhpSmRyRG9WTDcwSjE1S00xSGVOZmdfNUxkNlk3Sk1hUEZ6OUNnSkpTZkZ1eWpNcW8taVFWczJRaDRXYkR6VXppVUtmMGtrNVN2ZVh0VG5tMWtTcnd2X2F5RmU5T2N2TUwybGZza2J3aXhfeEY5OVoxU1Ixd2l6ZGpqZHMxMVpZYlFB?oc=5",
+     "ora": "2026-10-22T20:49:27+00:00"
+    },
+    {
+     "titolo": "AlbinoLeffe, 15 delle giovanili per lo stage delle Rappresentative di Lega Pro",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Bergamo e Sport",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOGNBN21fWFFrUF9xeTFBam0xVEtobF9RdHN5SFdQUV9QclhCcUJQMzVCd3pVejFtU2ozTGJiSldmNHhud0dyaTAxQ2tBb3NZbWdnTGpRdDJwcGtuZTlKcDF5bDVaRHViU3liSjRXcVYtQmRqdzBiTm9lV2lFMnJqQ0Y2bGp2VWZpOGhJOW80bVE2NHZodFN5bTJNRkx4cjkzMkhzeVRfQzJwZnc?oc=5",
+     "ora": "2026-10-20T20:27:23+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+     "titolo_it": "",
+     "riassunto": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-25T09:32:59+00:00"
+    },
+    {
+     "titolo": "L'addio triste di Phillip Island, il maltempo cancella il suo ultimo GP",
+     "titolo_it": "",
+     "riassunto": "Con scarsa visibilità niente eliambulanza, Martin non si opera e proverà in Malesia",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/sport/moto/2026/10/25/laddio-triste-di-phillip-island-il-maltempo-cancella-il-suo-ultimo-gp_022a581d-9611-4639-8565-1a69edbd0835.html",
+     "ora": "2026-10-25T10:20:51+01:00"
+    },
+    {
+     "titolo": "Audi investe negli USA: Trump punta su casa automobilistica tedesca alle elezioni",
+     "titolo_it": "",
+     "riassunto": "Audi progetta il suo primo stabilimento automobilistico negli Stati Uniti. Il costruttore di Ingolstadt vuole investire miliardi in un nuovo sito produttivo nello Stato della Georgia.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/25/audi-investe-negli-usa-trump-punta-su-casa-automobilistica-tedesca-alle-elezioni",
+     "ora": "2026-10-25T10:16:05+01:00"
+    },
+    {
+     "titolo": "Claudio Baglioni si riprende Piazza di Siena 44 anni dopo la prima volta",
+     "titolo_it": "",
+     "riassunto": "\"È una notte che non c'era stata ancora, che non si era vista prima\". Il ritorno dopo lo stop",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cultura/2026/10/24/claudio-baglioni-si-riprende-piazza-di-siena-44-anni-dopo-la-prima-volta_83175ac8-90aa-4335-9f1d-bf8ff3b21ac9.html",
+     "ora": "2026-10-25T10:13:54+01:00"
+    },
+    {
+     "titolo": "Francia, quasi mille arresti negli scontri tra manifestanti e polizia",
+     "titolo_it": "",
+     "riassunto": "Circa 70mila agenti delle forze dell'ordine sono stati mobilitati in vista delle proteste previste per sabato, dopo che le autorità hanno rafforzato la sicurezza in seguito ai disordini del weekend scorso",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/25/francia-quasi-mille-arresti-negli-scontri-tra-manifestanti-e-polizia",
+     "ora": "2026-10-25T10:12:50+01:00"
+    },
+    {
+     "titolo": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+     "titolo_it": "",
+     "riassunto": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-25T09:00:00+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
