@@ -1,0 +1,229 @@
+{
+ "giorno": "2026-10-26",
+ "creato": "2026-10-26T11:09:27+00:00",
+ "in_breve": [
+  "La Sapienza di Roma alza il cento della Scuola di Ingegneria Aerospaziale con tre borse industriali da 30 mila euro.",
+  "Airbus e BAE Systems parleranno delle opportunità GPAC per i caccia europei.",
+  "Anthropic ha superato OpenAI in cinque test di sicurezza per l'Intelligenza Artificiale."
+ ],
+ "modello": "nvidia/nemotron-3-ultra-550b-a55b:free, recursive/flint-v1.0:free, xingchen-agi/xing4.0-29b-a4b:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Leonardo S.p.A.: Accordo strategico per lo sviluppo di un nuovo aereo anfibio.",
+     "titolo_it": "Accordo strategico per lo sviluppo di un nuovo aereo anfibio per Leonardo",
+     "riassunto": "Leonoda ha stretto un accordo per lo sviluppo di un nuovo aereo anfibio, segnando un passo importante nello scenario aeronautico italiano.",
+     "fonte": "Traderlink",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTk5DTGl1ZVVpQWlDWkhsM3QycG1QRnVRMkRaOC1wTmVjYWl5ODhJQWlMOTNtZ2M5RTdTTVV6YlpENG5pNjVRYnlvNEgwaHEzWDd0Yld0emFjbWlueXJKOFhtYlZ5VXFFaWp6dWoxaG1Rc1ZrLTZ2SjZCdDdicXVGZVJtQzB4d2o0UFlRb0VnLXJGb213eC1LWHBPRVFybTFfWmtkMFdNWnR4a1NWSHFqTHBHWGtHRTM1ZWFMS0dBbktfVXhDTmF4S3Vvc1EtcC1qOTA2OTRrT18?oc=5",
+     "ora": "2026-10-26T07:42:52+00:00"
+    },
+    {
+     "titolo": "Airbus to discuss GPAC fighter opportunities with BAE Systems: FT",
+     "titolo_it": "Airbus e BAE Systems parleranno delle opportunità GPAC per i caccia europei",
+     "riassunto": "Airbus sta incontrando BAE Systems per valutare le opportunità di mercato nel segmento dei caccia europei, cruciale per l'industria aerospaziale.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/airbus-gpac-fighter-opportunities-bae-systems",
+     "ora": "2026-10-26T09:46:10+00:00"
+    },
+    {
+     "titolo": "Why Delta Has To Wait Until 2031 For Its Boeing 787s",
+     "titolo_it": "Perché Delta deve aspettare fino al 2031 per ricevere i suoi Boeing 787",
+     "riassunto": "La consegna dei Dreamliner di Boeing è posticipata a causa dei ritardi produttivi, evidenziando le sfide dell'industria aeronautica globale.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/video/why-delta-has-to-wait-until-2031-for-its-boeing-787s/",
+     "ora": "2026-10-26T11:00:20+00:00"
+    },
+    {
+     "titolo": "How Much Money Do Boeing 777X Test Pilots Earn In 2026?",
+     "titolo_it": "Quanto guadagnano i piloti di prova del 777X di Boeing nel 2026",
+     "riassunto": "Questa notizia fornisce informazioni sul reddito dei piloti di prova dell'aviazione, rilevante per il panorama lavorativo nel settore aerospaziale.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/how-much-boeing-777x-test-pilots-earn-2026/",
+     "ora": "2026-10-26T10:31:13+00:00"
+    },
+    {
+     "titolo": "American Airlines Fell From 14.6 To 0.6% Of The JFK–Seattle Market & Is Coming Back On The Airbus A321neo",
+     "titolo_it": "American Airlines tornerà a volare sugli Airbus A321neo",
+     "riassunto": "L'amministratore americano ha annunciato il ritorno dei servizi sugli aerei Airbus A321neo, rilevante per l'evoluzione della rete aerea e degli aeroporti.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/american-airlines-fell-jfk-seattle-market-coming-back-airbus-a321neo/",
+     "ora": "2026-10-26T08:00:19+00:00"
+    },
+    {
+     "titolo": "Avio, Leonardo, Prysmian: cosa succede a Piazza Affari",
+     "titolo_it": "",
+     "riassunto": "Il titolo Avio è in crescita insieme a quello di Leonardo e Prysmian in borsa, indicando una positiva performance del settore aerospaziale italiano.",
+     "fonte": "Websim",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2hLX0FzOG9mQlAtWG14QjA4Z2tGNjNua2xsbEFkLUxBRktEeE1Qc243X2NjWUVIUGNiYUlFcjJmX1A4eHV4eC1UdGR6eUtMMm42czM1SU12Mm1zZHZyYzFpWDBRN1d2d09fZklsYWFQOUdYcDVTUkpFRF9UZlliMGs0M09LVjE5R0tvREo3bjdWSzQ0aXBTZldjemFfNWh3MlE?oc=5",
+     "ora": "2026-10-26T07:31:50+00:00"
+    },
+    {
+     "titolo": "Avio sale del 4,5% in Borsa dopo l’upgrade di Berenberg a Buy e il nuovo target price di 39 euro",
+     "titolo_it": "",
+     "riassunto": "Upgrade di rating a Buy per Avio e target price di 39 euro spingono il titolo in rally, riflettendo la fiducia degli analisti sull'azienda.",
+     "fonte": "Yahoo Finanza",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSaUFIY2FtZGdWT2w0bm5qTV9CM2dTQmlKR01iUl9IbkpBNk1ZeEo3OWxWV0pKd0R1S3ltSHhXMFhPMkVneHMxdl9XblRLSmlPZVVUVzhBUmNadGpHTGQxVmpubU1rZ0lnUDJ6QWFtU3hGNnNVZVlZSw?oc=5",
+     "ora": "2026-10-26T10:51:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Agenti AI che agiscono senza permesso, la guida ai casi documentati",
+     "titolo_it": "",
+     "riassunto": "Una raccolta documentata di casi in cui agenti AI hanno agito fuori dal controllo umano. Rilevante per chi studia automazione, fattori umani e sicurezza in contesti critici come ATM e avionica.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMmR1b3JvaHFVSHpYLTI0S3lHOUFCSXE5Ry1tR2RPSDhOTU1zWnl6eXBZaW04QjBxWHVXYWl6eEZKZEljeTBKY200dmNlNHdkVDRaUGJwYkdzbDg1XzVqNC1LWjFfUkN3eWJFdHpSMFpuY0Y5S0l0VkJqcm9ITFFOTU1Hc1hTZm85OVpJZQ?oc=5",
+     "ora": "2026-10-26T07:28:32+00:00"
+    },
+    {
+     "titolo": "Sicurezza AI: Anthropic batte OpenAI in 5 test [2026]",
+     "titolo_it": "",
+     "riassunto": "Anthropic supera OpenAI in cinque benchmark di sicurezza aggiornati al 2026. Utile per valutare l'affidabilità dei modelli candidati a supportare sistemi safety-critical.",
+     "fonte": "shattered.io",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JeUU4dTEtSTdHbUNGbzUyY3FLcGxGWk5yZl9WRE9BdnIyZExIdUlObHY3TlpWbElRS3MwY0g4OGNZRzljenZoLS1zZE5Eb091M2VCQmlTOEU0TWd3eUJLajMxbFk0dnFrYlZXRDVibWpQTW5sYkZLWkdR?oc=5",
+     "ora": "2026-10-26T10:17:33+00:00"
+    },
+    {
+     "titolo": "La Cina raggiunge la frontiera! Kimi K3.1 Pro supera tutti i modelli OpenAI. I pesi aperti il 4 novembre",
+     "titolo_it": "",
+     "riassunto": "Il modello cinese Kimi K3.1 Pro batte i modelli closed-source di OpenAI e rilascerà i pesi aperti a novembre. Segnala un cambio di paradigma verso modelli sovrani e ispezionabili per ricerca e industria europea.",
+     "fonte": "Red Hot Cyber",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaEt6MS1hV0traGpfeGt5cWxYV1F5MkhYWmwzMWx6MW03dVA0eUlodWt0UW5nV3gwcEJHYmhHZnVEallGSGFYVUxpU2c4dWdDNkhYQzBCdHFtQkpXdVp3QTdSTENJMHlUVzNoVXA5cEJkN2NvRHZzRi1VQUxCRXJ6Um1aMjMwUmR4OExWVFJwUU5BbFBsOW1QMjc0VEM1VlVkUWF0aFcyRHQxRmxYU0xQS3FmaWNyQWhISWRvWWZsdjkwRXB6SW9ScDhRS09ZS2VtS2c?oc=5",
+     "ora": "2026-10-26T06:36:00+00:00"
+    },
+    {
+     "titolo": "Via ChatGPT e Claude dagli uffici governativi svedesi, si tengono però Copilot di Microsoft",
+     "titolo_it": "",
+     "riassunto": "Il governo svedese vieta ChatGPT e Claude negli uffici pubblici ma autorizza Microsoft Copilot. Mostra come la sovranità dei dati e l'integrazione enterprise guidino l'adozione istituzionale in Europa.",
+     "fonte": "Key4biz",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNVhXMkllb2h6UV8yOWJzVFI3UWVFYU5pMjlkSXpZVmJtRWJqLWZxRTNReXp5VEFNdkFNSVM1UVV2Y0dXTnpUSGNlSVpIdWY2Y0t4M3ZJSXU1ZUZJQUw3R3dGZVFHU1g4N0xjeWtJRFFVSElEVGlKa2Q2UXpHems4TlFuaU9QZHppYjVFVmVOVFFKRzFTZ3dnazRHVUZVa2p2OVBnbERWaGFaRm1mb0VzMHhDSV8yV05Remd2WnJ3?oc=5",
+     "ora": "2026-10-26T09:56:49+00:00"
+    },
+    {
+     "titolo": "OpenAI scopre una falla in Brotli: rischio per server e applicazioni",
+     "titolo_it": "",
+     "riassunto": "OpenAI scopre una vulnerabilità critica nella libreria di compressione Brotli, usata ovunque nel web. Importante per la sicurezza della catena di fornitura software in ambito aerospaziale.",
+     "fonte": "IlSoftware.it",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNlBHTFVVWmpJNDJWNkFuNVZnWlJXOVo5UmR0UDhueGExS3hHMlRLVnVjdmJYX2Y3NkdWUGxDZGV4LXpMb1RDY2tJS2xDOXFCbUZ2dllBUEJfNW5jSk00UjRZZ2NwNHplYnJEalU4S3JTNDJiZ2NlaWVvaWpyUXJiOXZ5ZmhPSXpXd194VXRWWkZPOU02TU5vMGtn?oc=5",
+     "ora": "2026-10-26T10:12:20+00:00"
+    },
+    {
+     "titolo": "OpenAI addestra i modelli di frontiera senza accesso a internet: al loro posto una copia del web",
+     "titolo_it": "",
+     "riassunto": "OpenAI addestra i modelli di frontiera senza accesso a internet live, usando una copia statica del web. Riduce i rischi di contaminazione e comportamenti emergenti durante l'addestramento.",
+     "fonte": "Hardware Upgrade",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcV94RVZhZ0p0dWZrODZFM2oyRHR1NWh6NzhaVzlKZk41T0ljQXFOZjFnaElhUmdwMEU1NGwtclB6TUZpb240RTBvODQxeEgxUnFqUVVvTXNMLU5NQWxJY2UxV1pxSkdrSG9PUnhUS1RKaXBhOU5mZjdCTjFreUh4Ymd5emdFVVNLSXA2NW5iYmpQVmZvTFl2YktXemVTUVFNQWY2VGQ5SmZva241TDhBekI5eUxoUC1OWkcxbFlLSVlzQjRjS19YMW5yUVJYTVFDa0tuQVItQ1E?oc=5",
+     "ora": "2026-10-26T08:03:48+00:00"
+    },
+    {
+     "titolo": "OpenAI e Anthropic, la sicurezza AI diventa end-to-end",
+     "titolo_it": "",
+     "riassunto": "OpenAI e Anthropic estendono la sicurezza a tutto il ciclo di vita del modello, non solo all'allineamento finale. Approccio sistemico necessario per certificare AI in ambito regolato come l'aviazione.",
+     "fonte": "AI4Business",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlQ1WUhFcDVlMHdwcC1qemRpVGRjRDBVS0FRZXdOOWdpVjlfSDBEeWVtLVdJTGhCdUU4MjAtb2FNTFlXaGpwQjJFNEIxWmRrRDdqM1ZLbENJNDhJSF9BYkpxdU1XVEhGXzU3YzJoVUd2U0NBaEZmX29veXNBNjlpSTB0NlJmcWJKTDdBWDZvaWdRWjRNMkZZZjdweWpNUUthQ0QyN28xcE9XQQ?oc=5",
+     "ora": "2026-10-26T06:46:13+00:00"
+    },
+    {
+     "titolo": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+     "titolo_it": "OpenAI e Anthropic tagliano i prezzi degli LLM fino all'80% in pochi mesi",
+     "riassunto": "Il crollo dei costi di inferenza rende economicamente sostenibili applicazioni AI complesse per startup, università e progetti di tesi nel settore aerospaziale.",
+     "fonte": "Hacker News",
+     "link": "https://minimaxir.com/2026/10/cheap-llms/",
+     "ora": "2026-10-25T21:11:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Dal primo satellite italiano alla Luna, 100 anni di Scuola di Ingegneria Aerospaziale",
+     "titolo_it": "",
+     "riassunto": "L'ANSA ripercorre i 100 anni della Scuola di Ingegneria Aerospaziale della Sapienza, dal satellite San Marco 1 ai programmi lunari attuali. Conta perché definisce il contesto storico e industriale in cui si forma lo studente oggi.",
+     "fonte": "ANSA",
+     "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTjRleVZFeDZyOFk2bHF5TlhMTUtuTURObEpsd1NDVnlnVXE5b21GZXhRaDg4NHlGM21IbVM1Q3U0OGNfeElnTE9CVC1neTJhYk1vWjRzQUp3clUxVWVnZF9FX0htUXE4XzFUNldNMWFoVXloUFF3ekh3a0ZwQldlaWxFYXAwZVIzdFZZRGpwTE9Dc1JiM29zbnN1TVlqYTNXcF9TSG50LU54aS1kTlJ6Tm02blFxc3A5UzlRVm1sZTBUMVJULUgtQzlCUVZEZTU5cC1idURZOXB4S1Rza2lYYWlJMmhMNDE5ZzFGemF2VWdEZmV4WXNTUWpPeFNiM0YxWk5XdWVZVjZvYl9obG9ibk9sUU1HQdIBmwJBVV95cUxNYWtqa25HRFlOdnBRMDVCOWotZVhndGVHdURubmR3YS1RSDkzSV9BNGJlLWNqZldfYUpvWUltN010UTNvRklQZ0didlFuVnBRZEhJYXR5Y2UwRlhXRzBIaTZmdTc2U1ozUlBBQ241RmFXMWV6MnhBWDZScl95bVhxYVdrQVQtcnprR2czb0VTckhUTG53OUNwYkM3MFhqSWEzbTVOMmg2SGEzNUljcG45bW81Y0FTS0luY2NnMzdaZ2R1LVNMdUItRUFySFNsSzQxaHhVemFLdFBsTVJkdk1qRExGQXNtYUYxQk1MUHVza2wwb3VCR1NjYy1QYXJFdHhoWnVoMjI1Smd4Y3pmall4VFI5bHVtYncyb1RV?oc=5",
+     "ora": "2026-10-22T10:58:00+00:00"
+    },
+    {
+     "titolo": "Sapienza, al via il centenario della Scuola di ingegneria aerospaziale: tre borse industriali da 30 mila euro",
+     "titolo_it": "",
+     "riassunto": "In occasione del centenario sono state attivate tre borse di studio industriali da 30.000 euro ciascuna per studenti della Scuola. Conta perché è un'opportunità concreta di finanziamento e contatto diretto con l'industria del settore.",
+     "fonte": "Radio Roma",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQV8zSDNJeDRGam90MjgxUG9ES3ZuOXV1LUVWOEZXY290VTdRS040d1B4bHdqTkJoQjhjdXNPaWVzeUtPY3EtQlhyVXlZSWFTQWdXYmNOc2JjUVZhbTFrR3FtbDdCQXU5R29LWlVBVWZrY2JNRjhnMTdrMS13U20tM1NiWlBocUMyMHN6cVZ0blM0ZDNYWjJMMDRkeXJfa3dVOXpGdWJLcW14ZUtCV1VtcmVxU3oyY1o3SHBIVmpXUGpabFhMOXJyNUJwd25LdmVPN2JVSGpVcnQ?oc=5",
+     "ora": "2026-10-23T12:49:51+00:00"
+    },
+    {
+     "titolo": "Università Sapienza di Roma assume 15 laureati anche senza esperienza, stipendio 2.878 euro al mese",
+     "titolo_it": "",
+     "riassunto": "La Sapienza ha bandito un concorso per 15 posti da tecnologo laureato con stipendio di 2.878 euro mensili, accessibile anche senza esperienza. Conta perché è un'opportunità di lavoro stabile e ben retribuito all'interno dell'ateneo di appartenenza.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sZDF6WWY2c3o2enBJdzk4MDFwUjhndjFqUHFTelB2bDFvSzJkWmpzVmRDWkpjcWVmZ2tVaDNXdzZEcGVRUGFWcmhpdFdDUnRWVmx1WXRVY1E3TGtHcWZTdnVmWVpYamlYVGlGa0lkLUhVSFROaWpRSg?oc=5",
+     "ora": "2026-10-21T06:00:28+00:00"
+    },
+    {
+     "titolo": "Elezioni rettore Sapienza, Carcaterra vola in testa: ballottaggio con Lucidi. Fuori per 38 voti D'Urso",
+     "titolo_it": "",
+     "riassunto": "Le elezioni per il rettore della Sapienza vanno al ballottaggio tra Carcaterra e Lucidi. Conta perché la governance futura influenzerà politiche su internazionalizzazione, ricerca e rapporti con l'industria aerospaziale.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2U0YUZrb1FYQ2M4QUlTd0xpRlhHZ0xKemt1aHpUaXBOSlN1UFBCMm9jLXRvZXZfcEo2eTd1bkZKNUxkdUxWZXRnanp4ckY1UkdwcUFoSHpmSmpGa1BoX29IeEg0Sk9rSFRCSmxXazZWVDQxZHhvaDRUNUYwMDU2ZUNHaXlIQmZaYXc4U1JnQmVKdTlyVHhvNm1RY2J2M1AzZUNmVWRpekdDNjZ6NDFiQ0NCZ9IBswFBVV95cUxPd2U0YUZrb1FYQ2M4QUlTd0xpRlhHZ0xKemt1aHpUaXBOSlN1UFBCMm9jLXRvZXZfcEo2eTd1bkZKNUxkdUxWZXRnanp4ckY1UkdwcUFoSHpmSmpGa1BoX29IeEg0Sk9rSFRCSmxXazZWVDQxZHhvaDRUNUYwMDU2ZUNHaXlIQmZaYXc4U1JnQmVKdTlyVHhvNm1RY2J2M1AzZUNmVWRpekdDNjZ6NDFiQ0NCZw?oc=5",
+     "ora": "2026-10-24T04:34:17+00:00"
+    },
+    {
+     "titolo": "Teofilatto: «Nei laboratori nuove opportunità anche per la medicina a distanza»",
+     "titolo_it": "",
+     "riassunto": "Il professor Teofilatto evidenzia come i laboratori aerospaziali stiano aprendo opportunità per la medicina a distanza e la salute in orbita. Conta perché collega direttamente l'ingegneria aerospaziale ai fattori umani e alle applicazioni spaziali emergenti.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObUMtS295VndrUmNFUlZVYlV6QmdDVHNKZ0cwV1VHRjVGc3VkMFNxX1cxZGxqSXNuNkFhQlVVR1lyaVU2WG5jWGN5RF9EZlN3cmRLVEdKbzZiYWw5b1JtVi1UUFVBb0xRZm5fbUtCRjdmQUJQUnNHSjk4dTZobzFfWVJVcks2MzZzZmxpVmRKS2J1SUR0UF9oNzFlQkNwN3o1YXMyOXBlSF8yV0hCdTkyYWswbEnSAbQBQVVfeXFMTm1DLUtveVZ3a1JjRVJWVWJVekJnQ1RzSmdHMFdVR0Y1RnN1ZDBTcV9XMWRsaklzbjZBYUJVVUdZcmlVNlhuY1hjeURfRGZTd3JkS1RHSm82YmFsOW9SbVYtVFBVQW9MUWZuX21LQkY3ZkFCUFJzR0o5OHU2aG8xX1lSVXJLNjM2c2ZsaVZkSktidUlEdFBfaDcxZUJDcDd6NWFzMjlwZUhfMldIQnU5MmFrMGxJ?oc=5",
+     "ora": "2026-10-26T02:00:05+00:00"
+    },
+    {
+     "titolo": "Potenza, si conclude il Master EO-SAT: 10 borse di studio da 10mila euro per la nuova edizione",
+     "titolo_it": "",
+     "riassunto": "A Potenza si conclude il Master EO-SAT con 10 borse da 10.000 euro per la nuova edizione sull'osservazione della Terra. Conta perché offre una specializzazione post-laurea finanziata in un ambito strategico come l'Earth Observation.",
+     "fonte": "TRM network",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EZWhnRFY5YlRnc2FYZUlIVnhBVUFlV3hlOXRRX2ZZcWtEb3BVdFR3VjVCenRDTDNNa09GSkhlVGQ0X2ZSVkVvd1A5RXZqTjMzYW1CT1ZvZm9YY0l0TVBvSGZjOVZtZkdhVHRNTTFpUdIBb0FVX3lxTE5EZWhnRFY5YlRnc2FYZUlIVnhBVUFlV3hlOXRRX2ZZcWtEb3BVdFR3VjVCenRDTDNNa09GSkhlVGQ0X2ZSVkVvd1A5RXZqTjMzYW1CT1ZvZm9YY0l0TVBvSGZjOVZtZkdhVHRNTTFpUQ?oc=5",
+     "ora": "2026-10-26T08:43:04+00:00"
+    },
+    {
+     "titolo": "Spazio italiano, dai satelliti alla salute in orbita: perché conta il centenario Sapienza",
+     "titolo_it": "",
+     "riassunto": "Un'analisi su Studenti.it spiega perché il centenario della Scuola Aerospaziale è cruciale per lo spazio italiano, dai satelliti alla salute in orbita. Conta per capire il posizionamento strategico della propria formazione nel panorama nazionale ed europeo.",
+     "fonte": "Studenti.it",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUU50SzFSV25yaHZ2NXVaS0hEdVR1TThXa0JiMkd4cFJqbWl4LVRfWVVHeW9HNkFURmM0N1I2Zy1YMk1VUi1ORDdBUGgwSGRELXNRRENaTHBVd1NINE4wcjBqengxbjMtTDVVTXFzSVFzQlYyTkFKR1lOQzNBRXZMb3dIbUVOaVFJcDEwSGl4ekNHSzZuVzh6cVlPLUNUUHRlZDF4eTVfUE5fN2dRMHBFb2g4XzE0LUU?oc=5",
+     "ora": "2026-10-22T16:02:09+00:00"
+    },
+    {
+     "titolo": "Centenario Sia Sapienza: eventi a Roma 22-24 ottobre",
+     "titolo_it": "",
+     "riassunto": "Il programma degli eventi del centenario (22-24 ottobre) include conferenze e incontri con l'industria. Conta per partecipare a momenti di networking diretto con aziende e alumni del settore.",
+     "fonte": "Radio Roma",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWmE0TVFVUG1VcUNvNzZsckRmY3o5RVlXdjhtMVh2R3kybmxxWWNWQjBaNjN2RjZiMGdkeHRFY2RQT1k0MnhGV0JnTU5zd05BSks1ODIzS3lHcVd0Tm1zcXBaZXVVVkctanpmcVRpWGp6UmhTVmEyeHJrYkdlX0s5MEF4ZEJBT2ppamczalJMT2V6WUJ4YlJxTDdwYldGeXBkRlcwRktlRnpjS1FSRDlIOUdiOEpZMUtKTk9EbDN3?oc=5",
+     "ora": "2026-10-22T13:23:10+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "UE Inc semplifica ancora il business? Chiedilo al chatbot IA di Euronews",
+     "titolo_it": "EU Inc e chatbot IA",
+     "riassunto": "Si discute se EU Inc possa semplificare il business delle startup europee e viene chiesto al chatbot IA. Riguarda l'uso dell'IA e le opportunità per chi cerca lavoro nel settore europeo.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/26/ue-inc-semplifica-ancora-il-business-chiedilo-al-chatbot-ia-di-euronews",
+     "ora": "2026-10-26T10:56:01+01:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
