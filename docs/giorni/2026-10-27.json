@@ -1,0 +1,209 @@
+{
+ "giorno": "2026-10-27",
+ "creato": "2026-10-27T10:37:32+00:00",
+ "in_breve": [],
+ "modello": null,
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Avio (TN), parcheggio selvaggio al capolinea dei bus: UIL Trasporti attacca il Comune per i mancati interventi",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "La Piazza Web",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONG5kc2R1YzRIRG5zbmNZS2Z0MzRiRG0tRUlKU2dER0luczl2QTBpTlVFRU1uZGZGZlhOdlFMTWNSM1UtRDNNN0pyejFmSnQtWWwtWUtQMFpoMW5UU0p6MDVQa200NnNRczJGcTN5WG5NQWVMcUs4MjhxQ2Nhc0s5R2VDdFo3a0dUQktaODlJakVfN2JGdjJKaWNJNy01WjU0UWNuUU5VYnhsLTVxMm5zdmRvZ0dqZ1NmekhTT2hFbjdSOXZOYTdFbjk1UTF6X2R5NkVIVHBweS1aRURNQXBhSzROZEZ0cmltMmV0WThsYUhtQQ?oc=5",
+     "ora": "2026-10-27T10:21:21+00:00"
+    },
+    {
+     "titolo": "Enav, Ad De Biasio: obiettivo espansione internazionale e acquisizioni nel settore non regolato",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "la Repubblica",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTThSN1FXcXVhamFST05rbGNHWFVfeTM2cEdqeG9odnd5Vy1WSkxjb3BkVEpjaC1pVHY1LUdGN2EtcUd4ekRkOWVScWU1UUpoZkdTTy1CUkRvZ3FaNm9HaXdsSTNZdEE4U3pjdjhvbDZ0NVdkelUtRFBKY1pKNGdxdUhvd2lzY0JpQWVQd2dDTG5DOTdWWVh1VVhEbEtCRDZhR09iT2tZbVV2dktoV1FSYmsyOE1VOHJpRmlxSVotSnZFQVIxOXV5RWJpQ21PRTdaeTRJaEM3akZxbWs?oc=5",
+     "ora": "2026-10-27T10:10:00+00:00"
+    },
+    {
+     "titolo": "ESA procures four new Galileo Second Generation satellites",
+     "titolo_it": "",
+     "riassunto": "The European Space Agency (ESA) has extended ongoing contracts to build four additional Galileo Second Generation (G2) satellites, ensuring the long-term continuity of the constellation and supporting the rollout of new services. With this procurement, the Galileo Second Generation fleet grows to 16 satellites.",
+     "fonte": "ESA",
+     "link": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites",
+     "ora": "2026-10-27T11:00:00+01:00"
+    },
+    {
+     "titolo": "Airbus secures Life Flight Network order for five H135 helicopters",
+     "titolo_it": "",
+     "riassunto": "Airbus has secured an order from US-based medical transport service firm Life Flight Network for five new H135…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/airbus-life-flight-network-order-h135-helicopters",
+     "ora": "2026-10-27T08:53:54+00:00"
+    },
+    {
+     "titolo": "UPS Replaced Its McDonnell MD-11s With 18 Boeing 767Fs That Carry Roughly 65,000 Pounds Less Cargo Each",
+     "titolo_it": "",
+     "riassunto": "Why USP ditched every one of its trijets for a Boeing twin.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/ups-replacing-mcdonnell-douglas-md-11s-18-boeing-767fs-65000-pounds-less-cargo-each/",
+     "ora": "2026-10-26T22:00:17+00:00"
+    },
+    {
+     "titolo": "The Airbus A350-900ULR's Range Hits 9,700 Nautical Miles Because Parts Were Removed, Not Extra Fuel Tanks",
+     "titolo_it": "",
+     "riassunto": "Typically, more range means more fuel is needed. For the A350-900ULR, the exceptional range it reaches is thanks to far more than just added fuel.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/airbus-a350-900ulr-range-9700-nautical-miles-parts-removed-not-fuel-tanks/",
+     "ora": "2026-10-26T21:30:17+00:00"
+    },
+    {
+     "titolo": "Castelion to Begin Blackbeard Hypersonic Missile Integration on USAF F-16s",
+     "titolo_it": "",
+     "riassunto": "As part of its work with the Air Force Research Laboratory, Castelion will now expand the Blackbeard integration effort to the F-16, adding a U.S. Air Force fighter to a program already advancing toward Navy service. Castelion announced on Oct. 26, 2026, it has received a contract modification to begin integration…",
+     "fonte": "The Aviationist",
+     "link": "https://theaviationist.com/2026/10/26/castelion-to-integrate-blackbeard-on-usaf-f-16s/",
+     "ora": "2026-10-26T19:19:06+00:00"
+    },
+    {
+     "titolo": "Boeing Expected to Report Third-Quarter Loss",
+     "titolo_it": "",
+     "riassunto": "Analysts forecast another quarterly loss despite recent aircraft certifications and increased deliveries.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/boeing-expected-to-report-q3-loss/",
+     "ora": "2026-10-26T18:33:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "OpenAI lancia GPT-6.1 Terra, il modello per affidare all’IA il lavoro al computer",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "TuttoTech.net",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeWs5SVZjNEpoMlVGb0tnZ0hUV1p1RmpqMU9yZ185aDNnUXhUQzBzdFBuVHVvZVBFVUxxTGczX3NhUVlIbGNHZ2dMclVqZVRHMDJkTUQwazl4YXAyczExdFc3S3FPNDJDTkRhXzNCS1FsbnhNWU1na1FYWUpfLWtUVkJCSEt3VmFVVldrakhRM2pLaUstZS03enVnUFlKQ3hhWFE?oc=5",
+     "ora": "2026-10-27T10:29:05+00:00"
+    },
+    {
+     "titolo": "OpenAI GPT-6.1 Terra: nuovo modello per ChatGPT e Codex",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Punto Informatico",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYS1SSGZKSzhyd21Hc015eUI4QXZVdWVzNXhINHpIMU5KVHh4OThTMUFDYXh2OXNmUUxaU0pkVXZodDFVRU5TUnJQd3dsR0twVUhhcmcxbUd4WWhCTldUSi1JRjhBTFA0MDVPRms3M0xNSHlwWWFqYTZCLWlqSmZBSko5Qkd0d29wY1E?oc=5",
+     "ora": "2026-10-27T10:21:21+00:00"
+    },
+    {
+     "titolo": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+     "titolo_it": "",
+     "riassunto": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company confidentially filed with the…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+     "ora": "2026-10-26T09:32:49-04:00"
+    },
+    {
+     "titolo": "GPT-6.1 Terra",
+     "titolo_it": "",
+     "riassunto": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer…",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+     "ora": "2026-10-26T23:53:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "“Studenti di Vasto in visita alla Scuola di Ingegneria Aerospaziale della Sapienza a Roma”",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "VastoWeb.com",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUGtkbWkwQy1BOHY0V3c1Ym1wQUNUYmt3NTlGOEtIZEFtVnZwRTc5XzNBeTdPOE9EZDhDTXpqdnBBRWNqNXpGWjNNSy10OGU5THBFSGl6YklqVW9VVXJFRlRNTFlaeVhPQXYxcmhEa2JCLUZ6N1VOeXJ2X2pOLTRkVnNfX05xSThycG5MOWlGeWVVZVZtQ1lVOG1xU3duYTZrOUtSOHFWb1F3QTdwd0J3MlRsR0hQNzJua2RfLUdjSUZNcG9tSS13VTREZm1XUkE5d2c?oc=5",
+     "ora": "2026-10-26T15:40:12+00:00"
+    },
+    {
+     "titolo": "Sapienza: un secolo di ingegneria aerospaziale tra satelliti e razzi",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "News Istruzione",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1VEbVBMTmxGRl8yUXZmR0Nacm9XbFNnLUdwanlNLUMzcXlHWklYeGpyeU1WSkZyQTM5SXpoTVNzU1M3Qi1fQVhCRzNnX0Z6ZFlKMXo4UGRYVG13SDF5TFdGWmtIYnlpUWFWMFR2Vi1URzhYQTktcXFPZXhGOTBTTFd1WnJJN0VxalBabdIBkgFBVV95cUxQUXJYc3N5QzBDTzY0dzBkZWgxZXdSbWNra0dpTlkzYVFDQldyRS1XZENfdXBfTThyZ05TOWVpY2MtN1UzQjcwLTltWmgtcUxIV0JkSVhZRDNROHlBQ1psTGpfWkwxQlhXYllMSG1BblVZMDQ0bkJZX0JHSnNmRFBMNU5nd2VSbUc2U09KSjlXV0hVUQ?oc=5",
+     "ora": "2026-10-26T05:01:00+00:00"
+    },
+    {
+     "titolo": "Dai satelliti ai razzi hi-tech, Roma punta allo Spazio: La Sapienza celebra i 100 anni della Scuola di Ingegneria Aerospaziale",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3VkZTJEU2JYN29kaTJNWGxaeFNaQWozUGYtYWJaVHZwR3NBYXNva1I3emVEQ0ItZnE3NlY5SVBWREFycjduc0ZFMThIWThrUEM1Sm0wa3JMYWgwOGE5a1IzQWR4c0xia1dIMXRxdEZYMkRBLWZpZWp3RHlyUU5PT3lHQnQ5bXZVTjU5VVpGa1VYLTkzTGx3dTRpUlFSOE5uRTY5NVo1SVY3OW9UTnNtNzg0cVJidU9LQzR30gGzAUFVX3lxTE5zSjhBNDU4LVYzcE1Dd0xaT3FmTGcxUnFIN0RSdzNIMm9GMzluRnFRUm1jbHJ0VEhQSTQ5Wmhwd1hYa3RwX1VkYUVXbnNOeC1LbGZ5Q3NoUHFwS212ajg3Y0h4b0ZTaDl0TnVmdkJPQk84amE5R0U4TEdyZzNOUE1oVTZKZElnN0g5YWtwcUxpRnlRTW9WM043Z3U5b1dpZWd4UjdmdnpOZDNJbERSMjRzaWQ4?oc=5",
+     "ora": "2026-10-25T23:39:42+00:00"
+    },
+    {
+     "titolo": "Enna ospita lo stage regionale CSI: formazione e premi per gli arbitri siciliani",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Dedalomultimedia",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNC1oS3d0Unh2ZkNtVElGeFE3bFpERjJfMER6bEtTTXpnWWMwYkpWZlFubFVsaU5TRHJBMWNkMnN1Tkh5cVRMcTRBYlhnS2gxYzc1NHdyUmUxeWcycmM0ZjJsQjgwN2lRMFY5R2s1MnNISVo0aEYxUURTanp0MUFWWHdnU3Zqc0xRb3FBZldhcTRzZGYyX2dnM0UtMklLaGVZX2xVNXFtQXdscXRmd2VjY1pIR2dybHg5VFp1VFFERlc4M3R6X01pMGhDaXpFTTItUjRn?oc=5",
+     "ora": "2026-10-27T10:16:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "EU Inc: perché il piano della Commissione europea rischia di saltare",
+     "titolo_it": "",
+     "riassunto": "Il progetto EU Inc, che dovrebbe rafforzare il mercato delle startup europee e impedirne la fuga all’estero, incontra ostacoli che ne rendono difficile l’adozione entro il 2026",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/27/eu-inc-perche-il-piano-della-commissione-europea-rischia-di-saltare",
+     "ora": "2026-10-27T11:28:55+01:00"
+    },
+    {
+     "titolo": "Da Reasonable Doubt al Super Bowl: Jay-Z guida lo show dell’intervallo 2027",
+     "titolo_it": "",
+     "riassunto": "Dopo giorni di indiscrezioni, Jay-Z, il rapper diventato il primo miliardario dell’hip hop grazie a una carriera da manager e imprenditore, torna alle sue radici di artista per esibirsi nello show dell’intervallo del Super Bowl.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/27/da-reasonable-doubt-al-super-bowl-jay-z-guida-lo-show-dellintervallo-2027",
+     "ora": "2026-10-27T11:28:16+01:00"
+    },
+    {
+     "titolo": "Scontri a Milano, Youssef Siher non risponde al gip. I legali: 'Torni libero'",
+     "titolo_it": "",
+     "riassunto": "Per gli avvocati 'nessuna istigazione né terrorismo'. I pm chiedono che resti in carcere",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/27/scontri-a-milano-youssef-siher-non-risponde-al-gip.-i-legali-torni-libero_ec860e62-2309-46f6-a8cd-a9dbbeda9ea2.html",
+     "ora": "2026-10-27T11:24:25+01:00"
+    },
+    {
+     "titolo": "Mbappé dropped by major Chinese brands drop as backlash grows over Mao joke",
+     "titolo_it": "",
+     "riassunto": "He allegedly said the funniest \"meme\" about him is the one where they put his face on \"a Chinese dictator\".",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-27T10:19:13+00:00"
+    },
+    {
+     "titolo": "Un operaio di 20 anni muore in un incidente sul lavoro",
+     "titolo_it": "",
+     "riassunto": "In provincia di Perugia. Era impegnato con un macchinario su un terreno, vani i soccorsi",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/27/incidente-sul-lavoro-muore-un-operaio-di-20-anni_5445fae3-9fe3-4f02-9dff-1a32250f1188.html",
+     "ora": "2026-10-27T11:19:00+01:00"
+    },
+    {
+     "titolo": "What does Israel's election mean for Gaza and the wider world?",
+     "titolo_it": "",
+     "riassunto": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-27T10:17:36+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
