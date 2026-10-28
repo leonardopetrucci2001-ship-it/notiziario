@@ -1,0 +1,209 @@
+{
+ "giorno": "2026-10-28",
+ "creato": "2026-10-28T11:22:04+00:00",
+ "in_breve": [],
+ "modello": null,
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "La corsa alla difesa mette alla prova il modello italiano delle Pmi. Confindustria e le strategie di Avio Aero, Carafa, Thales Alenia Space, Pmp e Oma",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Industria Italiana",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYTh1b0RCT1NSNTczaXVTQ3l0cUpSeVBvcGpSbFhFSWYtU3E3YWpoVXFMVzFoaDQ1b3dxMDR6RGlVb09IMU9XMWY0Vlkxd1FTOHlJN2tvd3hmS25WVDZ0TWFKOWlXXzF6Z2kxVkVvTlZseUhZNkx6NUhqYjFPWlFHbTdldXNCakN0bm15aUI1LXo1dw?oc=5",
+     "ora": "2026-10-27T16:46:21+00:00"
+    },
+    {
+     "titolo": "Difesa, intesa SACE-DNA-AIAD per l'export delle filiere aerospazio e sicurezza",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "la Repubblica",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeThKWFhhYlFFQW1SWTU5eHpUSTI1YkJxS0dmVTVVWWUyMXIwSnRxUGdCd2tzeU00RDlfQ0J2RlNfdkRmb3dEd0hQM3pGRFJYNzdub3AtVVNMTlBFQndjbE9EUUpqN2VfRm1aYjhLTjlXZUJucV9MWlp5YUdWR1hfd3BPLXZZWnpJZUZEb2o0SHJNU3lKMUwzemplS1RYRzBkWVBaV2J6QkNrUzU4eEo5S2tiZXczd2dpRHpjSFMtb0VFcW5fTGVySnVUc0U?oc=5",
+     "ora": "2026-10-28T11:10:00+00:00"
+    },
+    {
+     "titolo": "Why Delta Air Lines Broke A Decade Of Airbus Widebody Loyalty To Give Boeing 1 Order",
+     "titolo_it": "",
+     "riassunto": "Delta has finally returned to Boeing after years of Airbus reliance on the widebody side.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/delta-air-lines-broke-decade-airbus-widebody-loyalty-to-give-boeing-1-order/",
+     "ora": "2026-10-28T09:15:17+00:00"
+    },
+    {
+     "titolo": "Alaska Airlines Is Bringing Real Lie-Flat Beds To The Boeing 737 MAX 10!",
+     "titolo_it": "",
+     "riassunto": "In this video, we'll explore Alaska's plan to introduce lie-flat suites on the Boeing 737 MAX 10, why a new premium economy cabin could be just as important, and how the changes fit into a much bigger transformation involving Hawaiian Airlines and international expansion.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/video/alaska-airlines-is-bringing-real-lie-flat-beds-to-the-boeing-737-max-10/",
+     "ora": "2026-10-28T11:00:18+00:00"
+    },
+    {
+     "titolo": "What Airbus and Air France’s new joint venture means for global A350 operators",
+     "titolo_it": "",
+     "riassunto": "Airbus and Air France have launched a new joint venture named ‘Alpha Component Solutions’, through a shared ambition…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/what-airbus-and-air-frances-new-joint-venture-means-for-global-a350-operators",
+     "ora": "2026-10-28T10:01:41+00:00"
+    },
+    {
+     "titolo": "US Air Force puts Lockheed Martin’s troubled hypersonic ARRW into production",
+     "titolo_it": "",
+     "riassunto": "The US Air Force has awarded Lockheed Martin a $694 million contract to produce and field the AGM-183A…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/us-air-force-arrw-hypersonic-missile-production-contract",
+     "ora": "2026-10-28T07:37:17+00:00"
+    },
+    {
+     "titolo": "Plans for $1 Billion F-47 Campus at Nellis AFB Move Forward",
+     "titolo_it": "",
+     "riassunto": "The U.S. Department of Defense has issued further solicitation to industry ahead of bids being tendered for the construction of support facilities for the Boeing F-47 at Nellis Air Force Base, Nevada. The F-47 Future Campus at Nellis is projected to cost $1.057 billion and potentially involve as many as four different…",
+     "fonte": "The Aviationist",
+     "link": "https://theaviationist.com/2026/10/28/nellis-afb-f47-campus/",
+     "ora": "2026-10-28T02:52:55+00:00"
+    },
+    {
+     "titolo": "Europe’s HYDEF Hypersonic Interceptor Program Completes First Stage",
+     "titolo_it": "",
+     "riassunto": "The program’s first stage is complete, with all critical technologies reaching at least TRL 3 and a technology demonstrator targeted for 2030. The European Hypersonic Defence Interceptor (EU HYDEF) took a major step forward with the completion of its first stage, as announced by the Organization for Joint Armament…",
+     "fonte": "The Aviationist",
+     "link": "https://theaviationist.com/2026/10/27/hydef-hypersonic-interceptor-completes-first-stage/",
+     "ora": "2026-10-27T15:30:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "La grande partita dell’AI non si gioca sui modelli, ma sul potere: Anthropic porta in Borsa le contraddizioni del settore",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Industria Italiana",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQamxOaW5kaGVVV3VROUtKMTdLY0V5UVZtOTJvbW9jc3BEeWJOWkJHb2NGN2gzSjlFZWprZUZidEQwSUphdXJnWjh3X1RFTS1RakhOdXZuMHVvUkV2T0ppSU9JTVdoUEdWX1lXdi1xOWhvWHFqblhNZlh3UHB4R2xUT3U3OUtDcjBYOUk1VHFpcndzMXhHNmhkUjI4TEM0UHctSHVOVVU3QUI4X1NMTEs1ZWp4UGF3ZHdQbWtuODE4cFFXYmZmdWRSMHFOY0dWT01mS3Z1aWJ5UXpXd3RnQnhXaXlWSml2ZFE?oc=5",
+     "ora": "2026-10-28T10:38:40+00:00"
+    },
+    {
+     "titolo": "Nokia 6300 rinasce grazie all'IA: arriva Aikon, l'app che porta ChatGPT, Gemini e Claude sui vecchi telefoni",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Hardware Upgrade",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQTNya19fazc5S0loYnNJcjQ3TE1Ob1ZYQ1RubnBmamcyLXlCdVJ3S1N5Q1JHcXBKdkVhT0lsaDRBeVBydlVmMGljSnR6dUVEal9uY3BIbXJYZXZZRTluZUJ6QmFON1F0Qm9Vd2FlcWhnS3pWUjFEd0pxZzczclBadHJGeUpjT3ptQkVScUlGVmhGRFJRYlFyNzBWVE82bk9JYVpsQ2d6R2ZZR1B0a29tY0tGamxCNDZ6dmtpd3FvcXNJVTlkdEo3eFQxdU1BRzN0TWNUOXc1YU5oSW03T1JMekFESTUtMnZhangzNW5R?oc=5",
+     "ora": "2026-10-28T10:01:01+00:00"
+    },
+    {
+     "titolo": "Anthropic’s elaborate plan to keep Wall Street at bay",
+     "titolo_it": "",
+     "riassunto": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+     "ora": "2026-10-27T12:51:22-04:00"
+    },
+    {
+     "titolo": "Google’s next Genie AI model generates more realistic experiences",
+     "titolo_it": "",
+     "riassunto": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+     "ora": "2026-10-27T12:00:00-04:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Master Sapienza: come funziona il bando unico e come iscriversi",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVFYR25wVHQ4dVZsWmczWmhFUllsaUZQUmFaell3YUpja1V6UDc4SkhXNjhOelUxQ1Nydkx2TE43ZGJHZlBYd19TWVVYZk1pQWRvTnVRX3VMLWU4dnMxbGFGREw1eUZVd19hVERhczR4QmowdHBoVXBpXzZxX2tZZFREbnlTTmFfcFRYY0FJWjJCQXFSbmFUVld0akxveDg?oc=5",
+     "ora": "2026-10-28T08:38:58+00:00"
+    },
+    {
+     "titolo": "“Studenti di Vasto in visita alla Scuola di Ingegneria Aerospaziale della Sapienza a Roma”",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "VastoWeb.com",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUGtkbWkwQy1BOHY0V3c1Ym1wQUNUYmt3NTlGOEtIZEFtVnZwRTc5XzNBeTdPOE9EZDhDTXpqdnBBRWNqNXpGWjNNSy10OGU5THBFSGl6YklqVW9VVXJFRlRNTFlaeVhPQXYxcmhEa2JCLUZ6N1VOeXJ2X2pOLTRkVnNfX05xSThycG5MOWlGeWVVZVZtQ1lVOG1xU3duYTZrOUtSOHFWb1F3QTdwd0J3MlRsR0hQNzJua2RfLUdjSUZNcG9tSS13VTREZm1XUkE5d2c?oc=5",
+     "ora": "2026-10-26T15:40:12+00:00"
+    },
+    {
+     "titolo": "Sapienza: un secolo di ingegneria aerospaziale tra satelliti e razzi",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "News Istruzione",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1VEbVBMTmxGRl8yUXZmR0Nacm9XbFNnLUdwanlNLUMzcXlHWklYeGpyeU1WSkZyQTM5SXpoTVNzU1M3Qi1fQVhCRzNnX0Z6ZFlKMXo4UGRYVG13SDF5TFdGWmtIYnlpUWFWMFR2Vi1URzhYQTktcXFPZXhGOTBTTFd1WnJJN0VxalBabdIBkgFBVV95cUxQUXJYc3N5QzBDTzY0dzBkZWgxZXdSbWNra0dpTlkzYVFDQldyRS1XZENfdXBfTThyZ05TOWVpY2MtN1UzQjcwLTltWmgtcUxIV0JkSVhZRDNROHlBQ1psTGpfWkwxQlhXYllMSG1BblVZMDQ0bkJZX0JHSnNmRFBMNU5nd2VSbUc2U09KSjlXV0hVUQ?oc=5",
+     "ora": "2026-10-26T05:01:00+00:00"
+    },
+    {
+     "titolo": "Karate, dieci giovani dell’Asd 187° Folgore allo stage regionale",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "QuiLivorno.it",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnZjYTE0R0RPTWJSVm1GYXU1RGxnY3lJZE9QYTVyVlhXVC1fMjQ0WWQyVmFMbGlCdXpNaWpraVVndXNRS2pBQjJpaTByb1VrN0UtUFlPRWFINlg5M3lDeHg0WUJkRjI3RWJOdWJBT05OZ293aHhaQ1llTTBMVGxZUjNWX05xQzhtMHR5NjJMZmdLbDBKbUxTcGVtSV9pcG04ZDR2SHF6aFNmQkVjM1hPaA?oc=5",
+     "ora": "2026-10-27T14:17:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Social media di nuovo alla sbarra: Meta e Snap davanti alla giuria per danni ai minori",
+     "titolo_it": "",
+     "riassunto": "L'ultimo caso è il segnale del crescente contrattacco legale nel mondo contro i presunti danni dei social media per gli utenti, soprattutto bambini e adolescenti.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/28/social-media-di-nuovo-alla-sbarra-meta-e-snap-davanti-alla-giuria-per-danni-ai-minori",
+     "ora": "2026-10-28T12:20:23+01:00"
+    },
+    {
+     "titolo": "Spagna: prime immagini dei rottami del treno ad alta velocità dopo l'incidente mortale",
+     "titolo_it": "",
+     "riassunto": "Almeno 10 persone sono morte quando un treno ad alta velocità ha urtato un altro vicino a Toledo, in Spagna. Due carrozze sono deragliate e i soccorritori cercano tra le macerie, mentre le autorità temono un bilancio più grave.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/video/2026/10/28/spagna-prime-immagini-dei-rottami-del-treno-ad-alta-velocita-dopo-lincidente-mortale",
+     "ora": "2026-10-28T12:17:38+01:00"
+    },
+    {
+     "titolo": "La manovra che verrà: flat tax per i giovani. Sull'Irpef si tratta ancora",
+     "titolo_it": "",
+     "riassunto": "Previsto un fondo di un miliardo per le pensioni anticipate. Meloni: 'Manteniamo gli impegni quadrando i conti'",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/27/la-manovra-che-verra-flat-tax-per-i-giovani.-sullirpef-si-tratta-ancora_6fc9fca1-c596-4520-94b8-30e064861904.html",
+     "ora": "2026-10-28T12:12:46+01:00"
+    },
+    {
+     "titolo": "Scrutinato oltre il 77% dei voti in Israele, si rafforza il blocco di Eisenkot con 49 seggi",
+     "titolo_it": "",
+     "riassunto": "Il premier Netanyahu: 'La coalizione ha una maggioranza, ampio governo di destra nazionale'",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/scrutinato-oltre-il-72-dei-voti-in-israele-lo-schieramento-di-netanyahu-ottiene-54-seggi_74766689-3c93-4a0a-8778-21bf55ce3a7c.html",
+     "ora": "2026-10-28T12:12:17+01:00"
+    },
+    {
+     "titolo": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
+     "titolo_it": "",
+     "riassunto": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-28T10:35:13+00:00"
+    },
+    {
+     "titolo": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+     "titolo_it": "",
+     "riassunto": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-28T10:31:22+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
