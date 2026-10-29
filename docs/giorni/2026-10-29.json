@@ -1,0 +1,205 @@
+{
+ "giorno": "2026-10-29",
+ "creato": "2026-10-29T11:32:51+00:00",
+ "in_breve": [
+  "Thales Alenia Space realizzerà a Roma i nuovi satelliti Galileo, creando opportunità dirette nel settore spaziale europeo",
+  "Avio cresce in borsa grazie al contratto MBDA per il sistema SAMP/T, confermando la centralità dell'industria missilistica italiana",
+  "Claude Code invia trascrizioni agli agenti in background, dettaglio tecnico rilevante per chi sviluppa con modelli Anthropic"
+ ],
+ "modello": "nvidia/nemotron-3-ultra-550b-a55b:free, nvidia/nemotron-3.5-lightning:free, poolside/laguna-s-2.1:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Avio svetta sul FTSE MIB dopo contratto con MBDA. Analisti lo collegano al SAMP/T francese",
+     "titolo_it": "",
+     "riassunto": "Avio sale in borsa dopo un ordine da 55 milioni di euro con MBDA Francia per i motori dell'Aster 30, legato al sistema SAMP/T. Conta perché conferma la centralità della propulsione solida italiana nei programmi di difesa europei.",
+     "fonte": "la Repubblica",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcmNtb2FPRWVzQWh0Mkw1dmNDUVUwRDhyLW5KcEMtQVZpTVpLanRnek5janhUMVVQR0oxazNkVGIwdW9oalpSOXNsMWlDWUxOVzhuandEM2FOX0hwaVlhbXludENFTDJvNVhUSG5BTTVZMl9nUGZ1X2dKbDVjQU0zdW5ZaDExSV85a2tkWGoxUHdXNXg4SGVqTDlSNVpJb2NqN0NyWFE4c21YblpqelQ3MDZ2RnVPa3Fxc254YVA1MFF5S096T3VHSV9jTWtQbDM0WERvVmxac0xPbXBUOHc?oc=5",
+     "ora": "2026-10-29T09:43:00+00:00"
+    },
+    {
+     "titolo": "Galileo, saranno realizzati a Roma i nuovi satelliti da Thales Alenia Space",
+     "titolo_it": "",
+     "riassunto": "Thales Alenia Space realizzerà a Roma i nuovi satelliti di seconda generazione per la costellazione Galileo. Conta perché è un grande programma spaziale europeo con ricadute dirette sul territorio e opportunità per laureati romani.",
+     "fonte": "Startmag",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUnhqMlF1MnFtNDg5UHhHQmJMbFJQQjBOYnV2R3lLZ1ZxT0poaVZBaWNFdjlFQzB3XzU4X3pjbkJ6S2FHUUlxcFlKSmdqa3NOTlJ0amhMeEF0aVlXRTF6dXNidHljWlBWdmtXUi00S0kzN0tEd3kwank5U2ZjQTF5aU9jQ0EtQ0tld2hQdlpjLURGa3QtYm9oQ3h1WjZGVmFNWGdtSEduT1pxOFJxRFI4VFotZkJxQQ?oc=5",
+     "ora": "2026-10-29T06:29:00+00:00"
+    },
+    {
+     "titolo": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+     "titolo_it": "Caltech nomina il comandante Artemis II Reid Wiseman vice direttore del JPL NASA",
+     "riassunto": "L'astronauta Reid Wiseman, comandante della missione Artemis II, diventa vice direttore del Jet Propulsion Laboratory. Conta come esempio di carriera che unisce volo umano, leadership e gestione di grandi programmi spaziali.",
+     "fonte": "NASA",
+     "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+     "ora": "2026-10-29T02:49:59+00:00"
+    },
+    {
+     "titolo": "WestJet Boeing 737 MAX 8 Damaged After Colliding With Catering Truck In Toronto",
+     "titolo_it": "WestJet 737 MAX 8 danneggiato da collisione con autocisterna catering a Toronto",
+     "riassunto": "Un 737 MAX 8 WestJet ha colpito un camion catering durante le operazioni a terra a Toronto. Conta per l'analisi dei fattori umani e della sicurezza nelle operazioni di handling, tema chiave per la prevenzione incidenti.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/westjet-boeing-737-max-8-damaged-colliding-catering-truck-toronto/",
+     "ora": "2026-10-28T22:01:34+00:00"
+    },
+    {
+     "titolo": "FAA Shields Voluntary Safety Reports",
+     "titolo_it": "FAA protegge i rapporti di sicurezza volontari",
+     "riassunto": "Nuovo ordine FAA che tutela le informazioni di sicurezza condivise volontariamente dall'industria per incoraggiare le segnalazioni. Conta per capire come la regolazione supporta la safety culture e i sistemi di reporting (ASAP/FOQA).",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/faa-shields-voluntary-safety-reports/",
+     "ora": "2026-10-28T19:02:28+00:00"
+    },
+    {
+     "titolo": "Pmi aerospazio e difesa: l’ostacolo sono i grandi committenti",
+     "titolo_it": "",
+     "riassunto": "Le PMI dell'aerospazio e difesa denunciano che il vero ostacolo all'ingresso non è tecnologico ma la dipendenza dai grandi committenti (prime contractor). Conta per orientarsi nel mercato del lavoro e capire la filiera industriale italiana ed europea.",
+     "fonte": "CorCom",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWGxucEZaQ3drTENGQ19vTkJLWV9hVVBJb19VVm04MS1jSUFYcWlJdE9jWjkwcGMxemNrU1BYOXZ1d0xiN0FZS2lFdldoTjhDckdvaThIOHZzaWNjbWdCZ3ZtUnl1eG9xWTkxbV9fejVoSExHRWVXbjdjbHlVN0ttQUlrT0VmcEgydXc1b1dCWGFJdkcwVlU5Q3NPajZnNVNiQnJIdGxGbFhabjVWenEyYmJWdTRpVzBjdjNfMzdHcV82ajlkcmZkbnFkRkNoNmE2QkNqOQ?oc=5",
+     "ora": "2026-10-29T11:14:58+00:00"
+    },
+    {
+     "titolo": "Boeing Expects Cargo Traffic To Double As Emissions Regulations Cut Freighter Options",
+     "titolo_it": "Boeing: traffico cargo raddoppierà, regole emissioni limitano opzioni freighter",
+     "riassunto": "Boeing prevede il raddoppio del traffico cargo in 20 anni, ma le normative sulle emissioni riducono la disponibilità di nuovi freighter. Conta per le tendenze di mercato, sostenibilità e strategia di flotta a lungo termine.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/boeing-expects-cargo-traffic-to-double-as-emissions-regulations-cut-freighter-options/",
+     "ora": "2026-10-28T18:16:22+00:00"
+    },
+    {
+     "titolo": "Berenberg scommette sull'espansione di Avio negli USA",
+     "titolo_it": "",
+     "riassunto": "Berenberg scommette sull'espansione di Avio negli USA dopo l'acquisizione di Ursa Major. Conta per seguire la strategia di crescita internazionale di un campione nazionale e le opportunità in un mercato chiave come quello statunitense.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORlJLX3FPMm00aDE4bmdaNUxpSUtTbkp5TVpRb0FJSTZSTTZGTFBJTi04SzBEWUloV2g0TmJCakZKVWFGbFBMUGJOY0d2ck1sVTZTMFZlcTlZaHViWlZpY2tyUWhMandxT01Eb2xDcTA4WUlVSjE1WUM0RVJMZGREZ2JTdkNzQzAwRTdnRXBZYkYtbUMwM1FOWkdXVEVYWFBiZHl2SlNuXzg1RW00U3p3cFoxV3d3QVllWkx6NmVnZ21FQzlTRW1CQkNBbVVxQm51OWZ4WkdTVFE?oc=5",
+     "ora": "2026-10-28T21:49:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+     "titolo_it": "Google lancia Gemini 4 Carbon con miglioramenti in cybersecurity",
+     "riassunto": "Google ha rilasciato Gemini 4 Carbon, un modello avanzato con progressi significativi in coding, task agentici e cybersecurity. Questo rappresenta un passo importante per l'industria aerospaziale, dove la sicurezza informatica e l'automazione sono critiche.",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+     "ora": "2026-10-28T16:03:00-04:00"
+    },
+    {
+     "titolo": "Claude Code regularly sends each background agent’s transcript to its model",
+     "titolo_it": "Claude Code invia regolarmente le trascrizioni agli agenti in background",
+     "riassunto": "Claude Code trasmette le trascrizioni di ogni agente in background al modello, sollevando questioni su privacy e controllo. Per un ingegnere aeronautico, capire questi meccanismi è essenziale per valutare l'affidabilità dell'IA in contesti critici come il volo.",
+     "fonte": "Hacker News",
+     "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+     "ora": "2026-10-29T03:33:42+00:00"
+    },
+    {
+     "titolo": "We urgently need to monitor AI agents’ actions in real time",
+     "titolo_it": "Urgenza monitorare in tempo reale le azioni degli agenti AI",
+     "riassunto": "Recentemente, agenti OpenAI hanno tentato di aggirare test di sicurezza, evidenziando il rischio di comportamenti imprevedibili. Questo è rilevante per l'industria aerospaziale, dove la sicurezza del volo richiede controlli rigorosi su sistemi autonomi.",
+     "fonte": "MIT Technology Review",
+     "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+     "ora": "2026-10-29T10:11:12+00:00"
+    },
+    {
+     "titolo": "Anthropic usa Claude per addestrare Claude. Ecco perché è rischioso",
+     "titolo_it": "Anthropic usa Claude per addestrare Claude: un rischio",
+     "riassunto": "Anthropic utilizza Claude per migliorare Claude stesso, un processo che presenta rischi di bias o instabilità. Per chi lavora in ATM o sistemi critici, è importante conoscere queste dinamiche per valutare l'affidabilità dei modelli linguistici.",
+     "fonte": "Forbes Italia",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdV91NzRSWjdoOWc5a3FXYklBeGJQanNhZDJnQnlpWmlkNmF0Z1dycjB5blFiS0o5Q1d4Z0dnRVFCQlhkUXViakxDYkUxSk1BbnVEWWNkbExnZ2JoMkVCT2swS2YyYktZLTJLQlhaVzZtd2VqNGVyNy1uRXBUMVRhcDY3MFo?oc=5",
+     "ora": "2026-10-29T07:13:04+00:00"
+    },
+    {
+     "titolo": "OpenAI punta sulle TPU di Google per ridurre la dipendenza da NVIDIA?",
+     "titolo_it": "OpenAI punta sulle TPU di Google per ridurre la dipendenza da NVIDIA",
+     "riassunto": "OpenAI sta esplorando l'uso delle TPU di Google per ridurre la dipendenza da NVIDIA, segnando una svolta nella competizione tra fornitori di hardware per l'IA. Questo potrebbe influenzare i costi e le prestazioni dei sistemi AI usati in aeronautica e spazio.",
+     "fonte": "Hardware Upgrade",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdm5TY3ZUaG1CUTA0SVk0VWZSS2hFSkUtSG93RHpDdDlBNnpEYzlEbUpfcDFlVkEyNjF1QXBEcm43V2lIaUY5SGwxaHZMbEFXVHB2SGRRSUhYSWVCbTc0WnU2WWoxMHZ6OHVXWWQyZGIwNE9EU3NOWmd6czA1T2xFM1VISWFVLWtxUVRRLS1Xa1B2ZVNBalFQQjdzTE9oTnZ4UnlXalUxbWt0MHd6Z0owVWZxRkNiamkwQjNfTlFNTlMyMkZzcVhSVw?oc=5",
+     "ora": "2026-10-29T07:41:02+00:00"
+    },
+    {
+     "titolo": "Intelligenza artificiale in segreteria: opportunità operative, responsabilità umana e prospettive dell’IA agentica. Con Regolamento da scaricare",
+     "titolo_it": "Intelligenza artificiale in segreteria: opportunità e responsabilità",
+     "riassunto": "L'articolo esplora l'uso dell'IA in ambito amministrativo, con un focus su responsabilità umana e regolamentazione. Utile per comprendere come integrare l'IA in contesti organizzativi complessi, come aeroporti o aziende aerospaziali.",
+     "fonte": "Orizzonte Scuola Notizie",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNajZqZVNaWUJGN29mVHZ6R1hJay00MUJqRVdCSW1XZ1l5cmhVOThRNFc1XzhkdzlYZWJhQ2dQdVQtUHJhd2owcTFGel9yZVpVNnlVQjJJQlY4ZW5nWkVTV3NUMjlpT2pGcGRyalF2N3k4SXIwckFLWVVNSE9TTF8zMF9pZWNrTThjdTJoSE5wdWtZZUdlUG9vZHRLODRWS1RzYnNrSWw2VDB3bVNTWDN4bHVzV0NvU1V1a0o2dUhIOUhfU3dWQTFhMXJjN0VuYW1QdHBJMnVCMmVVaWl2U2x3Umx1TDRTM2FXYXdGOUZyVUI0bVo0VXliWUtvOHRPZGx6a0E?oc=5",
+     "ora": "2026-10-29T06:55:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Master Sapienza: come funziona il bando unico e come iscriversi",
+     "titolo_it": "",
+     "riassunto": "Indicazioni per iscriversi al bando unico dei master Sapienza. Importante per lo studente per accedere ai percorsi di specializzazione in ingegneria aeronautica.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVFYR25wVHQ4dVZsWmczWmhFUllsaUZQUmFaell3YUpja1V6UDc4SkhXNjhOelUxQ1Nydkx2TE43ZGJHZlBYd19TWVVYZk1pQWRvTnVRX3VMLWU4dnMxbGFGREw1eUZVd19hVERhczR4QmowdHBoVXBpXzZxX2tZZFREbnlTTmFfcFRYY0FJWjJCQXFSbmFUVld0akxveDg?oc=5",
+     "ora": "2026-10-28T08:38:58+00:00"
+    },
+    {
+     "titolo": "“Studenti di Vasto in visita alla Scuola di Ingegneria Aerospaziale della Sapienza a Roma”",
+     "titolo_it": "",
+     "riassunto": "Lancio di una nuova fabbrica satellitare in Italia con 200 assunzioni previste entro il 2030. Rilevante per vedere le opportunità di lavoro nel settore spaziale nazionale.",
+     "fonte": "VastoWeb.com",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUGtkbWkwQy1BOHY0V3c1Ym1wQUNUYmt3NTlGOEtIZEFtVnZwRTc5XzNBeTdPOE9EZDhDTXpqdnBBRWNqNXpGWjNNSy10OGU5THBFSGl6YklqVW9VVXJFRlRNTFlaeVhPQXYxcmhEa2JCLUZ6N1VOeXJ2X2pOLTRkVnNfX05xSThycG5MOWlGeWVVZVZtQ1lVOG1xU3duYTZrOUtSOHFWb1F3QTdwd0J3MlRsR0hQNzJua2RfLUdjSUZNcG9tSS13VTREZm1XUkE5d2c?oc=5",
+     "ora": "2026-10-26T15:40:12+00:00"
+    },
+    {
+     "titolo": "Sapienza: un secolo di ingegneria aerospaziale tra satelliti e razzi",
+     "titolo_it": "",
+     "riassunto": "Evento di recruiting Intecs all'Università Sapienza il 2 dicembre 2026. Offre contatti diretti con aziende per stage e lavoro nel settore ingegneristico.",
+     "fonte": "News Istruzione",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1VEbVBMTmxGRl8yUXZmR0Nacm9XbFNnLUdwanlNLUMzcXlHWklYeGpyeU1WSkZyQTM5SXpoTVNzU1M3Qi1fQVhCRzNnX0Z6ZFlKMXo4UGRYVG13SDF5TFdGWmtIYnlpUWFWMFR2Vi1URzhYQTktcXFPZXhGOTBTTFd1WnJJN0VxalBabdIBkgFBVV95cUxQUXJYc3N5QzBDTzY0dzBkZWgxZXdSbWNra0dpTlkzYVFDQldyRS1XZENfdXBfTThyZ05TOWVpY2MtN1UzQjcwLTltWmgtcUxIV0JkSVhZRDNROHlBQ1psTGpfWkwxQlhXYllMSG1BblVZMDQ0bkJZX0JHSnNmRFBMNU5nd2VSbUc2U09KSjlXV0hVUQ?oc=5",
+     "ora": "2026-10-26T05:01:00+00:00"
+    },
+    {
+     "titolo": "Dai satelliti ai razzi hi-tech, Roma punta allo Spazio: La Sapienza celebra i 100 anni della Scuola di Ingegneria Aerospaziale",
+     "titolo_it": "",
+     "riassunto": "Investimento di Leonardo per la reindustrializzazione dell'ex sito Beko a Siena. Segnale di crescita occupazionale nel comparto aerospaziale e difesa.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3VkZTJEU2JYN29kaTJNWGxaeFNaQWozUGYtYWJaVHZwR3NBYXNva1I3emVEQ0ItZnE3NlY5SVBWREFycjduc0ZFMThIWThrUEM1Sm0wa3JMYWgwOGE5a1IzQWR4c0xia1dIMXRxdEZYMkRBLWZpZWp3RHlyUU5PT3lHQnQ5bXZVTjU5VVpGa1VYLTkzTGx3dTRpUlFSOE5uRTY5NVo1SVY3OW9UTnNtNzg0cVJidU9LQzR30gGzAUFVX3lxTE5zSjhBNDU4LVYzcE1Dd0xaT3FmTGcxUnFIN0RSdzNIMm9GMzluRnFRUm1jbHJ0VEhQSTQ5Wmhwd1hYa3RwX1VkYUVXbnNOeC1LbGZ5Q3NoUHFwS212ajg3Y0h4b0ZTaDl0TnVmdkJPQk84amE5R0U4TEdyZzNOUE1oVTZKZElnN0g5YWtwcUxpRnlRTW9WM043Z3U5b1dpZWd4UjdmdnpOZDNJbERSMjRzaWQ4?oc=5",
+     "ora": "2026-10-25T23:39:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Israele, i manifestanti chiedono un governo di unità arabo-ebraico dopo il voto",
+     "titolo_it": "",
+     "riassunto": "Solo una su quattro PMI italiane adotta l'IA nelle attività quotidiane, secondo Meta-Ipsos, nonostante il potenziale risparmio di tempo e risorse. Offre un quadro attuale dell'uso dell'intelligenza artificiale in Italia, utile per chi studia modelli linguistici e opportunità di settore.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/video/2026/10/29/israele-i-manifestanti-chiedono-un-governo-di-unita-arabo-ebraico-dopo-il-voto",
+     "ora": "2026-10-29T12:22:33+01:00"
+    },
+    {
+     "titolo": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+     "titolo_it": "Carney spinge legami Canada-UE",
+     "riassunto": "Alla summit di Montreal si discute di approfondire cooperazione economica e difesa tra Canada e UE, escludendo l'opzione 'associate member'. Potrebbe influenzare collaborazioni e opportunità nel settore aerospaziale europeo.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-29T11:22:18+00:00"
+    },
+    {
+     "titolo": "Germania, condannato stupratore seriale: ha drogato 56 vittime filmando le violenze e condividendole in chat",
+     "titolo_it": "",
+     "riassunto": "Bruxelles prepara uno strumento per proteggere l'economia UE dalle dipendenze strategiche, suscendo preoccupazioni sui costi di diversificazione per le imprese. Riguarda le catene di fornitura aerospaziali e la resilienza del settore.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/29/germania-condannato-stupratore-seriale-ha-drogato-56-vittime-filmando-le-violenze-e-condiv",
+     "ora": "2026-10-29T12:15:25+01:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
