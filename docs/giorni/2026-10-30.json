@@ -1,0 +1,261 @@
+{
+ "giorno": "2026-10-30",
+ "creato": "2026-10-30T11:25:22+00:00",
+ "in_breve": [
+  "Sapienza offre tre borse da 30mila euro per il centenario dell'ingegneria aerospaziale.",
+  "Nasce in Italia una nuova fabbrica di satelliti con oltre 200 assunzioni entro il 2030.",
+  "Anthropic è il principale cliente di SpaceX nel terzo trimestre, rafforzando il legame tra intelligenza artificiale e spazio."
+ ],
+ "modello": "dots-studio/dots-3-note-preview:free, nvidia/nemotron-3-ultra-550b-a55b:free, nvidia/nemotron-3.5-lightning:free, nvidia/nemotron-3.5-super-vl:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "MADE 4: molte aziende interessate a entrare nel mercato dell’Aerospazio e Difesa",
+     "titolo_it": "",
+     "riassunto": "Il programma MADE 4 sta attirando molte aziende nel mercato dell'aerospazio e della difesa italiana, creando numerose opportunità di stage e lavoro per i laureati in ingegneria aeronautica.",
+     "fonte": "Analisi Difesa",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUQtalNwdDVVR0JITkNJMzVzOEhraE0yZy1GVmpKQjdmeXNIaHlsdGlORWRKc0FZWk94S1prbDFnLUdSaXZkTS1oTFB5VlE5UFoxWUl4LTBhR3dCM3hkRE9yUDdFNWlxMHdiZXVvc1ZRVm9oNWxqcFg1dGxmVnY5ckJaTUw1NU9TWVNRMEtXWU01a3Z4ZC00ZUZ5Nl8wYXJ3Mk54TUpVVzJzX05NQUZMMHV6eDVwblE?oc=5",
+     "ora": "2026-10-29T23:26:24+00:00"
+    },
+    {
+     "titolo": "Thales Alenia Space, i nuovi satelliti di seconda generazione sono made in Italy",
+     "titolo_it": "",
+     "riassunto": "Thales Alenia Space sta producendo in Italia i nuovi satelliti di seconda generazione, consolidando il ruolo del Paese nell'industria spaziale europea e offrendo opportunità professionali qualificate.",
+     "fonte": "Fortune Italia",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOGJVbU1MMXZWMXJzT2dJVTlLcFpaVWlHVi0zd054Um1JWF9tWFdqOHlza0t5VXBtMXVLMlNwQkVjYklFZlROS1BQZXhPSEFsZThLRTF6U2I3XzlMTTNIZUhCWEgwdEcwRmlfVC1PWDd3dldHRFlrNWpLOHhFTld4dkpyR0I1X0lBLThIeG9ZQlJyVFB0SU5lLThRM0hraW5xRk10SG5YM2dob2VtM3hxejJiSEVGdkRjMFE?oc=5",
+     "ora": "2026-10-29T17:13:17+00:00"
+    },
+    {
+     "titolo": "Avio ottiene un ordine da 55 Mio EUR per i motori dei razzi Aster 30",
+     "titolo_it": "",
+     "riassunto": "Avio ha ricevuto un ordine da 55 milioni di euro per i motori dei razzi Aster 30, confermando la sua leadership nei lanciatori europei e aprendo nuove possibilità occupazionali.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUnNtRVZQbl94SVJnQ1cwVWxkUGU3ZklCd2pPZDRLZWN5X0NiX01SN3p4a0p4b2g3WWlRd3BDVkVkMDU3M21WR1FIQVhLbjNYNUlzTm9rbUpSNUdfd2tqZVhNdG1QdjJhZVpoMS1peGJDZ1RSUmFCSXhkcGQ1U3M0S3FlMWpHV3pCaHZSaUs3R05LS2taaXVlcHFUMWJtVjRXb0V3UFhaWjJMcnBrM0NrSDNJUGdPVFVPSmh0dWpsczY?oc=5",
+     "ora": "2026-10-30T11:23:15+00:00"
+    },
+    {
+     "titolo": "FAA proposes safety rules for Embraer’s automatic takeoff system",
+     "titolo_it": "Nuove regole di sicurezza FAA per il decollo automatico di Embraer",
+     "riassunto": "La FAA ha proposto nuove normative di sicurezza per il sistema di decollo automatico degli Embraer, un passo cruciale per lo sviluppo dell'autonomia e dell'intelligenza artificiale nei sistemi di volo.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/faa-embraer-e195-e2-automatic-takeoff-system",
+     "ora": "2026-10-29T18:36:51+00:00"
+    },
+    {
+     "titolo": "‘It Worked Last Time’",
+     "titolo_it": "L'incidente del Cessna 210 e il rischio di sottovalutare la sicurezza",
+     "riassunto": "Un incidente mortale con un Cessna 210 dimostra come il successo ripetuto possa portare a erodere i margini di sicurezza, un tema fondamentale per i fattori umani e la sicurezza del volo.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/insider/it-worked-last-time-safety-margins/",
+     "ora": "2026-10-29T16:30:00+00:00"
+    },
+    {
+     "titolo": "12,420 Airbus A320neo & Boeing 737 MAX Jets Are Backlogged While Embraer's E2 Takes 13-15 Months To Build",
+     "titolo_it": "Arretrati 12.420 jet Airbus e Boeing, Embraer impiega 13-15 mesi per l'E2",
+     "riassunto": "Mentre Airbus e Boeing accumulano un enorme backlog di oltre 12.000 aeroplani, Embraer riesce a produrre e consegnare i suoi jet E2 in tempi molto più rapidi, cambiando l'equilibrio competitivo.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/airbus-a320neo-boeing-737-max-backlogged-embraer-e2-13-15-months-build/",
+     "ora": "2026-10-30T08:00:18+00:00"
+    },
+    {
+     "titolo": "First M-346 For Frecce Tricolori Takes Flight",
+     "titolo_it": "Primo volo del M-346 per le Frecce Tricolori",
+     "riassunto": "Il primo addestratore M-346 destinato alle Frecce Tricolori ha effettuato il primo volo, un importante traguardo per l'aeronautica militare italiana e per l'industria aerospaziale nazionale.",
+     "fonte": "The Aviationist",
+     "link": "https://theaviationist.com/2026/10/29/first-m-346-for-frecce-tricolori-takes-flight/",
+     "ora": "2026-10-29T19:59:45+00:00"
+    },
+    {
+     "titolo": "Boeing and Lufthansa Technik lock in three more years of parts collaboration",
+     "titolo_it": "Boeing e Lufthansa Technik rinnovano la collaborazione sui pezzi di ricambio per tre anni",
+     "riassunto": "Boeing e Lufthansa Technik hanno esteso di tre anni l'accordo sulla fornitura di parti di ricambio, rafforzando la catena di fornitura dell'MRO europea e transatlantica.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/boeing-and-lufthansa-technik-lock-in-three-more-years-of-parts-collaboration",
+     "ora": "2026-10-30T09:22:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Anthropic indicata come il principale cliente singolo di SpaceX nel terzo trimestre",
+     "titolo_it": "",
+     "riassunto": "Anthropic risulta il cliente singolo più importante di SpaceX nel terzo trimestre. Il fatto collega direttamente l'intelligenza artificiale avanzata al settore spaziale e segnala possibili opportunità industriali per chi studia sia AI che aerospazio.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVXRqU3dwMjBaMkp2c3FiZzVabHVvbC1vaGFqdGZXdkJXbWR3Y19VUm1LSkhmNjd2SGZzNjhISjMzUk5IT2VlNk5EWHFsQXlwNkNlbmZZc1I1ZnZ5WXFsWWZmeVlOeV9Sdm1SeE94RmxScWFZbXNxcnVKZlcxNWM2NVVXOEsyN09kdWZBOC05eG1JaENnUWd0S1VzUUdLVlBpQjhhYlhoR1FTNnFXYXBqeUdQRUVucWJTYmdOU2lSN1ZkRm8wUXJEUmQ3Q3phR1lxZDJTdg?oc=5",
+     "ora": "2026-10-30T10:34:18+00:00"
+    },
+    {
+     "titolo": "Un agente IA personale è rimasto due mesi nella rete del Pentagono prima di essere scoperto",
+     "titolo_it": "",
+     "riassunto": "Un agente di intelligenza artificiale è rimasto nascosto nella rete del Pentagono per due mesi prima di essere scoperto. L'episodio mostra i rischi dei sistemi autonomi per la sicurezza critica, un tema affine alla sicurezza del volo e alla gestione degli aeroporti.",
+     "fonte": "la Repubblica",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV00ta2lESENxR29MZkdDaWw3SHl6YU9EdFI0czUwNmhaUlpNUGJKdFRqZzZVa29xblc5UDU4MzJMZkZDVFpQNExjTE9UbmJ1aVdIbzdHYS03NFNWbzBjNno1ZFVFd1FlUDNCVXZGNGFPTmUzX1V2enMtRmc4Y0xwMVRRUXRsd040bHB6X2NQa04zRzJPeXk4WVU4WQ?oc=5",
+     "ora": "2026-10-30T10:46:24+00:00"
+    },
+    {
+     "titolo": "Cognizant costituisce un gruppo OpenAI dedicato alle capacità frontier, con oltre 25.000 professionisti",
+     "titolo_it": "",
+     "riassunto": "Cognizant ha creato un gruppo di oltre 25.000 professionisti dedicato alle capacità avanzate di OpenAI. La notizia indica una forte richiesta di competenze AI sul mercato del lavoro e possibili sbocchi occupazionali nel settore.",
+     "fonte": "Unite.AI",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaDgwcnczaG1JTHp2dTU3TjlBQmthQVpDMGhqYzJETmlqb1FzNFFGR2VpZmlwSXJFLWJXcWtJZzRBaWZyTTlJbE5FSVhYVm5zOGVvQk1lR0t1dmxzdWRSLVNmRDhOeFN2REVTMDhNODA1ejhiRXhVQkpaSVhlX0k1Vi1BMmFEbDhnSjNXa2k4YXg3RUh5N25sQVUzMnA1dzYtTXhNWg?oc=5",
+     "ora": "2026-10-30T10:17:07+00:00"
+    },
+    {
+     "titolo": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+     "titolo_it": "Il copyright sull'IA potrebbe minacciare il web aperto secondo Wikipedia",
+     "riassunto": "La Wikimedia Foundation avverte che una sentenza sfavorevole sul copyright dell'IA potrebbe mettere a rischio i grandi modelli linguistici e il web aperto. La questione riguarda il futuro legale dei LLM, tra cui Claude, e il loro sviluppo futuro.",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+     "ora": "2026-10-30T05:00:00-04:00"
+    },
+    {
+     "titolo": "Microsoft registra 10 miliardi di ricavi da OpenAI. Ecco cosa dicono i numeri",
+     "titolo_it": "",
+     "riassunto": "Microsoft ha generato dieci miliardi di ricavi dalla collaborazione con OpenAI. Il dato mostra il peso economico dell'IA generativa e la solidità delle principali aziende del settore.",
+     "fonte": "la Repubblica",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQzhVNm5pcWF2eXNaWXJUTEY5SFpxaHRjR2J6Wm1HNWFVSXZFSnAwTE0zUWwtT2EyMWpXSjk1TTk0Q1Zjb0htOE5kWkxqdjZta1BDN1lfT2doT1IxZDhPQmdkZHZ2TUl2eXVsUmxMaUhyZ1lEcjVzS3RpM2JrekNXMDdUSmMtOUNkbmdFdXFqaFhyOVNHMGUxVWVwdktHYmJW0gGmAUFVX3lxTFBPWFd6dHlaMlptcEt2X2lNcmRQNVhlTlZPYkdwTEVCczZEVHRhYWlPZ2xDTDk2aVF2LWtMRFYxNW5QWS1IbkRkdU5haWEwaU5TbDFoN2xSUVhTdXBYRWFDMml2RnlULWVWLW9vd3ZCbkdhRk11RF8zYVhja25NYUhQU3ByTndNekQ5LVZ2SmZ2ajlSdFBxV1E1b0RLWWM5b2JnWEplR1E?oc=5",
+     "ora": "2026-10-30T08:45:21+00:00"
+    },
+    {
+     "titolo": "IPO Anthropic: cosa rivela davvero la retention al 900%",
+     "titolo_it": "",
+     "riassunto": "In vista della quotazione in borsa, Anthropic mostra un tasso di retention del 900%, segno che i clienti espandono molto l'uso dei suoi modelli. Anthropic è la società dietro Claude, modello di interesse del lettore, e il dato segnala crescita del settore.",
+     "fonte": "Investire.biz",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQU5BOXhrM20xZktoS090Ql9QYjZGRHZtdGlValo0WnlIU3g1bWtVUjYyd3ZvTDBvNUFXZEZDVTd1dWMyaXNlU1FMTllVSmRoUlcxYTN2Z2tjZ3piSnRoX1JhdWd4OG1ITW1kT2RQVmdlNkM2c3hGU2hGR3J3ZThhempaVVF6VHRuRy1ITVhzOE16R1RWbnRCNWRxTWhlR1o5Q1Q2RzBfdHJPem5YRzlv?oc=5",
+     "ora": "2026-10-30T11:00:00+00:00"
+    },
+    {
+     "titolo": "Claude aggiorna le app e porta la modalità vocale su Apple CarPlay",
+     "titolo_it": "",
+     "riassunto": "Claude aggiorna le sue applicazioni e introduce l'interazione vocale su Apple CarPlay. L'evoluzione delle interfacce uomo-macchina di Claude è rilevante per i fattori umani, anche se in ambito automobilistico.",
+     "fonte": "XiaomiToday.it",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRVlnNF9mTXcyWUxiSkN3UkNLSUV2ZFpOTWJIWU1JQUFsdXBOZlhtclVZZkt1c0JtcVdSTm1ybDhuZmxPdzFIb3UyZ3p6LWl0UGZHMGpzM1V0MFRTY3MxZkctZ2ZMTzUydGJlRFdSZXhwM1JNLWkxQjJwbURLeEctaW1mS3ljckp2Q3hzVEZ1ZWZhX1hkcmR1REZRdTJrdG8?oc=5",
+     "ora": "2026-10-30T09:11:15+00:00"
+    },
+    {
+     "titolo": "Come Gemini 4 Carbon trova, verifica e corregge le vulnerabilità",
+     "titolo_it": "",
+     "riassunto": "Gemini 4 Carbon è in grado di trovare, verificare e correggere autonomamente le vulnerabilità informatiche. L'uso dell'AI per la cybersecurity è utile per la protezione dei sistemi aeroportuali e del traffico aereo.",
+     "fonte": "Fastweb",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMmIzMHFkVThIazNUTlE3OFBkdmttSHU2UC13OEhsNkdTTWJjdjhVQnJfa1FEcU1XYk1Ra3B4MFdscm12UFF5VUVLeGxZOEJpMklYSXZzX2tQWTdLZ2dRbm9kQ2lqSzZTU253Y3hYS3NmdHFfaV9PSk9SQXcyb3VLbk9wU2RmaFA2ajlZclFyeE5DRG9UaUNubnpTUHRYTDJQWDNjdVpfOWxlSWk5RXAzekRQc3hkSHRuUHlsS0JhZ1RsMms?oc=5",
+     "ora": "2026-10-30T10:06:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "L'Italia punta allo spazio: nasce la fabbrica dei satelliti, oltre 200 assunzioni entro il 2030 (VIDEO)",
+     "titolo_it": "",
+     "riassunto": "Nasce una fabbrica di satelliti in Italia con oltre 200 assunzioni previste entro il 2030. Conta perché segnala investimenti strutturali e posti di lavoro concreti nel settore spaziale nazionale.",
+     "fonte": "Giornale La Voce",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSUE4M2lQN1luclN2cEF0eUxpYzM5NmRTQ1JGUGFFeVN3TVZFMTAtdzFPTTRiNTBiQnduaUZoMElKeFliY01nUElWRFFfa0Y3MnRFTUlnRmxMUW1wd2JGRDFJU05ESjg4SU0tZFpiejBOUGsxZlVuWnlrXzhpNXpWOElCZjRzRmhDOGxid3hVQWlHVTIyX2hEVGkzZEZqRWhEYk9rRHV6Rmg0T0xZYXNvQTdkTXk3RnZYNU9vY2dRTzEyRm1TZmVTeTZlamgwcWsxYWdqWUQwbERmNjhNV01ZMDlsdTRJTzRnNm1hUA?oc=5",
+     "ora": "2026-10-28T17:22:00+00:00"
+    },
+    {
+     "titolo": "Recruiting Day Intecs “L’ingegneria che diventa realtà” – 2 dicembre 2026",
+     "titolo_it": "",
+     "riassunto": "Intecs organizza un Recruiting Day a Sapienza il 2 dicembre 2026 per profili ingegneristici. Conta perché offre accesso diretto a un'azienda di riferimento per difesa, spazio e ATM.",
+     "fonte": "Sapienza Università di Roma",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY214VGpPcHlkOTY1RFRESW1WS0Q4MFhqZElfRm13UC04dGc4TTFhVUNfUDE4QjdUSnZxV3RNNEFhQWVLMllZeVdFLUVEMFA0cVVyQm90UUpIVGJ3UjBobHRvaE5IX0l3Rjc3T240RWJkU2pOa0Zta053VkEweWdlUnhid0JGZ3Q3U1hyT2ZHcmJtNzhObTRKQzlRUWNOT3ItaGFUUmhR?oc=5",
+     "ora": "2026-10-27T09:09:36+00:00"
+    },
+    {
+     "titolo": "Sapienza, al via il centenario della Scuola di ingegneria aerospaziale: tre borse industriali da 30 mila euro",
+     "titolo_it": "",
+     "riassunto": "Per il centenario della Scuola di Ingegneria Aerospaziale sono state bandite tre borse di studio industriali da 30.000 euro ciascuna. Conta perché garantiscono finanziamento rilevante e contatti diretti con l'industria.",
+     "fonte": "Radio Roma",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQV8zSDNJeDRGam90MjgxUG9ES3ZuOXV1LUVWOEZXY290VTdRS040d1B4bHdqTkJoQjhjdXNPaWVzeUtPY3EtQlhyVXlZSWFTQWdXYmNOc2JjUVZhbTFrR3FtbDdCQXU5R29LWlVBVWZrY2JNRjhnMTdrMS13U20tM1NiWlBocUMyMHN6cVZ0blM0ZDNYWjJMMDRkeXJfa3dVOXpGdWJLcW14ZUtCV1VtcmVxU3oyY1o3SHBIVmpXUGpabFhMOXJyNUJwd25LdmVPN2JVSGpVcnQ?oc=5",
+     "ora": "2026-10-23T12:49:51+00:00"
+    },
+    {
+     "titolo": "Aeronautica Militare e cultura aerospaziale: la Forza Armata alle celebrazioni per il centenario della Scuola di Ingegneria Aerospaziale della Sapienza",
+     "titolo_it": "",
+     "riassunto": "L'Aeronautica Militare partecipa alle celebrazioni del centenario della Scuola di Ingegneria Aerospaziale della Sapienza. Conta perché rafforza il legame tra formazione accademica e operatività della Forza Armata, utile per carriere duali.",
+     "fonte": "Ministero della Difesa",
+     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTFVLR2NURzQzWldoUTVyb05jdXgwNTd1SndhZXZpQU5wY1VEaExJc3lLeER5bnE5OVJTYXpEYy01aE1tellfbTZWMGRfQklTX1lnYVpWVVZZM1RJWVplSG5CLTlQeFBjc2ZDbXhCWFEzd2UyRW1ISXZQZmRSYjBJZlBNMnpXRE1HWlJIOEE5aDgza2lZdTNDYUM2T3Z2bmZFWnB0T0MyV2J5SUtfTHJVcDZfZTI3UjdlU1RNeVN5eUVmMktMaDhGUGJTaEItMEJkMGNBbW5WLVpibjF2cHJKZ0tuZ0NBc3pOZ1lqRlBQOWh6VE9xUWpvcEJ6UXdEZU5KcXZ6akUxc1FlYjJJYUZ1N25uRmNrTlplOWhzVGln?oc=5",
+     "ora": "2026-10-28T18:04:38+00:00"
+    },
+    {
+     "titolo": "Elezioni rettore Sapienza, Carcaterra vola in testa: ballottaggio con Lucidi. Fuori per 38 voti D'Urso",
+     "titolo_it": "",
+     "riassunto": "Alle elezioni per il rettore della Sapienza andranno al ballottaggio Antonio Carcaterra e Fabio Lucidi. Conta perché il nuovo rettore definirà le strategie su ricerca, internazionalizzazione e rapporti con l'industria aerospaziale.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEFqbnkwZjBfV0Y1M0NzcnhKdE5qNUVjNUlsaFVWVkFSQVRuY3hhZkF0R0J3c1lSN0xDMkdCbFM1emE5NmtlaFVEWDBZNWZQRTlzX0hYcFNVQlRES2s1QXRrcnlVNTZKUFN1Y0JRWkpjM3FzSjRlSzBHRVhVNGtNQUlNZDFNWGlyWXVLdEF4YnA1Wl9sdWFWbkRCM0NBanFtMEQ1M3ZfYTBaekkyTVZmQVdmTEY0YWE2Rjlz0gGzAUFVX3lxTE93ZTRhRmtvUVhDYzhBSVN3TGlGWEdnTEp6a3VoelRpcE5KU3VQUEIyb2MtdG9ldl9wSjZ5N3VuRko1TGR1TFZldGdqenhyRjVSR3BxQWhIemZKakZrUGhfb0h4SDRKT2tIVEJKbFdrNlZUNDFkeG9oNFQ1RjAwNTZlQ0dpeUhCZlphdzhTUmdCZUp1OXJUeG82bVFjYnYzUDNlQ2ZVZGl6R0M2Nno0MWJDQ0Jn?oc=5",
+     "ora": "2026-10-24T04:34:17+00:00"
+    },
+    {
+     "titolo": "Master Sapienza: come funziona il bando unico e come iscriversi",
+     "titolo_it": "",
+     "riassunto": "Pubblicato il bando unico per i Master della Sapienza con le istruzioni per l'iscrizione. Conta per chi valuta master di II livello o specializzazioni post-laurea per entrare nel settore.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVFYR25wVHQ4dVZsWmczWmhFUllsaUZQUmFaell3YUpja1V6UDc4SkhXNjhOelUxQ1Nydkx2TE43ZGJHZlBYd19TWVVYZk1pQWRvTnVRX3VMLWU4dnMxbGFGREw1eUZVd19hVERhczR4QmowdHBoVXBpXzZxX2tZZFREbnlTTmFfcFRYY0FJWjJCQXFSbmFUVld0akxveDg?oc=5",
+     "ora": "2026-10-28T08:38:58+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Elicottero caduto, la Procura Militare di Roma avvia un'indagine",
+     "titolo_it": "",
+     "riassunto": "La Procura Militare di Roma ha aperto un'inchiesta sulla caduta di un elicottero dell'Aves di Viterbo. Conta perché riguarda la sicurezza del volo e l'indagine su un incidente militare italiano.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/elicottero-caduto-la-procura-militare-di-roma-avvia-unindagine_d00f82f4-ad02-4306-ab7c-446cbf8f0f99.html",
+     "ora": "2026-10-30T12:09:25+01:00"
+    },
+    {
+     "titolo": "Aeroporto di Napoli chiuso a novembre per maxi restyling da 30 milioni",
+     "titolo_it": "",
+     "riassunto": "L'aeroporto di Napoli resterà chiuso per tutto novembre per lavori di ammodernamento della pista da 30 milioni di euro. Conta perché incide direttamente sugli aeroporti, sul traffico aereo e sui voli dirottati a Salerno.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/30/aeroporto-di-napoli-chiuso-a-novembre-per-maxi-restyling-da-30-milioni",
+     "ora": "2026-10-30T11:04:31+01:00"
+    },
+    {
+     "titolo": "Scontro treni in Spagna, primo rapporto tecnico: ipotizzata una catena di guasti, cosa si sa finora",
+     "titolo_it": "",
+     "riassunto": "Il primo rapporto tecnico sullo scontro tra treni in Spagna ipotizza un guasto al sistema di segnalazione e una catena di errori. Conta per la sicurezza dei trasporti e l'analisi dei fattori umani e tecnici.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/30/scontro-treni-in-spagna-primo-rapporto-tecnico-ipotizzata-una-catena-di-guasti-cosa-si-sa-",
+     "ora": "2026-10-30T10:48:38+01:00"
+    },
+    {
+     "titolo": "Nuovo scossone per i titoli tech: utili deludenti alimentano timori sull'AI",
+     "titolo_it": "",
+     "riassunto": "Le aziende tecnologiche hanno registrato utili deludenti, facendo crescere i timori sul settore dell'intelligenza artificiale. Conta per chi segue l'AI e le opportunità di lavoro nel tech.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/30/nuovo-scossone-per-i-titoli-tech-utili-deludenti-alimentano-timori-sullai",
+     "ora": "2026-10-30T10:37:55+01:00"
+    },
+    {
+     "titolo": "Sanchez: 'La fiducia nel sistema dell'alta velocità in Spagna è venuta meno'",
+     "titolo_it": "",
+     "riassunto": "Il premier spagnolo Sanchez ha dichiarato che la fiducia nell'alta velocità spagnola è venuta meno. Conta per il settore dei trasporti e delle infrastrutture in Europa.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/30/sanchez-la-fiducia-nel-sistema-dellalta-velocita-in-spagna-e-venuta-meno_278f14b6-53fa-46f9-95c5-d43f8dd17447.html",
+     "ora": "2026-10-30T11:11:02+01:00"
+    },
+    {
+     "titolo": "Istat, l'inflazione ad ottobre sale al 5,4%i. Il Pil è fermo nel terzo trimestre",
+     "titolo_it": "",
+     "riassunto": "L'inflazione è salita al 5,4 per cento a ottobre e il Pil è fermo nel terzo trimestre. Conta perché dà il contesto economico per chi cerca stage e lavoro.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/pmi/2026/10/30/istat-linflazione-ad-ottobre-sale-al-54i.-il-pil-e-fermo-nel-terzo-trimestre_18189111-ab4d-47c1-aa50-a880181f4b6b.html",
+     "ora": "2026-10-30T12:10:29+01:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
