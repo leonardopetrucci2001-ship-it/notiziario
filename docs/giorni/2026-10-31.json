@@ -1,0 +1,277 @@
+{
+ "giorno": "2026-10-31",
+ "creato": "2026-10-31T10:56:34+00:00",
+ "in_breve": [
+  "Ci sono tirocinio e posizioni lavorative disponibili presso l'Agenzia Spaziale Europea per il 2026.",
+  "L'Italia avvia una fabbrica di satelliti con oltre 200 assunzioni entro il 2030.",
+  "Viene presentato un nuovo sistema TEM per valutare il rischio di volo."
+ ],
+ "modello": "cohere/north-mini-code:free, dots-studio/dots-3-note-preview:free, google/gemma-4-31b-it:free, liquid/lfm-2.5-2.6b:free, nvidia/nemotron-3-ultra-550b-a55b:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Synapse Aviation launches Adaptive TEM for flight risk briefings",
+     "titolo_it": "Nuovo sistema TEM per il rischio di volo",
+     "riassunto": "Synapse Aviation lancia uno strumento adattivo per il Threat and Error Management. È rilevante per l'interesse verso la sicurezza del volo e i fattori umani.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/synapse-aviation-adaptive-tem-flight-risk-briefings",
+     "ora": "2026-10-30T15:18:27+00:00"
+    },
+    {
+     "titolo": "What happened this month at the European Space Agency? (October 2026)",
+     "titolo_it": "Aggiornamenti mensili ESA",
+     "riassunto": "L'Agenzia Spaziale Europea riassume i traguardi di ottobre, inclusi i test per il rover Rosalind Franklin. Fondamentale per monitorare le attività spaziali europee.",
+     "fonte": "ESA",
+     "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026",
+     "ora": "2026-10-30T16:00:00+01:00"
+    },
+    {
+     "titolo": "Is Italy About to Join the A400M Club?",
+     "titolo_it": "Possibile acquisto A400M per l'Italia",
+     "riassunto": "Documenti recenti suggeriscono che l'Italia stia valutando l'ingresso nel programma Airbus A400M. Notizia chiave per il settore della difesa e del trasporto militare nazionale.",
+     "fonte": "The Aviationist",
+     "link": "https://theaviationist.com/2026/10/30/is-italy-about-to-join-the-a400m-club/",
+     "ora": "2026-10-30T18:43:58+00:00"
+    },
+    {
+     "titolo": "Avio firma ordine da oltre EUR55 milioni con MBDA in Francia",
+     "titolo_it": "Contratto Avio e MBDA",
+     "riassunto": "Avio ha firmato un ordine di oltre 55 milioni di euro con MBDA Francia. Indica opportunità di business e crescita per l'industria aerospaziale italiana.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGhCX1dZWFRTR0pWbTRCbVdFV2FqQm9OdnNUV3ZqR2xZOUtjUFRKZ19hNEY5Y01DNXhsRURFSHAtSDZVam5TMHZ5Vy1tUFM1LUpzcEdXR1lTdGstQmJhLTZ5SjBrWG15WlVHQTFCMmxhaHJGZWw1WWNtV1RkOFgyLVZPUXp5TXRGYldBMVJNSFF1MTRJX2dEYnU4b1dmbVZfUFlPUVU3Y280eWZsbUc1OGdOUnlQZw?oc=5",
+     "ora": "2026-10-31T07:15:30+00:00"
+    },
+    {
+     "titolo": "NTSB Warns of GA Seat Belt Failures",
+     "titolo_it": "Allerta NTSB sulle cinture di sicurezza",
+     "riassunto": "L'NTSB avverte dei guasti ai sistemi di ritenuta nell'aviazione generale. Importante per l'analisi della sicurezza del volo e della manutenzione.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/ntsb-warns-ga-seat-belt-failures/",
+     "ora": "2026-10-30T15:57:35+00:00"
+    },
+    {
+     "titolo": "Difesa e aerospazio, eppur si muove la filiera manifatturiera. Il gap non è tecnologico ma di accesso",
+     "titolo_it": "Analisi filiera manifatturiera aerospaziale",
+     "riassunto": "Un'analisi evidenzia come il gap della filiera italiana sia nell'accesso ai fondi piuttosto che nella tecnologia. Utile per comprendere il contesto economico del lavoro nel settore.",
+     "fonte": "StartupItalia",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ2JkTHJDODhWcjRKc2haWC1MdGF6RlQ1MVpNXzhmaGxSbEFpV0duc0hoODVRY3pmNjg0MTN5MWI5cElZREZhanc0bl9BNXNVN01FaVFIWnM0eW1DT3diZHpyOE9VRmxhdXFlWHQ3MzRSS3FUWDZmdFp2ZmlwSDRNYlMwTEQyWnU2V2NRODMxTEZCMlRLeGM5RHBiU0IwUFFHNUxIVlBUNEJ2dm1mNGxNV1h4SmtFUWdaUXFadFBCLWdYWDBnQmw0WkdKUXR6QQ?oc=5",
+     "ora": "2026-10-30T23:54:00+00:00"
+    },
+    {
+     "titolo": "ENAC * ENTE NAZIONALE AVIAZIONE CIVILE: «MEARELLI SI CONGRATULA CON IL NUOVO RETTORE CARCATERRA, LA SAPIENZA RAFFORZA LA COLLABORAZIONE CON L'AVIAZIONE CIVILE",
+     "titolo_it": "Collaborazione Sapienza ed ENAC",
+     "riassunto": "L'ENAC rafforza i legami con l'università Sapienza sotto la nuova rettoria. Molto rilevante per opportunità accademiche e professionali dirette dello studente.",
+     "fonte": "agenzia giornalistica opinione",
+     "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNNWNJQ2JRanNqejNYTl9ScFJLNk1lOHREY2NINzJPMXJVSlZsT29lQnQ2cEliTi0yLXJ1UXFzTjE5YVpLWUFnZ1lSUFZKYmFLSGlWYVNkaVc4VEZKNVZvZ20xcFFWWVpZeHpNSjJUYmZjZEtwbU04TGJZRmFBUXFDVDh0blNwUDBEQTV2ZDUzVHU1UjFXdFM1cVFTbTVYb3hrWnUwYndPcVF4NVBVUDBYVTZ0Y29wam9DUElTWlJRaURETUlqMzRleHBNelRHWVlwQTVsNnNrYUtEbDhuR1FGSDFSWExfUElHWFBFYWpGR1luOUxtU01XUWNjc3VLNGllU19TNHBCMjBTeTMzcjhVaHFXV1B1bEduUFlUa1VYdDMya0tRUU1lT2V2a2lLeXJQOEE?oc=5",
+     "ora": "2026-10-31T10:35:32+00:00"
+    },
+    {
+     "titolo": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+     "titolo_it": "Nuove immagini del telescopio James Webb",
+     "riassunto": "La NASA pubblica nuove immagini della nebulosa Cat's Head. Notizia di interesse generale per chi segue l'esplorazione spaziale.",
+     "fonte": "NASA",
+     "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+     "ora": "2026-10-30T15:56:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+     "titolo_it": "Backdoor nell'estensione Claude Code per Cursor: 12 ore di compromissione",
+     "riassunto": "L'estensione ufficiale Anthropic per l'editor Cursor è stata compromessa con una backdoor SSH, esponendo potenzialmente migliaia di sviluppatori. È un caso critico di supply chain attack su strumenti AI usati per scrivere codice, rilevante per la sicurezza del software in ambito aeronautico.",
+     "fonte": "Ars Technica",
+     "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+     "ora": "2026-10-30T21:09:54+00:00"
+    },
+    {
+     "titolo": "The biggest names in AI are backing a new way to opt out of scraping",
+     "titolo_it": "Grandi nomi dell'AI adottano standard per opt-out dallo scraping",
+     "riassunto": "OpenAI, Google, Microsoft e Anthropic supportano un nuovo standard tecnico che permette agli editori di vietare lo scraping dei propri dati per l'addestramento. Segnala una svolta nella governance dei dati e nel rispetto del copyright, temi centrali per l'addestramento di modelli affidabili.",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+     "ora": "2026-10-30T16:26:10-04:00"
+    },
+    {
+     "titolo": "Wikimedia sfida OpenAI: via libera al training, licenze obbligatorie per RAG",
+     "titolo_it": "Wikimedia contro OpenAI: training libero ma licenze obbligatorie per RAG",
+     "riassunto": "La Wikimedia Foundation chiede ai tribunali di proteggere l'addestramento (training) come fair use, ma di imporre licenze per l'uso in RAG (Retrieval-Augmented Generation). Definisce i confini legali tra apprendimento e riutilizzo diretto della conoscenza, cruciale per sistemi AI basati su dati certificati.",
+     "fonte": "Matrice Digitale",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaVJ4V0EwaDZWRnNxZ2VqandEeWNkdVV2dFYzZDlrcHVsdVo4eHg5c1h3Y1NkaGpFSTJ0YlhTQ3FBVHRfNWVGSjhwN2lxeDlzZHpPdHduUXlxZWpaSXJnajNWdmpJMHlkUnkyY3haYldWZTZXMk5zeFVLZzFkWFdwbEpNTmZGMGVybGNXM2dvYjc5eVE?oc=5",
+     "ora": "2026-10-31T10:05:00+00:00"
+    },
+    {
+     "titolo": "Scenari apocalittici e super intelligenza: ma cos'è davvero il «rischio esistenziale» di Anthropic?",
+     "titolo_it": "Rischio esistenziale Anthropic: scenari apocalittici e superintelligenza",
+     "riassunto": "Il Corriere della Sera analizza la visione di Anthropic sul rischio esistenziale legato all'AI avanzata. Offre un quadro sulla safety culture dei leader del settore, utile per chi studia human factors e gestione del rischio in sistemi complessi ad alta automazione.",
+     "fonte": "Corriere della Sera",
+     "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTTFzMXEza0ladElySHF2bGYzSkp6LUo0MGxCWHg4TElzMlFheFN3R3pJNXRBWm9zTEoxRjVNWFdzMkdSbDFGRHpEaDZ1clNpTmF5VmtTTEEyYmM4Y0lTeXJtcXdvNXlfeDRvWkhlMUtURy1rWGNFbGxxNmRrZERRX25UMzk1QTNMa0I5WXdzVHBMaHVVc1Q1cmVKc1NXbDV1VWVmQTczQlFDUlU3UFZmeXd4ODVQZGpDUWhRRnVmWHY3UkMwelhrV01VamVzTzh2UlBEUDBTdVVFX25JV3hJMFJtbl9ZM2ZoVTZtcS1uRFF6c054ZlR4SDhWQVBFdFBBQUZSXzF6UmxTZHpKSHpkbTA4SjlNZ9IBmwJBVV95cUxNRV91UUVJSU5oenpzc09ESkpzV3BJM21pU0Zha0FIdjd2Si0xNlI5R1p0NTJ5djhxNTlBTHZXMlRoZE1zRFJHQ0dJRWVMRjRNR2tLelh5SGR4TmpsZXlsOFNIc1BMbDk2aVlrclpOOEFSUHJZTGY0aFV2VkJyMW1wQ2VWN1hjZzE0aUNYR3VqLXlsME1BRjFxUTJ6LXdoVnEzRzliRXlnRnIwVnRmUkhwdHlHOEZ2S1lYMnloam9wVDB6ZE8xN0trenhiUml4Vm5CYkc5WmhpT3NqVVlzZ2poVE03cmEtc2dvNzZYUTVYWmJiTF9oT2JtcGdUUnl1aG83TGgyTXZ6LXgtanZXcVZWczQ4dDBxYnlaR1Nz?oc=5",
+     "ora": "2026-10-31T08:34:00+00:00"
+    },
+    {
+     "titolo": "OpenAI riduce di 10 Mrd USD l'obiettivo di raccolta, riferisce il Financial Times",
+     "titolo_it": "OpenAI taglia obiettivo raccolta fondi da 30 a 20 miliardi",
+     "riassunto": "Il Financial Times riporta che OpenAI ha dimezzato il target di raccolta, segnalando un raffreddamento dell'entusiasmo investitori verso le valutazioni massime. Indica possibili effetti sul mercato del lavoro e sui finanziamenti R&D nel settore AI europeo e italiano.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOFhiV0V4dmZteUczVHVEcVQtcWtBT1kzcFhnbUxjSmh1dUlmRFNEQk02cFhBbjVUTF82QlBZUk9XS3QtQUxoeGxUZzBnWjBSRXFDRlNwZDJmeGVwUHhiejhiTHBBMXNYT3pUMllpNjJ2Q25VdVQxY1RQdWJ4ZGxqalRHd1hiUjJyVzNnSUZ3Zm5OaEZwcGdoQ1UzTEZmZVZCa2tLTVYwd01oblZzZUZxT1dFZVZwVUV3WjZsekEtUzUxdzBtYXVSQWFONGF3ZmJB?oc=5",
+     "ora": "2026-10-31T00:15:37+00:00"
+    },
+    {
+     "titolo": "Samsung ospita Altman di OpenAI per colloqui su chip AI e infrastrutture",
+     "titolo_it": "Samsung incontra Altman per chip AI e infrastrutture",
+     "riassunto": "Sam Altman ha discusso con Samsung fornitura di chip HBM e infrastrutture per data center AI. Evidenzia il collo di bottiglia hardware (memoria, calcolo) che limita lo scaling dei modelli, tema chiave per chi progetta sistemi avionici o di simulazione ad alte prestazioni.",
+     "fonte": "Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFBRVGhwOTRfUTFJUm1QeV9IenY5MWFuU09yQmFfZnd6WElMUE1Cb0xoUlhyQ3V2UE1vdW9uMFVhTVZkY2owMGFIU2JuM3lZNjRzd1hJa09mY2JLZVE2RmlDUGVWZDRXOFVVVEVhOTBUOERGekUyUU9rTFR0dU8yRXM1c042eUdvZC1qVGx6OHFvTUVMckVLbGhUdnF3cWgybXpwdlFIVEVDRGlKM1oyOWxhS0JSWjNHNl9tT1JDcDg?oc=5",
+     "ora": "2026-10-31T09:47:00+00:00"
+    },
+    {
+     "titolo": "Anthropic chiede a Claude Code di non ricreare giochi esistenti",
+     "titolo_it": "Anthropic vieta a Claude Code di ricreare giochi esistenti",
+     "riassunto": "Anthropic ha imposto una regola per impedire al suo agente di coding di clonare videogiochi protetti da copyright. Mostra come i laboratori stiano implementando guardrail comportamentali (alignment) direttamente negli strumenti per sviluppatori, anticipando regolamenti su output e proprietà intellettuale.",
+     "fonte": "Multiplayer",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdWkxVXkzMDBLYUVXbFVaWXp6YzVPMmEwanF1R2NhR3A5YjdDa1RTYU9oblF4SG5vaHpnR2pfdmlqaWNRLUdNSEViUWdic0NKSFh4TjNPOVBfRF9PWmtzenlrYXlTQTFnWDBjQmVJbDR1cVA4MmdvS2lLalVOMzlYbVk1dFdTRTJlMkYydVFHQzBIVXgxRTExdzBJVEpfUWhL?oc=5",
+     "ora": "2026-10-31T07:12:29+00:00"
+    },
+    {
+     "titolo": "Wall Street solleva un grande dubbio sulla scommessa AI da 800 miliardi di dollari di Anthropic",
+     "titolo_it": "Wall Street dubita sulla scommessa Anthropic da 800 miliardi",
+     "riassunto": "Analisti mettono in discussione la valutazione implicita di Anthropic, citando costi enormi e ricavi incerti. Fornisce un termometro realistico sulla sostenibilità economica dei modelli foundation, utile per valutare stabilità datori di lavoro e opportunità di stage nel lungo periodo.",
+     "fonte": "Yahoo Finanza",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUWU2OHZIcGF1SjNxSHJhcktDNlJJazZqZU83cVlCdEstd2lXNGF1SG9meGZUSnJlcU5wbVRIVjg0RWpTOUtlbENsNXVaNGNwbVJ1bUtTTVJVcWlQRi03OUMwa3c5bkxkSXhNUk1Nc0xjUkg4bFZ5OFptT1JsM2RJLTJ5a1lXYXBI?oc=5",
+     "ora": "2026-10-30T19:34:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Tirocinio presso l'ESA 2026 - Scopri gli stage nell'Agenzia Spaziale Europea o le posizioni lavorative disponibili",
+     "titolo_it": "",
+     "riassunto": "L'ESA pubblica le offerte di tirocinio e lavoro per il 2026, dando opportunità a studenti e laureati nel settore spaziale.",
+     "fonte": "Concorsando.it",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MN3Fsd01mMFZJbG9ESUN2SWhKYWdJT0VkVjV2V0g3clVFY1UxWDlDVG9rMmIxMU9rYjIxLVd6UV9mbW9GejFaemNoV3hnYUNUY0owWUZXTk9jbncyY1FwVF9ZYw?oc=5",
+     "ora": "2026-10-28T11:13:43+00:00"
+    },
+    {
+     "titolo": "L'Italia punta allo spazio: nasce la fabbrica dei satelliti, oltre 200 assunzioni entro il 2030 (VIDEO)",
+     "titolo_it": "",
+     "riassunto": "Nasce in Italia una fabbrica di satelliti che prevede oltre 200 assunzioni entro il 2030, aprendo nuove prospettive per i giovani ingegneri.",
+     "fonte": "Giornale La Voce",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSUE4M2lQN1luclN2cEF0eUxpYzM5NmRTQ1JGUGFFeVN3TVZFMTAtdzFPTTRiNTBiQnduaUZoMElKeFliY01nUElWRFFfa0Y3MnRFTUlnRmxMUW1wd2JGRDFJU05ESjg4SU0tZFpiejBOUGsxZlVuWnlrXzhpNXpWOElCZjRzRmhDOGxid3hVQWlHVTIyX2hEVGkzZEZqRWhEYk9rRHV6Rmg0T0xZYXNvQTdkTXk3RnZYNU9vY2dRTzEyRm1TZmVTeTZlamgwcWsxYWdqWUQwbERmNjhNV01ZMDlsdTRJTzRnNm1hUA?oc=5",
+     "ora": "2026-10-28T17:22:00+00:00"
+    },
+    {
+     "titolo": "ENAV_Am Call 10.5, Jan 2027",
+     "titolo_it": "Bando ENAV Am Call 10.5, Gennaio 2027",
+     "riassunto": "ENAV pubblica il bando Am Call 10.5 per gennaio 2027, rivolto a professionisti per servizi di navigazione aerea.",
+     "fonte": "Milano Finanza",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXhKVE8yLVBFZlI0bTZHa2lGNTFuREpnSV82em1EWWw3R0pKNk1HamlrZzYxLWE1T3JpaXp1cU9nZmdPZHBfVGlGNGQ4Q1AydndIMnNranVycTJad2l5TGEyWkhPaEljbEFqR1dfQlpaYkNYY3JNd1dHWXJhUHRxRWRBajNwdXBuOFJXaA?oc=5",
+     "ora": "2026-10-30T16:54:01+00:00"
+    },
+    {
+     "titolo": "Recruiting Day Intecs “L’ingegneria che diventa realtà” – 2 dicembre 2026",
+     "titolo_it": "",
+     "riassunto": "Intecs organizza una giornata di reclutamento il 2 dicembre 2026 per ingegneri e tecnici, offrendo opportunità di lavoro nel settore aerospaziale.",
+     "fonte": "Sapienza Università di Roma",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY214VGpPcHlkOTY1RFRESW1WS0Q4MFhqZElfRm13UC04dGc4TTFhVUNfUDE4QjdUSnZxV3RNNEFhQWVLMllZeVdFLUVEMFA0cVVyQm90UUpIVGJ3UjBobHRvaE5IX0l3Rjc3T240RWJkU2pOa0Zta053VkEweWdlUnhid0JGZ3Q3U1hyT2ZHcmJtNzhObTRKQzlRUWNOT3ItaGFUUmhR?oc=5",
+     "ora": "2026-10-27T09:09:36+00:00"
+    },
+    {
+     "titolo": "Aeronautica Militare e cultura aerospaziale: la Forza Armata alle celebrazioni per il centenario della Scuola di Ingegneria Aerospaziale della Sapienza",
+     "titolo_it": "",
+     "riassunto": "L'Aeronautica Militare ha preso parte alle celebrazioni per il centenario della Scuola di Ingegneria Aerospaziale della Sapienza, rafforzando i legami tra formazione accademica e settore aerospaziale militare.",
+     "fonte": "Ministero della Difesa",
+     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTFVLR2NURzQzWldoUTVyb05jdXgwNTd1SndhZXZpQU5wY1VEaExJc3lLeER5bnE5OVJTYXpEYy01aE1tellfbTZWMGRfQklTX1lnYVpWVVZZM1RJWVplSG5CLTlQeFBjc2ZDbXhCWFEzd2UyRW1ISXZQZmRSYjBJZlBNMnpXRE1HWlJIOEE5aDgza2lZdTNDYUM2T3Z2bmZFWnB0T0MyV2J5SUtfTHJVcDZfZTI3UjdlU1RNeVN5eUVmMktMaDhGUGJTaEItMEJkMGNBbW5WLVpibjF2cHJKZ0tuZ0NBc3pOZ1lqRlBQOWh6VE9xUWpvcEJ6UXdEZU5KcXZ6akUxc1FlYjJJYUZ1N25uRmNrTlplOWhzVGln?oc=5",
+     "ora": "2026-10-28T18:04:38+00:00"
+    },
+    {
+     "titolo": "Dai satelliti ai razzi hi-tech, Roma punta allo Spazio: La Sapienza celebra i 100 anni della Scuola di Ingegneria Aerospaziale",
+     "titolo_it": "",
+     "riassunto": "Roma punta sullo spazio con nuovi progetti di satelliti e razzi hi-tech; la Sapienza festeggia i 100 anni della sua Scuola di Ingegneria Aerospaziale.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3VkZTJEU2JYN29kaTJNWGxaeFNaQWozUGYtYWJaVHZwR3NBYXNva1I3emVEQ0ItZnE3NlY5SVBWREFycjduc0ZFMThIWThrUEM1Sm0wa3JMYWgwOGE5a1IzQWR4c0xia1dIMXRxdEZYMkRBLWZpZWp3RHlyUU5PT3lHQnQ5bXZVTjU5VVpGa1VYLTkzTGx3dTRpUlFSOE5uRTY5NVo1SVY3OW9UTnNtNzg0cVJidU9LQzR30gGzAUFVX3lxTE5zSjhBNDU4LVYzcE1Dd0xaT3FmTGcxUnFIN0RSdzNIMm9GMzluRnFRUm1jbHJ0VEhQSTQ5Wmhwd1hYa3RwX1VkYUVXbnNOeC1LbGZ5Q3NoUHFwS212ajg3Y0h4b0ZTaDl0TnVmdkJPQk84amE5R0U4TEdyZzNOUE1oVTZKZElnN0g5YWtwcUxpRnlRTW9WM043Z3U5b1dpZWd4UjdmdnpOZDNJbERSMjRzaWQ4?oc=5",
+     "ora": "2026-10-25T23:39:42+00:00"
+    },
+    {
+     "titolo": "Sapienza, Antonio Carcaterra è il nuovo rettore: ricerca, intelligenza artificiale e sfide per gli studenti",
+     "titolo_it": "",
+     "riassunto": "Il nuovo rettore della Sapienza, Antonio Carcaterra, punta sulla ricerca, l'intelligenza artificiale e nuove sfide per gli studenti.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SSG5IMHRUZzlVeVBGekF5cjBGQzZaWUViTlEzTFFTQTdJeUxRUXlCOE9fSk1fYnRjYzBxSEpzb3l0TXVLWUhVZml2Y20tb2twZ0pQYTFMeDR2dFZ5VFg1c2l2VGRtYzBwaDNsYXNFbTRnZXhXaXJwN0ZCMUdQOHM?oc=5",
+     "ora": "2026-10-30T15:27:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Zelensky: \"I 500 Patriot Usa tra qualche anno, ma dobbiamo difenderci questo inverno\"",
+     "titolo_it": "Zelensky: i 500 Patriot americani arriveranno tra qualche anno, ma dobbiamo difenderci ora",
+     "riassunto": "Il presidente ucraino chiede intercettatori Patriot dagli Stati Uniti per proteggersi dagli attacchi russi questo inverno, evidenziando l'importanza dei sistemi di difesa aerea. Conta per te perché riguarda i sistemi missilistici e la difesa aerea, settori chiave dell'ingegneria aerospaziale.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/31/zelensky-i-500-patriot-usa-tra-qualche-anno-ma-dobbiamo-difenderci-questo_bae448a2-c0d3-44e5-9cdd-029b563447d2.html",
+     "ora": "2026-10-31T09:31:18+01:00"
+    },
+    {
+     "titolo": "Le ipotesi sulla caduta del Chinook in Bosnia, Crosetto dai feriti in Bosnia",
+     "titolo_it": "Indagine sulla caduta del Chinook in Bosnia",
+     "riassunto": "È partita un'indagine militare sulla caduta di un elicottero Chinook in Bosnia, con polemiche politiche sulla sicurezza del volo. Conta per te perché la sicurezza del volo e l'analisi degli incidenti sono centrali negli studi di ingegneria aeronautica.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/elicottero-caduto-in-bosnia-le-ipotesi-sulla-caduta-del-chinook-crosetto-dai_d00f82f4-ad02-4306-ab7c-446cbf8f0f99.html",
+     "ora": "2026-10-31T11:26:10+01:00"
+    },
+    {
+     "titolo": "Verso Midterm, scenari e incognite dell'America al voto",
+     "titolo_it": "Stati Uniti verso le elezioni di midterm",
+     "riassunto": "Si avvicinano le elezioni di midterm negli Stati Uniti, con scenari incerti per la politica interna e la difesa. Conta per te perché le decisioni su budget della NASA e della difesa statunitense influenzano il settore aerospaziale globale e le collaborazioni europee.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/podcast/2026/10/30/verso-midterm-scenari-e-incognite-dellamerica-al-voto_a51cf9be-0cc4-448c-9a81-7a9e05cb4735.html",
+     "ora": "2026-10-31T11:15:25+01:00"
+    },
+    {
+     "titolo": "Manovra: giù l'Irpef per 3,2 milioni di persone, dalle banche 5,8 miliardi",
+     "titolo_it": "La manovra del governo italiano riduce l'Irpef ma pesa sulle banche",
+     "riassunto": "La manovra fiscale italiana prevede tagli alle tasse per molti cittadini ma nuovi oneri per il settore bancario ed energetico. Conta per te perché le politiche di bilancio incidono sui fondi per la ricerca universitaria e sulle aziende aerospaziali italiane come Leonardo o Avio.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/manovra-giu-lirpef-per-32-milioni-di-persone-dalle-banche-58-miliardi_a2553a3a-6200-46b4-bebd-ed940ffd56e8.html",
+     "ora": "2026-10-31T09:28:30+01:00"
+    },
+    {
+     "titolo": "E' già caro-voli di Natale, 430 euro per volare da Milano a Reggio Calabria",
+     "titolo_it": "Voli natalizi costano sempre di più in Italia",
+     "riassunto": "I prezzi dei voli per le feste natalizie stanno crescendo molto, soprattutto su alcune rotte nazionali. Conta per te perché riflette lo stato del mercato del trasporto aereo e dei consumatori nei principali aeroporti italiani.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/e-gia-caro-voli-di-natale-430-euro-per-volare-da-milano-a-reggio_46a93fbe-b91c-4b50-9e06-1eab612d0808.html",
+     "ora": "2026-10-31T11:22:00+01:00"
+    },
+    {
+     "titolo": "Fitch abbassa a \"negativa\" la prospettiva della Francia, il governo punta a un budget \"responsabile\"",
+     "titolo_it": "Fitch abbassa la prospettiva della Francia a 'negativa'",
+     "riassunto": "L'agenzia di rating Fitch ha messo la Francia sotto osservazione per la sua instabilità finanziaria. Conta per te perché la Francia è un partner fondamentale per l'industria aerospaziale europea, soprattutto per Airbus e lo spazio.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/10/31/fitch-abbassa-a-negativa-la-prospettiva-della-francia-il-governo-punta-a-un-budget-respons",
+     "ora": "2026-10-31T07:27:11+01:00"
+    },
+    {
+     "titolo": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+     "titolo_it": "Evacuazioni di massa dalla città ucraina di Oleshky durante una tregua",
+     "riassunto": "Centinaia di persone sono state evacuate da una città vicino al fronte ucraino durante una rara tregua. Conta per te perché il contesto geopolitico e la sicurezza europea influenzano i budget della difesa e i progetti aerospaziali continentali.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-10-31T08:49:35+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
