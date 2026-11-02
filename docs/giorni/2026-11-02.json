@@ -1,0 +1,237 @@
+{
+ "giorno": "2026-11-02",
+ "creato": "2026-11-02T13:32:40+00:00",
+ "in_breve": [
+  "Tajani annuncia una nuova missione privata per un astronauta italiano, con un fatturato di oltre 21 milioni di euro nel settore aerospaziale.",
+  "Un CubeSat dell'ESA ha stabilito con successo un collegamento laser con la Terra, segnando un passo avanti nella trasmissione dei dati spaziali.",
+  "L'ESA offre tirocini per il 2026 e altre posizioni, fornendo opportunità per gli studenti di lavorare nell'agenzia spaziale europea."
+ ],
+ "modello": "cohere/north-mini-code:free, dots-studio/dots-3-note-preview:free, nvidia/nemotron-3.5-super-vl:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Aerospazio, Tajani: «Nuova missione privata per un astronauta italiano. Dalla filiera oltre 21 miliardi di fatturato",
+     "titolo_it": "",
+     "riassunto": "Il governo annuncia una nuova missione privata per un astronauta italiano e cita oltre 21 miliardi di fatturato della filiera aerospaziale. Conta perché segnala la crescita del settore spazio in Italia e le possibili opportunità per i laureati.",
+     "fonte": "Il Sole 24 ORE",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMk9peVVwMjBJcWc2ODNtRzhUT3hnM18zd3JoTXVBcFF4OGNKLXR5d1E0dDE0U1lyM09iNlJsVkM4QVYzcVdfMnh2OFNVbHljNjNyTmw3Z1BUdERjbzFRVmc5elFKcGNXdFZSaUdnb1k1R2RCMUd2d3J1aUYteUtUN19XV19XZkI5NVhOcW5pbXFodkdodllxV1FQQ2E3MWlnS0JRMVA5V2QyeTl4VzNwa2FwODMyNHBNOFFReEl4TkdJWG5rWV9pMEtWRjUtRW9zSnVSbmM2QQ?oc=5",
+     "ora": "2026-11-02T12:41:53+00:00"
+    },
+    {
+     "titolo": "Nearly 2,000 Boeing 737s Must Get Tail Inspections After Jets Pitched Up And Down Mid-Flight",
+     "titolo_it": "Ispezioni FAA su quasi duemila Boeing 737",
+     "riassunto": "La FAA ha ordinato controlli di coda su quasi 2000 Boeing 737 Next Generation dopo segnalazioni di beccheggi in volo. Conta per la sicurezza del volo e riguarda un modello molto diffuso nelle compagnie.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/video/nearly-2-000-boeing-737s-must-get-tail-inspections-after-jets-pitched-up-and-down-mid-flight/",
+     "ora": "2026-11-02T13:24:18+00:00"
+    },
+    {
+     "titolo": "Giampiero Di Paolo (Thales Alenia Space): “L’era che stiamo vivendo è connotata dall’economia dello spazio”",
+     "titolo_it": "",
+     "riassunto": "Un responsabile di Thales Alenia Space descrive l'attuale fase spaziale come guidata dall'economia dello spazio. Conta per capire l'evoluzione industriale del settore e le prospettive occupazionali.",
+     "fonte": "Fortune Italia",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWlVjV1FfMUJaQnpJdjljVk1EM0pvMkJrcnFLdW1CODdmMEUwTkNHcVZBRWhNTnB2WGR4YXR1RHFJLV9VWGdKem5FMGpKa0R5QkpaTFRBT29EeE1yQ2VUc3d0N3YtNlcxVmY1OGl6UzhrTy1lVzVnTkZhdXBfTWRwVHdJd0RBcjJDcjBDTW1Bc1Z3R3hMd1VTaFJhOEo0T21SYzlScVYtc3hQWHoyU3A5ZlAxa0xjS0FTQmlRY2dseVpncDk2LWt2UEV3R2J4dUR0OGxmNkV3?oc=5",
+     "ora": "2026-11-02T11:31:26+00:00"
+    },
+    {
+     "titolo": "CubeSat achieves challenging laser link to ground",
+     "titolo_it": "CubeSat ESA stabilisce collegamento laser con terra",
+     "riassunto": "Un CubeSat dell'università di Atene ha realizzato un difficile collegamento laser verso terra. Conta perché dimostra tecnologie di comunicazione ottica applicabili a piccoli satelliti.",
+     "fonte": "ESA",
+     "link": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground",
+     "ora": "2026-11-02T09:55:00+01:00"
+    },
+    {
+     "titolo": "Mare Group, shopping nell’aerospazio e difesa: rileva il 60% di Ass.El per 2,4 milioni",
+     "titolo_it": "",
+     "riassunto": "Mare Group acquisisce il 60 per cento di Ass.El nel settore aerospazio e difesa per 2,4 milioni di euro. Conta perché è un'operazione di consolidamento industriale italiano con possibili ricadute sull'occupazione.",
+     "fonte": "Milano Finanza",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVjB6czFJUGpQQ1VSWTUxZ0Nzd1VXa0hQNnVqdjA2QXJUS3g1QU9GS080dDJycjZTY1dCeXM3MGIyMmwxMDR2SU5Wdy1YX0hDM2dQY1JzZC1vOWJYV1FHNHhUbTc1clNxX1I3U3Fhb2syTEJETVpHNldZOUUwMFdReHV3ZjY3eFZycWJPeGpnNDQ4VEIzdGg1LUhGUk52MVdQdDBJU2tIUm42V3NocXBuU2o1X2Vqck4tQ2tRcHNSNml3cDRTQ3VDQmNiN3MzTHJxMHc?oc=5",
+     "ora": "2026-11-02T08:50:00+00:00"
+    },
+    {
+     "titolo": "United Boeing 757 Declares Mayday As Fuel Runs Low After Aborted Landing At San Francisco",
+     "titolo_it": "United 757 dichiara mayday per carburante basso dopo go-around",
+     "riassunto": "Un Boeing 757 di United ha dichiarato emergenza carburante dopo un approccio instabile e un go-around a San Francisco. Conta come esempio di gestione del carburante e fattori umani in volo.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/united-airlines-boeing-757-mayday-low-fuel-san-francisco/",
+     "ora": "2026-11-02T07:11:52+00:00"
+    },
+    {
+     "titolo": "Embraer confirms Greek defense acquisition includes up to six KC-390 Millenniums",
+     "titolo_it": "Embraer conferma vendita di fino a sei KC-390 alla Grecia",
+     "riassunto": "Embraer ha confermato che la Grecia acquisterà fino a sei velivoli KC-390 Millennium per la difesa. Conta per l'industria aerospaziale europea e i programmi di trasporto militare.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/embraer-greek-defense-acquisition-up-to-six-kc-390-millennium-aircraft",
+     "ora": "2026-11-02T12:58:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Programmatore usa Claude per clonare software famosi, Anthropic corre ai ripari",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha limitato Claude per impedirne l'uso nella creazione di cloni di software e videogiochi esistenti. La notizia mostra i confini legali e tecnici dell'AI generativa nello sviluppo, un tema chiave per chi programma e studia sistemi aeronautici.",
+     "fonte": "ANSA",
+     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPTUtuMDAxcXZ0QUV4b0dfeEtEY0x3YTZyaGpFOGhZSzV3UzZaU0IzNThPQ0dNRVA1Y2pTUFBVd3dqVGF2cGtkbnZ6QzM0T21uU1h1R1pEdm9uMHdqbHNfSXktMVNWaU90ZVNjeHZJODAzX2J4elRUUE92djNBbHAtd2NMQzVvb0hDLWhPOFlsZU9lOTB1VEZLMVF6emk3dC1mOTJORXVTMEVUb293aEZLUVR5bGNKalg0MVA0TDd6TFJzX0QtNktia3JPajNQQUlCRTBMODlvbUJjUjJwUTlvcHNOVjVtRTFTbTBjU0pRVXlCNFBGc0k0SmVFQ3JOd3pLdXNDUktFcFd3azNGMVJFXzhWcnVPOEhFOTB1c2R30gGeAkFVX3lxTE9NS24wMDFxdnRBRXhvR194S0RjTHdhNnJoakU4aFlLNXdTNlpTQjM1OE9DR01FUDVjalNQUFV3d2pUYXZwa2RudnpDMzRPbW5TWHVHWkR2b24wd2psc19JeS0xU1ZpT3RlU2N4dkk4MDNfYnh6VFRQT3Z2M0FscC13Y0xDNW9vSEMtaE84WWxlT2U5MHVURksxUXp6aTd0LWY5Mk5FdVMwRVRvb3doRktRVHlsY0pqWDQxUDRMN3pMUnNfRC02S2Jrck9qM1BBSUJFMEw4OW9tQmNSMnBROW9wc05WNW1FMVNtMGNTSlFVeUI0UEZzSTRKZUVDck53ekt1c0NSS0VwV3drM0YxUkVfOFZydU84SEU5MHVzZHc?oc=5",
+     "ora": "2026-11-02T12:08:27+00:00"
+    },
+    {
+     "titolo": "Come creare le skill su Claude: tutto quello che devi sapere",
+     "titolo_it": "",
+     "riassunto": "La Repubblica pubblica una guida pratica per creare le skill su Claude. È utile per uno studente che vuole imparare a usare il modello in modo avanzato per progetti universitari e lavoro.",
+     "fonte": "la Repubblica",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcjR1Rk9xNUpVU001dXd2UFk2NVRQYnhZN3E3VlJFUzR3YUFJaWZBR0xrSEN0a1A3ZVdPY293LWk4UXdvMUZTcU1BZ0pqaGhVVWxuM25wSVU5WGMySkxCU2dqMVJ0ZWJteTJrVnBKNF9xR0xKMmdIVUxFbjFIdEs1RG12Vi1zeTRVbVZyZk5qdGRkdmFKZjZQTjJMSk5UY1lJSEMzZHU4S2xHMGJ6UHhUaUlGSkFPSGZ6SnFGb0g5d1JjVkszcld1TDZaU0JFYTlOaG5zaWNUOEd0d9IB2gFBVV95cUxNcjR1Rk9xNUpVU001dXd2UFk2NVRQYnhZN3E3VlJFUzR3YUFJaWZBR0xrSEN0a1A3ZVdPY293LWk4UXdvMUZTcU1BZ0pqaGhVVWxuM25wSVU5WGMySkxCU2dqMVJ0ZWJteTJrVnBKNF9xR0xKMmdIVUxFbjFIdEs1RG12Vi1zeTRVbVZyZk5qdGRkdmFKZjZQTjJMSk5UY1lJSEMzZHU4S2xHMGJ6UHhUaUlGSkFPSGZ6SnFGb0g5d1JjVkszcld1TDZaU0JFYTlOaG5zaWNUOEd0dw?oc=5",
+     "ora": "2026-11-02T09:25:41+00:00"
+    },
+    {
+     "titolo": "Guida a Codex di OpenAI, dal primo prompt all'automazione",
+     "titolo_it": "",
+     "riassunto": "Una guida spiega come usare Codex di OpenAI, dal primo prompt all'automazione delle attività di codifica. Codex è lo strumento OpenAI per generare codice, utile per l'automazione in ingegneria.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ES0hsWjdzN1ZIb05tQlUtazlZZjFOMEM4LVhUaTdWUmdrTmtKemZwU1VmQVVleWhFa296MG5GVnhWemlyeTdzTTNKWHVkZVRQdzl2T0tfRWI2S1BGVUJJekpSeGM3eUVBQm84N1FwbFB5akF4VFY2RHNCMm9oam8?oc=5",
+     "ora": "2026-11-02T11:44:09+00:00"
+    },
+    {
+     "titolo": "Finalmente OpenAI si è accorta che ChatGPT è troppo condiscendente: ecco come cambieranno i modelli",
+     "titolo_it": "",
+     "riassunto": "OpenAI modificherà i propri modelli per ridurre l'eccessiva condiscendenza di ChatGPT. Il cambiamento riguarda l'interazione uomo-macchina e la qualità delle risposte, aspetto rilevante per i fattori umani.",
+     "fonte": "SmartWorld",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaEJTVmpKY0pkS3F6Q0EtOTY5MnBtQnB6QkpaVXhJaVhZUjNxSmN1eUJJUjhVSjNNaEVrbU1wY0NPQ3djV1I5WFRJaE8tUXpYRWtad0pFVGF1TUI5ZnFDWER6TkdWSnVpcDU1LWVZMFlFQ3VXZGhrdlNEVVJ1WUtDcQ?oc=5",
+     "ora": "2026-11-02T10:21:00+00:00"
+    },
+    {
+     "titolo": "Stop counting tokens, start counting what ships",
+     "titolo_it": "Gli agenti AI contano per ciò che producono, non per i token",
+     "riassunto": "L'articolo spiega che gli agenti AI pianificano, scrivono codice, eseguono test e correggono errori in modo autonomo. Sposta l'attenzione dall'uso teorico dei token alla produzione reale di software, utile per un ingegnere.",
+     "fonte": "MIT Technology Review",
+     "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+     "ora": "2026-11-02T13:10:32+00:00"
+    },
+    {
+     "titolo": "The agentic web is here",
+     "titolo_it": "È arrivato il web agentico",
+     "riassunto": "MIT Technology Review descrive l'arrivo del web agentico, evoluzione della visione di Tim Berners-Lee. Introduce come l'AI sta cambiando il web e l'interazione con i servizi online, contesto utile per il futuro del settore aerospaziale.",
+     "fonte": "MIT Technology Review",
+     "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+     "ora": "2026-11-02T09:35:19+00:00"
+    },
+    {
+     "titolo": "Lo stealer VOLTA chiede a Claude, Kimi e Gemini quanto valgono le vittime e dove vivono",
+     "titolo_it": "",
+     "riassunto": "Il malware VOLTA interroga Claude, Kimi e Gemini per ottenere informazioni sulle vittime. Evidenzia i rischi di sicurezza nell'uso dei modelli linguistici da parte di attori malintenzionati, tema legato alla sicurezza dei sistemi.",
+     "fonte": "Hardware Upgrade",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY0pwZHMwS0lnaTdZbFBhYmhOYmtNNVNyVnZDTlVSTGZodVhqMGN6NDZMdFR4WURXU29BU09WZzJEQVhqWTYtSWFLZ05ybGtWNHpPZkk1RUNuSURaMWNFb0xieTRMMEFNaFozQ3ZFbDZwNU5XZ21RNUFuQ0NIYjU0Qm5SM0JuckZUazgxX29odk56blR5dHFCN2ZVZGFGN2pXUy1TTGJoQjJUNE9Ud2ktOU5kSDlQQnpQbjUwenh0Z29BNWhYcVc2TTBtM0ZhREhjb3ljRjNTQ1kxT1NnU3dhTw?oc=5",
+     "ora": "2026-11-02T10:51:01+00:00"
+    },
+    {
+     "titolo": "OpenAI chiamata in causa per la morte di una donna con epilessia: ecco il ruolo di ChatGPT",
+     "titolo_it": "",
+     "riassunto": "OpenAI è stata citata in giudizio per il presunto ruolo di ChatGPT nella morte di una donna con epilessia. Solleva questioni di responsabilità e sicurezza dell'AI in contesti critici, collegato alla sicurezza del volo e ai fattori umani.",
+     "fonte": "Techprincess",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zUEFtTjZvTzd3V2RnUjBhX2p1Z0VXRGRFQ0VlUjY3b3k1cW5tb3hWeTZHekdYM0U4eFl3TU8xTEt5UWJzbE9WQkN1QlpoTkdhNDQ5X1RZMl9oMmd3RElublJTTE1DS3d6WVoxOUI2RW5JQk5PTko40gF8QVVfeXFMTjJBTlYyYms0RlhLdmt4NVl4RVVIcXhYTVhWXzBYZjdyN2drb1g5UGU3bk4zRnJVMjdpejFIZlhIR1pXUEU0dklqUEs4QTQ4R1FGc3VDNTZPd3ltOXgtYWwzRGRfaFJkR2RCWjNqd0NqR3pKRXNZYUpLTnZDdw?oc=5",
+     "ora": "2026-11-02T12:34:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Tirocinio presso l'ESA 2026 - Scopri gli stage nell'Agenzia Spaziale Europea o le posizioni lavorative disponibili",
+     "titolo_it": "",
+     "riassunto": "Bando per tirocini nell'Agenzia Spaziale Europea (ESA) per il 2026. È un'ottima possibilità per studenti di ingegneria aerospaziale di trovare stage in Europa.",
+     "fonte": "Concorsando.it",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MN3Fsd01mMFZJbG9ESUN2SWhKYWdJT0VkVjV2V0g3clVFY1UxWDlDVG9rMmIxMU9rYjIxLVd6UV9mbW9GejFaemNoV3hnYUNUY0owWUZXTk9jbncyY1FwVF9ZYw?oc=5",
+     "ora": "2026-10-28T11:13:43+00:00"
+    },
+    {
+     "titolo": "L'Italia punta allo spazio: nasce la fabbrica dei satelliti, oltre 200 assunzioni entro il 2030 (VIDEO)",
+     "titolo_it": "",
+     "riassunto": "L'Italia investe nello spazio con una nuova fabbrica di satelliti e oltre 200 assunzioni entro il 2030. Notizia rilevante per chi cerca lavoro nel settore aerospaziale italiano.",
+     "fonte": "Giornale La Voce",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSUE4M2lQN1luclN2cEF0eUxpYzM5NmRTQ1JGUGFFeVN3TVZFMTAtdzFPTTRiNTBiQnduaUZoMElKeFliY01nUElWRFFfa0Y3MnRFTUlnRmxMUW1wd2JGRDFJU05ESjg4SU0tZFpiejBOUGsxZlVuWnlrXzhpNXpWOElCZjRzRmhDOGxid3hVQWlHVTIyX2hEVGkzZEZqRWhEYk9rRHV6Rmg0T0xZYXNvQTdkTXk3RnZYNU9vY2dRTzEyRm1TZmVTeTZlamgwcWsxYWdqWUQwbERmNjhNV01ZMDlsdTRJTzRnNm1hUA?oc=5",
+     "ora": "2026-10-28T17:22:00+00:00"
+    },
+    {
+     "titolo": "Recruiting Day Intecs “L’ingegneria che diventa realtà” – 2 dicembre 2026",
+     "titolo_it": "",
+     "riassunto": "Recruiting Day presso Intecs Sapienza il 2 dicembre 2026, con focus su ingegneria e realtà. Evento cruciale per studenti di Sapienza per incontrare aziende del settore.",
+     "fonte": "Sapienza Università di Roma",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY214VGpPcHlkOTY1RFRESW1WS0Q4MFhqZElfRm13UC04dGc4TTFhVUNfUDE4QjdUSnZxV3RNNEFhQWVLMllZeVdFLUVEMFA0cVVyQm90UUpIVGJ3UjBobHRvaE5IX0l3Rjc3T240RWJkU2pOa0Zta053VkEweWdlUnhid0JGZ3Q3U1hyT2ZHcmJtNzhObTRKQzlRUWNOT3ItaGFUUmhR?oc=5",
+     "ora": "2026-10-27T09:09:36+00:00"
+    },
+    {
+     "titolo": "Concorso per 60 Marescialli Aeronautica Militare, nomina diretta: Bando per laureati (triennale)",
+     "titolo_it": "",
+     "riassunto": "Concorso per 60 Marescialli dell'Aeronautica Militare, con nomina diretta per laureati. Opportunità di lavoro diretta per neolaureati in ingegneria aerospaziale.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0k3eVlkcGZZRTQxVUNZQi1PVXVfTWJwWW8zeVEwSEJ6TGhmTFRpUUVsTjVTVXZXSDFpRzBWeGJ2bGhYMHNhY25YQllFWENEYjg1N3ZZTlJYN3FKRkZZUFFxTm9ZUDlNQzAtYlZYSGJVRTkzdUtJa0FpdE1lYmdsQUo3d3NuaGR6R3pwTldBNzZiTFRhak5hZnpPNmF4T0kxeVE?oc=5",
+     "ora": "2026-11-01T06:30:30+00:00"
+    },
+    {
+     "titolo": "Sapienza, Antonio Carcaterra è il nuovo rettore: ricerca, intelligenza artificiale e sfide per gli studenti",
+     "titolo_it": "",
+     "riassunto": "Antonio Carcaterra è il nuovo rettore di Sapienza, con attenzione a ricerca e intelligenza artificiale. Interessante per studenti interessati all'IA e allo sviluppo universitario.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SSG5IMHRUZzlVeVBGekF5cjBGQzZaWUViTlEzTFFTQTdJeUxRUXlCOE9fSk1fYnRjYzBxSEpzb3l0TXVLWUhVZml2Y20tb2twZ0pQYTFMeDR2dFZ5VFg1c2l2VGRtYzBwaDNsYXNFbTRnZXhXaXJwN0ZCMUdQOHM?oc=5",
+     "ora": "2026-10-30T15:27:28+00:00"
+    },
+    {
+     "titolo": "Quarantotto milioni per tenere acceso il tavolo del GCAP INDUSTRIA",
+     "titolo_it": "",
+     "riassunto": "Finanziamento di 48 milioni per il GCAP INDUSTRIA, programma internazionale per aerei da combattimento. Segnale positivo per l'industria aerospaziale e le assunzioni future.",
+     "fonte": "PRP Channel",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2lzblF6VGxjZy1sVy1xbnRpcFphc1JsSkRJd0Q1clJfVnNsRkllWG1fZjFXTEFLeE02UUtLNGlWVFdfX2h1d19jeVNaT1hKQ08tVFB3S25zNzNjUFB1UUFZdXhjazlSSFR3cnAyQm9xNUdPdVBCZDQtYl9sUW1JMnA3bkxyYmV3eXM2bQ?oc=5",
+     "ora": "2026-11-01T08:34:52+00:00"
+    },
+    {
+     "titolo": "Aeronautica Militare e cultura aerospaziale: la Forza Armata alle celebrazioni per il centenario della Scuola di Ingegneria Aerospaziale della Sapienza",
+     "titolo_it": "",
+     "riassunto": "Celebrazioni per il centenario della Scuola di Ingegneria Aerospaziale della Sapienza con la Forza Armata. Evento che evidenzia legami tra università e settore aerospaziale.",
+     "fonte": "Ministero della Difesa",
+     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTFVLR2NURzQzWldoUTVyb05jdXgwNTd1SndhZXZpQU5wY1VEaExJc3lLeER5bnE5OVJTYXpEYy01aE1tellfbTZWMGRfQklTX1lnYVpWVVZZM1RJWVplSG5CLTlQeFBjc2ZDbXhCWFEzd2UyRW1ISXZQZmRSYjBJZlBNMnpXRE1HWlJIOEE5aDgza2lZdTNDYUM2T3Z2bmZFWnB0T0MyV2J5SUtfTHJVcDZfZTI3UjdlU1RNeVN5eUVmMktMaDhGUGJTaEItMEJkMGNBbW5WLVpibjF2cHJKZ0tuZ0NBc3pOZ1lqRlBQOWh6VE9xUWpvcEJ6UXdEZU5KcXZ6akUxc1FlYjJJYUZ1N25uRmNrTlplOWhzVGln?oc=5",
+     "ora": "2026-10-28T18:04:38+00:00"
+    },
+    {
+     "titolo": "Manovra 2027, cosa cambia davvero per militari e Forze di polizia: riservisti, 90 milioni sui Fesi, straordinari arretrati e nuove assunzioni. Tutte le cifre articolo per articolo",
+     "titolo_it": "",
+     "riassunto": "Manovra 2027 con modifiche per militari e polizia, inclusi fondi e nuove assunzioni. Può influenzare opportunità di lavoro nelle forze armate, compresa l'aeronautica.",
+     "fonte": "infodifesa",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11alVxaG9WdWVhRE8xdWRnTnhGZ1VTUDJ4SFJhcWFiUTQ2OUVKeG1wTWgta0ZoXzRNdGdPeFdzQ01RaUhtNVVWZFFYdGRlVGF0eWtpa2F1Zm9IemtoWTZnNHFIUDRmeVlIT2h5RTRTZjhvVmpKd0IybTFTZURUdw?oc=5",
+     "ora": "2026-11-02T05:19:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Regno Unito e Germania rafforzano la cooperazione su AI militare dal 2027",
+     "titolo_it": "",
+     "riassunto": "Regno Unito e Germania hanno avviato una cooperazione sull'intelligenza artificiale militare a partire dal 2027. La notizia interessa chi cerca opportunità nel settore difesa e aerospazio in Europa.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/02/regno-unito-e-germania-rafforzano-la-cooperazione-su-ai-militare-dal-2027",
+     "ora": "2026-11-02T14:24:08+01:00"
+    },
+    {
+     "titolo": "A Ciampino l'aereo con le salme dei militari morti in Bosnia",
+     "titolo_it": "",
+     "riassunto": "Quattro militari italiani morti in un incidente elicottero in Bosnia sono stati rimpatriati all'aeroporto di Ciampino. L'episodio riporta l'attenzione sulla sicurezza del volo in ambito militare.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/atterrato-a-ciampino-laereo-con-le-salme-dei-militari-morti-in-bosnia_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
+     "ora": "2026-11-02T14:21:17+01:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
