@@ -1,0 +1,245 @@
+{
+ "giorno": "2026-11-03",
+ "creato": "2026-11-03T12:49:39+00:00",
+ "in_breve": [
+  "L'ESA apre i tirocini per il 2026 e pubblica posizioni lavorative nel settore spaziale.",
+  "ITA Airways prevede 500 assunzioni entro il 2030 grazie alla crescita e alla partnership con Lufthansa.",
+  "Anthropic avverte che Claude si sta avvicinando a migliorarsi da solo in modo autonomo."
+ ],
+ "modello": "dots-studio/dots-3-note-preview:free, google/gemma-4-31b-it:free, liquid/lfm-2.5-2.6b:free, nvidia/nemotron-3-ultra-550b-a55b:free, nvidia/nemotron-3.5-super-vl:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Avio, Mediobanca Research avvia la copertura con rating outperform; previsti ricavi a 2,3 miliardi di euro entro il 2035",
+     "titolo_it": "",
+     "riassunto": "Mediobanca Research ha avviato la copertura su Avio con un rating outperform, prevedendo un triplo dei ricavi entro il 2035. È una notizia chiave per chi cerca opportunità nel settore aerospaziale italiano, in particolare nello spazio.",
+     "fonte": "Il Giornale d'Italia",
+     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcmNhaE5XRldPNlVlMkJWb21pQlh4WDdEN2VBNml1NlZSOHVybHhDdW1aN0daanZDYWxIMjZTVDFaWEZTUDB0cXQxdEZmeVdJbzhPUmpENUhmV2hLRDYwTG90TEgwYnhhXzVEYS0tb2dncjNYZHNENVFIQ3B3LVZVLWZHSlNUMldIYklOYkpaZDJLUHF2ZlloYWZ6eEx4M0FhNzJaaHdncDhOSlhJOTRpR3h2RV95UGtNTjNZS3VseVR4aXBldUVGS19KVUNtQzVoczJ0TnJ6MEgxYzVibXVaRXdMSHFRSWVKWU12X0c4NVJldHE4LXI4N0FkbmhhdnNRa1hBNGJ3YzN0ZGdMUEdR?oc=5",
+     "ora": "2026-11-03T12:05:27+00:00"
+    },
+    {
+     "titolo": "Thales Alenia Space testa sull’Etna il rover destinato alla Luna",
+     "titolo_it": "",
+     "riassunto": "Thales Alenia Space sta testando il rover destinato alla Luna sull'Etna. Mostra l'avanzamento della tecnologia spaziale italiana e le opportunità nel settore dei robot spaziali.",
+     "fonte": "Quotidiano Piemontese",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZHJ1QldJZExOV0hfcjhWeWVxYnFFMjRmUTJDZWJNTHdaWHNIWkNMZHlOSk1ZSkJfSXJqZVJqR3Z6UFBVYVVYTjNRa2gzdHpOMlVPTHF4eFdweWVFYXg3cmxEd2dxVk9wclp3NHFhWTgzdXF3VGl5YnFHeTlSVDB5aHlNNzRibHQzeXlZb3pBRQ?oc=5",
+     "ora": "2026-11-02T17:51:21+00:00"
+    },
+    {
+     "titolo": "FAA Orders 787 Inspections Over Missing Boeing Records",
+     "titolo_it": "La FAA ordina ispezioni sui Boeing 787 per registri di produzione mancanti",
+     "riassunto": "La FAA ha ordinato controlli aggiuntivi sui Boeing 787 a causa di verifiche di produzione saltate, con rischio di accensione nei serbatoi durante i fulmini. Un caso centrale per la sicurezza del volo e la qualità industriale.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/faa-orders-787-inspections-boeing-records/",
+     "ora": "2026-11-02T17:38:49+00:00"
+    },
+    {
+     "titolo": "NTSB finds evidence of in-flight breakup before Florida Learjet crash",
+     "titolo_it": "NTSB trova indizi di disintegrazione in volo prima del Learjet in Florida",
+     "riassunto": "Il NTSB sta indagando sul crollo in volo di un Learjet 60 in Florida. Un incidente grave che tocca la sicurezza strutturale e la progettazione degli aerei.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/florida-learjet-crash-ntsb-in-flight-breakup",
+     "ora": "2026-11-02T19:18:12+00:00"
+    },
+    {
+     "titolo": "Saab AI agent controls Gripen E autonomously in BVR combat scenarios",
+     "titolo_it": "Agente IA di Saab controlla il Gripen E in combattimento autonomo",
+     "riassunto": "Saab ha testato un agente di intelligenza artificiale sviluppato in-house che controlla un caccia Gripen E in scenari di combattimento BVR. Un esempio concreto di come l'IA stia entrando nell'aerospaziale militare.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/saab-in-house-ai-gripen-e-flight-tests",
+     "ora": "2026-11-03T10:48:25+00:00"
+    },
+    {
+     "titolo": "United Airlines Threw Away A Damaged 25-Year Airbus A320, But Repaired A Fuselage-Wrinkled Boeing 767 Much Older",
+     "titolo_it": "United Airlines butta un A320 danneggiato ma ripara un 767 più vecchio",
+     "riassunto": "United Airlines ha preferito riparare un Boeing 767 più anziano piuttosto che un Airbus A320 danneggiato, mostrando decisioni strategiche di flotta. Utile per capire le dinamiche di gestione e manutenzione delle flotte aeree.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/united-airlines-threw-away-damaged-25-year-old-airbus-a320-repaired-fueselage-wrinkled-boeing-767-older/",
+     "ora": "2026-11-03T12:00:18+00:00"
+    },
+    {
+     "titolo": "Boeing wins Icelease order for up to three 767-300BCFs, conversion in Singapore",
+     "titolo_it": "Boeing vince un ordine di tre 767 cargo per Icelease",
+     "riassunto": "Boeing ha ricevuto un ordine per fino a tre 767-300BCF da convertire in cargo. Mostra la domanda nel settore cargo e la posizione di Boeing sul mercato.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/boeing-icelease-order-767-300bcfs-conversion-singapore",
+     "ora": "2026-11-02T16:03:47+00:00"
+    },
+    {
+     "titolo": "Il prezzo del carburante avio pesa ancora di più su Lufthansa nel 2026 - obiettivo sugli utili ridimensionato",
+     "titolo_it": "",
+     "riassunto": "L'aumento del prezzo del carburante spinge Lufthansa a ridimensionare i obiettivi di utili per il 2026. Un dato importante sulle condizioni economiche dei principali vettori europei.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdWdENUpzREU5TGk4bEJYMzRlSlBlVXZyZ3NZM2VUZW1DY25nZm5fR2hzd251S3JScnpJRlBoMktjTXRwQXpfVERtT0NmRDN5RGFLcmN2VHVRSXBxOVJpZHJSUF9XSldsQ0lheGZIOTZwdlBFeWN3VkRNQW1pd3RVdzZsWllqSnM4RG9GbGRSTEhURk1CNDJ4YmpqNWoxV1R4d21vbk95SmFaQmRPTjVsWjBnZlpjZVVRTHRTZ2luUTh0cXdJWGNYZExpWXhIX1hDaUswMkkzTlQwODZkbDhQVE5YTkNSNWNN?oc=5",
+     "ora": "2026-11-03T07:19:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "da Moneyfarm - Anthropic, la corsa verso Wall Street mette alla prova il modello economico dell’AI",
+     "titolo_it": "",
+     "riassunto": "Anthropic sta affrontando la pressione del mercato finanziario che mette in discussione il suo modello economico. Questo è rilevante per capire le sfide di scaling e investimenti nel settore AI.",
+     "fonte": "Easy News Press Agency",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdWQ3WUctUWl3QjktNHBTZmRBS0N2RnFEVnZBOFRqMlpOQXA3aVVrR2NOSDlrdzZfYVNsT1B3WjVULW15Q1ZoSXBFazRKYzdKN1Y4SDFLOC1IRy12blBURTBnclJObnB6Ym1ZQloyZjFSa0x0UFhGQ3J2dG9UOTZwWU1HdmlCbWhVbFgyUWw5RENZM3FwRVdVWlBtTGdSMEZJZi10WENWY05XSXhDY2hMQVBaT3pZMGRDSzdaUERZNXI?oc=5",
+     "ora": "2026-11-03T08:47:00+00:00"
+    },
+    {
+     "titolo": "Anthropic avverte: Claude si avvicina all'auto-miglioramento autonomo",
+     "titolo_it": "",
+     "riassunto": "Anthropic avverte che Claude si sta avvicinando all'auto-miglioramento autonomo. La sicurezza dei sistemi di intelligenza artificiale è un tema cruciale per applicazioni critiche come il volo.",
+     "fonte": "SmartWorld",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTgxM2prczhxWWU1VXlPQXNvd0psNF8tRXNwUEpMWDZSUmZhcmJnUF9kd0VUbzQ1VTlxTEp3MkdvX0g4OGZCREpzekNiTUh3c1hpV3pVb3VWVEY0Y09mdGlraTZ6dW9aQkxoN2QweG5zbVVjeG1JNGpxeHNCRHZoS1RvZEh6WE5uS3U0SEpZcTVVa0FCQTJpOEhyRXNOS1pCdlFLZk1B?oc=5",
+     "ora": "2026-11-03T11:22:10+00:00"
+    },
+    {
+     "titolo": "How “reverse game theory” could keep AI agents in check",
+     "titolo_it": "Reverse game theory per controllare gli agenti IA",
+     "riassunto": "Una nuova tecnica chiamata reverse game theory cerca di creare incentivi per far seguire le regole agli agenti IA. Questo approccio è importante per limitare i rischi operativi.",
+     "fonte": "MIT Technology Review",
+     "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+     "ora": "2026-11-03T10:43:41+00:00"
+    },
+    {
+     "titolo": "Anthropic: l'IA può far avanzare i modelli più dei controlli di sicurezza",
+     "titolo_it": "",
+     "riassunto": "L'IA sta evolvendo più velocemente dei controlli di sicurezza tradizionali. La velocità di sviluppo richiede nuovi standard di validazione nei sistemi autonomi.",
+     "fonte": "Hardware Upgrade",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeVgtZkllenRBTUNwOEFRVTZjYmJJUjZjeHpoUjAxOUZrandDeG9vQWt4VDBKTUVXNUlhclBtUEJKUWVBNkNhZXRrTG9CN3hSVnJxTkVyODQ0UXZGV3owRURwNFlyUnJVMTZaQ2ZYN0ZxZlFuWldIM1BaMjJ5Wnlwdm15cVRkTGxVU1FLbG4tMm5WWFg4ZW9qQ3lhMURibk1WTWNhLTZrYnAxaXpZLWF3YTFTMXotcE9XejV6eGxJR2tTNmJLejA1RUdnbzYxQQ?oc=5",
+     "ora": "2026-11-03T07:41:01+00:00"
+    },
+    {
+     "titolo": "Ad Anthropic pensano che l'IA svolgerà tre quarti del lavoro entro il 2030. Provate a dirlo a chi produce viti in Brianza",
+     "titolo_it": "",
+     "riassunto": "Si stima che l'IA svolgerà tre quarti del lavoro entro il 2030. Il cambiamento del mercato del lavoro è un impatto diretto per gli studenti in ingegneria.",
+     "fonte": "La Gazzetta del Pubblicitario",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZk91Nkxud1BRUV9XdmhYWTJLWGJwYXZraHlkcUgyQ3RfSXM4cW5XLTVGYXRQNUtsTF90VFhRVk8yYWMxY1ZlOVhBclBIS3R5WkNrWnNqNDFPbVdJTVQ3ZXEtdERtTVlwU1VjX3ZkNHB4aVRYcGM4ZTRJTkdoMjh2MGhpd09wX2s?oc=5",
+     "ora": "2026-11-03T11:58:58+00:00"
+    },
+    {
+     "titolo": "ChatGPT prende il peggio da Claude: i limiti di utilizzo diventeranno condivisi e potrebbe essere malissimo",
+     "titolo_it": "Limiti di utilizzo di ChatGPT e rischi potenziali",
+     "riassunto": "I limiti di utilizzo di ChatGPT diventeranno pubblici e potrebbero comportare rischi operativi. È importante monitorare come le piattaforme gestiscono i vincoli per la sicurezza.",
+     "fonte": "SmartWorld",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVzZMWFBOZVJzN3VmWWtiSDJGMjhXazV2M2RiYTB5UlU2R0p1Mmx3ZUpvc1pyb2VKX0NGd2lCWDB1R3E5d0loTE45RS00bFRZdk1LUkFGazFpanZKWFZ1WUxDV2tSakxNZTVsLVZBd1VNQ0drQ0JJOWY5alpldDJVQ1lnbXlXbWI4cFFnd2E4dw?oc=5",
+     "ora": "2026-11-03T11:05:00+00:00"
+    },
+    {
+     "titolo": "Questa non è un'esercitazione: Anthropic parla chiaro a Wall Street su quello che l'IA potrebbe fare",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha comunicato chiaramente a Wall Street sulla potenziale di IA e sui rischi associati. La trasparenza strategica è fondamentale per gli investitori e per la regolamentazione.",
+     "fonte": "Libero",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdThCdGhNWEYxaUNOUXFtV2F1ZFJ4YUYzanNOdXkxcWlkVDN0WEVlWWlINTlUajZ0VUpmdnlVMHJfSWhZbVJ6RWE5YnNqMGFDYnEyNUFwS1pVcEJicTZRZzRQQVdzcnlxTkVmakJFaW5wOWh5M2ZJMVlBcXhJSS1DS0VHNWlwN0dtRzNz0gGQAUFVX3lxTE42Q05TX21GSUx6UVYzYUdmN0VfYS0yem42MG1uSG9fa0hpUXViemttNXp1cVk5OFFRWHJmeDVWclpfN1djbk9LTXpXSkxXWDVNWTVGN0FGS3N6UTBPM2gxTk1lWHROUndYV0VPQkhwTEkwRFNfQUdIWUd2OS1TSFZtQVNWRGFLd1p1T0ViOEZwUg?oc=5",
+     "ora": "2026-11-03T10:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Tirocinio presso l'ESA 2026 - Scopri gli stage nell'Agenzia Spaziale Europea o le posizioni lavorative disponibili",
+     "titolo_it": "",
+     "riassunto": "L'Agenzia Spaziale Europea apre le candidature per tirocini e posizioni lavorative 2026: è l'opportunità più diretta per entrare nel settore spaziale europeo con un percorso strutturato.",
+     "fonte": "Concorsando.it",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MN3Fsd01mMFZJbG9ESUN2SWhKYWdJT0VkVjV2V0g3clVFY1UxWDlDVG9rMmIxMU9rYjIxLVd6UV9mbW9GejFaemNoV3hnYUNUY0owWUZXTk9jbncyY1FwVF9ZYw?oc=5",
+     "ora": "2026-10-28T11:13:43+00:00"
+    },
+    {
+     "titolo": "ITA Airways, 500 assunzioni entro il 2030 tra crescita e sinergie Lufthansa",
+     "titolo_it": "",
+     "riassunto": "ITA Airways prevede 500 assunzioni entro il 2030 grazie alla crescita e alle sinergie con Lufthansa: segnala un mercato del lavoro in espansione per ingegneri aeronautici nel vettore nazionale.",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWHpCQUYyREE1Nnl5THhrcXBNVzBCS2JVNzhOTzZLMl9NbG1zbzdZMHJlMVhOakNKWGdLR1pkWi1QLTRTejhzZGh6alZTaGRIbGstTS1vd3R2NGVuWDJzblR4SUE3UUdLNDVpal80MURFOHl2Ty1Kc3RyS01aekphM1ZDREVUQ3hIc3poVTJhOWQ3TW1aXzlvZHQtNEwzMTB0U3dqbVJxdjFtUFJsNnc0RHlWbXVBazBoUGl3?oc=5",
+     "ora": "2026-11-02T09:35:00+00:00"
+    },
+    {
+     "titolo": "L'Italia punta allo spazio: nasce la fabbrica dei satelliti, oltre 200 assunzioni entro il 2030 (VIDEO)",
+     "titolo_it": "",
+     "riassunto": "Nasce in Italia una fabbrica di satelliti con oltre 200 assunzioni previste entro il 2030: conferma l'investimento strategico nazionale nella manifattura spaziale e crea nuovi sbocchi occupazionali.",
+     "fonte": "Giornale La Voce",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSUE4M2lQN1luclN2cEF0eUxpYzM5NmRTQ1JGUGFFeVN3TVZFMTAtdzFPTTRiNTBiQnduaUZoMElKeFliY01nUElWRFFfa0Y3MnRFTUlnRmxMUW1wd2JGRDFJU05ESjg4SU0tZFpiejBOUGsxZlVuWnlrXzhpNXpWOElCZjRzRmhDOGxid3hVQWlHVTIyX2hEVGkzZEZqRWhEYk9rRHV6Rmg0T0xZYXNvQTdkTXk3RnZYNU9vY2dRTzEyRm1TZmVTeTZlamgwcWsxYWdqWUQwbERmNjhNV01ZMDlsdTRJTzRnNm1hUA?oc=5",
+     "ora": "2026-10-28T17:22:00+00:00"
+    },
+    {
+     "titolo": "Virtual Recruiting Day ELT Group – 15 dicembre 2026",
+     "titolo_it": "",
+     "riassunto": "ELT Group, azienda della difesa e aerospazio, organizza un Virtual Recruiting Day dedicato a Sapienza il 15 dicembre: occasione concreta per colloqui diretti senza uscire dall'ateneo.",
+     "fonte": "Sapienza Università di Roma",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWDE5ZjQ3RG9BTVhHd3RJRGd4N0RyMldPaHBnS3dfREttYW9YV2RwSGtZRWlEQk5KSnJEVFc4TE5PSFAwSDBzaDV4V2FhdG5HM093SDdRV0JyaE1pVkZ1UGVnck5wUFJ1NWUwRzlvMUl4ZzNncUtVSDdDaFB5UjR1QnJCWk5xYVBBTzdWaA?oc=5",
+     "ora": "2026-11-02T15:26:10+00:00"
+    },
+    {
+     "titolo": "Antonio Carcaterra è il nuovo rettore della Sapienza",
+     "titolo_it": "",
+     "riassunto": "Antonio Carcaterra, ingegnere, è il nuovo rettore della Sapienza fino al 2032: il suo programma cita intelligenza artificiale e nuovi studentati, temi che influenzeranno direttamente la vita universitaria e la ricerca.",
+     "fonte": "Sapienza Università di Roma",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeXFMelNENjBOWEpROU8yZlotb3IxMW5pdWkxWFJua3ZONDhObWFvWHo5b1FtTDU1YmpfZUF0MXRKMWNHekRtWkJkMS1iclFDVUtNWkxnclI5X1FMajVyTkhZU2J3X0lxSHZJZDVPZW5xUjlmUW1OT0ZUQVU1UmJwamxNemlNemNfTWFxekxraFQ?oc=5",
+     "ora": "2026-10-30T14:19:26+00:00"
+    },
+    {
+     "titolo": "Aeronautica Militare e cultura aerospaziale: la Forza Armata alle celebrazioni per il centenario della Scuola di Ingegneria Aerospaziale della Sapienza",
+     "titolo_it": "",
+     "riassunto": "L'Aeronautica Militare partecipa alle celebrazioni per il centenario della Scuola di Ingegneria Aerospaziale di Sapienza: rafforza il legame tra formazione accademica e mondo operativo/difesa.",
+     "fonte": "Ministero della Difesa",
+     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTFVLR2NURzQzWldoUTVyb05jdXgwNTd1SndhZXZpQU5wY1VEaExJc3lLeER5bnE5OVJTYXpEYy01aE1tellfbTZWMGRfQklTX1lnYVpWVVZZM1RJWVplSG5CLTlQeFBjc2ZDbXhCWFEzd2UyRW1ISXZQZmRSYjBJZlBNMnpXRE1HWlJIOEE5aDgza2lZdTNDYUM2T3Z2bmZFWnB0T0MyV2J5SUtfTHJVcDZfZTI3UjdlU1RNeVN5eUVmMktMaDhGUGJTaEItMEJkMGNBbW5WLVpibjF2cHJKZ0tuZ0NBc3pOZ1lqRlBQOWh6VE9xUWpvcEJ6UXdEZU5KcXZ6akUxc1FlYjJJYUZ1N25uRmNrTlplOWhzVGln?oc=5",
+     "ora": "2026-10-28T18:04:38+00:00"
+    },
+    {
+     "titolo": "Borse di collaborazione Sapienza 2026: nuovi bandi per biblioteche e dipartimenti, scadenze a novembre",
+     "titolo_it": "",
+     "riassunto": "Pubblicati i nuovi bandi per borse di collaborazione 2026 in biblioteche e dipartimenti di Sapienza, scadenza a novembre: opportunità di reddito ed esperienza curriculare all'interno dell'ateneo.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzVpRXRlbmJmZ3pzclphdmJYME9tWTdCTmprRWZaT3JHd3paYTM4ZVExaG1JM2RNN3I5eU9QWHV3NUdGd1E0S0VnX25MU2drVjA1SzV6VTFKSFlVN3hlLUxBcXhMSEdTT3VSVExsM2JTZGMzcW9td2c5WjRiMXBGa0owOA?oc=5",
+     "ora": "2026-11-02T19:15:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Nepal, regione dell'Everest: scontro tra elicotteri, turista indiano morto",
+     "titolo_it": "Scontro tra elicotteri in Nepal",
+     "riassunto": "Due elicotteri si sono scontrati durante l'atterraggio nell'Everest. L'evento è rilevante per l'analisi della sicurezza del volo e dei fattori umani in operazioni critiche.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/video/2026/11/03/nepal-regione-delleverest-scontro-tra-elicotteri-turista-indiano-morto",
+     "ora": "2026-11-03T13:26:40+01:00"
+    },
+    {
+     "titolo": "I funerali solenni dei quattro militari italiani morti nell'incidente dell'elicottero in Bosnia. L'omelia: \"Seminatori di germogli di pace\"",
+     "titolo_it": "Incidente elicottero in Bosnia",
+     "riassunto": "Si sono svolti i funerali dei militari italiani morti in un incidente di volo. La notizia riguarda la sicurezza operativa dei mezzi di trasporto militare.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/i-funerali-solenni-dei-quattro-militari-italiani-morti-nellincidente-dellelicottero-in-bosnia_925b4889-4149-4b99-8c99-c39e52474bfa.html",
+     "ora": "2026-11-03T12:51:02+01:00"
+    },
+    {
+     "titolo": "Nel 2026 i viaggi globali dovrebbero raggiungere il record di 1,57 miliardi di arrivi, Europa +5%",
+     "titolo_it": "Previsioni viaggi globali 2026",
+     "riassunto": "Si prevede un record di 1,57 miliardi di arrivi internazionali entro il 2026. Il dato è fondamentale per la pianificazione della capacità aeroportuale e dell'ATM.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/03/nel-2026-i-viaggi-globali-dovrebbero-raggiungere-il-record-di-157-miliardi-di-arrivi-europ",
+     "ora": "2026-11-03T12:44:39+01:00"
+    },
+    {
+     "titolo": "Attacchi hacker, da frigoriferi a videocitofoni: elettrodomestici e dispositivi a rischio",
+     "titolo_it": "Vulnerabilità dispositivi IoT",
+     "riassunto": "Attacchi hacker a elettrodomestici e sistemi di refrigerazione evidenziano rischi di cybersicurezza. Il tema è cruciale per l'integrazione di sistemi intelligenti e AI in infrastrutture critiche.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/tecnologia/2026/11/03/attacchi-hacker-elettrodomestici-dispositivi-rischio-quali-sono",
+     "ora": "2026-11-03T12:08:48+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
