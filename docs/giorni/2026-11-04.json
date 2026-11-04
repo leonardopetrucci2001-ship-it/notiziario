@@ -1,0 +1,237 @@
+{
+ "giorno": "2026-11-04",
+ "creato": "2026-11-04T13:01:28+00:00",
+ "in_breve": [
+  "La Sapienza bandisce un concorso per 15 tecnologi a tempo indeterminato riservato a laureati in ingegneria.",
+  "ITA Airways prevede 500 assunzioni entro il 2030 grazie alla crescita e alle sinergie con Lufthansa.",
+  "In Italia nasce la fabbrica dei satelliti con oltre 200 assunzioni previste entro il 2030 nel settore spaziale."
+ ],
+ "modello": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free, nvidia/nemotron-3-ultra-550b-a55b:free, nvidia/nemotron-3.5-super-vl:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "I giovani vanno in cabina di pilotaggio alla Newton Room. Intesa tra Boeing, FIRST, Aeroitalia, Ryanair e Avio Aero",
+     "titolo_it": "Giovani in cabina di pilotaggio con Boeing e partner",
+     "riassunto": "Un'intesa tra Boeing, FIRST, Aeroitalia, Ryanair e Avio Aero propone ai giovani esperienze pratiche in cabina di pilotaggio, offrendo opportunità di stage e inserimento nel settore aerospaziale.",
+     "fonte": "Italiavola & Travel –",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUDFjaFNLcnZpQkFmQlVkc29hcm1CM2FMUzB2RU0zRW92eEVQbnA0YmJ0aHV1ckpCUDR4SllMWHJ3d2tQQ2NEUEItTlR4VjMwOTVOODNIRjAyX19UUzR2MC1SUV9uSWRPRmtqSWlwemZ6Z1pfQ0Z5blcyQWhrOW43NXg4eGt5OUhIeC1zT0F1dWJaMHdyX3dDSXRqMkFyTEJTT2l0RFVTSC1XTEFFVXo2c0o2TzlOUVdGcl9PTTI5a2NDS3VvVy0xcnVDb0VFVkVlZ2lpNjhyNEpaQk12Z0RZ?oc=5",
+     "ora": "2026-11-03T16:09:57+00:00"
+    },
+    {
+     "titolo": "Air India eyes more widebody jets as new CEO predicts return to profitability",
+     "titolo_it": "Air India valuta nuovi widebody",
+     "riassunto": "Air India prevede ulteriori ordini di aeromobili widebody da Boeing e Airbus, segno di crescita della flotta e di potenziali opportunità per ingegneri e tecnici.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/air-india-widebody-orders-new-ceo-profitability",
+     "ora": "2026-11-03T19:24:40+00:00"
+    },
+    {
+     "titolo": "Leonardo ai vertici mondiali della sostenibilità: primo posto nel settore aerospazio e difesa per S&P Global",
+     "titolo_it": "Leonardo primo nella sostenibilità aerospaziale",
+     "riassunto": "Leonardo si posiziona primo nel settore aerospazio e difesa secondo S&P Global per sostenibilità, evidenziando il suo ruolo di leadership e innovazione.",
+     "fonte": "Associated Medias",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORENYWTk0cHFRMmVBNENWdGZja1ZjNkZBVU9tM2EyeHZOa1pWU1ZRRy1GcEtCdnJjLUptTUpxZ1lvQ2lyOGhtSGMyS05Od1pPTXZWempldzhhZzkxVmU4a09hdW1mSWxWY3pkck9LelBTSk1PdlJSZ3BFeHZoLUhZalBNOWs5YWEzbGpHNXBTNWI1ZXFYb3haOWZuZTluU1VMWGVfT3I1OU5kMUFpWlU4cUlJWkYwSVRBWTM4SWlTNnJRZ09EMkFRS0dYeHdGNjZ0UWRnd2hR?oc=5",
+     "ora": "2026-11-03T18:33:29+00:00"
+    },
+    {
+     "titolo": "Eve signs binding agreement for up to 12 eVTOLs with aspiring Brazilian operator",
+     "titolo_it": "Eve firma accordo per 12 eVTOL",
+     "riassunto": "Eve Air Mobility ha firmato un accordo vincolante per up to 12 eVTOL, indicando l'espansione delle soluzioni elettriche per il trasporto urbano e regionale.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/eve-air-mobilitty-agreement-evtols-brazilian-operator",
+     "ora": "2026-11-04T12:42:53+00:00"
+    },
+    {
+     "titolo": "Aerospazio, intesa tra Campania e Turchia: il Dac firma un accordo con il cluster di Ankara",
+     "titolo_it": "Intesa Campania-Turchia per il Dac",
+     "riassunto": "Il Dac firma un accordo con il cluster di Ankara in Campania, creando una collaborazione internazionale che può offrire progetti e opportunità di lavoro nel settore aerospaziale.",
+     "fonte": "ildenaro.it",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2M1NkpqVUFqMzQ3V2ZHUkZQSzJvSkdDcmI3dDNYYkVKZGNIZF9IYjZZZi1FeXJXcE9KN0hYaFZtSFhqS1gwSDJhRUo2MWxBcHg2eU1lRnB3QmJfVVBrUEdWaUJGMl9HMzNqN0pueEtXem95d1JvdTk1THdkOGw5RWxnTTY3Z0IzRUFtMEc5ZTZJVF93ek8zNHcyMWFWQkNTWmZwMm9iV3l4ZlJMWXM3QlNkRW81UQ?oc=5",
+     "ora": "2026-11-04T12:14:20+00:00"
+    },
+    {
+     "titolo": "Dozens Of Boeing 787s Face Checks Over Fuel Tanks That Could Ignite When Hit By Lightning",
+     "titolo_it": "FAA ordina controlli sui serbatoi dei 787",
+     "riassunto": "La FAA ha disposto ispezioni sui serbatoi dei Boeing 787 per ridurre il rischio di incendio causato da scintille di fulmine, tema importante per la sicurezza del volo.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/boeing-787-faa-fuel-tank-inspections-lightning-strike/",
+     "ora": "2026-11-04T09:54:09+00:00"
+    },
+    {
+     "titolo": "Boeing confirms triple-digit Avolon order is for MAX 10 jets",
+     "titolo_it": "Boeing conferma ordine di 737 MAX 10",
+     "riassunto": "Boeing ha confermato che l'ordine di Avolon per decine di 737 MAX 10 è effettivamente per il modello MAX 10, dimostrando la domanda continua per i nuovi jet di media taglia.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/avolon-boeing-737-max-10-order",
+     "ora": "2026-11-04T09:19:46+00:00"
+    },
+    {
+     "titolo": "SIAM: OLTRE 81 MILIONI DA ENAV, MA QUALE RITORNO C'È PER I CTA MILITARI?",
+     "titolo_it": "SIAM: 81 milioni da ENAV per i CTA militari",
+     "riassunto": "Il sindacato SIAM segnala un finanziamento di 81 milioni da ENAV per i centri di addestramento aeronautico militari, indicando potenziali opportunità di stage e lavoro nel settore della difesa.",
+     "fonte": "SIAM | Sindacato Aeronautica Militare",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTnM0MmVsY1BVSi1UbzJSY0NJelNnOTFneVhGcVVhcDFRdnVHSWNCVDN5YWpuQTdkc0pRNXYyM0pvNFZ6X2kyMF8xTl85V0gxSjdPamJRWUhkR1dwWHFzelhaZzJjQ2h0OHBtOW12RUY0U21pSHkwU0ZjRmp4ZGZtU0hPOVJhWnZkMlFOVTVnM0hXbHQwWk13bVNQVUhvY1UxbzBSUTFoM1RHWU5WbHFxUUVtekNjXzV6emJSRTBRYmJrandyWVBGandjOA?oc=5",
+     "ora": "2026-11-04T07:02:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+     "titolo_it": "Controllare gli agenti IA e test di lealtà per la superintelligenza",
+     "riassunto": "MIT Technology Review analizza come gestire agenti IA autonomi e i metodi per allineare sistemi futuri molto potenti. Rilevante per la sicurezza del volo e l'affidabilità dei sistemi critici aerospaziali.",
+     "fonte": "MIT Technology Review",
+     "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+     "ora": "2026-11-03T13:10:00+00:00"
+    },
+    {
+     "titolo": "Anthropic sviluppa un sistema per dimostrare l’identità dei modelli di IA",
+     "titolo_it": "Anthropic sviluppa un sistema per dimostrare l'identità dei modelli di IA",
+     "riassunto": "Nuovo meccanismo per verificare quale modello sta girando in produzione, utile per audit e catena di fornitura. Importante per certificazione e tracciabilità nel software aeronautico.",
+     "fonte": "SHIFTS! Magazine",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNXzRPNmFuMXN4UFBBVm5Kenk5V1hmSVZKV2lCRFNHYl9sNjdpMzJQaHNfN2J3OWNQRzBZRUc4R0Z3Zzl0czlVZ2c3THdHOGIycWlFQlZsWTVGMm9lS0NWV09uYXAxOC1zbmRoWVZqaEx3SjRzd0xSalk5RUdfT3U2MXY3S1o1bkhINzZGUnZVUF8xVUliYTZqVGxyZ3NyOEF3Y1RMNzhFY0tjWGhEWVdXN1oya0Z1OVRtWmFvc20ta0xpZjR3WE5Za18tSlpERW84d2c?oc=5",
+     "ora": "2026-11-04T10:45:34+00:00"
+    },
+    {
+     "titolo": "SentinelOne porta Claude Mythos 5.1 in Wayfinder per trovare le falle davvero sfruttabili",
+     "titolo_it": "SentinelOne integra Claude in Wayfinder per trovare vulnerabilità sfruttabili",
+     "riassunto": "Uso di LLM per automatizzare la scoperta di falle reali nel codice. Interessante per sicurezza informatica di sistemi avionici e infrastrutture ATM.",
+     "fonte": "www.tomshw.it",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTkI1bUg1cjhTcHJTUVJiTy1Ja3NTSkhCb2xqdTVTUm9FYnBRWVJXMGE2QXlhVkNrN3RyalRRQng0c0tLRjlyelRrM09UOUtFd2JleTZITlYtb0hYMkY4ZnAzZFhxaTl2eWpQYTlGeWhyd3l5MXRGZEdBY0c3Z0dlUHdpNVlmSGwyQUtQd3hGNXFZc25Ea3duVnN5WV82RGcxNmRkSTRDTE5mTG5rU3pIZ2xZTVBWbnZmZWZr?oc=5",
+     "ora": "2026-11-04T08:48:19+00:00"
+    },
+    {
+     "titolo": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+     "titolo_it": "Qwen 3.8 27B legge i pesi delle reti neurali su laptop",
+     "riassunto": "Un modello open source riesce a interpretare e manipolare i pesi di altri modelli in locale. Spunto di ricerca per interpretabilità e compressione modelli su hardware embedded.",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+     "ora": "2026-11-03T16:29:48+00:00"
+    },
+    {
+     "titolo": "Gemini o Claude per programmare: prezzo e risultati dei test",
+     "titolo_it": "Confronto Gemini vs Claude per programmazione: prezzi e risultati",
+     "riassunto": "Analisi pratica su costi e qualità del codice generato dai due principali rivali. Utile per scegliere strumenti di sviluppo in tesi o stage.",
+     "fonte": "quasa.io",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTlpvUDIyV0hjQ0gxVUtvc0ZpVXo5eHhsSElSVFJjNTFscXJZam1rRUcwd2NTV3NUMTFBY1l0RlhFdVpvY0s1NE9MdUI4ZGtFdGE2ZTRLdWM4anpfSmVsQVNHSVFUenFSQXJvUXFIUmRQZFdVT2RuVWRnMDhKbEdOUF9GZFpoakpDMWxKMUswRS15TkZfbE1ZMUpvX0Z6b0h3?oc=5",
+     "ora": "2026-11-04T10:15:00+00:00"
+    },
+    {
+     "titolo": "OpenAI affida all’ex segretario dell’esercito Usa la sicurezza dell’IA",
+     "titolo_it": "OpenAI nomina ex segretario dell'Esercito USA alla sicurezza IA",
+     "riassunto": "Dan Driscoll entra nel board per la sicurezza, segnalando focus su rischi nazionali e regolamentazione. Segnale su come la governance IA si intreccia con difesa e spazio.",
+     "fonte": "Primaonline",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR3haU0FvRGFrZkpBcHBqcmxOZDJNWWZ3cldxdEN5Y1V6SHJ3MGcxWWZZRTV1bkMwT0JzS3k2Qnc3OVRxaWRaN3ZjbWxKLVkxUEVNZWpWLWRYQ1NTaDhfaUliNDlQRW5vNERKNkRMQkdCQmpiWHZKZEtwTUNRcmE3RkIzOUJBb3ZVMjVEWnpwcTdrV0VaZ2dDc0NTck8zSERKWUZjempnZjNwWVhQQnp2WUFPRQ?oc=5",
+     "ora": "2026-11-04T09:03:24+00:00"
+    },
+    {
+     "titolo": "Anthropic realizza ricavi record, ma i costi dell'AI frenano i profitti",
+     "titolo_it": "Anthropic fa ricavi record ma i costi IA frenano i profitti",
+     "riassunto": "Dati finanziari mostrano crescita forte ma margini sotto pressione per infrastruttura. Contesto di mercato per valutare stabilità datori di lavoro e investimenti nel settore.",
+     "fonte": "HDblog.it",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTFyV1NENUEzWE5NT3kxN3JjMXlNU1hqTUoxWGVYS1lQUE9FSUJYSmNOcjIyQy1IVGJ1MXR1OUFNS3EwWTdIVnFac0pWOWhoWUR4bzNaT2tWWHlRLXpQdVVCUXA0VmlGQWMxYmVlUHRTWlRpLWl6d0ZET3lsQTJZYkp1bjlqQUVOT1E?oc=5",
+     "ora": "2026-11-04T07:36:56+00:00"
+    },
+    {
+     "titolo": "I dati del terzo trimestre di Anthropic mostrano un rallentamento della crescita",
+     "titolo_it": "Crescita Anthropic rallenta nel terzo trimestre",
+     "riassunto": "Segnali di saturazione nella domanda enterprise per modelli frontier. Indica dove si sposta l'attenzione del mercato (applicazioni verticali vs modelli base) per chi cerca lavoro.",
+     "fonte": "Digitec",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNDgyWnVSbk50d09LZGFFOUFmcVZnN0Fmb1BpazY1UmhGOEV4T0M3WHNLdWM2b0ZnN3dkdmxYNnhFMVdGbGkzZzJwd1VXZjVXemZ4STFBTDdRTGNodVBZZVhnNWlfTHVIeHptSnVkNWVZWnhhcGRwT3hUamJhQ2V5WklsTmlJcGxwV1VJLXI2UkUyZVVLaTd0TklTRXRZV1NNSE9BdzhjcGYxUXAxUFVyQVRxdjRoZWUtRmg5bWVWY2hYNVdHeWZMZHRUcU5ZMi1IbmY0MkpILUhjc2RrMmN0UG1aUHZNMG8?oc=5",
+     "ora": "2026-11-04T11:04:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Virtual Recruiting Day ELT Group – 15 dicembre 2026",
+     "titolo_it": "",
+     "riassunto": "La Sapienza organizza un Virtual Recruiting Day con ELT Group il 15 dicembre 2026. È un'occasione diretta per incontrare aziende e cercare stage o lavoro.",
+     "fonte": "Sapienza Università di Roma",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWDE5ZjQ3RG9BTVhHd3RJRGd4N0RyMldPaHBnS3dfREttYW9YV2RwSGtZRWlEQk5KSnJEVFc4TE5PSFAwSDBzaDV4V2FhdG5HM093SDdRV0JyaE1pVkZ1UGVnck5wUFJ1NWUwRzlvMUl4ZzNncUtVSDdDaFB5UjR1QnJCWk5xYVBBTzdWaA?oc=5",
+     "ora": "2026-11-02T15:26:10+00:00"
+    },
+    {
+     "titolo": "ITA Airways, 500 assunzioni entro il 2030 tra crescita e sinergie Lufthansa",
+     "titolo_it": "",
+     "riassunto": "ITA Airways prevede 500 assunzioni entro il 2030 grazie alla crescita e alla partnership con Lufthansa. Offre prospettive concrete di impiego nel trasporto aereo per ingegneri aeronautici.",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWHpCQUYyREE1Nnl5THhrcXBNVzBCS2JVNzhOTzZLMl9NbG1zbzdZMHJlMVhOakNKWGdLR1pkWi1QLTRTejhzZGh6alZTaGRIbGstTS1vd3R2NGVuWDJzblR4SUE3UUdLNDVpal80MURFOHl2Ty1Kc3RyS01aekphM1ZDREVUQ3hIc3poVTJhOWQ3TW1aXzlvZHQtNEwzMTB0U3dqbVJxdjFtUFJsNnc0RHlWbXVBazBoUGl3?oc=5",
+     "ora": "2026-11-02T09:35:00+00:00"
+    },
+    {
+     "titolo": "L'Italia punta allo spazio: nasce la fabbrica dei satelliti, oltre 200 assunzioni entro il 2030 (VIDEO)",
+     "titolo_it": "",
+     "riassunto": "In Italia nasce una fabbrica di satelliti con oltre 200 assunzioni previste entro il 2030. Segnala l'espansione del settore spaziale e nuove opportunità per laureati in ingegneria.",
+     "fonte": "Giornale La Voce",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSUE4M2lQN1luclN2cEF0eUxpYzM5NmRTQ1JGUGFFeVN3TVZFMTAtdzFPTTRiNTBiQnduaUZoMElKeFliY01nUElWRFFfa0Y3MnRFTUlnRmxMUW1wd2JGRDFJU05ESjg4SU0tZFpiejBOUGsxZlVuWnlrXzhpNXpWOElCZjRzRmhDOGxid3hVQWlHVTIyX2hEVGkzZEZqRWhEYk9rRHV6Rmg0T0xZYXNvQTdkTXk3RnZYNU9vY2dRTzEyRm1TZmVTeTZlamgwcWsxYWdqWUQwbERmNjhNV01ZMDlsdTRJTzRnNm1hUA?oc=5",
+     "ora": "2026-10-28T17:22:00+00:00"
+    },
+    {
+     "titolo": "Università Sapienza assume 15 Tecnologi a tempo indeterminato: concorso per Laureati in Ingegneria, Biologia, Chimica e Comunicazione",
+     "titolo_it": "",
+     "riassunto": "La Sapienza bandisce un concorso per 15 tecnologi a tempo indeterminato, riservato a laureati in Ingegneria e altre discipline. È un posto stabile all'interno dell'ateneo per profili tecnici ingegneristici.",
+     "fonte": "Concorsi Pubblici",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQd0toZUdYRVZVWDJzN2ZsSExmdmc5T1B5VWNqOEx3TVFCSHRRcUhrbVA0aEZRUk9Nd09xd1ZxcW02cGd4QXYtX2p5YTlPYjk4bGJ0SkJYT2I5MXFzVDVHTlFRdXB4bDlBNC1YdVVPdGR6dC1Ic242LTQxejQtelZSajBNX2ZIUDR6MlZCb2RVY3I2M2htNGVGTU5mMzczUE1ORzNaQzJBU0xKRWlhay1JVDZkRnViQzhXVzByY3I1Zll0eTdIbktFOHg4d3hQNTRLUTFKRkZ4M2pyeVJJakxRVU95MUstb21FR2JwRkxxT3hlYm1MaE1v?oc=5",
+     "ora": "2026-11-04T04:37:29+00:00"
+    },
+    {
+     "titolo": "Quarantotto milioni per tenere acceso il tavolo del GCAP INDUSTRIA",
+     "titolo_it": "",
+     "riassunto": "Vengono stanziati 48 milioni di euro per sostenere il programma GCAP nell'industria aerospaziale. Finanzia lo sviluppo di nuovi velivoli militari e rafforza il settore difesa-spazio in Italia e in Europa.",
+     "fonte": "PRP Channel",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2lzblF6VGxjZy1sVy1xbnRpcFphc1JsSkRJd0Q1clJfVnNsRkllWG1fZjFXTEFLeE02UUtLNGlWVFdfX2h1d19jeVNaT1hKQ08tVFB3S25zNzNjUFB1UUFZdXhjazlSSFR3cnAyQm9xNUdPdVBCZDQtYl9sUW1JMnA3bkxyYmV3eXM2bQ?oc=5",
+     "ora": "2026-11-01T08:34:52+00:00"
+    },
+    {
+     "titolo": "Aeronautica Militare e cultura aerospaziale: la Forza Armata alle celebrazioni per il centenario della Scuola di Ingegneria Aerospaziale della Sapienza",
+     "titolo_it": "",
+     "riassunto": "L'Aeronautica Militare partecipa alle celebrazioni per il centenario della Scuola di Ingegneria Aerospaziale della Sapienza. Rafforza il legame tra università e forza armata nel settore aerospaziale.",
+     "fonte": "Ministero della Difesa",
+     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTFVLR2NURzQzWldoUTVyb05jdXgwNTd1SndhZXZpQU5wY1VEaExJc3lLeER5bnE5OVJTYXpEYy01aE1tellfbTZWMGRfQklTX1lnYVpWVVZZM1RJWVplSG5CLTlQeFBjc2ZDbXhCWFEzd2UyRW1ISXZQZmRSYjBJZlBNMnpXRE1HWlJIOEE5aDgza2lZdTNDYUM2T3Z2bmZFWnB0T0MyV2J5SUtfTHJVcDZfZTI3UjdlU1RNeVN5eUVmMktMaDhGUGJTaEItMEJkMGNBbW5WLVpibjF2cHJKZ0tuZ0NBc3pOZ1lqRlBQOWh6VE9xUWpvcEJ6UXdEZU5KcXZ6akUxc1FlYjJJYUZ1N25uRmNrTlplOWhzVGln?oc=5",
+     "ora": "2026-10-28T18:04:38+00:00"
+    },
+    {
+     "titolo": "Sapienza, Antonio Carcaterra è il nuovo rettore: ricerca, intelligenza artificiale e sfide per gli studenti",
+     "titolo_it": "",
+     "riassunto": "Antonio Carcaterra è eletto nuovo rettore della Sapienza con un programma che include ricerca, intelligenza artificiale e sfide per gli studenti. La guida dell'ateneo può influenzare corsi, ricerca e servizi per chi studia ingegneria.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SSG5IMHRUZzlVeVBGekF5cjBGQzZaWUViTlEzTFFTQTdJeUxRUXlCOE9fSk1fYnRjYzBxSEpzb3l0TXVLWUhVZml2Y20tb2twZ0pQYTFMeDR2dFZ5VFg1c2l2VGRtYzBwaDNsYXNFbTRnZXhXaXJwN0ZCMUdQOHM?oc=5",
+     "ora": "2026-10-30T15:27:28+00:00"
+    },
+    {
+     "titolo": "L’industria va a caccia di talenti Ingegneria Italia vetrina per aziende",
+     "titolo_it": "",
+     "riassunto": "Le industrie italiane cercano attivamente talenti in ingegneria e offrono una vetrina alle aziende. Indica domanda di ingegneri nel mercato del lavoro nazionale.",
+     "fonte": "Zazoom Social News",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEdEcDNpWnFLRUh3U3ZoM1Y0bVhJSmdIM3BvbWxYOE9vT1EyR0pQS0Q4V3Nady0tQmw3U3NHa1ZvckZsckpfV0t5ZGpGTGxXeWpqWnhmSnpDTDhobDZZN295RnU3Q3BGYkZGLVdkV19jVkl6ckpudTNCU0IzLWlJYWRjR2JZb2Zsbmw5aTV3WkU5c3EwNWVvMkc2ZV9JS2g5OFJlRmNxWFZOcndzdUNYWndDajU?oc=5",
+     "ora": "2026-11-03T16:19:20+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Uzbekistan, si amplia l'A380 sul corridoio commerciale Cina-Europa",
+     "titolo_it": "",
+     "riassunto": "Gli operatori del trasporto merci segnalano viaggi più rapidi e costi più bassi grazie ai miglioramenti infrastrutturali sul corridoio Cina-Europa attraverso l'Uzbekistan, con l'impiego dell'A380. La notizia è utile perché riguarda il trasporto aereo cargo, le rotte internazionali e l'efficienza degli scali, temi legati ad aeroporti e ATM.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/04/uzbekistan-si-amplia-la380-sul-corridoio-commerciale-cina-europa",
+     "ora": "2026-11-04T13:39:14+01:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": []
+}
