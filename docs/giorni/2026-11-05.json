@@ -1,0 +1,223 @@
+{
+ "giorno": "2026-11-05",
+ "creato": "2026-11-05T13:14:22+00:00",
+ "in_breve": [
+  "ITA Airways assume cinquecento persone entro il 2030 per la crescita e la sinergia con Lufthansa.",
+  "Antonio Carcaterra è il nuovo rettore della Sapienza e guarda a ricerca, intelligenza artificiale e sfide per gli studenti.",
+  "Avio Aero cerca personale in Campania nel settore aerospaziale."
+ ],
+ "modello": "dots-studio/dots-3-note-preview:free, google/gemma-4-31b-it:free, nvidia/nemotron-3.5-lightning:free, nvidia/nemotron-3.5-super-vl:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "From Drones to Bomb Hoaxes: Is Europe’s Civil Aviation Facing a New Form of Hybrid Warfare?",
+     "titolo_it": "Guerra ibrida e aviazione civile in Europa",
+     "riassunto": "L'ondata di falsi allarmi bomba in Europa solleva dubbi su possibili attacchi di guerra ibrida. È un tema cruciale per la sicurezza del volo e la gestione del traffico aereo.",
+     "fonte": "The Aviationist",
+     "link": "https://theaviationist.com/2026/11/05/from-drones-to-bomb-hoaxes/",
+     "ora": "2026-11-05T12:46:18+00:00"
+    },
+    {
+     "titolo": "Why The Boeing 787's Wings Are Under FAA Scrutiny",
+     "titolo_it": "Ispezioni alle ali del Boeing 787",
+     "riassunto": "La FAA ha posto sotto scrutinio le ali del 787 richiedendo ispezioni ripetitive. La notizia è rilevante per l'analisi della sicurezza e della manutenzione aeronautica.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/video/why-the-boeing-787-s-wings-are-under-faa-scrutiny/",
+     "ora": "2026-11-05T12:00:20+00:00"
+    },
+    {
+     "titolo": "AutoFlight stages world’s first formation flight with 5 unmanned eVTOLs: video",
+     "titolo_it": "Primo volo in formazione di 5 eVTOL autonomi",
+     "riassunto": "AutoFlight ha realizzato il primo volo in formazione con veicoli elettrici a decollo verticale autonomi. Rappresenta un avanzamento significativo nella mobilità aerea urbana.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/autoflight-worlds-first-formation-flight-five-unmanned-evtols-video",
+     "ora": "2026-11-05T08:50:57+00:00"
+    },
+    {
+     "titolo": "Lavorare nell’aeronautica, Avio Aero cerca personale nel Napoletano",
+     "titolo_it": "Avio Aero cerca personale in Campania",
+     "riassunto": "L'azienda aerospaziale Avio Aero è alla ricerca di nuovo personale nel Napoletano. È un'opportunità di lavoro diretta nel settore per un ingegnere.",
+     "fonte": "ilSud24",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNODh2N0hqOVJZWmczcGYtRzZjdWxHUDVpREVDMUF1TTZ6cEFxRjVyY0w1NU1KVW5KTFJBeGQtTjRvdTJqbk1rbkpkZzctd1ZiUGFzNmtPQnQ5TjBtUlBJS0g4UjlIcHFYY0txS3A4aVNFcjI4aGx2R3FuODU1eHdJUnFxcWY1eTRNNmtGdUs3ZUZFMVlEU1pCem5TZ1B6VDk1MUE?oc=5",
+     "ora": "2026-11-04T19:01:58+00:00"
+    },
+    {
+     "titolo": "Retired jet engines finding second life powering AI data centers",
+     "titolo_it": "Motori a reazione per data center AI",
+     "riassunto": "Vecchi motori di Boeing 737 e Airbus A320 vengono riutilizzati per alimentare centri dati per l'intelligenza artificiale. Un esempio di economia circolare che unisce aerospazio e AI.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/retired-jet-engines-powering-ai-data-centers",
+     "ora": "2026-11-05T00:43:19+00:00"
+    },
+    {
+     "titolo": "Difesa: Leonardo supera 60 miliardi di ordini e accelera sul futuro",
+     "titolo_it": "Leonardo supera 60 miliardi di ordini",
+     "riassunto": "Leonardo accelera sugli investimenti futuri con un portafoglio ordini record. Indica la salute finanziaria e le prospettive di crescita del principale player aerospaziale italiano.",
+     "fonte": "Euronews.com",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVkpTOE1qLU10OXNfZHNhRzFvR2lZbEdVbk5GS01NLUFjRExVQ3kyWkJBcHVsV0J5a2lQOEhBb2g0N0o0eVhPeEZDbi1WNFI1Ry01VmptSmFhV25OYUI4STZ6WlhSaDgtUmIzZ180d2hab05EYm16cGQ2WjRXLVlta1hTa0Zpc0ppVDJIdUJ3R0dxczNjNDdqOTdSWHFxQ2FzOS11RUw4R2pGRTVrSkNrLUhBZnFKdTJyaWhEY253?oc=5",
+     "ora": "2026-11-05T11:16:54+00:00"
+    },
+    {
+     "titolo": "DOT Announces Audit of FAA Helicopter Tour Oversight",
+     "titolo_it": "Audit DOT sulla vigilanza FAA per elicotteri",
+     "riassunto": "Il Dipartimento dei Trasporti USA avvia un audit per colmare lacune normative sulla sicurezza dei tour in elicottero. Importante per lo studio della regolamentazione e della sicurezza.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/dot-audit-faa-helicopter-tour-oversight/",
+     "ora": "2026-11-04T16:25:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Anthropic presenta FlashProve: l’AI dimostra quale modello usa",
+     "titolo_it": "",
+     "riassunto": "OpenAI ha usato un modello AI per scoprire 948 vulnerabilità nel kernel Linux. È rilevante perché evidenzia come l'intelligenza artificiale possa rafforzare la sicurezza dei sistemi critici, inclusi quelli dell'aviazione e del traffico aereo.",
+     "fonte": "MRW.it",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcnNqY3BjSUlYczBkRDhzOGgtQmRGRWJpTmZMVEpYWnk4cEhWdjFiZXJfeDhybDd1T2c5SkQwNHFlNEhheExFWjlyY1lLanZsYm9UZnhOZlZ2ZlMzdWZrTFhoc0lKb1IzNkd4Vm83NmlZR2VldjdzeGE5a0VVb1hwU3B3MUE4R052U1F4UFN3?oc=5",
+     "ora": "2026-11-05T10:06:21+00:00"
+    },
+    {
+     "titolo": "OpenAI trova 948 vulnerabilità in Linux con un nuovo modello AI",
+     "titolo_it": "Nuovi modelli GPT-6.2 Astra e Claude Fable 5.5 su Azure",
+     "riassunto": "Sono stati annunciati o avvistati i nuovi modelli GPT-6.2 Astra all'interno di Codex e Claude Fable 5.5 su Azure, segnando l'evoluzione dei grandi modelli linguistici. Per uno studente di ingegneria aeronautica, seguire questi sviluppi è utile per capire quali tecnologie potrebbero essere applicate in futuro a simulazioni di volo o analisi dati.",
+     "fonte": "Punto Informatico",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUU12R3RHQW1EUGczLTZ2M0t3aTBvTVQ1MkZiU20xTHdlZmJHdWVKbHpDaUw1MHhDOWFHLUxIVnEwTk5qQkpJeC1RZExXRWNmY1VMQUlsRmh0VjlMdzNlREJKLS12VDc0NVRGQWd1V0lTdEJkLUZfYWxFQ2g2SWdSZXlYVFZKVUZJSjJSM195TVY?oc=5",
+     "ora": "2026-11-05T09:57:46+00:00"
+    },
+    {
+     "titolo": "Claude Code dice no ai cloni: stretta di Anthropic contro la copia dei videogiochi",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha ridotto i limiti di consumo per Claude Code, ma la correzione dei subagent introduce un bug che ne limita l'efficacia. L'aggiornamento è importante per chi usa Claude come assistente di coding, mostrando i punti di attenzione nell'adozione di nuovi strumenti IA.",
+     "fonte": "Everyeye.it",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDJZY3RTdXFqUVc4Q0ZMR250UVR5NjR6YTJVY3hnTUlTUVk4bWVraUF6R0k2b01qcDlxa3dCeVFma0dhMUVvYndSUU56elA2ZUE4V2lNQ09Td0pfTHU4TEVlMTZCRGwxVlZrY0tndC1ydHpTbEJkRXVXSVp2T1M5Tm9FanpORTVCV0k3Y0xsLV9sRHNKbFhsRkgyR1Yydw?oc=5",
+     "ora": "2026-11-05T12:39:00+00:00"
+    },
+    {
+     "titolo": "Claude Code consuma meno limiti, ma il fix dei subagent sa di bug",
+     "titolo_it": "",
+     "riassunto": "La versione 1.145 di Visual Studio Code permette a Claude, Codex e Copilot di collaborare nella stessa sessione di sviluppo. Offre un ambiente unificato per sperimentare più assistenti IA, utile anche per progetti di tesi o stage nel settore aerospaziale.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNS1Ib0lndUlodFl4QmcwWWZzV1JraDNPUTVJazBNejJpQ1VIN2VnZ1RnMExjeFRBRnctRG1QaWZTYi0wTFZDcE1HakxHMUxEYTZJY0ZKa1p5X0lXVHdULXRYbHE4eVNfZTlBVTVCUEEzSHAwSmpnSEZiLTVsYUx4NmZTSXh1VzA?oc=5",
+     "ora": "2026-11-05T11:35:38+00:00"
+    },
+    {
+     "titolo": "datasette-llm 0.1a10",
+     "titolo_it": "",
+     "riassunto": "Revolut ha sostituito le scelte predefinite di OpenAI e Anthropic con un modello AI cinese, raggiungendo un risparmio sui costi fino al 90%. Dimostra come le aziende stiano cercando alternative AI più economiche, una tendenza che potrebbe impattare anche le compagnie aerospaziali nella gestione dei budget tecnologici.",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+     "ora": "2026-11-04T15:26:02+00:00"
+    },
+    {
+     "titolo": "OpenAI e Anthropic hanno un grande ostacolo da superare per diventare un’opportunità per gli investitori",
+     "titolo_it": "",
+     "riassunto": "Anthropic e OpenAI stanno investendo pesantemente nonostante i alti costi, mirando a un mercato globale dell'IA stimato in 40mila miliardi di dollari. Fornisce una prospettiva di scala utile per chi valuta opportunità di lavoro o stage, mostrando dove convergono i maggiori finanziamenti e sviluppi.",
+     "fonte": "Milano Finanza",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUVZhaUl4QV95b2hnTWdkVHVFU25iMUQ0eWJNcjZRLU9yaTJKRXlOTFp0QWY2ZGplZm5FN0lKWG9aWWszQ29zRXl1dVhtdEpWVVpXUmFJeUVXLVk0VHdJZEFnd0JDSlMydVdRenR5YWpFZVZsU1dOVXpqdWZFb3lKT3g0TUY1UV9RVTJOOUZjY1Atc1FqbXpsVWhFNjc1V3BIRGk3YVA2V2xGb1R0aF9SZDRTVk1WODVpNkZ4dV81aHhOSnF3WHRXQ3N3MWxrcUpDSksybEtjakMxYzNrN3c?oc=5",
+     "ora": "2026-11-05T10:00:00+00:00"
+    },
+    {
+     "titolo": "Il prossimo operatore di telemarketing potrebbe non essere umano. OpenAI apre le telefonate agli agenti IA",
+     "titolo_it": "",
+     "riassunto": "OpenAI ha pubblicato un patto con le comunità e un piano quadro sulle politiche per i campus di calcolo basati sull'IA. L'iniziativa definisce le regole per l'infrastruttura IA futura, rilevante per capire il contesto normativo e infrastrutturale in cui opereranno le future tecnologie aerospaziali.",
+     "fonte": "DDay.it",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMWNCRFoxYlpWUVA4amFfcmlHcFJlU0RXMHlXMkdMNEt4aml1ZURlbFVzSGtmbHRlaGhTSmFVdmhuNDhtX3NkTEZXU3A4U3VLZVpYVkVpWjFCS3ozOFVGYnZ5UlNicTNYaFNjMzAzZ05BVFFqNkVyeXRMWU4xanN6bEdqX1h1ZE5PNU5ySGpWNGhSY0lxRUlPd3ktaUhxLTdUd2VtQ2MxWjdaZ2RzOG1aOS04VFVSYXN0Q1dGc1BHYTZXTGZVQXpPZC12NWtxRHBfbHRJSHFvTFc?oc=5",
+     "ora": "2026-11-05T09:36:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Sapienza, Antonio Carcaterra è il nuovo rettore: ricerca, intelligenza artificiale e sfide per gli studenti",
+     "titolo_it": "",
+     "riassunto": "Antonio Carcaterra è il nuovo rettore della Sapienza, con un focus particolare sulla ricerca e sull'intelligenza artificiale. È una notizia importante per il tuo percorso di studie e per le tue passioni tecnologiche.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SSG5IMHRUZzlVeVBGekF5cjBGQzZaWUViTlEzTFFTQTdJeUxRUXlCOE9fSk1fYnRjYzBxSEpzb3l0TXVLWUhVZml2Y20tb2twZ0pQYTFMeDR2dFZ5VFg1c2l2VGRtYzBwaDNsYXNFbTRnZXhXaXJwN0ZCMUdQOHM?oc=5",
+     "ora": "2026-10-30T15:27:28+00:00"
+    },
+    {
+     "titolo": "ITA Airways, 500 assunzioni entro il 2030 tra crescita e sinergie Lufthansa",
+     "titolo_it": "",
+     "riassunto": "ITA Airways prevede di assumere 500 persone entro il 2030, sfruttando la crescita e le sinergie con Lufthansa. Offre concrete opportunità di lavoro nel settore aeronautico europeo per un ingegnere aeronautico.",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWHpCQUYyREE1Nnl5THhrcXBNVzBCS2JVNzhOTzZLMl9NbG1zbzdZMHJlMVhOakNKWGdLR1pkWi1QLTRTejhzZGh6alZTaGRIbGstTS1vd3R2NGVuWDJzblR4SUE3UUdLNDVpal80MURFOHl2Ty1Kc3RyS01aekphM1ZDREVUQ3hIc3poVTJhOWQ3TW1aXzlvZHQtNEwzMTB0U3dqbVJxdjFtUFJsNnc0RHlWbXVBazBoUGl3?oc=5",
+     "ora": "2026-11-02T09:35:00+00:00"
+    },
+    {
+     "titolo": "Aerospazio e hi-tech: Magnaghi investe 70 milioni nel Mezzogiorno tra quantum computing e nuovi stabilimenti",
+     "titolo_it": "",
+     "riassunto": "L'azienda Magnaghi investe 70 milioni nel Mezzogiorno nell'aerospazio e nell'hi-tech, puntando sul quantum computing e nuovi stabilimenti. Mostra nuove prospettive di sviluppo e occupazione nel settore aerospaziale italiano.",
+     "fonte": "PPN ADI - Agenzia delle Infrastrutture -",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV3pYbjlaQmtrRXZ3Qm8wODlYSUhkZDRodF9neUNNai0yMWlScWlSUngxaUNmREl2VE50X3Fvb3RpWXlWRjNOQmpsTTkyeWplZW5Vd19mdGxWaWUtSzUyV1F4SXhZWVZfMGM3MmFFTVh4dVRqZmdwZ0tQakVZb0F6WDZwUlNxMUVwSzFxTnBDUkgySjI3aU4xc2tNZ084eHpoX01xYjVPVUxqbVllNjFiNFB0LUk2anQxaGJRUEJlR0JNUHFVd1psZHBzUTdTUmJmamwxc2thN05LcmdWVzdETTRxZUY?oc=5",
+     "ora": "2026-11-04T00:00:00+00:00"
+    },
+    {
+     "titolo": "Gli effetti dei viaggi aerospaziali sulla fisiologia umana e il fattore umano nell’aeronautica",
+     "titolo_it": "",
+     "riassunto": "La ricerca analizza l'impatto dei viaggi aerospaziali sulla fisiologia umana e il ruolo del fattore umano in aeronautica. È centrale per i tuoi interessi sulla sicurezza del volo e i fattori umani.",
+     "fonte": "Unipa",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZS1oN1VKVlVkTEJMT3FRaFpfcURQUHBhYVFYeHJlU20zbmJlSjk1cmZOZWkwVy0xZzJfX1ZyLU8tSmRVeF9nYUw1ZmJCNkN0blZRUXQ5bm5TeEFrc0VHaXN2WkhLcXdlZkY4cGd2M3VwVXZGQVlXLXl5dmZUZmNHaTNENEZ6cFl4WmdlenhvNkVZdWY2NVVxbENnclJ6VEhXdGpJQmtubnJ4bDJEc2d1NlRUTEVmSFA5RGNlVGZpQU1rdVcxTDVuVHlnZEhhYUFMNmFYVE5wS1hkZEYzUklSMzhfRWpvc20xcmRoeFVfanBiTE0?oc=5",
+     "ora": "2026-11-04T03:50:13+00:00"
+    },
+    {
+     "titolo": "Università Sapienza assume 15 Tecnologi a tempo indeterminato: concorso per Laureati in Ingegneria, Biologia, Chimica e Comunicazione",
+     "titolo_it": "",
+     "riassunto": "La Sapienza bandisce un concorso per 15 tecnologi a tempo indeterminato, aperto ai laureati in Ingegneria. Rappresenta un'opportunità di lavoro stabile all'interno della tua università.",
+     "fonte": "Concorsi Pubblici",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQd0toZUdYRVZVWDJzN2ZsSExmdmc5T1B5VWNqOEx3TVFCSHRRcUhrbVA0aEZRUk9Nd09xd1ZxcW02cGd4QXYtX2p5YTlPYjk4bGJ0SkJYT2I5MXFzVDVHTlFRdXB4bDlBNC1YdVVPdGR6dC1Ic242LTQxejQtelZSajBNX2ZIUDR6MlZCb2RVY3I2M2htNGVGTU5mMzczUE1ORzNaQzJBU0xKRWlhay1JVDZkRnViQzhXVzByY3I1Zll0eTdIbktFOHg4d3hQNTRLUTFKRkZ4M2pyeVJJakxRVU95MUstb21FR2JwRkxxT3hlYm1MaE1v?oc=5",
+     "ora": "2026-11-04T04:37:29+00:00"
+    },
+    {
+     "titolo": "Aeronautica Militare, concorso per 60 Marescialli a nomina diretta: basta la laurea triennale",
+     "titolo_it": "",
+     "riassunto": "L'Aeronautica Militare bandisce un concorso per 60 marescialli a nomina diretto, con la laurea triennale come requisito di accesso. È un'ottima via di accesso al settore aerospaziale e della difesa.",
+     "fonte": "Concorsi Pubblici",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUElncDVQTHh3R3JHQXkwLXljQ0Q1ejUzU1BTUUpwWmVDY095TDRxZHdKbjJmNENvcTV3REJtWHdWcDgtcm1uUHpxN3hvemc5bkRmeFFQWXR5Y0hoOERsS0RpdWoxalJndVV1UmNFRHZ5UmJNNUV2eWVEdVpBSTlKc3FBeHpQbTVhNnlfSlc5SkxKdTN1ZU5EaE1TU0FqRTVwcnBuNDBsS0F2TmN4UWtEanlYdlBFVVBrTUVCcFc4eXdLMk5pTl92R1VnSnpqdlpTWGc?oc=5",
+     "ora": "2026-11-03T21:43:21+00:00"
+    },
+    {
+     "titolo": "Università, il governo annuncia 200 milioni in più. Ma i fondi vanno all'efficienza energetica: niente nuove risorse per borse di studio e alloggi",
+     "titolo_it": "",
+     "riassunto": "Il governo ha stanziato 200 milioni in più per le università, ma i fondi sono destinati all'efficienza energetica senza nuove risorse per borse di studio e alloggi. Ti aiuta a capire le implicazioni delle politiche universitarie sulla tua vita di studente.",
+     "fonte": "Open",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHM3OTRqLURaV3I2T0RHd29JSG5jSmo3WW5laDNJX2xta3lNalVOS1hjRFNVUU91QUx1c0Q2UGpnQm80WS1LbkpuLWtqdGhEaDUxbzNHaVhPZk9aSlZ3Vi1fWXRyS2VoT1NaS1NaRGJKZGU3OERfc2FrTm9zYUxPNjZPODlfRGJSOG1VbzdUeFg4UU5q?oc=5",
+     "ora": "2026-11-04T16:35:21+00:00"
+    },
+    {
+     "titolo": "Parità di genere. I campioni di equità e inclusione nei luoghi di lavoro: CAMA 1, Epipoli, Impianti, JAKALA, Leonardo, Mondelez Italia Services, NSN Italia, Roche, Sanofi, Siemens Energy, Snam, STMicroelectronics,…",
+     "titolo_it": "",
+     "riassunto": "Tra i campioni di parità di genere nei luoghi di lavoro spiccano aziende come Leonardo, Siemens Energy e STMicroelectronics. Può essere utile per identificare aziende aerospaziali e tech attive sull'inclusione per le tue future candidature.",
+     "fonte": "Assolombarda.it",
+     "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQU0VydEEtRFJuV0NXMXVPd0o1ZEg1SGg4R29FS2tVMVlkUFhpYVhJSmU0OTl3WXZSUDJNVzVLMWk5aFNyZXZqd1RZSXZvQzhEYmtoR3d6cW00ZTNOQ2lWdXFpQzdndVhVQ3JkNzNhVEU1YTJDOWx4ZURqcEl0dlJhbHJZa3c1MUVZZ1pWaXQzNWJHRkFXRWY4Z0tLaS14TG4yOWFKYkItVklVd0xOM1RLWjNsMGZoTHpRS0lLaXZ3NG9sNnBNQ0VJdm0td3d0S2pNX0Y1WUVLUWhEXzlqODA2cTB3Q1ZtUkpnUVRzUEtNUVA1RXpxVVM0NmY1RGJWNnhXaVR0Ymdva0FZM0xUM21VUWxReS1xcGxTZHFtdExmeGZsYjdodVY0Yl85ZW50emlBbVR5ZTlCaGpwQVUyRTd4ZUY5UHNidExGb29pd0M3eXJMZjR5NzFNYlpSeVZfNjUxM1RqcG5oc3Jteno0ZDlYenJnRXJhZHg0ampMc0VLMVlXOE04S1BwY2JmU2FlNXJWaEU1RjZIRHV3VFRuVUc5bHd3?oc=5",
+     "ora": "2026-11-05T09:12:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Nuova ondata di allarmi bomba sui voli, segnalati da una mail in italiano. Informative alle procure",
+     "titolo_it": "",
+     "riassunto": "Sono stati segnalati diversi allarmi bomba su voli da e per l’Italia, con aerei dirottati a Malpensa e Fiumicino e altri casi in Bulgaria e Repubblica Ceca. La notizia è rilevante per la sicurezza del volo e la gestione degli aeroporti.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/nuova-ondata-di-allarmi-bomba-sui-voli-segnalati-da-una-mail-in-italiano._746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
+     "ora": "2026-11-05T13:37:45+01:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
