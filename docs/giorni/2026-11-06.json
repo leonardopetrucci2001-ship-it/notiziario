@@ -1,0 +1,247 @@
+{
+ "giorno": "2026-11-06",
+ "creato": "2026-11-06T12:58:51+00:00",
+ "in_breve": [
+  "ITA Airways prevede 500 assunzioni entro il 2030 grazie alla crescita e alle sinergie con Lufthansa.",
+  "La Sapienza assume 15 tecnologi a tempo indeterminato con un concorso per laureati in ingegneria.",
+  "Un allarme bomba ha creato disagi ai voli in Europa, mettendo in luce temi di sicurezza aeroportuale e gestione del traffico aereo."
+ ],
+ "modello": "cohere/north-mini-code:free, dots-studio/dots-3-note-preview:free, nvidia/nemotron-3.5-super-vl:free, recursive/flint-v1.0:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Leonardo S.p.A. comunica i risultati degli utili del terzo trimestre e dei nove mesi chiusi il 30 settembre 2026",
+     "titolo_it": "",
+     "riassunto": "Leonardo ha reso noti i bilanci del terzo trimestre del 2026, mostrando la salute finanziaria del principale player italiano dell'aerospazio e della difesa. È una notizia fondamentale per chi cerca opportunità di lavoro o stage nel settore aerospaziale italiano.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUm1udFF0cHNBVnBFV3I3UXk5Ny1vLXVFRWRzR0p0LV9sekNTUzVzTzRfeS1NckRTMWxQbldKZTZmSXZLSzB0M1o4R3NSSnVuSGczMXoxa296VjRySGNNZWg3ME5iYzk1ZnItRl9EaldyY3VOSnN4ejE5QWRYME9OY2lsazQ0eVU3OXZIZjZSU0lubnFSU1I5RVp2REYtNk00YWxLQ2NSV2hvWUNORWZzVng0MzZHUm1QTnFkLWZlNWFYMlVXZmF0VzZxUFItd1A0dVVoT1laUHRreUUzc3E2T0tkZFU4ekxUQ2c?oc=5",
+     "ora": "2026-11-05T21:31:33+00:00"
+    },
+    {
+     "titolo": "Airbus aims for 259 aircraft deliveries before year end to reach annual target",
+     "titolo_it": "Airbus punta a 259 consegnati entro fine anno per raggiungere l'obiettivo annuale",
+     "riassunto": "Airbus punte a consegnare 259 aerei commerciali tra novembre e dicembre 2026 per centrare gli obiettivi di produzione. Riflette l'andamento del mercato globale e le catene di fornitura del settore aerospaziale europeo.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/airbus-aircraft-deliveries-orders-october-2026",
+     "ora": "2026-11-06T10:25:33+00:00"
+    },
+    {
+     "titolo": "Cork Takes the Heat So DRACO’s Data Can Survive",
+     "titolo_it": "Il sughero protegge i dati del progetto spaziale europeo DRACO",
+     "riassunto": "Un materiale a base di sughero sviluppato in Portagallo contribuisce alla protezione termica del satellite DRACO dell'Agenzia Spaziale Europea. Mostra l'importanza dei materiali innovativi nelle missioni spaziali europee, un campo di grande interesse per gli ingegneri aerospaziali.",
+     "fonte": "SpaceNews",
+     "link": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
+     "ora": "2026-11-05T17:05:59+00:00"
+    },
+    {
+     "titolo": "Mare Group acquisisce il 51% di Proser: operazione da 1,6 milioni nell’aerospazio e nella difesa",
+     "titolo_it": "Mare Group acquisisce il 51% di Proser nell'aerospazio e difesa",
+     "riassunto": "Mare Group ha acquisito il 51% di Proser con un'operazione da 1,6 milioni di euro nel settore aerospaziale e della difesa. L'operazione segna il consolidamento del settore e nuove opportunità di lavoro nelle PMI italiane.",
+     "fonte": "Milano Finanza",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb3lyWmNBa2lHajdnY3QwMEpOYTdTTFYxeVEyMEpzS0VXZE5Hak1Dd1dmbUhWSlA5M25XNHROYUJEbnYwVjdxUzhwNUJIbHVOUXh2NXhoQ1NmX3EwdmhDNUVMQXhnXzBhazFxcjVycGNpT1FJcHlxd1VlTmVvQ2NLZkNxSGdXdDYwVldsQ3QzOEJMQmV2RktfeVZNakdXc21tYzBxSUZ6aUQwZjJZcnVBLUh2MG5CYUJlZkdWdk5Db1NFR2tGTWJiNzFCQy03MTNpUE0zQ24tams1OHR4TkJHNg?oc=5",
+     "ora": "2026-11-06T07:45:00+00:00"
+    },
+    {
+     "titolo": "Allarmi bomba su voli europei e scali italiani: attivata l'allerta sicurezza. Il Ministro Salvini segue la situazione con Enac ed Enav",
+     "titolo_it": "Allarmi bomba su voli europei e scali italiani: attivata l'allerta sicurezza",
+     "riassunto": "Scatenati allarmi bomba su voli europei e aeroporti italiani, con il ministro Salvini che segue la situazione con Enac ed Enav. Evidenzia le criticità legate alla sicurezza del volo e alla gestione degli aeroporti, settori di grande interesse per gli studenti di ingegneria aeronautica.",
+     "fonte": "FRV News Magazine",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbUdiQlVjampzNUtNZGdXUW04R2tIYXNiUnFHV1dwdVlUVHNqb3FsX0YwT0lTMXhJS1hQUnJrNnVqUmw5M1pONm84U0x5dnE0eDkzcmxkdE1KV3VQRVlISVB6UHh1WTFYV242eGtDWXFzLWlFZmJCSWFPY0RIN3FFYkt5NTdiV1JqdUlRRUJ2X1hNdm1JZFllb2JldXc4V2Nsem5XLTllVG5iLVlJOFhFRk5HcWx1TnQ4QTV2QWFOdkFmcUlMSktoWkVPOEpOVV9jVEd1ZHpLcEVMN3d4VVQ3aDJlODBxeElWNjhLYnJ4dVpZU0doV2Zj?oc=5",
+     "ora": "2026-11-05T17:54:50+00:00"
+    },
+    {
+     "titolo": "Rivista Italiana Difesa - shownews - Confindustria guarda alla Difesa – Intervista a Giorgio Marsiaj",
+     "titolo_it": "Confindustria guarda alla Difesa: intervista a Giorgio Marsiaj",
+     "riassunto": "La rivista Italiana Difesa pubblica un'intervista a Giorgio Marsiaj sulle prospettive del settore difesa in Italia e le sue interazioni con l'industria. Offre spunti sulle strategie industriali e sulle opportunità di carriera nel comparto aerospaziale e difesa.",
+     "fonte": "RID - Rivista Italiana Difesa",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclBLRTQ3WDFjdWJjaVE5REFuVC1OQ293cUpxLTc3ZGtRbFV5T1plNEtRcUNmelNFVzhRaElBNk1ETVd6M1Zpb0JQZWVsM18wY3RtdlRmODhmMWRXaVROeC1QMmJkZ2ZrWWFPUmw5eTUyUEZ5Qk9zUV8taklwdUdaM3ZZcVNGX0VHUGhnVGllVS1CbHg5SWtGTmdlWGxWMnpqUEE?oc=5",
+     "ora": "2026-11-06T09:43:43+00:00"
+    },
+    {
+     "titolo": "Il Comando della Difesa Aerea e dell'Aeronautica Militare effettua controlli di competenza tecnica dei piloti presso il Reggimento 940.",
+     "titolo_it": "L'Aeronautica Militare effettua controlli di competenza tecnica dei piloti",
+     "riassunto": "Il Comando della Difesa Aerea e dell'Aeronautica Militare sta effettuando controlli di competenza tecnica dei piloti presso il Reggimento 940. L'iniziativa è rilevante per la sicurezza del volo e l'addestramento militare, settori di interesse per gli ingegneri aeronautici.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMGpPSnY0dVQzNzY5WHNUSFRyVFA5NzkweWU4NWswYzNCNFQ4Q0c0RkM1MmdGc3FpVEozS3A4OUliR3VzX3ZiblNuLTlZVXlYQlpHbUxhY0RSXzBBR1BTdEYzUXZXcS1yajFYaC1HYUNyVlZuTk15Z1NBSm9SQnQtZkpDX0xSN2FSRGRwbnpNOVdBZWFkSUFycFlKamJyckRha2FvSnhyQ194X3FMaHVqRnEyWmI?oc=5",
+     "ora": "2026-11-06T12:25:56+00:00"
+    },
+    {
+     "titolo": "Qantas Launches Historic New 15-Hour Nonstop Route From Sydney: See Map Now",
+     "titolo_it": "Qantas lancia un volo storico di 15 ore senza scalo da Sydney",
+     "riassunto": "Qantas ha lanciato un nuovo volo diretto di 15 ore senza scalo da Sydney, un record per la compagnia. Il volo ultra-lungo solleva questioni importanti sui fattori umani, la gestione del carico e l'ATM, che sono centrali negli studi di ingegneria aeronautica.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/qantas-launches-historic-new-15-hour-nonstop-route-from-sydney/",
+     "ora": "2026-11-06T11:00:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "OpenAI lancia GPT-6 Cyber, “più sicurezza e allineamento per individuare vulnerabilità cyber mai scoperte”",
+     "titolo_it": "",
+     "riassunto": "OpenAI lancia GPT-6 Cyber, un modello IA progettato per individuare vulnerabilità di sicurezza informatiche in modo più efficace. È utile per comprendere l'applicazione dell'IA nella sicurezza, ambito rilevante per la sicurezza del volo e i sistemi aerospaziali.",
+     "fonte": "CyberSecurity Italia",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQjV2OEZyT0hiY1NSeG9STmlGXzVramg3VTdFMWZtamhiLUN0RmJkWlhWbkVodWdYeUdZOXRaYy1DZi16OXE0bDk5cTJPY2ZKSTJVSHFOSkxqMEtjZG1SZW5YdTJFRHBvSjhvSXFKbkxkNEVjNWxiWlliWFY0enpZTC1FNkhscUVqVnp6aHJZeXFWMmYwTzcyelRILVNhOElXbk5ZUmE2STZFTzZIdzRzd0ljUW9wdnpvbWw0QmR2dzd3X1FJaFZ4V1dLSTlTazZ1VVlUbzA4cw?oc=5",
+     "ora": "2026-11-06T12:07:49+00:00"
+    },
+    {
+     "titolo": "Claude può analizzare conti bancari e spese con la nuova funzione Personal Finance",
+     "titolo_it": "",
+     "riassunto": "Claude introduce la funzione Personal Finance per analizzare conti bancari e spese. Mostra l'evoluzione dei modelli linguistizi in ambito personale, interesting per chi si interessa a Claude e alle sue applicazioni pratiche.",
+     "fonte": "TuttoTech.net",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TRXlFX3IzX2VXZmJhdzlSQnRkWkVOTUFhNHRCaFcyQ3lCbWxqakQxMGs2ekNsc0oxT0V5SVA3M1FxcWhneDhnZHhiTTdseHA0QXBid0dYZi1fLVRGQWpZSUs0OU9BVDlkUERUOEVTVmhQX0swaDdXUmdR?oc=5",
+     "ora": "2026-11-06T12:27:20+00:00"
+    },
+    {
+     "titolo": "Claude Code sends your email address to websites",
+     "titolo_it": "Claude Code invia indirizzo email a siti web",
+     "riassunto": "Segnalazione di un problema di privacy in Claude Code, che trasmette indirizzi email a terzi. È rilevante per gli utenti di Claude, poiché evidenzia questioni di sicurezza nei tool IA.",
+     "fonte": "Hacker News",
+     "link": "https://github.com/anthropics/claude-code/issues/107757",
+     "ora": "2026-11-05T22:17:15+00:00"
+    },
+    {
+     "titolo": "Tutti sapranno se usi l'IA per scrivere: Anthropic e OpenAI introdurranno i watermark sul testo",
+     "titolo_it": "",
+     "riassunto": "Anthropic e OpenAI introdurranno watermark sul testo generato dall'IA per verificare l'autenticità. Questo è importante per l'etica nell'IA e per l'uso responsabile, aspetto che può influenzare i fattori umani nell'aerospazio.",
+     "fonte": "DDay.it",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzEwdngyb3czQ3dmbWw1S2RuYnZITEJoZWFuUkxLUUx3dFp6bWdwa2tlYkxIM01pMTRsRHo0S3c3S2drVWxmbUxnUDkyVWJTSzlOdzRhb1dPS0FFYmprU3AxcGM1dDEycUdoRUZ2bE5KQXQ3Y2VRZlY3cDZaZU1KUWhVai1NWjZ6SGxwN0FhTmtleUMxRU1WVUN5NVFsMERUanJuSXJTdkFPSHk2NjVmdTR6OE96VFIxMUhPdHZpWGc0eVdEbDF3NGRlQ0s?oc=5",
+     "ora": "2026-11-06T08:21:58+00:00"
+    },
+    {
+     "titolo": "Perplexity launches its own take on AI agents for work",
+     "titolo_it": "Perplexity lancia agenti IA per il lavoro",
+     "riassunto": "Perplexity presenta nuovi agenti IA sempre attivi per il lavoro, competendo con OpenAI e Anthropic. Mostra l'avanzata delle IA produttive, utili per studenti e professionisti nel settore.",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+     "ora": "2026-11-05T17:26:50-05:00"
+    },
+    {
+     "titolo": "Claude API in Python: 12 Passi, 90 Min [2026]",
+     "titolo_it": "API Claude in Python: 12 passi, 90 minuti",
+     "riassunto": "Guida pratica per utilizzare l'API di Claude in Python con 12 passi in 90 minuti. È utile per studenti di ingegneria che vogliono imparare a integrare l'IA nei loro progetti.",
+     "fonte": "shattered.io",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Uc29KeGNodWFCWFlXS2ZTQ0VUTmhtSDRMWnphWVBnM3lxc0pkUzQ0dUdWNnltMmtQNVVna3UwZXIzb0dMald4OUJXR2dnMGVXa2NGN3NKN0FnMlBUNW1LRmMyLXNIUGVTUUJKbk15S0xIRjAtUkE?oc=5",
+     "ora": "2026-11-06T12:37:42+00:00"
+    },
+    {
+     "titolo": "Blog | Anthropic verso la Borsa: 17 miliardi di ricavi trimestrali e 895 miliardi di spese. In tre grafici - Info Data",
+     "titolo_it": "",
+     "riassunto": "Anthropic sta verso la Borsa con ricavi trimestrali di 17 miliardi e spese di 895 miliardi. Fornisce un'istantanea finanziaria dell'azienda, utile per valutare opportunità di lavoro nel settore IA europeo.",
+     "fonte": "Il Sole 24 ORE",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMk45S3ZpUnY4TlZsLXp1cnkzOWtoVjBxMk8zMzVVNkhYdzhGeGRHMkpGYXdYZDZzek9PRzRacUlUTEZjVjJtaERCN19JWEV6ajcyMGNEa3hIcW1BZVozcENYVjdQZ0ctUGc5REt4VXVDTnRPWTd4M1M1dkNUdXI0VVhCQmJ4eExkSVkyTE1wWFYzeTQ3UzdmM1R5VXdKdzgxd0h0ek1yNFNQYWNwQ0xlUkJ2bUp1X0dyRmFxOTdEX29Ob3YxS09SODh3TGdYTFZfVVNBYjVoNTlseEtLWi1N?oc=5",
+     "ora": "2026-11-06T09:55:49+00:00"
+    },
+    {
+     "titolo": "Amodei chiede di rallentare lo sviluppo delle IA, ma Anthropic corre a doppia velocità",
+     "titolo_it": "",
+     "riassunto": "Amodei chiede di rallentare lo sviluppo delle IA, ma Anthropic prosegue a pieno ritmo. Evidenzia il dibattito sulla velocità dell'innovazione IA, rilevante per chi si interessa all'impatto tecnologico nell'aerospaziale.",
+     "fonte": "la Repubblica",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVF1Rmo4b1BwdGdzVDR2XzYyWnlMZmdDTEwydDJvczlpUDdRbGJsQVFBTjBnSEdVU1RSRHRDclFDeW5JcTFwOUNmM2VPYWNkbXl3WkRUaUt2QXJaVDJfSzc2S3VnLU1GY09iLTJYVU8ySXNURVFiS2RYV1lLdmtUT3RmdXJCcEFTX1FwTGdtalhCQXdPUVBoenowQUZBVjVBelhsMWV30gGrAUFVX3lxTE9fV3YtSWVtUll3YWQ1VFpxWkRFemcyUVJNTXMtNnQxWmJISll0VXV6VkJWNkdSNVRVeUlPYUg4Q283RkpNZ2FUeGtDMWR1MGdYcEtISUZnU2ltT1NNRjJ4Y25DTkZvTGptWXpHYkVqOVJBWThkbDl3ek9IcXVLaDFxcmZodmtSOGhvWTBNNC16ZTZySGp3RFkxWnI0ZE9nSWxtaUhXLTF4N2hCcw?oc=5",
+     "ora": "2026-11-06T11:48:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Concorso Aeronautica Militare 2027: 1.050 posti per VFI. Requisiti e come partecipare",
+     "titolo_it": "",
+     "riassunto": "Il Ministero dell'Interno ha aperto un concorso per 1050 posti di Volontari in Ferma Indipendente per l'Aeronautica Militare. Conta per un laureato in Ingegneria Aeronautica che cerca un lavoro nel settore aerospaziale.",
+     "fonte": "Concorsi Pubblici",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZi1HZU9NdGJCOFB0WjJwRWxOOG85b1BIM1FaSS1FZ1pqRXBhQzJKaVY3NHB5YmVOaGFmbkpyQjU1Wk5qN0FyNnB6Mm1kR2xQbHdZRDdJUGw5MUlGekx2LWFHaE5lckF0dXROWVo5NmNHeVk0MUZidUNFbE84aXhnN0RsRGR0OG9PZGJhZVFHV3M5UWtNemo4ZUU0dThGQjd3WDBmdGFqV21hVVROZUhQVDB0TEIzM3NRdmxjSEVqN1d6TnoySGw0?oc=5",
+     "ora": "2026-11-04T14:35:23+00:00"
+    },
+    {
+     "titolo": "ITA Airways, 500 assunzioni entro il 2030 tra crescita e sinergie Lufthansa",
+     "titolo_it": "",
+     "riassunto": "ITA Airways prevede 500 assunzioni entro il 2030 per la crescita e le sinergie con Lufthansa. È utile per chi cerca un impiego nel settore aerospaziale e delle compagnie aeree.",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWHpCQUYyREE1Nnl5THhrcXBNVzBCS2JVNzhOTzZLMl9NbG1zbzdZMHJlMVhOakNKWGdLR1pkWi1QLTRTejhzZGh6alZTaGRIbGstTS1vd3R2NGVuWDJzblR4SUE3UUdLNDVpal80MURFOHl2Ty1Kc3RyS01aekphM1ZDREVUQ3hIc3poVTJhOWQ3TW1aXzlvZHQtNEwzMTB0U3dqbVJxdjFtUFJsNnc0RHlWbXVBazBoUGl3?oc=5",
+     "ora": "2026-11-02T09:35:00+00:00"
+    },
+    {
+     "titolo": "Università Sapienza assume 15 Tecnologi a tempo indeterminato: concorso per Laureati in Ingegneria, Biologia, Chimica e Comunicazione",
+     "titolo_it": "",
+     "riassunto": "La Sapienza assume 15 Tecnologi a tempo indeterminato dopo un concorso per laureati in Ingegneria, Biologia, Chimica e Comunicazione. Interessa chi si sta preparando a una carriera in ambito aerospaziale e della ricerca.",
+     "fonte": "Concorsi Pubblici",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQd0toZUdYRVZVWDJzN2ZsSExmdmc5T1B5VWNqOEx3TVFCSHRRcUhrbVA0aEZRUk9Nd09xd1ZxcW02cGd4QXYtX2p5YTlPYjk4bGJ0SkJYT2I5MXFzVDVHTlFRdXB4bDlBNC1YdVVPdGR6dC1Ic242LTQxejQtelZSajBNX2ZIUDR6MlZCb2RVY3I2M2htNGVGTU5mMzczUE1ORzNaQzJBU0xKRWlhay1JVDZkRnViQzhXVzByY3I1Zll0eTdIbktFOHg4d3hQNTRLUTFKRkZ4M2pyeVJJakxRVU95MUstb21FR2JwRkxxT3hlYm1MaE1v?oc=5",
+     "ora": "2026-11-04T04:37:29+00:00"
+    },
+    {
+     "titolo": "Borse di collaborazione Sapienza 2026: nuovi bandi per biblioteche e dipartimenti, scadenze a novembre",
+     "titolo_it": "",
+     "riassunto": "La Sapienza pubblica nuovi bandi di borse di collaborazione per biblioteche e dipartimenti con scadenze a novembre. Servono per gli studenti che vogliono fare stage o svolgere attività di ricerca.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzVpRXRlbmJmZ3pzclphdmJYME9tWTdCTmprRWZaT3JHd3paYTM4ZVExaG1JM2RNN3I5eU9QWHV3NUdGd1E0S0VnX25MU2drVjA1SzV6VTFKSFlVN3hlLUxBcXhMSEdTT3VSVExsM2JTZGMzcW9td2c5WjRiMXBGa0owOA?oc=5",
+     "ora": "2026-11-05T21:20:14+00:00"
+    },
+    {
+     "titolo": "Career Days, il MIT prosegue il dialogo con studenti e neolaureati",
+     "titolo_it": "",
+     "riassunto": "Il MIT prosegue il dialogo con studenti e neolaureati con Career Days. È utile per chi cerca opportunità di lavoro in Europa nel settore aerospaziale e tecnologico.",
+     "fonte": "Ministero delle infrastrutture e dei trasporti",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXVpZXhnbnVUQ09fSFpJMjJ0a3MyWnI1LTRMY2F6SFlQekNFUHd5QndvTFlmOFpXZmhQU195dXBJNUlvTnNwUDZjWmpObWlqX0U3amEyZkJaUVY0V3ZqUGF2cjgtWDdPNTRSSHJFZV92cTdlZWFtNVBMalIyY09YXzI4SkJRaFhaS296R3dyd2l0NTEyeFdBcGxjQkhZZGF1ZzNqdVNoS0hEY28?oc=5",
+     "ora": "2026-11-04T15:30:18+00:00"
+    },
+    {
+     "titolo": "Università, il governo annuncia 200 milioni in più. Ma i fondi vanno all'efficienza energetica: niente nuove risorse per borse di studio e alloggi",
+     "titolo_it": "",
+     "riassunto": "Il governo annuncia 200 milioni di euro in più per le università, ma i fondi servono per l'efficienza energetica e non per borse di studio e alloggi. Resta importante per gli studenti che hanno difficoltà economiche.",
+     "fonte": "Open",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHM3OTRqLURaV3I2T0RHd29JSG5jSmo3WW5laDNJX2xta3lNalVOS1hjRFNVUU91QUx1c0Q2UGpnQm80WS1LbkpuLWtqdGhEaDUxbzNHaVhPZk9aSlZ3Vi1fWXRyS2VoT1NaS1NaRGJKZGU3OERfc2FrTm9zYUxPNjZPODlfRGJSOG1VbzdUeFg4UU5q?oc=5",
+     "ora": "2026-11-04T16:35:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Allarme bomba, giovedì nero per i voli in Europa",
+     "titolo_it": "",
+     "riassunto": "Le minacce di bomba hanno causato gravi disagi ai voli in tutta Europa giovedì, colpendo molti voli in arrivo e in partenza dall'Italia. Questo evidenzia le vulnerabilità della sicurezza aerea e l'impatto a cascata sulla gestione del traffico aereo.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/mondo/video/2026/11/06/allarme-bomba-giovedi-nero-per-i-voli-in-europa-1137901",
+     "ora": "2026-11-06T13:14:40+00:00"
+    },
+    {
+     "titolo": "Russian extremist group denies sending hoax bomb threats",
+     "titolo_it": "Gruppo estremista russo nega di aver inviato minacce di bomba false",
+     "riassunto": "Un gruppo estremista russo ha negato di essere responsabile delle recenti minacce di bomba che hanno preso di mira i voli in Europa. Il diniego sottolinea le difficolta' nell'attribuire e prevenire tali minacce, che mettono a rischio la sicurezza dei voli.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-06T12:51:38+00:00"
+    },
+    {
+     "titolo": "Crollo del Nasdaq a Wall Street, cosa c'entrano midterm, data center e Big Tech",
+     "titolo_it": "",
+     "riassunto": "Il crollo del Nasdaq riflette l'incertezza del settore tecnologico legata alle elezioni di medio termine, alla domanda di data center e alle prestazioni delle grandi aziende tecnologiche. Per il settore aerospaziale, ciò segnala potenziali pressioni di finanziamento per le tecnologie emergenti e i progetti di integrazione dell'intelligenza artificiale.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/economia/2026/11/06/nasdaq-crollo-borsa-wall-street-perche",
+     "ora": "2026-11-06T12:59:00+00:00"
+    },
+    {
+     "titolo": "Patriot all'Ucraina, Helsinki accusa Washington: \"L'Europa ha pagato, manca la volontà politica degli Usa\"",
+     "titolo_it": "",
+     "riassunto": "La Finlandia accusa Washington di ritardare le consegne dei missili Patriot all'Ucraina, nonostante i fondi europei. La disputa evidenzia le dinamiche geopolitiche negli approvvigionamenti di difesa, rilevanti per l'ingegneria aerospaziale e i sistemi missilistici.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/06/patriot-allucraina-helsinki-accusa-washington-leuropa-ha-pagato-manca-la-volonta-politica-",
+     "ora": "2026-11-06T13:43:33+01:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
