@@ -1,0 +1,263 @@
+{
+ "giorno": "2026-11-07",
+ "creato": "2026-11-07T11:44:58+00:00",
+ "in_breve": [
+  "ENAC, Regione Veneto, SAVE e H2C hanno presentato all’Agenzia europea per la sicurezza aerea un progetto sandbox per droni a idrogeno a Padova.",
+  "La sonda ExoMars TGO di Thales Alenia Space ha individuato attività vulcanica recente su Marte.",
+  "I controlli su un 737 MAX danneggiato da una tempesta sono stati omessi prima dell’incidente Dutch roll, sollevando dubbi sulla manutenzione."
+ ],
+ "modello": "cohere/north-mini-code:free, nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free, nvidia/nemotron-3.5-lightning:free, nvidia/nemotron-3.5-super-vl:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Droni a idrogeno: ENAC, Regione Veneto, SAVE e H2C presentano alla European Union Aviation Safety Agency il progetto Padova Sandbox",
+     "titolo_it": "",
+     "riassunto": "ENAC, Regione Veneto, SAVE e H2C hanno presentato all'EASA il progetto Padova Sandbox per droni a idrogeno. Conta perché testa nuove regole e tecnologie per la mobilita aerea sostenibile in Italia.",
+     "fonte": "HydroNews",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQW1uTGhyM0d6MnkxYlI5Q1I1X0w1SHNQUzUzWmxaVmNYUHZoY3hfZWhQWktYbWtkYkItdHFScnpPMnA2Z2p5MWtuOGMwY0NDWmwxVHhGSllKWHRTWG9IN2t6VzhqWk5NcUtUcDVJbnV4bkxtZ05pNFhxRjBneWRuWEtYSkxzMXdRYk4xWVYyMkQxd2Fia1lfdVQtcWJjT21jTjVqOVJiaG1vMTlvcGVYQUQ5QUMyNE1Xd0F6czAyOThJLVNpdlV1bjBwb2V1Z0hNcHJycy04M0FuTmpXbng1RnVLaDR5c1pKZW11ZndTcDJaUdIB8gFBVV95cUxQQW1uTGhyM0d6MnkxYlI5Q1I1X0w1SHNQUzUzWmxaVmNYUHZoY3hfZWhQWktYbWtkYkItdHFScnpPMnA2Z2p5MWtuOGMwY0NDWmwxVHhGSllKWHRTWG9IN2t6VzhqWk5NcUtUcDVJbnV4bkxtZ05pNFhxRjBneWRuWEtYSkxzMXdRYk4xWVYyMkQxd2Fia1lfdVQtcWJjT21jTjVqOVJiaG1vMTlvcGVYQUQ5QUMyNE1Xd0F6czAyOThJLVNpdlV1bjBwb2V1Z0hNcHJycy04M0FuTmpXbng1RnVLaDR5c1pKZW11ZndTcDJaUQ?oc=5",
+     "ora": "2026-11-06T15:36:43+00:00"
+    },
+    {
+     "titolo": "Spazio: attività vulcanica su Marte rilevata dalla sonda europea ExoMars TGO realizzata da Thales Alenia Space",
+     "titolo_it": "",
+     "riassunto": "La sonda europea ExoMars TGO, realizzata da Thales Alenia Space, ha rilevato attivita vulcanica su Marte. Conta perché mostra il ruolo dell'industria spaziale europea e italiana nell'esplorazione planetaria.",
+     "fonte": "AGEEI",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcjlNeVBwQXd5U0tCa0ppZk0wSW55aFFZSHZnLUVJUmxNX3M0b1BHdExlSEtEdjVHSDRHMWl0QzhkYUhwOGdDbE1hNDhDaHZvWnFmVE42SFBJbWk1a0lOWEhuZk50dEREZUp5OWVnaDNEcmF0NG1HT1ZXREN0SGlsNXltb2FUc21aVWJSTnlMRmpLZmpVdFZXNzJSajgyRUhLUXBLQ0otdzNCcmlmejhXaWxXYVByY0d0UmhMbGEtMWluUTFFV0E?oc=5",
+     "ora": "2026-11-06T12:56:00+00:00"
+    },
+    {
+     "titolo": "NTSB: Missed Inspections Let Storm-Damaged Southwest 737 MAX Fly 44 Times Before Dutch Roll Accident",
+     "titolo_it": "Ispezioni mancate sul 737 MAX danneggiato da tempesta prima dell'incidente di Dutch roll",
+     "riassunto": "L'NTSB ha accertato che ispezioni saltate hanno permesso a un 737 MAX della Southwest danneggiato da una tempesta di volare 44 volte prima di un incidente di Dutch roll. Conta perché è un caso di sicurezza del volo su gestione dei danni strutturali e manutenzione.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/ntsb-missed-inspections-southwest-boeing-737-max-dutch-roll/",
+     "ora": "2026-11-07T06:15:35+00:00"
+    },
+    {
+     "titolo": "Airbus A320 with Eurofighter nose now flying with new fighter radar",
+     "titolo_it": "Airbus A320 con naso Eurofighter vola con nuovo radar da caccia",
+     "riassunto": "Un Airbus A320 con il muso di un Eurofighter ha completato i voli di collaudo con il radar del caccia. Conta perché unisce avionica militare e piattaforma civile per lo sviluppo di nuovi sensori in Europa.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/airbus-a320-eurofighter-nose-radar-test-flights",
+     "ora": "2026-11-06T13:12:32+00:00"
+    },
+    {
+     "titolo": "Why The Boeing 747-400 Was A Turning Point For Two-Pilot Cockpits",
+     "titolo_it": "Il Boeing 747-400 e la svolta dei cockpit a due piloti",
+     "riassunto": "Il Boeing 747-400 ha sostituito l'ingegnere di volo con automazione avanzata, passando al cockpit a due piloti. Conta perché illustra l'evoluzione dell'automazione e dei fattori umani in cabina di pilotaggio.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/boeing-747-400-two-pilot-cockpit-evolution/",
+     "ora": "2026-11-07T01:00:17+00:00"
+    },
+    {
+     "titolo": "Esami Specific STS da casa? Enac ci sta lavorando",
+     "titolo_it": "",
+     "riassunto": "ENAC sta lavorando per permettere gli esami Specific STS da casa. Conta perché semplifica l'accesso alle abilitazioni per operazioni con droni in Italia.",
+     "fonte": "DronEzine",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkFQRGY0OG1mUUs5VlgtTWhfSEpWbGI0Q2JHX2txQlZUVERCUzZOWklfeTE1ZnNTdnZHeGhKWk5MMDFHdTEwT3JUUFlWTkVTYm16eS01d1Y5NldmRGRDUTJHV0VJWG95SWV5d3Z3cE0xNzY5WWxaRGJBM2VqT2VXYzNENExNRXdz?oc=5",
+     "ora": "2026-11-06T13:56:20+00:00"
+    },
+    {
+     "titolo": "Mystery Flight From Rome to Tehran Puts Aircraft Tracking Deception in the Spotlight",
+     "titolo_it": "Volo misterioso Roma-Teheran e inganno sul tracciamento degli aerei",
+     "riassunto": "Un jet non identificato ha volato da Roma a Teheran con un'identita apparente fittizia, attirando l'attenzione sull'inganno del tracciamento aereo. Conta perché solleva questioni di sicurezza e sorveglianza ATM.",
+     "fonte": "The Aviationist",
+     "link": "https://theaviationist.com/2026/11/06/mystery-flight-from-rome-to-tehran/",
+     "ora": "2026-11-06T22:26:37+00:00"
+    },
+    {
+     "titolo": "Forum Italia-Cina 2026: 2° giornata alla Link Campus University a Roma: Zes Unica, aerospazio e cooperazione con Unido Itpo Beijing",
+     "titolo_it": "",
+     "riassunto": "Il Forum Italia-Cina ha dedicato una sessione ad aerospazio e cooperazione con Unido Itpo Beijing. Conta perché segnala opportunita di collaborazione industriale e occupazionale tra Italia e Cina nel settore.",
+     "fonte": "Paese Italia Press",
+     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdnR6dm81LXVuMUhNeEE4b0NMWUk3bkNGclJfZW5FaXB4d1hxSEpSaC1FX3RZYlNLWFlRSl93eHNvQnhNcUdLZmRtUm1sYk8tUXBzZEJSX29IbXJHQ1VBeVN1cXRmWFV4NENqalhfU2FtdlpaM3VIak9zMGlrS0JOV2xxYUNJSlhScy1Tc3pKYkF1Y1VmZmJsd3o4QW13V1JxRUFPbXBEX2RobFBQY0ptTnRoQm8xUVp4UjJIVHI5N3Q1ZDZlX2s1b2pNSjB3eGE3WGpxUFIyNDJfMS1IYkJlTHRfWWxPMzJfM0VxVlkxVGZaV1lFLWFycDBwd011c3hOYWdQQW56NEJNY2R0?oc=5",
+     "ora": "2026-11-07T11:43:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+     "titolo_it": "OpenAI vale 1.250 miliardi di dollari, Anthropic verso la Borsa",
+     "riassunto": "OpenAI ha raccolto 11 miliardi di dollari e ha una valutazione di 1.250 miliardi, mentre Anthropic si avvicina all'offerta pubblica iniziale. Conta perché segnala la crescita del settore e le possibili opportunità di lavoro per ingegneri interessati all'intelligenza artificiale.",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+     "ora": "2026-11-06T18:46:18-05:00"
+    },
+    {
+     "titolo": "Blog | Anthropic verso la Borsa: 17 miliardi di ricavi trimestrali e 895 miliardi di spese. In tre grafici - Info Data",
+     "titolo_it": "",
+     "riassunto": "Anthropic si prepara alla Borsa con ricavi trimestrali di 17 miliardi e spese di 895 miliardi, mostrati in tre grafici. Conta perché i dati finanziari aiutano a capire la solidità dell'azienda e le prospettive di carriera nel settore.",
+     "fonte": "Il Sole 24 ORE",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMk45S3ZpUnY4TlZsLXp1cnkzOWtoVjBxMk8zMzVVNkhYdzhGeGRHMkpGYXdYZDZzek9PRzRacUlUTEZjVjJtaERCN19JWEV6ajcyMGNEa3hIcW1BZVozcENYVjdQZ0ctUGc5REt4VXVDTnRPWTd4M1M1dkNUdXI0VVhCQmJ4eExkSVkyTE1wWFYzeTQ3UzdmM1R5VXdKdzgxd0h0ek1yNFNQYWNwQ0xlUkJ2bUp1X0dyRmFxOTdEX29Ob3YxS09SODh3TGdYTFZfVVNBYjVoNTlseEtLWi1N?oc=5",
+     "ora": "2026-11-07T06:42:34+00:00"
+    },
+    {
+     "titolo": "OpenAI spinge su cybersicurezza, nuovo modello IA scova falle in oggetti connessi",
+     "titolo_it": "",
+     "riassunto": "OpenAI ha lanciato un modello di intelligenza artificiale per la cybersicurezza che trova falle negli oggetti connessi. Conta perché la sicurezza dei sistemi connessi è utile per proteggere infrastrutture aeroportuali e di volo.",
+     "fonte": "RaiNews",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdy1SU0QtbkNHS0tKN0gybjcwakIxdWd0aFZ5WHJjdGxjZnRMNExILXZyRjN4bm9nb2ttQ3EtT0ZaV1hHRHJGR3V1aEhDOERhdmEyT2V2SldhM2ZiTXZ6NHhFaWxHSGRlY2lEOG9nV3JRcUZLaG5mRTgtTU1ZMTMtcmlMbDV0SWstYWVyMkI4dS1udFdHRk1Ca0E0eFFWaFQ4RDVPRkFhSWp6NGJjY3hFdG51bWhYb2lPZGlnX05vQ0FiYldaX2lVbGFuSXlNNVVOQ0RCYUFWdk9sWkpINFBOUk8xVW1na1QwbTByZnpEdDlna3Bq0gH6AUFVX3lxTE4wRFFIaHBqaUJoeEg4UUF2QmRWSzNSRl94OENGQnltS2UtWWlxeUZ2Y0YxSFVfVmhIejEwQVFzOW93OURnZWJMZ1phYU1ucFd1Uk1CZHVKT0xHSXBtTll0aEhkMkpjbWJIYjhqM1BBQWt4aDZDeUUzRE5lWEl1S0ExN0xFaDZNWFBsRmVZeVlHOFY1X3ZsbEV0d3NpRExPUk1EU1NHbGVwdmNpT1I0V1J1bHozNGRxQ3BXa2ZMUXF2Y3Y2LWp6dUxibHhjOENDQ0J0UFA3SFFpVHljcHNWTndQcHJwX3MyZEJ6aFVJSVNWUFNDVDBTVDg2X3c?oc=5",
+     "ora": "2026-11-06T14:24:00+00:00"
+    },
+    {
+     "titolo": "METR svela che l'AI raddoppia il ritmo di ricerca di Anthropic",
+     "titolo_it": "",
+     "riassunto": "METR ha rilevato che l'intelligenza artificiale raddoppia il ritmo di ricerca di Anthropic. Conta perché indica un'accelerazione tecnologica che può modificare rapidamente le competenze richieste nel mercato del lavoro.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZG0taFVzUUtxbDItbWdWTVh5ejhzNHFuSW45eUVCX1VSMldxT1NJYk5vRU5xR21iQ2IzM2RfaG1oc0ZveGFwbjB3MS0tQzdIaTM5Wm80Z3d4VzRsdlhRb2MtZC1hYTVmd3BSZVM2MEpHRTdxR1BieUVfcEJhajJPMzZ3?oc=5",
+     "ora": "2026-11-07T08:14:06+00:00"
+    },
+    {
+     "titolo": "Claude Code cloud, arriva il setup automatico di dipendenze e chiavi API",
+     "titolo_it": "",
+     "riassunto": "Claude Code cloud introduce la configurazione automatica di dipendenze e chiavi API. Conta perché semplifica l'uso di strumenti di programmazione basati su Claude per studenti e sviluppatori.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTQyWVc0dFZJZGhWTlYtUFNJOFQ1TWpzMnNFS1c0VHZxWnRnMmFQX0ZNMXdDcDdCVXdabWgzR01CSy1jS0Q0OHNycVZ4RjBPRmFWa3FOcEtVUllTOXNVX3NOZ3I4X29ic3E5OWJGVXFseF9fMGhjWDlNOTYwVXVudw?oc=5",
+     "ora": "2026-11-07T08:14:05+00:00"
+    },
+    {
+     "titolo": "Tutti sapranno se usi l'IA per scrivere: Anthropic e OpenAI introdurranno i watermark sul testo",
+     "titolo_it": "",
+     "riassunto": "Anthropic e OpenAI introdurranno i watermark sui testi generati dall'intelligenza artificiale per renderli riconoscibili. Conta perché riguarda l'uso corretto dell'IA negli elaborati universitari e nella scrittura professionale.",
+     "fonte": "DDay.it",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzEwdngyb3czQ3dmbWw1S2RuYnZITEJoZWFuUkxLUUx3dFp6bWdwa2tlYkxIM01pMTRsRHo0S3c3S2drVWxmbUxnUDkyVWJTSzlOdzRhb1dPS0FFYmprU3AxcGM1dDEycUdoRUZ2bE5KQXQ3Y2VRZlY3cDZaZU1KUWhVai1NWjZ6SGxwN0FhTmtleUMxRU1WVUN5NVFsMERUanJuSXJTdkFPSHk2NjVmdTR6OE96VFIxMUhPdHZpWGc0eVdEbDF3NGRlQ0s?oc=5",
+     "ora": "2026-11-07T01:36:09+00:00"
+    },
+    {
+     "titolo": "Anthropic porta i conti bancari in chat: Claude analizza le spese, senza poter muovere denaro",
+     "titolo_it": "",
+     "riassunto": "Claude può ora analizzare le spese bancarie in chat senza poter spostare denaro. Conta perché mostra l'espansione delle capacità di Claude nella gestione di dati personali e finanziari.",
+     "fonte": "Hardware Upgrade",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQlJwT0xHMjVNZVN0bDdRN0V2UXVKaVdvMzNMTW8zVHhTSkcxZTRWQm1CanFzUFJSdUx5aFdlRE9VMGRXSks5bklLblBwSEkxRnBkZVpUVXhQQS1sd2taQXpKVnRwSjlvcTFtcXF3eGx0RVZ3andWZGRkWWlSYjlWUF9LOEt6WWNZTm1sa1I4RFkwa3lrOFY1SEtGUFNaQnE5RHJ3VTM3ZnBVMFQ5eFl0LVphVGJnTFBCU3o1ZTUxUTI5QWtjTlpyNm8wZHVOV0ZUUW00?oc=5",
+     "ora": "2026-11-07T10:58:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Master Sapienza: come funziona il bando unico e come iscriversi",
+     "titolo_it": "",
+     "riassunto": "La Sapienza ha attivato un bando unico per l'iscrizione ai master, offrendo una procedura semplificata per accedere a tutti i corsi di laurea magistrale, utili per gli studenti che pianificano percorsi specialistici in ingegneria.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVFYR25wVHQ4dVZsWmczWmhFUllsaUZQUmFaell3YUpja1V6UDc4SkhXNjhOelUxQ1Nydkx2TE43ZGJHZlBYd19TWVVYZk1pQWRvTnVRX3VMLWU4dnMxbGFGREw1eUZVd19hVERhczR4QmowdHBoVXBpXzZxX2tZZFREbnlTTmFfcFRYY0FJWjJCQXFSbmFUVld0akxveDg?oc=5",
+     "ora": "2026-11-07T06:17:38+00:00"
+    },
+    {
+     "titolo": "Università Sapienza assume 15 Tecnologi a tempo indeterminato: concorso per Laureati in Ingegneria, Biologia, Chimica e Comunicazione",
+     "titolo_it": "",
+     "riassunto": "La Sapienza ha indetto un concorso per assumere 15 tecnologi a tempo indeterminato, riservato ai laureati in ingegneria e altre discipline, rappresentando una diretta opportunità di impiego stabile per i neolaureati.",
+     "fonte": "Concorsi Pubblici",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQd0toZUdYRVZVWDJzN2ZsSExmdmc5T1B5VWNqOEx3TVFCSHRRcUhrbVA0aEZRUk9Nd09xd1ZxcW02cGd4QXYtX2p5YTlPYjk4bGJ0SkJYT2I5MXFzVDVHTlFRdXB4bDlBNC1YdVVPdGR6dC1Ic242LTQxejQtelZSajBNX2ZIUDR6MlZCb2RVY3I2M2htNGVGTU5mMzczUE1ORzNaQzJBU0xKRWlhay1JVDZkRnViQzhXVzByY3I1Zll0eTdIbktFOHg4d3hQNTRLUTFKRkZ4M2pyeVJJakxRVU95MUstb21FR2JwRkxxT3hlYm1MaE1v?oc=5",
+     "ora": "2026-11-04T04:37:29+00:00"
+    },
+    {
+     "titolo": "Borse di collaborazione Sapienza 2026: nuovi bandi per biblioteche e dipartimenti, scadenze a novembre",
+     "titolo_it": "",
+     "riassunto": "Sono stati pubblicati i nuovi bandi per le borse di collaborazione 2026 alla Sapienza, destinate a biblioteche e dipartimenti con scadenze a novembre, offrendo agli studenti la possibilità di guadagnare e acquisire esperienza lavorativa nell'ambito universitario.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzVpRXRlbmJmZ3pzclphdmJYME9tWTdCTmprRWZaT3JHd3paYTM4ZVExaG1JM2RNN3I5eU9QWHV3NUdGd1E0S0VnX25MU2drVjA1SzV6VTFKSFlVN3hlLUxBcXhMSEdTT3VSVExsM2JTZGMzcW9td2c5WjRiMXBGa0owOA?oc=5",
+     "ora": "2026-11-06T21:19:44+00:00"
+    },
+    {
+     "titolo": "Rappresentativa Serie D. Al via la nuova stagione: l'11 novembre stage Centro-Sud a Roma: i convocati di Giannichedda",
+     "titolo_it": "",
+     "riassunto": "L'Aeronautica Militare ha indetto un concorso per 60 marescialli con nomina diretta, aperto ai laureati triennali, creando opportunità di carriera nel settore aerospaziale militare per gli ingegneri neolaureati.",
+     "fonte": "Tuttocampo",
+     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdVJSRVZIbFZmaUQ3V0tXVFBMcnpSb2p1Yk1PeEpuWENZU3lETF9qaHFicUsyYjBKczdtbTlRNURkR1NONllEeFEzSVdmQ0s3R05lZE9TYk1jekN6MFlacEM0WFJpdjFfYUtETjN5bHZkUllVTmRJSEdYbGFqbTY4VDhubWlGd2JHR0ZUa2lWaHJveUxQM2JYNHdmSE1tQzl2Q194RVNOTS1McTRQVm42NVdmU2dscThEZmE3RERGSnFPV05JNm14aU9nUXFxaXNoTzRRV0ZraHFyVHAtZ3Z2R2hERUl5S2FyTHNTUkYwQzdRZUlOQlHSAfYBQVVfeXFMTXVSUkVWSGxWZmlEN1dLV1RQTHJ6Um9qdWJNT3hKblhDWVN5RExfamhxYnFLMmIwSnM3bW05UTVEZEdTTjZZRHhRM0lXZkNLN0dOZWRPU2JNY3pDejBZWnBDNFhSaXYxX2FLRE4zeWx2ZFJZVU5kSUhHWGxham02OFQ4bm1pRndiR0dGVGtpVmhyb3lMUDNiWDR3ZkhNbUM5dkNfeEVTTk0tTHE0UFZuNjVXZlNnbHE4RGZhN0RERkpxT1dOSTZteGlPZ1FxcWlzaE80UVdGa2hxclRwLWd2dkdoREVJeUthckxzU1JGMEM3UWVJTkJR?oc=5",
+     "ora": "2026-11-06T17:51:00+00:00"
+    },
+    {
+     "titolo": "Rappresentativa Serie D, 44 convocati da Giannichedda per il primo stage Centro-Sud",
+     "titolo_it": "",
+     "riassunto": "L'Università La Sapienza ha approvato il concorso per 99 posti di funzionari e collaboratori, rendendo disponibili posizioni amministrative e operative presso l'ateneo romano per chi cerca impiego stabile.",
+     "fonte": "Serie D 24",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3FWMmtvdG5GVEd0RFhFREFaUzIzdHZyckxPTWV2c3k5cXdwYVE2aTE3RUJ3ZGc3WGp4U3h1Z3F3XzJkSlcxazBVbXVackhUY1d2VzNscFNabFFIVWJjOVRLZl9jS0dxUjdyY3hiSUZld1pPcUhpblZXZ1dRamtjSGRsRVcwdUZpZUhZSUJTRmd2NzlHMjBiS0I5d0U0OF92eGprcDBpaVVSbWJwcms4?oc=5",
+     "ora": "2026-11-06T15:18:23+00:00"
+    },
+    {
+     "titolo": "Sanità Sicilia: autorizzate oltre 2900 assunzioni di infermieri, OSS, amministrativi, tecnici, assistenti sociali, medici",
+     "titolo_it": "",
+     "riassunto": "L'Aeronautica Militare ha aperto il bando per 1050 volontari VFI 2026-2027, accessibile a civili con licenza media, rappresentando un ingresso nel mondo aerospaziale militare anche senza titolo universitario.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZHJ1OFBJUXpaeU5ZUFliWnRzcjJWaW5MeGdOY3JXaXJiOUo0aEJjWVlLUzM0R2l1NHJwVjVMQzNLVjhJWG5PcmJWb1hhcjZNMy1nVEZjVlRnTTRhV1RLSkVFclNjOEQ3ZVZaSGlESFROWnhsR2hQOTUzWlFoUVFmV0JQMGRYSVFzS1FaRDNLZlhZWl9sRW9YRDhHVThOWEQ2Wnp0Z2pxUjdxM3p2MWc?oc=5",
+     "ora": "2026-11-06T12:21:26+00:00"
+    },
+    {
+     "titolo": "«Sapienza, obiettivo 8 mila iscritti. A Latina record di studenti stranieri»",
+     "titolo_it": "",
+     "riassunto": "L'iniziativa Ingegneria Italia posiziona l'industria come vetrina per aziende alla ricerca di talenti, creando opportunità di stage e lavoro nel settore ingegneristico, inclusa l'aerospaziale, per neolaureati e studenti.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHJjV3RvQWl5U3RESjBVRUQwSVZLS0t1aGl6MWViWXVnU09xRGJHMXpacFdxZDgtc0puSDNYMHY1dVhIZDN2Um5CcTB2SU1fdkF6NVYyamxObzctRHNtRkVqb0pzYm42TTBRUm9YYWRBRTdaRkY1ZlFHWFg1SVdZLWVBTEFEblNJY08xZEtmUVNuQlZweFNHaFhzemEwN2lW0gGmAUFVX3lxTFBvTEt6blZoMlk2bXdFbDZjVjJGY25DTjZzVmw0VmZpamNNVW84Y2x1VXczNnVLMlZ0eHY3OURxWG45eXhDenRmdXlaa1BVTDZkVUhGWEsteGZ2bFhDUUZ3c2dqdDFpejdtN2FlbVd2V201MEt6a05aQmpZMnZoZXlWeWFtd0RxaUFkS044M0NHWlRjNHAxRTNjODJ4UGswSHg0b2xoamc?oc=5",
+     "ora": "2026-11-06T10:13:26+00:00"
+    },
+    {
+     "titolo": "CREA: 50 assunzioni di ricercatori, amministrativi e tecnici autorizzate con la Legge ColtivaItalia",
+     "titolo_it": "",
+     "riassunto": "Assolombarda ha pubblicato la lista dei campioni di parità di genere nei luoghi di lavoro, includendo grandi aziende come Leonardo, offrendo agli studenti un riferimento su ambienti inclusivi nel settore aerospaziale e tecnologico.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXlSMU5McEdNQTYtUzB2XzVhelJWeUpSb2FUc1daMXhFVzlzWGdnQWVhT3pSOHdFZzUtT25SLU5TZWpJS21BekRpVldwSWd4Q2htZHhxQWg4a041SGxuWUU5Q29TdU1RYnVia21VMm5BOWdIMnJPa1FDcnRtZy11NC1sUkxYY00yRkd2SWNtd2ExU1A1SW9MSXh6VXJIXzU0ckd1cm5QaFIwMkJyMzRBZA?oc=5",
+     "ora": "2026-11-06T08:15:10+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Il tunnel del Brennero sotto attacco hacker, sospetti su gruppo filorusso",
+     "titolo_it": "",
+     "riassunto": "Un gruppo di hacker ha attaccato i sistemi del tunnel del Brennero, suscitando timori su una possibile origine russa. La sicurezza di infrastrutture critiche è fondamentale anche per la navigazione aerea.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/07/il-tunnel-del-brennero-sotto-attacco-hacker-sospetti-su-gruppo-filorusso",
+     "ora": "2026-11-07T12:23:35+01:00"
+    },
+    {
+     "titolo": "Tajani: \"Diffusi miei dati su darkweb da hacker russi, non mi farò intimidire\"",
+     "titolo_it": "",
+     "riassunto": "Il vicepremier Tajani ha denunciato la diffusione dei suoi dati personali su un dark web gestito da hacker russi, evidenziando il rischio di violazioni di informazioni sensibili. La protezione dei dati è cruciale per il settore aerospaziale.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/cronaca/2026/11/07/antonio-tajani-dati-dark-web-russia",
+     "ora": "2026-11-07T10:45:45+00:00"
+    },
+    {
+     "titolo": "Cop31 in Turchia, enormi emissioni di metano da discariche",
+     "titolo_it": "",
+     "riassunto": "Le immagini satellitari hanno mostrato elevate emissioni di metano da discariche in Turchia, poco prima della Cop31. Il problema ambientale è sempre più rilevante per le politiche aerospaziali e la sostenibilità del settore.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/ambiente/video/2026/11/07/cop31-in-turchia-emissioni-metano-discariche-1138132",
+     "ora": "2026-11-07T10:36:24+00:00"
+    },
+    {
+     "titolo": "Guerra Iran USA, Trump: “Accordo o li distruggo”. Nella notte colpita l'isola Qeshm. LIVE",
+     "titolo_it": "",
+     "riassunto": "Trump ha avvertito che l’Iran dovrà scegliere tra un accordo o la distruzione, mentre l’area di Qeshm è stata colpita nella notte. Tensioni geopolitiche possono influire sulla sicurezza dei voli e sulle operazioni aeronautiche.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/mondo/2026/11/07/guerra-iran-usa-trump-news-diretta",
+     "ora": "2026-11-07T10:20:00+00:00"
+    },
+    {
+     "titolo": "Guerra Ucraina Russia, Trump: “Progressi” con Kiev e Mosca. Nuovi attacchi missilistici",
+     "titolo_it": "",
+     "riassunto": "Trump ha detto che Russia e Ucraina vogliono raggiungere un grande accordo, mentre nuovi attacchi missilistici sono in corso. Le dinamiche di conflitto influenzano le rotte aeree e le esigenze di sicurezza nel trasporto aereo.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/mondo/2026/11/07/guerra-ucraina-russia-ultime-notizie-diretta",
+     "ora": "2026-11-07T10:20:00+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
