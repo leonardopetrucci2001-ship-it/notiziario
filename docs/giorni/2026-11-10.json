@@ -1,0 +1,223 @@
+{
+ "giorno": "2026-11-10",
+ "creato": "2026-11-10T13:29:40+00:00",
+ "in_breve": [
+  "Leonardo vince la gara per l'addestratore M-346 della Marina USA, aprendo grandi opportunità per l'industria aerospaziale italiana.",
+  "Airbus e Thales Alenia Space si aggiudicano il contratto IRIS² da 1,5 miliardi per la costellazione satellitare europea.",
+  "Il nuovo rettore della Sapienza Antonio Carcaterra punta su ricerca, intelligenza artificiale e sfide per gli studenti."
+ ],
+ "modello": "cohere/north-mini-code:free, liquid/lfm-2.5-2.6b:free, nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free, nvidia/nemotron-3-ultra-550b-a55b:free, recursive/flint-v1.0:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "La divisione di Airbus e Thales Alenia Space si aggiudicano un contratto da 1,5 Mrd EUR per i satelliti IRIS",
+     "titolo_it": "",
+     "riassunto": "Airbus e Thales Alenia Space hanno vinto un contratto da 1,5 miliardi di euro per i satelliti IRIS. Conta per l'interesse nel settore aerospaziale e spaziale e per le grandi opportunità di collaborazione industriale.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMklMdXhJMWgwSDdOdWJWRTRLUm82NWlzLUNqOElqcVY5YU40VzUySFkxSFVOYmZPMFYyZWdWOVNjcTczUzZDLXlkOUdLVXJnaHhNb2NIZkZXeGZYazAweG5nYmlrZTZfVnhjSV9IZUZWcm9SR195N3JIXzNQVEZYUm5HOVh0QUpZU1duOVVkX2p2a01rUVF5YVBwZnctRkpYdGZCMmlvcHFVdDhxU1pfTzZnTTRURnl2RWs1NzZkMGw5VkkzbHNjT29vb3RVV192bGdGLWgwVnNWaFBscncxdFltNWhBdmp3VVVz?oc=5",
+     "ora": "2026-11-09T17:30:33+00:00"
+    },
+    {
+     "titolo": "Boeing to cut 5% of commercial jet workforce as production ramp-up falters",
+     "titolo_it": "Boeing taglia la forza lavoro dei jet commerciali",
+     "riassunto": "Boeing taglierà il 5 per cento del personale dei jet commerciali mentre la produzione rallenta. Conta per capire le difficoltà dell'industria aerospaziale e gli effetti sul lavoro e sui programmi.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/boeing-commercial-airplanes-workforce-cuts-737-production",
+     "ora": "2026-11-09T22:10:54+00:00"
+    },
+    {
+     "titolo": "Azioni Avio in orbita dopo semestrale che torna in utile Da OraFinanza",
+     "titolo_it": "",
+     "riassunto": "Le azioni Avio sono salite dopo il semestrale che ha mostrato risultati utili. Conta per l'interesse verso l'industria aerospaziale e le opportunità di lavoro nel settore.",
+     "fonte": "Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUp5Um83WktHdXZsT2NUWjhwdHRwS3JrTzFSMkg3Yko2RVhoTXMyem1rLXphalItOUhVSm1EUUIxWW92OFBma1o3WFZLRWkzbUJycVNxc0dzbzM3R1cybDA5anl1WnhQNEdpMUEwdmdCZHphX1VPN1pPVmJBd0xPWHl6Tzd2cHNrYkxVaHdta3VDckgyOUF3Y09JZUk3blk3aDRMeGJ4SFlBdzJqOFRqdDVn?oc=5",
+     "ora": "2026-11-10T11:42:57+00:00"
+    },
+    {
+     "titolo": "The 7 Airlines Flying Airbus A321XLRs On Both Short & Long-Haul Routes",
+     "titolo_it": "Le Airbus A321XLR in volo",
+     "riassunto": "Le compagnie aeree stanno ricevendo le Airbus A321XLR e le usano su rotte brevi e lunghe. Conta per l'attenzione verso i modelli prodotti e le rotte aeree.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/7-airlines-flying-airbus-a321xlr-both-short-long-haul/",
+     "ora": "2026-11-10T09:00:17+00:00"
+    },
+    {
+     "titolo": "Aerospazio, ad Ancona un convegno su sicurezza, innovazione e diritti",
+     "titolo_it": "",
+     "riassunto": "Ad Ancona si è tenuto un convegno su sicurezza, innovazione e diritti. Conta per l'interesse alla sicurezza del volo e alle innovazioni aerospaziali.",
+     "fonte": "MarcheNews",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOHFCUTJ4Z1l5cWIydTNlcHFVNFhadVdQTlFmakhiMTd2UFJqTng2Q0w2QVdhaUsxUDdqY3NLeHBwNzRramdaQk1uT2FYbS14YWsxdkRxeVVIYlVKeWpjTEZDaHJ6OUVHU1ZGcjN4TW91aXp3QmNQYlFET1IxTll6S0RHZmxpMTFfanhUazh1QmJlYk5yX0ptZnl6SmgydFloMzNrdEJsY20waFZGSHc?oc=5",
+     "ora": "2026-11-10T03:23:34+00:00"
+    },
+    {
+     "titolo": "Sciopero aerei 21 novembre 2026: ENAV risulta revocato",
+     "titolo_it": "",
+     "riassunto": "Il 21 novembre 2026 lo sciopero aereo è stato revocato da ENAV. Conta per la sicurezza e la gestione del traffico aereo e ATM.",
+     "fonte": "Alphabetcity",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGNhWU1LVkY5YUVkVzR2eDRxNUlxSVE3Y3hSeEkxb3paa3hmcTFWZ2ozZWxmaVNzMXQtelcycGNhU1VOcE9OTzN3dkh6ZGdjS1JyRlVRTG1zbmk0OS1haC05TTJGWmtaSV9COUpFY3FkQUV6LU8wdUFuTDluOUtVTHlTbVo1V2xh?oc=5",
+     "ora": "2026-11-10T09:30:23+00:00"
+    },
+    {
+     "titolo": "La prima allieva pilota cieca in Italia, Lucia Sabrina Papa sale sulla torre di controllo di Fiumicino: la sua storia",
+     "titolo_it": "",
+     "riassunto": "La prima allieva pilota cieca in Italia, Lucia Sabrina Papa, è salita sulla torre di controllo di Fiumicino. Conta per la sicurezza del volo e i fattori umani.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb3NGMGI4Q09lOVVSR1dnYS12TTJDQW9NZzV3QU12dGJFcnZJNlpfS3FsU3F3VDg4Q1ZZODQ1UnhQRUNfSmVlWnJRd1BqTEZtT04zVlFxNDdCUHl1VDlXNFk2TTZpLUVrWVNjY2FMeFhTWS04bkZYazJ3QlRSWXB1OFI5SHE4dExfU01BT1AxTWxFM182a0xUOS0xeTVsRUZzdEJhMEYtcnJUbDFSVGpZTmdwMjlEZDZUeUF0TNIBugFBVV95cUxQb3pVQWpLUi1hUmxDbjdsU2pWbkdiODhLZFJiZ1dFUS1xOHdLZnlHa0gydzFKblhIazE4bThGRDM0bHhORzR4U0pEWHJOSkJiczVNQWxJQTRXTVNwRmRZUEFYWGV3Z281Vjl0X0FEYTRsc29vQXc5SUJIQTJCSE12aW9aTDQtYjl0R05iOW15bUdxbVhfN0xRYWhvYmJVY2NXZmdQS3pxRk1BMnZrT05LQlY3T3BvTlY2dUE?oc=5",
+     "ora": "2026-11-10T11:46:04+00:00"
+    },
+    {
+     "titolo": "Enel e Leonardo SpA collaboreranno sulle opportunità tecnologiche e industriali in Italia",
+     "titolo_it": "",
+     "riassunto": "Enel e Leonardo collaboreranno sulle opportunità tecnologiche e industriali in Italia. Conta per le opportunità di stage e lavoro nel settore aerospaziale in Italia.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNDRkampqSld1eFRHWVRJMzlHeGdsQkZ5cHAxeWxqbGozckRPX0twWWQ4Mm82WlIwcmtmWjRENFBTMEdaYjljNzQyVDNadWE3dHlrTVk3Y3RibzBVNlQ2Z1Nnd3NOZUZESmhhWmZVRTVaZld0VWQzQlU5UGtpRF9UTTRkTXBKdElSVUNiWC1fWlZubnh2WlVTTnBpd0UzMWZQTjlVck5Xd3lLY2dFZlVmNjZpVUtyOTN5V3hWNm5DSVpQNVhmZ2hfM3BpSnBTT2lRNDMwNXBfNWxaQmdq?oc=5",
+     "ora": "2026-11-10T04:55:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+     "titolo_it": "Anthropic lancia i nuovi modelli Claude Fable 5.2 e Mythos 5.2",
+     "riassunto": "Anthropic ha annunciato due nuovi modelli, Claude Fable 5.2 e Claude Mythos 5.2, progettati per affrontare sfide tecniche complesse. Questo sviluppo è importante per chi studia l'AI, soprattutto i modelli linguistici, e potrebbe influenzare le applicazioni aerospaziali che utilizzano l'elaborazione del linguaggio naturale.",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+     "ora": "2026-11-09T14:00:00-05:00"
+    },
+    {
+     "titolo": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+     "titolo_it": "Meta lancia Muse Ember, il modello AI più piccolo ed efficiente",
+     "riassunto": "Meta AI ha rilasciato Muse Ember, un modello compatto ed efficiente che compete con i modelli economici di OpenAI e Anthropic. La sua piccolezza lo rende adatto per dispositivi con risorse limitate, un aspetto rilevante per le soluzioni AI edge nel settore aerospaziale.",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+     "ora": "2026-11-10T07:28:21+00:00"
+    },
+    {
+     "titolo": "Anthropic punta a una valutazione di 1.400 miliardi nell'ipo",
+     "titolo_it": "",
+     "riassunto": "ANSA analizza l'IPO di Anthropic, che punta a una valutazione di circa 64 miliardi di dollari, indicando fiducia nel mercato dell'AI e creando potenziali opportunità di lavoro e stage in Europa. Per uno studente di ingegneria aerospaziale, questo segnale di crescita del settore può aprire strade per carriere nell'AI applicata all'aerospazio.",
+     "fonte": "ANSA",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzNKamJIUU5mc01YUDdqaEJIQks4czdjTVBIajhDcFRMdkRLTnRJdWdHZ0dxNGR6ejk2SGg5UkQ4Qy1EVGY5WVE5a3NOdEJ6MGR5a3plRGszRHNvd3ZjaF9Lb0Z6RXloQ29MQTRDSHNudzFYQVI1VG9GR1lES1ZUR1BvRjBRRUo3d01vU0ZELW1SeVhuZ1hvMV9wMXpQTW5JRnJlemIwc0NvN2tkbWNiLXFyYWc3QjlyaExGZmxfNGdIaFdkM1R1TWh5UkpMLUVHbVRVNVFBNlFVUU4xblhlMGhEY1B3cHdtZXfSAe8BQVVfeXFMTUdKSUMxWnM5LXdabHZxYi1ZaVkzN3dKZmt5RldIVk1ZQmFVc2JoVkJjbmpyVGQ4WkpzQ1I2TDJVQnpyQmNyNmJCVVhUYWRJRDg5RjR4eUxwdG9SUC0wMUMyTUtldklSXzdUdGxFMkJPZnRvcmlqamZMNHJORWZjLUpYZEpsaldwS3VXNnFtZjYyY0RLcnRBZ2J2WjA1eE1qWE1odTVrTFFRU2JrRXJyUFBaczhENWpLUlY3RHgwazNPVXFkMXZYYVM2ZWZBdVdHRWY4dHlkbExnbHJaWlRCRDBQWVlQNDZwY3ZqVWJ3R0k?oc=5",
+     "ora": "2026-11-10T12:58:00+00:00"
+    },
+    {
+     "titolo": "Ia, una svista di Claude Code fa finire sul web migliaia di password private | Anthropic: \"Ci stiamo lavorando\"",
+     "titolo_it": "",
+     "riassunto": "Un errore in Claude Code ha esposto migliaia di password private online, sollevando preoccupazioni sulla sicurezza dei modelli di coding AI. Questo incidente evidenzia l'importanza di controlli di sicurezza robusti, un aspetto cruciale per i sistemi di flight safety e i fattori umani nell'ingegneria aerospaziale.",
+     "fonte": "Tgcom24",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPekdXZzVlZ3dqdWZoRUdoaENZcks0RnJybTFKd3dLaU9LYW5FMEhMaHVZOE5kRDZ6NGx6RHkxai1ablhNV3ZRMlU5MDZKQ0d5bVZEVUY2SkxCTFZmalQ5QnZjSVhER216dXNtY1JfZS1RdkpPV3M5dFpPeFFxRUJ5YlNwR1dMVVZMd05MYjdQeVlTQlJTZG5vbmVjYjNuS1JfTmZRYtIBaEFVX3lxTE1SYWFTSkIxWnVqRWFJdjFBMU1hQzBVVDh6OFJ1Ungwa0lMOXB6eWNsdHVLUGJJYnRYM09LNjVXRXJ0RE1fTVdJWGFLSlo2VFdwUTBoWi1GYVdzbEVzTnplQWJGVElGTDNx?oc=5",
+     "ora": "2026-11-10T12:06:26+00:00"
+    },
+    {
+     "titolo": "TSMC investirà in Anthropic e OpenAI",
+     "titolo_it": "",
+     "riassunto": "TSMC investirà in Anthropic e OpenAI, rafforzando la catena di approvvigionamento dei chip per l'AI e garantendo capacità produttiva per i nuovi modelli. Per il settore aerospaziale, una base di chip stabile è fondamentale per i sistemi di bordo e le applicazioni di intelligenza artificiale.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZHY3alptTUJDR09SX2RSekNMcTc3MjZPdXJxd19IckNCTEVfZTM2UGVuVFBnU2FoQ0N2d0FrYU1sVmUwWHh3M2JTT25RZzJSRUQ2SzZaNjBkQVVqZmlWenQ2RGZYRGM3RE04M3FvQmFienhuSGNNdkNzUHgxaHdqWkpKV1M5Smg0TzgyYzU4ZVJWQmhxTkE?oc=5",
+     "ora": "2026-11-10T12:49:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Sapienza, Antonio Carcaterra è il nuovo rettore: ricerca, intelligenza artificiale e sfide per gli studenti",
+     "titolo_it": "",
+     "riassunto": "Il nuovo rettore Antonio Carcaterra ha presentato la sua visione per la Sapienza, evidenziando l'importanza della ricerca e l'integrazione dell'intelligenza artificiale nel curriculum degli studenti. Questo è rilevante per un ingegnere aeronautico perché la trasformazione digitale e l'AI sono centrali per l'innovazione nel settore aerospaziale.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SSG5IMHRUZzlVeVBGekF5cjBGQzZaWUViTlEzTFFTQTdJeUxRUXlCOE9fSk1fYnRjYzBxSEpzb3l0TXVLWUhVZml2Y20tb2twZ0pQYTFMeDR2dFZ5VFg1c2l2VGRtYzBwaDNsYXNFbTRnZXhXaXJwN0ZCMUdQOHM?oc=5",
+     "ora": "2026-11-08T17:19:17+00:00"
+    },
+    {
+     "titolo": "L’M-346 di Leonardo ha vinto la gara per l’addestratore dell’U.S. Navy: si ritira anche l’ultimo grande concorrente. “Si apre una grande opportunità”",
+     "titolo_it": "",
+     "riassunto": "L'aerospaziale italiano Leonardo ha conquistato un importante contratto per addestrare i piloti della Marina degli Stati Uniti, segnando un passo avanti per l'industria aeronautica nazionale. Questa notizia offre opportunità di carriera e collaborazione internazionale per chi lavora nel settore aerospaziale.",
+     "fonte": "TorinoNews24",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaElwUWxqVS01bE9sN1p0OWNqYWQxR3pGTnk4dmpPcUlnbF8zQ1JkdTM2ZHFWaHRoZ3M2S0owMG5DRWZwSHI5U3hQc0dyUnFUTEpiak9QSkJUTGlnR083Y2xlUG02UzY5bGRIQUVjc1JJMFkwZlp5M25TNlBxV29ldXFLbm5ROEFTRnQtbG1BdG5meDJqWjl5U3dEWWdZSnBjYzdtSWtYc0FUc0U1VE12QzNQc1FIbG9JMWZKblRlaWJzRVdEQllQby01WDFOSnBEV2Vmd1lFamYzbDJSekVMMzJxaG5MdUxNcDV0YVhaSmRsRTE0OVlZZlRxd3R0Mm8?oc=5",
+     "ora": "2026-11-09T18:05:12+00:00"
+    },
+    {
+     "titolo": "Concorso Aeronautica Militare 2026 - 2027 per 1050 Volontari VFI: Bando aperto a civili con licenza media",
+     "titolo_it": "",
+     "riassunto": "Il bando per il Concorso Aeronautica Militare apre a civili con licenza di volo per diventare volontari, creando una porta diretta verso ruoli operativi o di supporto nel settore militare e aerospaziale italiano. È una possibilità concreta per studenti con esperienza di volo che cercano stage o lavoro.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS2RWMlFsbFFOazFrRnRUX3JETWZHOUNLeVhzbUZCbHNqSXR6ZVRzdGVwM3lxUGlDanVGeVBVc0k3M25Vd2pjWWx5NXVFcHhnQWowU3B3MHFKaWtjQS1tTjNTSTA2dXhrNDJxRTJyTVllYzhNekZ2TTV5WGNHblFsQjVETlNESERaRWUwWEFEUlVSUTBtMnVEVEZub3YzclRH?oc=5",
+     "ora": "2026-11-04T12:20:42+00:00"
+    },
+    {
+     "titolo": "Sapienza 2026/27: TOLC, iscrizioni e OFA, guida ai test d’ingresso",
+     "titolo_it": "Master Sapienza: come funziona il bando unico e come iscriversi",
+     "riassunto": "Questa guida spiega il processo di iscrizione al Master Sapienza 2026/27, utile per studenti che vogliono capire come accedere al corso e superare i test d'ingresso. È fondamentale per chi si prepara al nuovo ciclo di studi in ingegneria aeronautica.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGNab3l4TGZJeDBwa3d4b3owdmYxY2QzaEx2VFRYQlFDcE5hNU9UVFBXZkN0TEE2c0xPMktWdmtZX2VCN01MZkIyUGpqbWFhc0FwcnFPTHJ0emdjM0hWYlliNWE0WFFGX3NuR05TSDVzdzN0TmRBV25na2hZRng5RThGNHRHbHZQT1FKTnZn?oc=5",
+     "ora": "2026-11-10T06:24:26+00:00"
+    },
+    {
+     "titolo": "Università Sapienza assume 15 Tecnologi a tempo indeterminato: concorso per Laureati in Ingegneria, Biologia, Chimica e Comunicazione",
+     "titolo_it": "",
+     "riassunto": "La Sapienza ha assunto 15 tecnologi, aprendo nuove opportunità di stage o lavoro per i laureati, inclusi quelli delle materie correlate all'aerospaziale. Questo può rappresentare un'opportunità concreta per studenti che cercano esperienze pratiche nel settore.",
+     "fonte": "Concorsi Pubblici",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQd0toZUdYRVZVWDJzN2ZsSExmdmc5T1B5VWNqOEx3TVFCSHRRcUhrbVA0aEZRUk9Nd09xd1ZxcW02cGd4QXYtX2p5YTlPYjk4bGJ0SkJYT2I5MXFzVDVHTlFRdXB4bDlBNC1YdVVPdGR6dC1Ic242LTQxejQtelZSajBNX2ZIUDR6MlZCb2RVY3I2M2htNGVGTU5mMzczUE1ORzNaQzJBU0xKRWlhay1JVDZkRnViQzhXVzByY3I1Zll0eTdIbktFOHg4d3hQNTRLUTFKRkZ4M2pyeVJJakxRVU95MUstb21FR2JwRkxxT3hlYm1MaE1v?oc=5",
+     "ora": "2026-11-04T04:37:29+00:00"
+    },
+    {
+     "titolo": "Fabbrica satelliti Stellar Hub a Settimo Torinese: operativo il nuovo impianto aerospaziale",
+     "titolo_it": "",
+     "riassunto": "La costruzione della fabbrica satellitica Stellar Hub a Torino segna un importante investimento nell'industria aerospaziale italiana, creando posti di lavoro e nuove ricerche. È un segnale di crescita del settore e potenziali percorsi professionali per gli studenti interessati agli spazi.",
+     "fonte": "Mole24",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVzNKay15X1ZDZVlyMVJmNFhCYlpNZWVHSWxJWU1CelRuN1U4anI0S3hkY3JTaHBjZGR6R0JUaWpjOW5mTkN6VnNPQm0wdWlBQXJNSkpPNHpCcVpUcG9pYklNN09zTTFUbUVZUWVTalRxWWgwVXY3WFdlRVFXRzJ5R2dHejBaQQ?oc=5",
+     "ora": "2026-11-09T04:11:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Anthropic to raise $64bn in major stock market listing",
+     "titolo_it": "Anthropic alza 64 miliardi in quotazione",
+     "riassunto": "Anthropic, l'azienda dietro Claude, prevede di raccogliere 64 miliardi di dollari in un'Offerta Pubblica Iniziale, un indicatore di crescita dell'IA che potrebbe generare opportunità di stage e lavoro nel settore aerospaziale.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-10T13:19:37+00:00"
+    },
+    {
+     "titolo": "Infineon: espansione dei data center di AI continua nonostante le resistenze negli Stati Uniti",
+     "titolo_it": "Infineon espande i data center di IA",
+     "riassunto": "Infineon prevede di aumentare la produzione di chip per le infrastrutture di intelligenza artificiale, una domanda che sostiene la tecnologia aerospaziale e apre prospettive di carriera.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/10/infineon-espansione-dei-data-center-di-ai-continua-nonostante-le-resistenze-negli-stati-un",
+     "ora": "2026-11-10T14:09:34+01:00"
+    },
+    {
+     "titolo": "L'Europa punta ad ottenere autonomia e sovranità tecnologica",
+     "titolo_it": "Europa punta a autonomia tecnologica",
+     "riassunto": "L'Europa punta a ottenere autonomia e sovranità tecnologica, un passo che può favorire investimenti e opportunità nel settore aerospaziale e nei campi legati all'IA.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/mondo/video/2026/11/10/leuropa-punta-ad-ottenere-autonomia-e-sovranita-tecnologica-1138988",
+     "ora": "2026-11-10T13:23:10+00:00"
+    },
+    {
+     "titolo": "UK, Stati Uniti evacuano aerei dalla base RAF di Mildenhall",
+     "titolo_it": "Usa evacuano aerei dalla base RAF Mildenhall",
+     "riassunto": "Gli Stati Uniti hanno evacuato d'urgenza i propri aerei dalla base RAF di Mildenhall a causa di minacce iraniane, mostrando l'importanza della sicurezza e della resilienza operativa per chi lavora nell'aeronautica.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/mondo/video/2026/11/10/uk-evacuazione-aerei-usa-base-raf-mildenhall-1138993",
+     "ora": "2026-11-10T13:44:23+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
