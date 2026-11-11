@@ -1,0 +1,227 @@
+{
+ "giorno": "2026-11-11",
+ "creato": "2026-11-11T12:45:15+00:00",
+ "in_breve": [],
+ "modello": null,
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Enav apre la torre di Roma Fiumicino alla prima allieva pilota non vedente",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "ilfogliettone.it",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRam9ySkp5TkhRa1Y0WjRXRVFyTm5Rb3BBSFRJMGtsQ0tmcVZ2LW1IeTdTTENXS1lHWFZTWDdYd3UxWlVldGwxRnVnalB0U0hXSXJyZnpsT19Yc0wybURsT3BSRWhIZ3F0SHRYYXlkR1cwX3NfQnhLQg?oc=5",
+     "ora": "2026-11-10T21:17:15+00:00"
+    },
+    {
+     "titolo": "Lucia Sabrina Papa, la prima allieva pilota d'Italia, in visita alla torre di controllo Enav di Fiumicino",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Quotidiano Nazionale",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV3NzUXdrQ0JyRllmTUh4SlhObHlMcllsM3RZNTlSanRwZnNBeFlqNGhjcG1zN0pCTS1XU2VMc0xfWUtUZmduSUd6MUpTb094aC1wVGFZTXFUZmthN05kNTZqSTJOdkJ4elI2WWcwci11QTc2dlN3aTFQY3JRM1RuMzVoQUlsY3NCdERrWlh3bjl1dlJGQzU0R1RhX3N0RlY0RGdESl9lN0VrdVFGbDBFQm1pQlpTRldJNk5CMFBBY0t5ME5xTUVnU0Q5bS02YkRsOFlHVXc4aVVreUx6?oc=5",
+     "ora": "2026-11-10T17:12:03+00:00"
+    },
+    {
+     "titolo": "Back From The Desert: How 190 Airbus A380s Became Airlines' Most Valuable Asset In 2026",
+     "titolo_it": "",
+     "riassunto": "This is why some airlines still love the Airbus A380 in 2026, despite production ending years ago.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/190-airbus-a380s-airlines-valuable-asset-2026/",
+     "ora": "2026-11-11T11:16:34+00:00"
+    },
+    {
+     "titolo": "Airbus announces plans to build new greenfield factory in Toulouse",
+     "titolo_it": "",
+     "riassunto": "Airbus has announced plans to build a new factory in Toulouse to produce engine pylons for its jets. …",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/airbus-announces-plans-to-build-new-greenfield-factory-in-toulouse",
+     "ora": "2026-11-11T10:31:41+00:00"
+    },
+    {
+     "titolo": "Singapore Airlines Becomes The 1st Airline To Reveal A Full Boeing 777-9 Seat Map",
+     "titolo_it": "",
+     "riassunto": "The carrier has more than 30 777X jets on order.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/singapore-airlines-1st-boeing-777x-seat-map/",
+     "ora": "2026-11-11T09:00:06+00:00"
+    },
+    {
+     "titolo": "Cathay Pacific orders 11 more Airbus A330neos, raising total to 41",
+     "titolo_it": "",
+     "riassunto": "Cathay Pacific has exercised purchase rights for 11 additional Airbus A330-900 aircraft, bringing its firm orders for the…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/cathay-pacific-orders-11-more-airbus-a330neos",
+     "ora": "2026-11-11T07:57:07+00:00"
+    },
+    {
+     "titolo": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+     "titolo_it": "",
+     "riassunto": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos…",
+     "fonte": "NASA",
+     "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+     "ora": "2026-11-10T18:06:33+00:00"
+    },
+    {
+     "titolo": "NTSB Recovers Learjet Cockpit Voice Recorder",
+     "titolo_it": "",
+     "riassunto": "Investigators have completed excavation of the accident site and recovered additional aircraft components for examination.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/ntsb-recovers-learjet-cockpit-voice-record/",
+     "ora": "2026-11-10T17:47:34+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+     "titolo_it": "",
+     "riassunto": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+     "ora": "2026-11-10T11:00:00-05:00"
+    },
+    {
+     "titolo": "Google lancia Gemini 4 Carbon per scardinare il duopolio di OpenAI e Anthropic",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Adnkronos",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeDlmdnZ5WTVpbUVHTWtnYXl6WXRfUTVvZXlOR2VmUncxVEJWeGVScGdUWVRmWTJJQmxwYXBjWWlJWWt2V0toc1JuSk81V0ZBY1lxZkhhNnN5VlIzeXBxVmdHSWZGR3dlYUxEcUViVzdtT1U3QWdiZjh5dzJSUlZUV1pJRk5uQ0txek9PZ2czUkVRYklMcjZPWHZzZVlJMXJWRGZNU2xRdFVlbUVmSjlHMENhUWRZdHpaNVpCcFEwQldCdnJpZ2NWTUdRWU1fMmNhanpB?oc=5",
+     "ora": "2026-11-11T08:07:00+00:00"
+    },
+    {
+     "titolo": "llm-gemini 0.36",
+     "titolo_it": "",
+     "riassunto": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in…",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+     "ora": "2026-11-10T20:09:44+00:00"
+    },
+    {
+     "titolo": "Anthropic has its own AI-powered office suite now",
+     "titolo_it": "",
+     "riassunto": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+     "ora": "2026-11-10T12:30:00-05:00"
+    },
+    {
+     "titolo": "Che cos’è IS-IA, il modello italiano per l’Intelligenza Artificiale sovrana europea",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Policy Maker",
+     "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdEZaWDVyRDZoR1piWnMwQWczR2QxOUhLV3VXbm1xcExXNFBXR0l4a1dyd1BLb2duc3NNVmxsTHY3eEQ0SlMtaU5NdXppenB1MlFtYWRvUjBaejZVUnRaWmNJU3dqVF9feF9YQmRDRWZMZ0JrbVBBYjJ0WDMzOGh4bDZYRGFNOUJHMnB6aEt5dHpBbVhtbl9jTXFNNEo5VjJfV0pwdzRnNkxiYVhKSXFtYmdjNloyRWpfV2F4UVJJVnRqTUVrRXhSSF92WWUwY3RjZVZxSGlDYzlDWGtsT3Y3bHJMTGU5dUhQc1NRT29BdTdNNEpYYm5ocjNMbko0MDQzSTY3eDBnUUx4Sk4wSFJHM2ZPUVVTelV3RzRESWE2RmxBV0k2eVA4WDlTUDhDV2tQQUR4S0s0ck8zakhKT1M4emcxcEEzajdsU3BoeTh6bWFJOXpOTW1UaEJqN185QQ?oc=5",
+     "ora": "2026-11-11T12:05:40+00:00"
+    },
+    {
+     "titolo": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+     "titolo_it": "",
+     "riassunto": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks,…",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+     "ora": "2026-11-10T07:28:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Master Sapienza: come funziona il bando unico e come iscriversi",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVFYR25wVHQ4dVZsWmczWmhFUllsaUZQUmFaell3YUpja1V6UDc4SkhXNjhOelUxQ1Nydkx2TE43ZGJHZlBYd19TWVVYZk1pQWRvTnVRX3VMLWU4dnMxbGFGREw1eUZVd19hVERhczR4QmowdHBoVXBpXzZxX2tZZFREbnlTTmFfcFRYY0FJWjJCQXFSbmFUVld0akxveDg?oc=5",
+     "ora": "2026-11-10T06:38:34+00:00"
+    },
+    {
+     "titolo": "ASU Friuli Centrale cerca diplomati, assunzioni come assistenti amministrativi, stipendio 22.961 euro",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSThWZk52dmpKMlNibDJrZFZndDhFdHU1NVpIN3VaU1FOVk92dllCRmNkSDlUOVF0Uklwb2lvUUdfendxMEk3SHU0bzdiMWE3enpYRXcxeWh5U0RyMzBfWVJadVRvbEt2R3VrRVZkMTFZcmdTOWdDUHFGNEZCYmlMaUhySk9OME9OVGQtMm5ZYzBjb2swdWlwemZGaU03UjIzU28w?oc=5",
+     "ora": "2026-11-11T05:30:11+00:00"
+    },
+    {
+     "titolo": "Il Conservatorio di Brescia cerca diplomati per assunzioni come assistenti, stipendio iniziale 1.698 euro",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOejJuQXRZOWN0UHozUWNBaDZ4UHRuMEFiNWdkVEZNRkxBSFFLQmNOVWtPMWs3eUZJcUI4dlNfVVJ3MkFtWjRCbldVVnBJY0UyZVFmSU1fazVuZjNiX1RGWFRUZS1yVUE2ZkkwN29ucHdMczYxb0U2RThFRzVOM1pOQ3lOTVE5VWdvSm5lOHBac3Rsdw?oc=5",
+     "ora": "2026-11-10T06:00:15+00:00"
+    },
+    {
+     "titolo": "Il giallo e il noir italiano alla Sapienza: 17 autori riuniti il 14 novembre",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "RomaLife24",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbkFWS3lwY3p3M2theVNZWXRBYVJ3bU41V0xtQW5BelUwU2I2WFZWZ2NDcUtuLVplTFRpM1ZqQTBKN1ZfUzZnSnk3MjNwVGRERGZHbmplbzZpZ0Vka0k1a0V2UnhMcDBqQi1pLWZudzFqVFBnLXlqMUcyaFdNcEFFc0lXSmRMOC0wVnRKSFB3NGhaeGxZSlI2SEcwck5Jc2cwZjFqYlZzMlA1QUdHUDUtME5uRWJJeDFIVUNR?oc=5",
+     "ora": "2026-11-09T18:19:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Allarme bomba nelle scuole, Valditara: “Rischio inesistente”. Meloni convoca riunione",
+     "titolo_it": "",
+     "riassunto": "Studenti e personale degli istituti interessati sono stati evacuati. L'allarme tramite e-mail con messaggio firmato da Mikhail Andropov \"leader del Vilajat del Misoginistan\": \"Metteremo in atto un genocidio contro gli italiani\", la minaccia. Il ministro Crosetto: \"Strategia per creare preoccupazioni. Ne vedremo sempre…",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/cronaca/2026/11/11/allarme-bomba-scuole",
+     "ora": "2026-11-11T13:20:00+00:00"
+    },
+    {
+     "titolo": "Sicilia, macellazione clandestina di cavalli: 7 indagati",
+     "titolo_it": "",
+     "riassunto": "I carabinieri del Nas di Ragusa hanno scoperto un presunto circuito clandestino di macellazione e vendita di carne equina tra Ragusa e Siracusa. Sette gli indagati, tra cui un veterinario dell'Asp di Siracusa posto ai domiciliari. Sequestrati un mattatoio, una stalla, una macelleria e un'area usata come discarica…",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/cronaca/video/2026/11/11/sicilia-macellazione-clandestina-di-cavalli-7-indagati-1139189",
+     "ora": "2026-11-11T13:16:34+00:00"
+    },
+    {
+     "titolo": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
+     "titolo_it": "",
+     "riassunto": "Emails containing the false warnings were sent to schools in Rome, Naples, Vicenza, Florence, Pisa, Trieste and other Italian cities, officials say.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-11T12:30:29+00:00"
+    },
+    {
+     "titolo": "Conferenza sul clima Cop3, Lula: 'Il Brasile è tornato per difendere la salvaguardia di un pianeta sano'",
+     "titolo_it": "",
+     "riassunto": "Guterres: 'Le fonti fossili devono scomparire come i dinosauri'. Oggi e domani il summit dei capi di stato e di governo. Presenti von der Leyen, Han Zheng, Lula, Burnham, per l'Italia Tajani",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/ansa2030/notizie/energia_energie/2026/11/11/conferenza-sul-clima-cop3-lula-il-brasile-e-tornato-per-difendere-la-salvaguardia_ff93a15d-609c-4280-b9b1-ac465d9e787f.html",
+     "ora": "2026-11-11T13:27:54+01:00"
+    },
+    {
+     "titolo": "Nel pomeriggio il vertice di maggioranza sulla manovra",
+     "titolo_it": "",
+     "riassunto": "Oltre ai leader dovrebbe partecipare anche il ministro Giorgetti",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/11/nel-pomeriggio-il-vertice-di-maggioranza-sulla-manovra-_64424a18-35dc-40ab-9e3a-9d7b0a2f6661.html",
+     "ora": "2026-11-11T13:26:48+01:00"
+    },
+    {
+     "titolo": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+     "titolo_it": "",
+     "riassunto": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-11T12:14:12+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
