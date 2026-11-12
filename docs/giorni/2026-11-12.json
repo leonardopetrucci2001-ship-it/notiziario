@@ -1,0 +1,230 @@
+{
+ "giorno": "2026-11-12",
+ "creato": "2026-11-12T13:47:23+00:00",
+ "in_breve": [
+  "Il bando unico del Master Sapienza spiega come iscriversi al corso di ingegneria aeronautica.",
+  "Cisco AI Defense ha integrato Claude Mythos per testare agenti AI, un passo importante per la ricerca su modelli linguistici.",
+  "L’Agenzia Spaziale Europea offre 175 stage in Europa per studenti, dottorandi e post doc, un'opportunità per la carriera aerospaziale."
+ ],
+ "modello": "baidu/ernie-5.5-flash-preview:free, liquid/lfm-2.5-2.6b:free, liquid/lfm-3-1.7b:free, nvidia/nemotron-3.5-lightning:free, nvidia/nemotron-3.5-super-vl:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Vertical says new quality certification matches Airbus and Boeing standards",
+     "titolo_it": "Vertical certificazione qualità eguaglia Airbus Boeing",
+     "riassunto": "Vertical ha ottenuto una certificazione qualità che corrisponde agli standard di Airbus e Boeing per i suoi aerei taxi volanti elettrici. È importante perché fissa un riferimento normativo per la sicurezza e la produzione del settore in Europa.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/vertical-quality-certification-matches-airbus-boeing-standards",
+     "ora": "2026-11-12T13:35:47+00:00"
+    },
+    {
+     "titolo": "Formazione droni, esami A2 e STS: le richieste delle Entità Riconosciute e del PND portate a ENAC",
+     "titolo_it": "",
+     "riassunto": "Prima allieva pilota non vedente in Italia ha visitato la torre di controllo di Fiumicino, segnando un traguardo per l'inclusività nei cieli. È rilevante per i fattori umani e le opportunità di formazione aeronautica accessibile.",
+     "fonte": "Quadricottero News",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEE1ZURHV0VUeGlaakNpSU1lYXNVYl95NzJ1emc1dVJZTDVfN2RsMkJjMm5hZVFlRkYtUVpMR05uRkNNbDlJLTVEdEY4NzJhZlhESEN1TTE3MjZZNlBKU21iUFVrUVV6TVB5bUJ5azYtd0VncEl2REpMYzF5UUM2YVdxcw?oc=5",
+     "ora": "2026-11-12T10:35:00+00:00"
+    },
+    {
+     "titolo": "GALATINA - Lucia Sabrina Papa, 56 anni, prima allieva pilota non vedente in Italia, ha visitato la torre di controllo Enav dell'aeroporto di Roma-Fiumicino",
+     "titolo_it": "Incidente coda Heathrow A300 danneggiato",
+     "riassunto": "Un Airbus A300 di 33 anni è stato danneggiato in modo irreparabile dopo un atterraggio abortito all'Heathrow, come riportato da un rapporto AAIB. L'incidente è rilevante per la sicurezza del volo e l'analisi dei fattori umani nelle procedure di atterraggio.",
+     "fonte": "Manduria Oggi",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MZEJRV3NlR2hwd21pRld3WjBlcmZHYmEzbHNCZjBmTTJpeXowa0tzV2J5bkpZOENsX0s3NmlYNDFwMTNDZHQzTjZ0dFZveFJK?oc=5",
+     "ora": "2026-11-12T05:04:07+00:00"
+    },
+    {
+     "titolo": "Volare oltre le barriere, a Fiumicino la prima allieva pilota cieca in Italia",
+     "titolo_it": "",
+     "riassunto": "ENAV ha registrato un traffico aereo record nei primi nove mesi del 2026 e alzato la guidance di fine anno, segnale di ripresa e crescita per la navigazione aerea italiana. Utile per monitorare l'andamento del settore ATM nel paese.",
+     "fonte": "Tusciaweb.eu",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcEI4UDJoSGwwZzdyOHp6VjU2a0ZRcnp5bWszQXJ0NTNGclZmY0lWVUNKdXJrQ2dTeHY4c3ljdEJ1R0ZCaTFRUTlNQzVXSVkzVUh3WjNnR0ZVZ3R2elBvMGhLQjUtY3dYd1JsYlNBMlJDSlkyZEpWRmdYR2h4NndhV013aWt3eURFSmtGMVp0Wlk1ZmRmazBxcjdUMnpYMFJB?oc=5",
+     "ora": "2026-11-12T13:42:29+00:00"
+    },
+    {
+     "titolo": "L'utile di ENAV aumenta a due cifre nei nove mesi; su la guidance",
+     "titolo_it": "British Airways 8 nuove rotte Heathrow 787",
+     "riassunto": "British Airways ha annunciato 8 nuove rotte dall'aeroporto di Heathrow servite dal Boeing 787 per l'inverno, alcune inedite. Importante per l'espansione delle reti aeroportuali e l'uso di aeromobili efficienti a lungo raggio.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeDc3WXhFR2JGbFgwcFBaTWZDZzZsOGtaRy1UR2U2VG9JQlVoeXQwMUxwOVREZVZucUplRENGdUFOdlo3WTBzY1ZYVnJVY3BsMXhWMmJmRHl4T21oZUc2dDg3U2hQQnJiUk9nZVlqWmJRNExpU3hFdk1XcVBhVTdQVjl3NTZOTE12MDloaF9CcURyNWtsZ3FKdUJPOVN4ek9ZcDd4WFVBRXlTM0JuTlFKSVE3NjF0blZqWkVJ?oc=5",
+     "ora": "2026-11-12T13:16:22+00:00"
+    },
+    {
+     "titolo": "Muscle Memory: Heathrow Tail Strike Wrote Off 33-Year-Old Airbus A300 After Aborted Landing",
+     "titolo_it": "787-9 limiti payload piste corte calde",
+     "riassunto": "Le piste corte e le condizioni di caldo e alta quota limitano il carico utile del Boeing 787-9 nelle giornate calde, richiedendo soluzioni alternative per carburante e merci. Rilevante per le operazioni aeroportuali in climi estremi e le performance dei velivoli.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/aaib-airbus-a300-heathrow-tail-strike-reverse-thrust-go-around/",
+     "ora": "2026-11-12T13:09:56+00:00"
+    },
+    {
+     "titolo": "MARKET DRIVER: Avio +3,2%, Intermonte conferma outperform",
+     "titolo_it": "Sostituti A380 rotte alta capacità",
+     "riassunto": "Sono stati identificati gli aeromobili più probabili a sostituire l'Airbus A380 sulle rotte ad alta capacità, considerando configurazioni future e domanda di mercato. Utile per chi segue l'evoluzione del fleet e le strategie di capacità aeroportuale.",
+     "fonte": "Milano Finanza",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzFDMUVqRkxsZmZxd200a1Yxb1FXQl9xRVgzUDJ4N0tiOFhLWWdMTUVZZFpFbXhpSDB4LW9jSFIwUUU5WDFHem9uWWJXajRMN1dPcUw5MFBXR1JEME9FS3FQVU03clo2dXo4YTJBcUN5RWNOWlo3WExsUWhMVVFJUDJzWWZYWXFGQVpBWkdteTdHeUw5MDFmYU5jU2gzNHRuaHAzR2JtZUc3Q2d5TVN2dm9zNFFxVDZ0YUE?oc=5",
+     "ora": "2026-11-12T12:27:00+00:00"
+    },
+    {
+     "titolo": "Avio, azioni plaudono ai conti e alle parole di Ranzo. La strategia del gruppo che scommette sugli Usa",
+     "titolo_it": "",
+     "riassunto": "ENAC ha organizzato il convegno Far volare il Paese sugli aereo cargo a Roma, con focus sulle prospettive del Made in Italy nel settore. Rilevante per l'industria aerospaziale italiana e le opportunità di lavoro e cargo.",
+     "fonte": "Forbes Italia",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Vcl9xMEFTaEtKVTRkUjAtUzdhSmRoVHhNQzNjS2ZzMzV0b3h6YTV3MTJiSzNPSldieUllR3BYaEpOOGxFRmhoU19VWGhaMTQyeUQxMFc5TUpmb2hpRjhIY1FOT1FMdFZQV0h1N1BSRDA2WmFna2FZM09CQQ?oc=5",
+     "ora": "2026-11-12T12:15:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Claude adatta un modello alle GPU AMD in tre giorni, ma il vantaggio Nvidia continua a reggere",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha fatto girare un modello Claude su GPU AMD in tempi molto brevi. Mostra che i modelli linguistici possono funzionare anche su hardware diverso da Nvidia, utile per chi studia architetture AI.",
+     "fonte": "Hardware Upgrade",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeXF5aFNjWnZkRjRsRVpaeVpkTUtqZkN6cWxlNVgzVktOQnhScU5CYXZvbDl6aXR4LUMwZ0I2OGRWdUlyV0otQzBTWlFVV3FjUVB6Qjk4N19WTjVPUjlVcThJMGYxNEcwak1pb0JOTFVPUG5vUVUzeGFUR0lObnB6QV9MM2hPVHp1WmNJRTByMnk3NmhvcTdJVnQ5ZE5Qa09kSDU3U1c2ZFcxcGM5Vm9PcFlIT2NlRWxWd2xWanRnTEc3MThIVk84aDJ6SkJvR3ZCYk5MSzg5bVhrTnpORmxUM2tXS1NIMkVZeEE?oc=5",
+     "ora": "2026-11-12T11:31:01+00:00"
+    },
+    {
+     "titolo": "Gemini Decisions API: Google sfida OpenAI con un modello che non genera testo",
+     "titolo_it": "",
+     "riassunto": "Google ha lanciato un API per modelli che prendono decisioni senza produrre testo. È una nuova direzione per l'intelligenza artificiale applicata a sistemi automatici e supporto decisionale.",
+     "fonte": "Hardware Upgrade",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkZjWGhsX29Qc2Z1NjFmRTd4d0JTSFExT2lTOVBZdnozdkI5V2xSLVlJbzRoc0FVeG1SSnBHVlhfR0V2YW05NXRWaEFYVll1MmI3bDdzU0dDQlcxdHBJeVBER0JLVXBUTmlWZVVCcEMtY211cTBKSXJiVTJSamJXNUllRDZxRi1PQzhoTmJ5VmpPamxGbjBocUNXM2hZRl9mb0lFaUFvVmpzYS1ZWGZvcFo3blFWeUdzSk1TeEg4cw?oc=5",
+     "ora": "2026-11-12T09:41:01+00:00"
+    },
+    {
+     "titolo": "TSMC punta un miliardo su OpenAI e Anthropic: chi ci guadagna?",
+     "titolo_it": "",
+     "riassunto": "TSMC investe un miliardo di dollari nelle due principali aziende di AI generative. Segnala il legame tra produzione di chip e sviluppo di modelli, con effetti sulla domanda di ingegneri nel settore.",
+     "fonte": "Tom's Hardware",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcnlId2FRTEZHTVNEcGlwbmV1VnhZeGpSSlRYY1Z4RFF4NTZfOTQyUGZIQ0tPZ1RmYzhiMDdZejh2OVQ1MTNBM2lLLURrMEE3WkF1bmdmbTg2a1ZaVXVnYXVsdHVvTFdhazdxTEh5ZDZxal9ZUGZwSzBqaEFzZXVBenV1UTI5aDhER3hzbTJOUk95QW1ZSzRKeXpERktXR1E?oc=5",
+     "ora": "2026-11-12T12:40:00+00:00"
+    },
+    {
+     "titolo": "Cisco AI Defense integra Claude Mythos per testare gli agenti AI",
+     "titolo_it": "",
+     "riassunto": "Cisco usa Claude Mythos nella sua piattaforma AI Defense per verificare la sicurezza degli agenti intelligenti. Rende concreto il tema della sicurezza dell'AI, collegato anche alla sicurezza dei sistemi di trasporto.",
+     "fonte": "SecurityOpenLab",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTk1QMDliRFFQMFRNZE0taHJBQkdDMXdaekNrMEkwS3JZZEk0YW9CNUZQVGk5UzFYOGxILWR6NUcwWFByQm9OWXRDeEt5RUdueU0yNTVLOUxKTG0zbjVWVXcySUwtcnhuczVMLWhNWURuTkdqU1p1dzZWNGhIU25vX0xUSDlnazlEYl9rMTBvNVFGdGI3Uy1XMHVfRUcxU0lFdUdoRHFEbU5qVWRnQldv?oc=5",
+     "ora": "2026-11-12T11:48:00+00:00"
+    },
+    {
+     "titolo": "Anthropic lancia Claude Meetings, Sheets e Whiteboards con AI",
+     "titolo_it": "",
+     "riassunto": "Anthropic introduce strumenti di collaborazione basati su Claude per riunioni, fogli di calcolo e lavagne. Espande l'uso dei modelli linguistici nel lavoro quotidiano e nelle aziende.",
+     "fonte": "MRW.it",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT0EtQ25EaW1GWDVta2pMM2RQYWdYRkoxUTRRZU5XaG5BZmgyVnA3RUtseXJ6cUttQV9kX0hOYkFxbFIxYUFmbkhKWldIZzhtVjhZNGJFUXhwalg1YWxBQ25JSy1UajFJMTVQMDVSSnRHdXBkam5vVW8zVm5GQ0xTOUJMOHJCNjR2cjIyWFJn?oc=5",
+     "ora": "2026-11-12T10:40:38+00:00"
+    },
+    {
+     "titolo": "L'AI corre, le imprese restano meno: che fare? La ricetta di Bain e OpenAI e i casi Poste Italiane e HPE",
+     "titolo_it": "",
+     "riassunto": "Il rapporto mostra che molte imprese italiane faticano ad adottare l'AI nonostante la crescita tecnologica. Indica dove potrebbero nascere opportunità di stage e lavoro nell'innovazione aziendale.",
+     "fonte": "Industria Italiana",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV25NU0JjS3RpZExQS3hUcWNaRzNmWXJoRWZhTHh5Y2dkWE9GVFpjbU9xRzNVcFJMNGJ4VWtQTGlGR3BjMU1NV3Ztd3RCWU5wS0NrYVZiR2pnYTRrOWVtc3pWTVlwbF9DcEZNcW1ZaWtJM19hazFLV29IVFQwNDJqU3AybVZZemJCbGVnQXZsRl9jZFVkakdlelJuQ1NaRGFPa2cyWk5FQXNwRE8tWlhURWlJSG9HTTE5Q3lHdXBHNWhkc2QyR1pELWZuWFU3Zjg?oc=5",
+     "ora": "2026-11-12T13:32:35+00:00"
+    },
+    {
+     "titolo": "OpenAI contro Anthropic: i dati di bilancio a confronto",
+     "titolo_it": "",
+     "riassunto": "Vengono messi a confronto i risultati finanziari di OpenAI e Anthropic. Aiuta a capire quali aziende stanno crescendo e dove potrebbero concentrarsi assunzioni e investimenti.",
+     "fonte": "AI4Business",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWQ0V1JrWHJ1VWlhd284VlRMU0ZReGo0b3BXb0Z2NGtTdnBBSm1SeE4yNl8tdFNlTG1FMUpZakFqWkxyaklqblY3aU85QlB6VFYyQzJCcXk2dEdBOVg0Sl9LUUw1dnBRUHFnSmVTNV9YRm56VXZLcDFYZllDNnRUVEtEQjk4bDRVcUhQbzdpOUU4eENVTzRkb3l0ckcwM280Sm15Y1FTYm9NRlE?oc=5",
+     "ora": "2026-11-12T07:00:34+00:00"
+    },
+    {
+     "titolo": "I “supervisori” di OpenAI confermano un risultato rivoluzionario nel campo della fisica",
+     "titolo_it": "",
+     "riassunto": "OpenAI annuncia un progresso significativo ottenuto con l'aiuto dell'intelligenza artificiale in fisica. Può interessare chi studia ingegneria per le possibili applicazioni alla simulazione e al calcolo scientifico.",
+     "fonte": "Le Scienze",
+     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUU81VVZqRHdJRldSYkxabUFxb1Y3R2pUdGgzMURGalA2VFFycFJJLTgxOXdIMWFfQ0ZRLWRRWmw0N2gwaWZsaVlYM1RHTWpVMlg0R2E3ZmVxTlNwRzByMml1dmcwb2RDdEtlclNBTk43LUhHbDE4UkZ3TkY4bjQ2bjFOeWxvbW5tZGxGNUluWTdTbHU4bEIyQmVZcVJvd3ZzcmFsR09uYU9DTEtVcHJncldRTklrQjJTdGNOUTZsb1JTbndUOVZtcExqQklLeGpfQXFXOWQtbXhTZDJWQTF5Z2FmdnhKRXduMUJldkl5bW5ha21Nc0RFdnRDanFoeEY3aWpsbQ?oc=5",
+     "ora": "2026-11-12T11:50:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Master Sapienza: come funziona il bando unico e come iscriversi",
+     "titolo_it": "",
+     "riassunto": "Il bando unico per il master in Ingegneria Aeronautica prevede un processo di selezione e spiega i modi per iscriversi, essenziale per avviare lo studio.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVFYR25wVHQ4dVZsWmczWmhFUllsaUZQUmFaell3YUpja1V6UDc4SkhXNjhOelUxQ1Nydkx2TE43ZGJHZlBYd19TWVVYZk1pQWRvTnVRX3VMLWU4dnMxbGFGREw1eUZVd19hVERhczR4QmowdHBoVXBpXzZxX2tZZFREbnlTTmFfcFRYY0FJWjJCQXFSbmFUVld0akxveDg?oc=5",
+     "ora": "2026-11-10T06:38:34+00:00"
+    },
+    {
+     "titolo": "Unicredit cerca diplomati e laureati senza esperienza in tutta Italia: stage da 800 euro e poi assunzione 32.200 €",
+     "titolo_it": "",
+     "riassunto": "Unicredit offre stage gratuiti o a costo ridotto per studenti senza esperienza e promette una futura assunzione di 32.200 euro, aprendo vie di lavoro nel settore aerospaziale.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORnlNd3ZGbkV6Ui0tSzRnVVFIWlhMWUNBWnNlbXFjYzZWRGlab0JVTFJIN2d1VVNXbF9TRlZRRGtGZDF4N2hnT3JzQXRXQUwyTnZqTHpRcnpTVTJKVkpyYUpaRS16NEVxRjdlXzNIRmNVekItRGNiSTlOeXlWV3NKU1A0c3pnOWJHNG52dFAxcVZ4ejU3MHBwLU44WGJyLUJONDh6bi1oZ0d0V0RiM1MxdnZqZThNOG9nVDlkTzBR?oc=5",
+     "ora": "2026-11-12T08:15:00+00:00"
+    },
+    {
+     "titolo": "175 Stage in Europa all’Agenzia Spaziale Europea per studenti, dottorandi e post doc",
+     "titolo_it": "",
+     "riassunto": "L'Agenzia Spaziale Europea organizza 175 scambi di stage in Europa per studenti, dando accesso a esperienze in aerospazio e potenziali occupazioni in progetti spaziali.",
+     "fonte": "Scambieuropei",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45MVI0YU9iYjhPYXRnWi00T1FtX1RmTjd2dnZvTWZMbEhsUmtySlNtVEk2NGJaU2VxbzV5VFlnUzlCVnh5MHBYTGluRmxldjZHc1JiSkplYVdBN2FzVkRvd3M5TE1NRGZfTG1JOVJTWQ?oc=5",
+     "ora": "2026-11-11T13:10:13+00:00"
+    },
+    {
+     "titolo": "Sapienza, Antonio Carcaterra è il nuovo rettore: ricerca, intelligenza artificiale e sfide per gli studenti",
+     "titolo_it": "",
+     "riassunto": "Il nuovo rettore ha inserito la ricerca e l'intelligenza artificiale nei piani accademici, segnalando nuove direzioni per la formazione degli studenti in Ingegneria Aeronautica.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SSG5IMHRUZzlVeVBGekF5cjBGQzZaWUViTlEzTFFTQTdJeUxRUXlCOE9fSk1fYnRjYzBxSEpzb3l0TXVLWUhVZml2Y20tb2twZ0pQYTFMeDR2dFZ5VFg1c2l2VGRtYzBwaDNsYXNFbTRnZXhXaXJwN0ZCMUdQOHM?oc=5",
+     "ora": "2026-11-08T17:19:17+00:00"
+    },
+    {
+     "titolo": "Sapienza 2026/27: TOLC, iscrizioni e OFA, guida ai test d’ingresso",
+     "titolo_it": "",
+     "riassunto": "Per la sessione 2026/27 sono disponibili test TOLC, OFA e guide per le iscrizioni, utili per pianificare l'ingresso al master e preparare gli esami.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGNab3l4TGZJeDBwa3d4b3owdmYxY2QzaEx2VFRYQlFDcE5hNU9UVFBXZkN0TEE2c0xPMktWdmtZX2VCN01MZkIyUGpqbWFhc0FwcnFPTHJ0emdjM0hWYlliNWE0WFFGX3NuR05TSDVzdzN0TmRBV25na2hZRng5RThGNHRHbHZQT1FKTnZn?oc=5",
+     "ora": "2026-11-08T08:47:55+00:00"
+    },
+    {
+     "titolo": "Marco Boddi, il ricercatore italiano premiato dalla NATO per uno studio sui sistemi radar",
+     "titolo_it": "",
+     "riassunto": "Marco Boddi, premiato dalla NATO per studi sui sistemi radar, è un leader nella sicurezza dei voli e nell'innovazione tecnologica, collegandosi alla sicurezza dell'aeroporto e all'aerospazio.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45VjNyOWFVaGV4dGxRdDBxYzZrQlhlRlViNnItMlFmQWNKUHBxQ1RZQzJqM2RRdUl5Y1JPN20wRllrN1BzbUhlSUlxTk05OXVPOGxfVW9ab3lRMjVTVTNXR0JIQVpobXM0OG9HV0ZJUXkzRF8wYUk0Uw?oc=5",
+     "ora": "2026-11-11T18:26:44+00:00"
+    },
+    {
+     "titolo": "Difesa e aerospazio perché i fondi Usa guardano all’Italia",
+     "titolo_it": "",
+     "riassunto": "Gli Stati Uniti valutano investimenti difensivi e aerospaziali in Italia, indicando una crescente attenzione verso il settore aeronautico e la necessità di collaborazioni internazionali.",
+     "fonte": "Zazoom Social News",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXhmQnRhRDJoMEJIRThCTkV4X254ZmdrUHF5VURGWGM4N0tSclVGUTBOSGJkWjNfOFBrSFcydEJReGU0dlRQZFV6dGpQcnByTHZ6dDR0TGlCTjJrMG81T2xTZ0pWaWktdnJWN0NGTm1FMUdmSEhUSVpQWm5pX05RUURTSXg0Tmx5TGJ4Vkk5YkgtZjRrR2lRa0FwdlNIYjhIRGc?oc=5",
+     "ora": "2026-11-11T11:15:24+00:00"
+    },
+    {
+     "titolo": "AlmaLaurea career fair online: come partecipare",
+     "titolo_it": "",
+     "riassunto": "Un career fair online per le laureate consente di conoscere aziende e posizioni nel settore aerospaziale e di candidarsi direttamente, facilitando l'inserimento professionale.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLTB4aTJNWHlKcmFBSGw4VGNTeTE5Rlk4c3lZOTItVHl5X1BLMEhhY0xlcGI3TFpBaFU0UWRzMUNHRkl3eEVkWFdWQmZnNFlUNG1PTE5MVlNoc3lfR1lvOWhuVGxZcGRBeXJiNjUwcTRzaTZwSEZ1WU9tTE90QzFIUXRkR21kQ3FpZjBEcXRvNV8?oc=5",
+     "ora": "2026-11-11T10:02:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": []
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
