@@ -1,0 +1,239 @@
+{
+ "giorno": "2026-11-13",
+ "creato": "2026-11-13T13:09:22+00:00",
+ "in_breve": [
+  "La certificazione qualità Vertical per eVTOL offre nuove opportunità nel settore aerospaziale.",
+  "Claude di Anthropic è impiegato per migliorare la manifattura aerospaziale.",
+  "L'outlook down influisce sulle compagnie aeree e sulla sicurezza del volo."
+ ],
+ "modello": "dots-studio/dots-3-note-preview:free, nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free, nvidia/nemotron-3.5-lightning:free, recursive/flint-v1.0:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Vertical says new quality certification matches Airbus and Boeing standards",
+     "titolo_it": "Certificazione qualità Vertical per eVTOL",
+     "riassunto": "Vertical Aerospace ha ottenuto una certificazione di qualità che rispetta gli standard di Airbus e Boeing per i suoi eVTOL, indicando che il settore è pronto a raggiungere gli stessi livelli di sicurezza dei grandi costruttori.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/vertical-quality-certification-matches-airbus-boeing-standards",
+     "ora": "2026-11-12T13:35:47+00:00"
+    },
+    {
+     "titolo": "The Single Remote Airport That Makes A South Pacific Crossing On The Airbus A350 Possible",
+     "titolo_it": "Aeroporto remoto per A350",
+     "riassunto": "Un piccolo aeroporto isolato permette all'Airbus A350 di compiere crossing del Sud Pacifico, dimostrando come infrastrutture remote possano ampliare le capacità operative.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/the-single-remote-airport-makes-airbus-a350s-south-pacific-crossing-possible/",
+     "ora": "2026-11-13T10:15:18+00:00"
+    },
+    {
+     "titolo": "British Airways Grounds Airbus A321neo After Double Tail Strike During Landing In London",
+     "titolo_it": "Sospensione A321neo per colpo di coda",
+     "riassunto": "British Airways ha messo a terra un Airbus A321neo dopo un doppio colpo di coda durante l'atterraggio a Londra, evidenziando l'importanza della sicurezza durante le operazioni di atterraggio.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/british-airways-grounds-airbus-a321neo-double-tail-strike-landing-london/",
+     "ora": "2026-11-13T08:51:38+00:00"
+    },
+    {
+     "titolo": "Avio - La visibilità sulla crescita continua a migliorare",
+     "titolo_it": "",
+     "riassunto": "La visibilità sulla crescita di Avio sta migliorando, segno di un mercato positivo per chi cerca opportunità nel settore dei componenti aerospaziali.",
+     "fonte": "Websim",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMEtDaXB4NkFQWVZkYzMwZ1VCUnQzWnB4YjlPcWVDS0Myd1BYOVFmTmRTT01DbGt1Q2dEXzBRVzY4REJDMjU5YjlRRk1RYnhvbzVvVDgxY0phbzlCa3JSdmtJdEs0ekFqVUthN1hBaDY1T003WDRxQ2UyOVBFQWhZS3F3MTdCOFpIZl9SN0trbWktWjY3QWdwLTFOalUwUUtTZzIzWVdjS19nYmRzNjZVVUNNbw?oc=5",
+     "ora": "2026-11-13T07:00:00+00:00"
+    },
+    {
+     "titolo": "What role does industry play in Europe’s space sovereignty push?",
+     "titolo_it": "Ruolo industria spaziale UE",
+     "riassunto": "L’articolo analizza il ruolo che l’industria può avere nella spinta per la sovranità spaziale europea, mostrando opportunità di lavoro e cooperazione nel settore spaziale.",
+     "fonte": "SpaceNews",
+     "link": "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/",
+     "ora": "2026-11-12T19:40:35+00:00"
+    },
+    {
+     "titolo": "Thales Alenia Space, l'industria italiana nella nuova geopolitica dello spazio",
+     "titolo_it": "",
+     "riassunto": "Thales Alenia Space sottolinea come l’industria italiana giochi un ruolo chiave nella nuova geopolitica dello spazio, offrendo prospettive di carriera nel settore.",
+     "fonte": "Materia Rinnovabile | Renewable Matter",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMGIwNkpDcktDNW5QcXBmaDUxeTQ4S1pTTkpLY19nSzJvV0F1RDNRajZ2SzZFYU80aFkweGlMQ0RnRWIwSWdlMXJKbDVBOHVpX2RJZTZmWVpJbVJFaVYzeUdlUHBwcVl0WFhEQzFKNGhLeW4wUWU1LTN3VUdQWVR3MzFtV0ItQnp1aXktbUFJT0d1Z0pTdXpRcklB?oc=5",
+     "ora": "2026-11-12T16:54:00+00:00"
+    },
+    {
+     "titolo": "ENAV, trimestrale da record ma l’Italia vola su una rendita geografica. Ora serve il salto industriale",
+     "titolo_it": "",
+     "riassunto": "ENAV ha chiuso il trimestre con risultati record, ma l’Italia dipende da una rendita geografica e necessita di un salto industriale, creando opportunità per ingegneri aerospaziali.",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV1BNRzhDZjVsX0o2ZHpVQzZBWnJDWnM3YTM5UWx3RVVpdDBKcFZnczBtdU9YZWhnZ1NlWkE0dmFJdmduUlNneGhLR0NEemRjUHNmYUtsMkZKZjc4R1RNcFNXSzNvdC1hVUVlX09nb0xQWDdrYmE1VHVyT0NmRTMwSnVzU042dlBfTUJNeEFTcXkxQUtOV2IyZ2ptVnF1ZjdaNlNkTy1qSjRBYUZyUHNVTjhRdzlONUpFbzlHd0s4cmVCZ21nRWNCQlBCMVVLQXlUS01Pc001QU1uTUpTdVE?oc=5",
+     "ora": "2026-11-12T16:04:00+00:00"
+    },
+    {
+     "titolo": "Why Boeing Chose Traditional Aluminum For The 747-8's Fuselage When Airbus Used Hybrid Material On The A380",
+     "titolo_it": "Confronto performance 757 e A321XLR",
+     "riassunto": "Il Boeing 757 sale molto più rapidamente dell'Airbus A321XLR, che impiega più tempo a raggiungere l'altitudine di crociera, mostrando differenze di performance che influenzano design e operatività.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/why-boeing-chose-traditional-aluminum-747-8-fuselage-airbus-hybrid-material-a380/",
+     "ora": "2026-11-13T02:00:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Claude for Manufacturing, Anthropic lancia il plugin con 17 skill",
+     "titolo_it": "Claude per la manifattura",
+     "riassunto": "Anthropic lancia un plugin per Claude con 17 skill dedicato alla manifattura. Conta perché mette modelli linguistici in contesti come quello aerospaziale e della produzione.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTktOOVVDeUltbUdEY3dyQVl4al80NTh1dy01LVhIMzlRcVhlbzhOQk40M3l4U2gzYnZJal9zSHF2Vk9ITHdWdFc0QUMyd2tqblRtdWM5MG12ZGRzRkVDaDl6aURXU1hIZks0WmVKbGdmazBCV2U1WGJtYVR0UjdIa09PU3pvZExs?oc=5",
+     "ora": "2026-11-13T12:42:44+00:00"
+    },
+    {
+     "titolo": "Microsoft Outlook down mette in crisi le compagnie aeree, In tilt la mail: clienti al «buio». Colpite anche OpenAI e Anthropic: cosa sta...",
+     "titolo_it": "Outlook down colpisce le compagnie aeree",
+     "riassunto": "Microsoft Outlook e anche OpenAI e Anthropic hanno avuto problemi di servizio. Le compagnie aeree sono state colpite. Conta per affidabilità e sicurezza del volo.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnM4d0RmTXlxckxuR3ZzN2NsTWlUdWNaUlVHaEJybGhOWnA4RXFlNzBNa3l3V25TTS1sSVBvN1o5SzVwRzhqVGpfVTJZeGlab1ZWSE11SDZiMHR2eHNqQjZOU1VmXzhqT2w2MmxmNVhCVm5pZU9INmVlcmZRQnZzUy1XeEFrbHRKbnBld21wUlZfODlnVnZXUXFQNG5tZWx6aElCek1qSEhya3pldzVpSXNqQ1lsUElXc2RMcDBfYzDSAb8BQVVfeXFMUEI1eThnVXg5T0hwcDdlT05VSzJMSDIxZmJiS3VXcnVOWUJmbHRTeVQ4WlNpa0lJZ0xEc1B1dm5aSlBQNEkwME5jc3Z4cnFPUkxLZ2NOZzBjR21WVlVLTndISzQySHBaODhUWm8tdExEeVdmMHNOTkp3MmVuTWRYVl9ZWHZ4R1lUZUZJRWpXWEJFa3VId1JQdThsWlBPME5hWkZrbGZzb1NaLS0wclByWXEybDFVcDlBZk9vZy00YTA?oc=5",
+     "ora": "2026-11-13T10:30:44+00:00"
+    },
+    {
+     "titolo": "Anthropic lancia Claude Fable 5.2 e Mythos 5.2, i nuovi modelli top-tier per la generazione AI",
+     "titolo_it": "Anthropic lancia nuovi modelli Claude",
+     "riassunto": "Anthropic lancia Claude Fable 5.2 e Mythos 5.2, due nuovi modelli per la generazione di intelligenza artificiale. Conta perché il lettore segue i modelli linguistici e Claude.",
+     "fonte": "SHIFTS! Magazine",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWFZoZnJ4ZkFuREtpOFJjcEdqbHhvU21rNXd3aC1xeFRjRkNCU2h0WTlFVTFWWUgxdUQ5cWpMVkhtMERCZG1FcVFNWUx3bUlIbkxFcGU1NzdnNDBxZWxJTDZ6ei1Demo1X2xDZk1QeDhWY01RVkgxaTZWbmRvcjUzZ2RMRFgzOU9FREc4UnJYTFozbFczSFlVc19id04zcGpKMndzcGo5ZldzVGtSTC1wV19kd0diV3Fhc0JwUlFKdGFCUVk2WjFIS1ptc0FZTmQ1NFU1QUdjZmd5UDBmQTVESVBtSFg?oc=5",
+     "ora": "2026-11-13T11:12:22+00:00"
+    },
+    {
+     "titolo": "Google’s new Gemini model is better at understanding complicated questions",
+     "titolo_it": "Il nuovo Gemini di Google è migliore",
+     "riassunto": "Google presenta un nuovo modello Gemini che risponde meglio a domande complesse. Conta per l'uso di modelli linguistici in problemi ingegneristici e aerospaziali.",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+     "ora": "2026-11-12T16:55:32-05:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Master Sapienza: come funziona il bando unico e come iscriversi",
+     "titolo_it": "",
+     "riassunto": "L'Agenzia Spaziale Europea mette a disposizione 175 stage in Europa per studenti, dottorandi e post-doc, offrendo concrete possibilità di esperienza all'estero nel settore spaziale.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVFYR25wVHQ4dVZsWmczWmhFUllsaUZQUmFaell3YUpja1V6UDc4SkhXNjhOelUxQ1Nydkx2TE43ZGJHZlBYd19TWVVYZk1pQWRvTnVRX3VMLWU4dnMxbGFGREw1eUZVd19hVERhczR4QmowdHBoVXBpXzZxX2tZZFREbnlTTmFfcFRYY0FJWjJCQXFSbmFUVld0akxveDg?oc=5",
+     "ora": "2026-11-11T19:56:56+00:00"
+    },
+    {
+     "titolo": "Burcei, sei assunzioni per l'attivazione di un cantiere forestale",
+     "titolo_it": "",
+     "riassunto": "Leonardo assume laureati in materie scientifiche e ingegneristiche, rappresentando una diretta opportunità di lavoro nel comparto aerospaziale italiano per neolaureati.",
+     "fonte": "L'Unione Sarda",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVS1jQVg5OXVHdlhUQzBucklEcnBiVVpab255NVViOGVrZ3hvZW9XWkZ0cUNPbDFONlZ3VEhWdVNEcy10STVvV01nRzBRdTNXQ1hWQlotTnVzUU44RWN5Y3RfX2JSRzRjRnd3RVhXZkk2N1pNRWxIVkQxOFQtNFppejBxQy1ncUlPVTdYNlowdTByQnJPVWd0eC1GOHpBSW8zMG1tNnZtamlrUnV6NU83NmZITklXSm40bmp4VtIBxAFBVV95cUxON2xSc0RJbEtNSlRsdmhsRVZiVVBjc0xmWWhIV1RjR1F3R0REdGFfMXBmVFhiMDMtQkp1TG5iVWRVMWJab3B4S0JTaEZJNXBsLXdoOEI2T1E2S2ZoYUZsUkFuWTZobDNReHNkYnpmMms4WHRrVVlyZ2xQMEVhNjYzWmowU3JndjZ4anVPOWt5ekcyTTRkV0JsX1R2NS1YaVhrMlFGb1E1MXRuRmJNX1ZWRHZEUzdnWWp0SjN5YzQ3dDZZdzl5?oc=5",
+     "ora": "2026-11-12T19:31:19+00:00"
+    },
+    {
+     "titolo": "A Solda lo Stage del gruppo giovani Centro Sud dal 15 al 17 novembre",
+     "titolo_it": "",
+     "riassunto": "ENAV assume diplomati come Pseudo Piloti anche senza esperienza, con un'offerta stipendiale tra i 30.500 e 32.500 euro, proponendo un ingresso nel controllo del traffico aereo italiano.",
+     "fonte": "FISI | Federazione Italiana Sport Invernali",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM1lTOE1QTWY3TGlTTHdEbGtONEw2WnV4WDJPZzVOamowQXRFNExmdkdhbUNmcmlxdHlpcVFMazA0V2pBMlpBNGNQSXI5Mkp6dXUtSWl2c3VJdnZWTlhzR01IZm5GSk00Tjd5bk1GUmppbEhzVnZhMmYtcjdLOGdqX0NwQ2pCM0tXc1d2QUViZzNtb1Fh?oc=5",
+     "ora": "2026-11-12T16:50:46+00:00"
+    },
+    {
+     "titolo": "Rappresentative Serie C, i convocati del secondo stage: sei talenti del Latina tra i selezionati",
+     "titolo_it": "",
+     "riassunto": "All'aeroporto Milano Linate, Aviapartner ricerca addetti al check-in anche senza esperienza, offrendo un primo impiego operativo nel settore aeroportuale.",
+     "fonte": "Gazzetta Regionale",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaE1jN0xwM2VyWkFjbGV1SUpQNzlULXBsVGRDTGNuaU5ORlNFdWluak9hT0s3eWIwaXk4VjdnVDF3ODBneGN5NVRvZHp2T29pU3VtWk80LU9Dd2oyNFEzUmNUX04wYWVUR2hWOS1keXdlMThwM2VwcktoSzBpX1g1ZkJYRHI2eTk0SS1ZNW5HaEJQVXFXVy01WmszRTNyR2FVdkswWU9DcW53NW11Y3BzbFVYdlB3c2NqSnRiSS13RW1lb0MwaEpmSFlQUHZxaldzY1ZVWk1DVzBJWnRzSk1NZlRwSGsyQ3E4MkppY0drbUY5UQ?oc=5",
+     "ora": "2026-11-12T13:05:00+00:00"
+    },
+    {
+     "titolo": "Tor Sapienza, da scheletro incompiuto a polo tecnologico: Roma Immobiliare Logistic (Aprc) affida il progetto a The Blossom Avenue Partners",
+     "titolo_it": "",
+     "riassunto": "Il nuovo rettore della Sapienza, Antonio Carcaterra, punta su ricerca e intelligenza artificiale, delineando sfide e opportunità per gli studenti, tema centrale per chi segue l'AI e i modelli linguistici.",
+     "fonte": "Industria Italiana",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZURFc3kyUlAydUdCWUxPeG1rYmxhaHNSektfUG1UTkk2N1Y3TUdJOHhaai1IR3dWazAtbGVVZmFBdDlRdlNXZEp1eWlvRnk5V1BCVVdtREY5Yk85WC1CTG5JWnltcXBORE15NlRwNTh2QWExZ0tBSFBnSXhBQ3FSNW0tU3B4MHc2MWNwR3l4UFFoX2pBd1E?oc=5",
+     "ora": "2026-11-12T11:58:21+00:00"
+    },
+    {
+     "titolo": "Assunzioni e Concorsi nella Sanità Siciliana 2026: In arrivo 2.917 nuovi posti di lavoro",
+     "titolo_it": "",
+     "riassunto": "Il bando unico per i master Sapienza illustra le modalità di iscrizione, utile per orientarsi tra le opportunità di specializzazione in ingegneria aeronautica e affini.",
+     "fonte": "Concorsando.it",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMDN3WWhVTFFhWkhMdDd3LW5LenJiWmZkV1lmbDR5dW1IcUNxSTh3QXB0VnphckdvVTJpQ1V4akVSaEQ3dTJkLUtfOUhoNGhIX0k5M1FRbndQNko3QjhkT2dmenpubFIzMlJDLXZWRGZDY1FfakxCb2pGVFlVZzViWVNVNXNEdWZGZlE?oc=5",
+     "ora": "2026-11-12T11:27:41+00:00"
+    },
+    {
+     "titolo": "Sapienza, Antonio Carcaterra è il nuovo rettore: ricerca, intelligenza artificiale e sfide per gli studenti",
+     "titolo_it": "",
+     "riassunto": "La guida ai test TOLC e OFA per l'anno accademico 2026/27 alla Sapienza fornisce indicazioni pratiche per prepararsi agli esami di ingresso dei corsi di laurea.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SSG5IMHRUZzlVeVBGekF5cjBGQzZaWUViTlEzTFFTQTdJeUxRUXlCOE9fSk1fYnRjYzBxSEpzb3l0TXVLWUhVZml2Y20tb2twZ0pQYTFMeDR2dFZ5VFg1c2l2VGRtYzBwaDNsYXNFbTRnZXhXaXJwN0ZCMUdQOHM?oc=5",
+     "ora": "2026-11-12T09:47:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Outlook down in tutto il mondo, Microsoft: \"Ripristino a fasi\". DIRETTA",
+     "titolo_it": "",
+     "riassunto": "Grave guasto globale del servizio di posta elettronica Microsoft Outlook in 74 paesi. L'incidente mostra la dipendenza critica dei sistemi di telecomunicazione e ATM dall'infrastruttura digitale, un tema centrale per la sicurezza del volo e l'ingegneria dei sistemi.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/tecnologia/2026/11/13/problemi-outlook-down-diretta",
+     "ora": "2026-11-13T12:46:20+00:00"
+    },
+    {
+     "titolo": "Nvidia, manovra e banche, il potere dell'IA - Ep.355",
+     "titolo_it": "",
+     "riassunto": "Il podcast analizza il potere dell'intelligenza artificiale, concentrandosi su Nvidia e la sua influenza sull'economia globale. È una fonte diretta per capire l'impatto industriale e finanziario dell'IA, tema chiave per gli interessi dello studente in modelli linguistici e carriera nel settore.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/economia/video/2026/11/13/nvidia-manovra-e-banche-il-potere-dellia-ep355-1139652",
+     "ora": "2026-11-13T13:06:40+00:00"
+    },
+    {
+     "titolo": "Guerra Iran, Pasdaran: colpita stazione radar di allerta Usa in Bahrein. LIVE",
+     "titolo_it": "",
+     "riassunto": "L'Iran ha colpito una stazione radar di allerta statunitense in Bahrein. Le tecnologie di radar e sorveglianza aerea sono al cuore dell'ingegneria aeronautica e della difesa, mostrando l'applicazione pratica dei sistemi di rilevamento studiati nel corso di laurea.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/mondo/2026/11/13/guerra-iran-usa-trump-news-diretta",
+     "ora": "2026-11-13T13:00:00+00:00"
+    },
+    {
+     "titolo": "Ucraina, le difficoltà dell'Europa a trovare una delegazione",
+     "titolo_it": "",
+     "riassunto": "L'Europa fatica a trovare una delegazione unitaria per i negoziati di pace sull'Ucraina. La frammentazione politica europea influisce direttamente sui budget della difesa e sulle collaborazioni industrialali nel settore aerospaziale, utile per comprendere il contesto delle opportunità di lavoro in Europa.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/mondo/video/2026/11/13/ucraina-le-difficolta-delleuropa-a-trovare-una-delegazione-1139648",
+     "ora": "2026-11-13T12:51:35+00:00"
+    },
+    {
+     "titolo": "Eurostat: Il Pil dell'Eurozona a +0,4% nel terzo trimestre. Italia a zero",
+     "titolo_it": "",
+     "riassunto": "Nel terzo trimestre il Pil dell'Eurozona è cresciuto dello 0,4%, mentre l'Italia è rimasta a zero. Questi dati macroeconomici sono fondamentali per valutare la salute del mercato del lavoro e le probabilità di trovare stage e posizioni nel settore aerospaziale italiano ed europeo.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/eurostat-pil-eurozona-04-nel-terzo-trimestre.-italia-a-zero_e1374df6-1e11-40a9-ab52-56c47fd5b620.html",
+     "ora": "2026-11-13T13:51:56+01:00"
+    },
+    {
+     "titolo": "UN watchdog 'increasingly concerned' over Iran nuclear site",
+     "titolo_it": "Allarme ONU per impianto nucleare iraniano",
+     "riassunto": "L'organismo di controllo dell'ONU esprime crescente preoccupazione per un impianto di arricchimento di uranio in Iran non sottoposto a ispezioni. La questione nucleare iraniana ha ripercussioni dirette sulla stabilità geopolitica e sui programmi spaziali e di difesa europei.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-13T12:28:28+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
