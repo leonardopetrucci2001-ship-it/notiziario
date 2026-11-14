@@ -1,0 +1,227 @@
+{
+ "giorno": "2026-11-14",
+ "creato": "2026-11-14T12:13:40+00:00",
+ "in_breve": [],
+ "modello": null,
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Here's How Boeing Killed 2 Birds With 1 Stone When It Built The 767's Gear Unlike Any Other Jet",
+     "titolo_it": "",
+     "riassunto": "The Boeing 767's (excepting the 767-400ER) main landing gear is unlike other Boeing aircraft, but like some Airbus aircraft.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/boeing-2-birds-1-stone-built-767s-gear-unlike-any-other-jet/",
+     "ora": "2026-11-14T12:00:18+00:00"
+    },
+    {
+     "titolo": "Half of International Air Accident Probes Lack Final Reports",
+     "titolo_it": "",
+     "riassunto": "Industry groups say delays in publishing investigation findings limit opportunities to improve aviation safety.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/flight-safety/accidents-ntsb/half-global-air-accident-no-final-report/",
+     "ora": "2026-11-13T16:30:24+00:00"
+    },
+    {
+     "titolo": "Crescita del Sanzio in 10 anni? Massimo 774mila passeggeri. Il Piano Enac fino al 2035: numeri ridimensionati rispetto all’obiettivo del...",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Corriere Adriatico",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ1otd09uRUkyQ2RpSWhtazJSeXV6Mkd4THRkalJkSndfZHpoT1dEM04xZHByN2dSbldvVlZmZ2thM0VjVHJpd0g4T3hIQmFPVTVGRWU4NDBONWdILUpDSmNpS0RySVVQSDJRaXpsdDZmR3BDaTBjYW1sR1BxbGpIR0o1ME8xSnNaNmlxUmhhWk5lV0xublJjZU1VcFBkYXVRNUpQc3NwSktvdERucGJJbnF5TFBjcU9RdGc4UEhKVTBnZ9IBxwFBVV95cUxNSU9WR1FUTjVLSkNrUWtNVVBxY2JOWko2eUI3T2l2MmVrNU8wbEdZTXZzWmI5b2w0UkpfbHE4RFZRVldYTTdIQmVOY2lmVmQxdGFvaWNON0x4ejhsQWtUTTB6cXdjdGpya2VSb19DQTdaUnllcXBVbkJ6RlE4REVZLUR3MGZKRFB6MmUyLTBYNm5RNlZRV3BCUFJMME1xbGJPUW9kR1Z5dG1VYjc3QjJGbnYwWFhNX0E2c0RXRXlUZmtDN3ozbE13?oc=5",
+     "ora": "2026-11-14T10:55:35+00:00"
+    },
+    {
+     "titolo": "Why Boeing 787 Cockpits Use Electronic Checklists Instead Of Paper",
+     "titolo_it": "",
+     "riassunto": "Paper procedures remain essential backups when displays fail, and crews use approved alternates to complete checklists.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/why-boeing-787-cockpits-use-electronic-checklists-instead-of-paper/",
+     "ora": "2026-11-14T06:00:17+00:00"
+    },
+    {
+     "titolo": "Enav, record storico di traffico aereo sull'Italia, gestiti 2 milioni di voli",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "La Gazzetta del Mezzogiorno",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUzJDUWp3amhOdXpOVGVfY0VFUU0teFo3NXQyR0RfZy1iQlRiaGM3c2N5QWpEaEM3ZHpFN19hN0NGN19oZDhBSzhrdW5QeW1mbjVHTHFieG5QaTZBMUQ4eXpxRVFjNEZlQmFNelp1b1ZMUG1VWkF0UFZXWFFyN1ZyNFk2SDZrNjAtR2hTREhzMnppcmhZdUViRHJoRDNicVdhQlpEdUY1Q2hFbUhQVnFBUlo0VmJMZWM3d2dFcDNlTTRCNFJfeHJRTjZXdlhpZjFya1pLSnBaTE1fVzgt0gHbAUFVX3lxTE5FTURBR19vVEZQVVB5aXhkMklKdTRYOUNCU1JqTmRkOXF5VU1GdmplUkJ3SXp3Y3RTZ0tzNXY5MVZVRnF5RENjNk1DZkJ4MWNOR21UR1N3Sk5sYXNiNlpsWUpfQ3hsMjUzdGo0M2s4MEdDNi1IM19FZXd3VzJtUkdWcURVcmJETFFDaFRpUzl1eFpyeWtpa3R6U1V3V3dSb3dLOHRDa2U5VjZnb3pUQ0NJYjZXdHJmWWxGUnZ3clowck5mb3U4cWdDd3YtU2FMYXNXMUFDUThvX1dfdw?oc=5",
+     "ora": "2026-11-14T05:10:36+00:00"
+    },
+    {
+     "titolo": "California Airport Faces $170K Fine Over Safety Violations",
+     "titolo_it": "",
+     "riassunto": "Agency alleges missing firefighting coverage and wildlife inspections during passenger operations.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/california-airport-faces-170k-fine-safety/",
+     "ora": "2026-11-13T20:48:58+00:00"
+    },
+    {
+     "titolo": "A380 startup Global Airlines ordered into compulsory liquidation by UK court",
+     "titolo_it": "",
+     "riassunto": "Airbus A380 startup Global Airlines has been ordered into compulsory liquidation by the Insolvency and Companies Court in…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/a380-startup-global-airlines-order-compulsory-liquidation-uk-court",
+     "ora": "2026-11-13T09:38:43+00:00"
+    },
+    {
+     "titolo": "Duffy presses Republican Congress to fund ATC overhaul after nationwide outage",
+     "titolo_it": "",
+     "riassunto": "As US Transportation Secretary Sean Duffy faces the prospect of hours of congressional grilling over what precisely caused…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/duffy-congress-atc-funding-nationwide-outage",
+     "ora": "2026-11-14T03:31:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Anthropic utilizza l'intelligenza artificiale Claude nella ricerca di farmaci contro il cancro: risultati preclinici e previsioni a 10 anni.",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXJtV2xCMFV0UlZxN3BTWjhnYXZDS2ZVajh5SU9OTXprNFpQakduaE1yem9vMi0zQUtUb2JIdEdwQ3VTc052WV9WZmVMX2trSjFLNUE3SXV5SnRfQS04X2ZCVVp0SnZ3aHN4VkZmTm9vY3V1MURzYzJBMHU5UVN2VFFjbzZxUkdiaUZoRVhLUFFPc2s0UzhQNmd1VkQwcy00TWhXZkRrWEFGYXowM1Z0QUM5TzhZV21uNllWRGFR?oc=5",
+     "ora": "2026-11-14T10:34:04+00:00"
+    },
+    {
+     "titolo": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+     "titolo_it": "",
+     "riassunto": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+     "ora": "2026-11-13T09:00:00-05:00"
+    },
+    {
+     "titolo": "Anthropic va al Nasdaq ma a prezzi scontati e OpenAI gioca d’attesa",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "https://www.monetaweb.it/",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdm1vMl9WZURzZS1sWTNQLTFZOWdEb2VxRndNLUt0NG42RXliYnl6X19GUDEwR1Q4V1puV1hJd2d1bUhXVUxiSVpTZWR3Q2NRQ1dVdUFzWHQzdmxwN3RmNjB6RWVOTWo3UWdwS2tTcFlhT2RZS2lyRlAwNS0tVUNySFo1RjlNOFZKU0V0NDhXa180QW9WVWlvRGpYQXYta2FCdGZudTBMSTBFVEhGSndCcVFMNA?oc=5",
+     "ora": "2026-11-14T08:16:00+00:00"
+    },
+    {
+     "titolo": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+     "titolo_it": "",
+     "riassunto": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+     "ora": "2026-11-13T15:45:10-05:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Master Sapienza: come funziona il bando unico e come iscriversi",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVFYR25wVHQ4dVZsWmczWmhFUllsaUZQUmFaell3YUpja1V6UDc4SkhXNjhOelUxQ1Nydkx2TE43ZGJHZlBYd19TWVVYZk1pQWRvTnVRX3VMLWU4dnMxbGFGREw1eUZVd19hVERhczR4QmowdHBoVXBpXzZxX2tZZFREbnlTTmFfcFRYY0FJWjJCQXFSbmFUVld0akxveDg?oc=5",
+     "ora": "2026-11-11T19:56:56+00:00"
+    },
+    {
+     "titolo": "Rappresentativa LND Under 15 secondo semestre: i convocati per lo stage di Formia",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Gazzetta Regionale",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQmk2b2hmeUt6RUdBVlBjN0FMQW5wOGROMEUzOTBXMHpRTmRGU3Z5Z1lCbzJoXzdpdlVlSXhqODFBZ2s2eWVEQlU0T1k1ckxsUG05TFhzMmg3Q1J2cEF3aDA4amxRaWpOUTU5LW1rNzNuSUs3TGpQbU15VFlrZjlBbWlSVW4xWk9kZm9aWldQX25GYU9vYVpINGNMVks3dzQ2aGVVd2VKc1lJeThWWVN0NXRWUFB2YUJYckd5ZVpqMG5mU0NUTmd3bnJKa1QzelFyMjBpdlVfNkxEOV9HMi1BSTE2MVE?oc=5",
+     "ora": "2026-11-13T18:36:08+00:00"
+    },
+    {
+     "titolo": "Burcei, sei assunzioni per l'attivazione di un cantiere forestale",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "L'Unione Sarda",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVS1jQVg5OXVHdlhUQzBucklEcnBiVVpab255NVViOGVrZ3hvZW9XWkZ0cUNPbDFONlZ3VEhWdVNEcy10STVvV01nRzBRdTNXQ1hWQlotTnVzUU44RWN5Y3RfX2JSRzRjRnd3RVhXZkk2N1pNRWxIVkQxOFQtNFppejBxQy1ncUlPVTdYNlowdTByQnJPVWd0eC1GOHpBSW8zMG1tNnZtamlrUnV6NU83NmZITklXSm40bmp4VtIBxAFBVV95cUxON2xSc0RJbEtNSlRsdmhsRVZiVVBjc0xmWWhIV1RjR1F3R0REdGFfMXBmVFhiMDMtQkp1TG5iVWRVMWJab3B4S0JTaEZJNXBsLXdoOEI2T1E2S2ZoYUZsUkFuWTZobDNReHNkYnpmMms4WHRrVVlyZ2xQMEVhNjYzWmowU3JndjZ4anVPOWt5ekcyTTRkV0JsX1R2NS1YaVhrMlFGb1E1MXRuRmJNX1ZWRHZEUzdnWWp0SjN5YzQ3dDZZdzl5?oc=5",
+     "ora": "2026-11-12T19:31:19+00:00"
+    },
+    {
+     "titolo": "Tor Sapienza, da scheletro incompiuto a polo tecnologico: Roma Immobiliare Logistic (Aprc) affida il progetto a The Blossom Avenue Partners",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Industria Italiana",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZURFc3kyUlAydUdCWUxPeG1rYmxhaHNSektfUG1UTkk2N1Y3TUdJOHhaai1IR3dWazAtbGVVZmFBdDlRdlNXZEp1eWlvRnk5V1BCVVdtREY5Yk85WC1CTG5JWnltcXBORE15NlRwNTh2QWExZ0tBSFBnSXhBQ3FSNW0tU3B4MHc2MWNwR3l4UFFoX2pBd1E?oc=5",
+     "ora": "2026-11-12T11:58:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Cybersicurezza, in arrivo protocolli dal Viminale",
+     "titolo_it": "",
+     "riassunto": "E' aperto il confronto politico sulla cybersicurezza, con tentativi di trovare una sintesi comune e botta e risposta che non mancano comunque, mentre il Viminale studia protocolli ad hoc per gli allarmi bomba",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/politica/video/2026/11/14/cybersicurezza-in-arrivo-protocolli-dal-viminale-1139901",
+     "ora": "2026-11-14T12:51:17+00:00"
+    },
+    {
+     "titolo": "Boccia: Con spalmacrediti in manovra siamo al limite dell'estorsione",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/politica/video/2026/11/14/boccia-con-spalmacrediti-in-manovra-siamo-al-limite-dellestorsione-1139894",
+     "ora": "2026-11-14T12:42:49+00:00"
+    },
+    {
+     "titolo": "Onu, 133 Paesi votano per la moratoria sulla pena di morte: cresce il fronte abolizionista",
+     "titolo_it": "",
+     "riassunto": "La Terza Commissione dell'Onu approva la risoluzione biennale per una moratoria universale della pena di morte. L'Italia tra i 133 Paesi favorevoli, ma nel 2025 le esecuzioni sono aumentate del 78%",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/14/onu-133-paesi-votano-per-la-moratoria-sulla-pena-di-morte-cresce-il-fronte-abolizionista",
+     "ora": "2026-11-14T13:01:12+01:00"
+    },
+    {
+     "titolo": "Zelensky: 'Gli Usa propongono l'adesione alla Nato in cambio della cessione di territori ucraini'",
+     "titolo_it": "",
+     "riassunto": "Il presidente ucraino: 'Nel caso, dovrò affrontare la questione con l'opinione pubblica'",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/zelensky-gli-usa-propongono-ladesione-alla-nato-in-cambio-della-cessione_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
+     "ora": "2026-11-14T12:52:05+01:00"
+    },
+    {
+     "titolo": "Meloni: 'Per la sinistra gli autonomi di serie B, noi aiutiamo chi rischia in proprio'",
+     "titolo_it": "",
+     "riassunto": "Nuovo video sulla flat tax in manovra. 'Per noi i lavoratori sono tutti uguali'",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/meloni-per-la-sinistra-gli-autonomi-di-serie-b-noi-aiutiamo-chi-rischia_a45aae7e-ea75-4996-a2d0-5519950bc747.html",
+     "ora": "2026-11-14T12:51:55+01:00"
+    },
+    {
+     "titolo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "titolo_it": "",
+     "riassunto": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-14T11:41:20+00:00"
+    },
+    {
+     "titolo": "Turchia e Qatar firmano accordo di difesa reciproca contro attacchi esterni",
+     "titolo_it": "",
+     "riassunto": "L’accordo firmato a Istanbul tra il presidente Erdoğan e l’emiro del Qatar Al Sani punta a una posizione comune contro attacchi armati esterni. I due Paesi rafforzeranno anche esercitazioni congiunte e cooperazione nell’industria della difesa",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/14/turchia-e-qatar-firmano-accordo-di-difesa-reciproca-contro-attacchi-esterni",
+     "ora": "2026-11-14T12:40:06+01:00"
+    },
+    {
+     "titolo": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+     "titolo_it": "",
+     "riassunto": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-14T11:30:10+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
