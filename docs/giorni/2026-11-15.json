@@ -1,0 +1,223 @@
+{
+ "giorno": "2026-11-15",
+ "creato": "2026-11-15T12:46:31+00:00",
+ "in_breve": [
+  "L’ENAC ha annunciato il passaggio dalla sperimentazione alla operatività dei droni durante gli Stati Generali di Assorpas.",
+  "L’Agenzia Spaziale Europea offre 175 stage in Europa per studenti, dottorandi e post-doc interessati a carriere nel settore spaziale.",
+  "SpaceX ha recuperato per la prima volta un veicolo spaziale, segnando una novità storica nel riutilizzo dei razzi."
+ ],
+ "modello": "cohere/north-mini-code:free, dots-studio/dots-3-note-preview:free, google/gemma-4-31b-it:free, nvidia/nemotron-3.5-lightning:free, recursive/flint-v1.0:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Why Did Emirates Order The Boeing 777X And Not More Airbus A350s?",
+     "titolo_it": "Emirates sceglie il 777X sugli A350",
+     "riassunto": "Emirates ha scelto il Boeing 777X per la propria flotta rinunciando a ulteriori Airbus A350, segnando una direzione strategica nel settore long-haul.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/why-did-emirates-order-more-boeing-777x-than-a350/",
+     "ora": "2026-11-14T22:30:18+00:00"
+    },
+    {
+     "titolo": "The 2-Hour Rest Rule Ultra-Long-Haul Airbus A350 Pilots Have Before Landing",
+     "titolo_it": "Regola delle 2 ore di riposo per piloti A350",
+     "riassunto": "Il pilota che atterra un A350 di volo ultra-lungo deve due ore consecutive di riposo nella seconda metà del volo, regola essenziale per la sicurezza e i fattori umani.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/2-hour-rest-rule-ultra-long-haul-airbus-a350-pilots-have-before-landing/",
+     "ora": "2026-11-15T12:00:18+00:00"
+    },
+    {
+     "titolo": "Why United Airlines Flies Its Boeing 787-9 Dreamliners On Domestic Routes",
+     "titolo_it": "",
+     "riassunto": "ENAC ha illustrato agli Stati Generali di Assorpas il passaggio dalla sperimentazione all'operatività con i droni, un passo chiave per l'integrazione dei sistemi a pilotaggio remoto nel traffico aereo italiano.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/why-united-airlines-flies-boeing-787-9-domestic-routes/",
+     "ora": "2026-11-15T11:01:19+00:00"
+    },
+    {
+     "titolo": "ENAC agli Stati Generali di Assorpas: dalla sperimentazione all’operatività con i droni",
+     "titolo_it": "",
+     "riassunto": "L'Aeronautica Militare ha indetto 60 posti per Allievi Marescialli tramite concorso per titoli ed esami, offrendo opportunità di carriera nel settore aerospaziale italiano.",
+     "fonte": "DronEzine",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQUFicGo0dDZCZHhEaUtIM0xPdmIybnh4N1BCNjhZN3preWFyUkNlYl9vT3JraHQwUnA4enN4SVhYSHc3cnlDQU9ZLVdSbUY0MDB5bTlrZkNXZkJfTjBfb3lOMXlPM1ZxSFpmVG1ZNGZNX21uQ3dZdnlOcHB4Y3ZLbFhORjNBOUFFU21MRG5pTERDMWZGbndmTHBGS3ctY0dOYUpfY0VZVmdnX3dYdjEzZDhDSXFsNjhMaFE?oc=5",
+     "ora": "2026-11-15T09:13:53+00:00"
+    },
+    {
+     "titolo": "How The Boeing 737 MAX 10 Is Growing First Class On US Airlines",
+     "titolo_it": "SpaceX recupera il superiore stadio Starship",
+     "riassunto": "SpaceX ha recuperato il superiore stadio del razzo Starship, dimostrando una tecnologia chiave per missioni spaziali riutilizzabili e l'avanzamento dell'industria spaziale.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/how-boeing-737-max-10-growing-first-class-flying-us/",
+     "ora": "2026-11-15T08:00:17+00:00"
+    },
+    {
+     "titolo": "Aeroporto di Ampugnano, Tucci (FdI): “Passaggio decisivo da ENAC, Siena non può perdere questa occasione”",
+     "titolo_it": "COMAC completa volo pilota CE-25A elettrico",
+     "riassunto": "La Cina ha completato il primo volo pilota dell'aereo elettrico CE-25A di COMAC, segnando un traguardo nell'aviazione commerciale elettrica domestica.",
+     "fonte": "Radio Siena Tv",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0toTFQ2R2hSaDhwNV9Yc1lzVGJMOGR5TzRpX05xRU9iUmpzNTEyS2U0WGhSTjBkcFN0Vi16NmFaQjl6dkZoMHJ5VHg4dVowSGpQNXFJbDU4LWRjSXB2RGx6aVZVZ2ZkQmpiNDlTcE1lLVEtLV8tZHRsQ1RxNFlJUGdPRVZWdUNnOENMX2dERWFMdTVTMkh2bExObkc4VTI4dURsbEs1NWRHR1Q1aml3SjM0WUM1QVViMlRGTDhvQ1hjUlBlR2fSAcsBQVVfeXFMUEt2QWRvZGYtcXZZNHJJUGVvOTc2TmtSalpPVzVpQVExT1Vlc1FwTWMwV3lZc0N3MXFzLWlSRm1GZXpGYmMxUEplei1hUEpnREdmYTVVWjNsN3pJTUJsUDhqS1RTVE1saHZjaHZNaWtrUlIzVkszY1NGcGc0d0pNN19pVXJ3c21YODVOM3M0Q3RpOE0tSkZQUFJtd1dpZXBYUlliNF8wM3g3SGpzWHhyLXI2N2Y1RnB4cEJNZEtCUC1tUmswVm5obF95WFU?oc=5",
+     "ora": "2026-11-15T07:30:30+00:00"
+    },
+    {
+     "titolo": "‘Somebody Hit Us’: UPS Boeing 767 Collides With Copa 737 In Miami After Taxiing Too Far",
+     "titolo_it": "",
+     "riassunto": "AirGuard, un radar anticollisione, ha ottenuto il terzo posto alla Start Cup Campania 2026, evidenziando l'innovazione italiana per la sicurezza del volo.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/ups-boeing-767-collides-copa-737-miami-airport-taxiway/",
+     "ora": "2026-11-15T06:48:04+00:00"
+    },
+    {
+     "titolo": "Emirates Is Stripping Its Airbus A380s To 'Bare Metal' While Qantas Retires Its Superjumbos 4 Years Early",
+     "titolo_it": "Il dietro le quinte matematico dei jets Delta sotto i 110 posti",
+     "riassunto": "Un'analisi matematica spiega perché Delta Air Lines è l'unico vettore USA a volare jets mainline con meno di 110 posti, tra accordi piloti, prezzi favorevoli e la necessità di servire mercati domestici minori.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/emirates-stripping-airbus-a380s-bare-metal-qantas-retires-superjumbos-4-years-early/",
+     "ora": "2026-11-15T05:30:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Elephant-Goldfish Model, come usare il plugin Google con Claude Code",
+     "titolo_it": "",
+     "riassunto": "Intelligenza artificiale e industria militare, l'inchiesta Dual Use. Conta per la persona perché collega l'IA alla sicurezza, all'aerospazio e alle applicazioni dual use.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVjlrblc0amxMNGpwR0xIclJoUTRIeU1rZWpTU0xkNWUyc1NXelR4WGp3U0Z0SlF0V2t3eWptOUZhUnBzTjBkVDJpZlZDeC1oU1ZEV01ERjZ2RFZVM09kM0xsV3JxMjdxUnVPUkNleDQwOHJGYnpJRVYyNEkyNkFvWUZ5bldYdEdDblZv?oc=5",
+     "ora": "2026-11-15T10:10:01+00:00"
+    },
+    {
+     "titolo": "Hoa Vang sviluppa un modello per l'educazione alla cittadinanza digitale e all'intelligenza artificiale.",
+     "titolo_it": "",
+     "riassunto": "Anthropic si sta preparando alla quotazione in Borsa e il primo test importante riguarda la fiducia nell'IA. Conta per la persona perché è un momento chiave per l'industria aerospaziale e per l'IA applicata alla sicurezza.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmluMHBFWnpOS0R1VlZ6cEJmTy1hbWljbW40UnFfdS1vWnZlZTNPb3QxZVVKa2RqZVBRRWRDSzViVE00VEdMNFZfMHJ3SVNMbUl4QUJtRkgxVWpURDNVNnlDQjVMLXY1ekptcUFSTnUzajB3QUMzX0RvZE5XblFPdDMyNVBzalU?oc=5",
+     "ora": "2026-11-15T06:19:06+00:00"
+    },
+    {
+     "titolo": "datasette-llm 0.1a11",
+     "titolo_it": "",
+     "riassunto": "OpenAI ha annunciato che dalle 19 novembre le chat di ChatGPT Health potranno addestrare i modelli. Conta per la persona perché mostra come i modelli linguistici stiano cambiando i dati di addestramento e la sicurezza.",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+     "ora": "2026-11-14T23:59:28+00:00"
+    },
+    {
+     "titolo": "OpenAI annuncia che dal 19 novembre le chat di ChatGPT Health potranno addestrare i modelli",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha coinvolto Claude nella ricerca sui farmaci, tra anticorpi, terapie CAR-T e previsioni sul cancro. Conta per la persona perché mostra un uso avanzato di modelli linguistici in un campo ad alto rischio.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdEppNlNKSjluS3o3SjJreVZtc2ZyRHM5QzJibC1fX2ZGOWZQLTVrdnBUa19CaXZfMkdWMXZmVmFXcUlFcHJfVnhNN0ZteWV6UXdRckVxXy0zY1YwTHV6M1pvam5ZZDVGMDZNeHJ0dWt1aTBaa3hrRGt6ZjlBWWg4bWN5aVZXcmtKZzFJM1c5N1p1NkU?oc=5",
+     "ora": "2026-11-14T16:43:44+00:00"
+    },
+    {
+     "titolo": "Dall’Ipo di Anthropic ai conti di Nvidia: un test cruciale per la scommessa dei mercati sull’IA",
+     "titolo_it": "Il membro del consiglio di OpenAI che ha allontanato Sam Altman",
+     "riassunto": "Il membro del consiglio di OpenAI che ha allontanato Sam Altman ha detto che ancora oggi non si può fidare degli amministratori dell'IA. Conta per la persona perché riguarda governance e sicurezza dell'IA, temi vicini alla sicurezza del volo.",
+     "fonte": "la Repubblica",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQncwYW11R0ZYbEV6NkhXc21XMDlFem9NV1U4RXNDVnpmeXVVY0NPT085UFFVMVlvRGlFcVI1UC1pTFEyeG1qdmlPaG9JdklWby1sMTF5RXJpQ3Z5a2xnUjF6aHJDNEx0dlIydDVqS21JZ3hfUHRWXzk1NUZ4WVp4enBRZ2xreG1SMTNQUTFoWTBQSUFjM2FYX0daTGZ5MlVaQURTYzZSdDd3ZVdGWFlYREt6VWxOU3gzZTZfSXlMZEoyRUc5WjM3ZFZqWm9tS3hnOHl3ZE5rQzZfamhmWlZCZDRHcE02UmJRWkRXRA?oc=5",
+     "ora": "2026-11-15T11:18:42+00:00"
+    },
+    {
+     "titolo": "Anthropic, conto alla rovescia per la quotazione record. Dario Amodei blocca gli ordini ai cinesi",
+     "titolo_it": "",
+     "riassunto": "L'IPO di Anthropic è stata vietata agli investitori cinesi e di Hong Kong. Conta per la persona perché riguarda mercati e regole dell'IA, anche se non è solo aerospaziale.",
+     "fonte": "Quotidiano Nazionale",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNVFWbXRVWDIzWTNLRWxkcTcyVkI4bDk3TmE2SmVOSXFodnBRcUIycXZzeHVtWlVFcWkxREJlSmd3bWJ1dlMyR2diTlJsS1NVNlowYXF1Tzd6QV9NN1Y4REt6bk82ZlFJWmRoS3dXRlozOXFURFBKbDNlSmxydDNCZUxYS3FCcGJhendzeENIQVhtcThvcUQtdkdKUnlSQWNKMThfX1pQaC0zdkRKLTdFZ3BCZmhuNkdqek1JNE9xWHpORGFaMWZlbXltbEVXUGNCT3BqNFNOdw?oc=5",
+     "ora": "2026-11-15T10:30:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "175 Stage in Europa all’Agenzia Spaziale Europea per studenti, dottorandi e post doc",
+     "titolo_it": "",
+     "riassunto": "L'ESA offre 175 stage in Europa per studenti e dottorandi. È un'opportunità diretta per entrare nel settore spaziale europeo.",
+     "fonte": "Scambieuropei",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45MVI0YU9iYjhPYXRnWi00T1FtX1RmTjd2dnZvTWZMbEhsUmtySlNtVEk2NGJaU2VxbzV5VFlnUzlCVnh5MHBYTGluRmxldjZHc1JiSkplYVdBN2FzVkRvd3M5TE1NRGZfTG1JOVJTWQ?oc=5",
+     "ora": "2026-11-11T08:00:00+00:00"
+    },
+    {
+     "titolo": "ENAV assume diplomati come Pseudo Piloti, anche senza esperienza: stipendio da 30.500 a 32.500 euro",
+     "titolo_it": "",
+     "riassunto": "ENAV ricerca pseudo piloti anche senza esperienza. La notizia è rilevante per l'interesse verso l'ATM e la sicurezza del volo.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lMkJRSXlzeUNZUW96OVJsa0NyQUZpMzJNeXExUzdXVmZ0MUtPQ3pYQklyZGhiVVN2SUtOUzVzOWhZZUp6X21RRE0xV2paQlVyQ2JoYjhnUWF6clc2NFhCU1E2VVFzellFX3NKX1J3WlprelZPS3l4NQ?oc=5",
+     "ora": "2026-11-12T09:00:47+00:00"
+    },
+    {
+     "titolo": "ISS, al via borse di studio per neolaureati grazie all’evento “Note per la ricerca”",
+     "titolo_it": "",
+     "riassunto": "Sono disponibili borse di studio per neolaureati legate alla Stazione Spaziale Internazionale. Rappresenta un percorso di ricerca nel campo aerospaziale.",
+     "fonte": "Zerouno TV",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObC1kOVZoUmJzVG93RnkyeGFNZVIwdS1SaV93Yjl3WHBPN1FwdUpkLXNuTThlYlNFZExVMUlJbE9nWDdRZnh6Tm9xZlZxUjRaZG1UV0w4TUpIYnM4enVUaVdkNE0tX1JuMkpaa0ZDYXp0bkNjOUw4TldVS3FoX1dPdkU5a2pQUlpIWVRuWTRxZkxSWVloNGZYVWlGSi1qN1dqaXh0cXJBNnE?oc=5",
+     "ora": "2026-11-15T12:34:36+00:00"
+    },
+    {
+     "titolo": "Master Sapienza: come funziona il bando unico e come iscriversi",
+     "titolo_it": "",
+     "riassunto": "Guida al bando unico per l'iscrizione ai master della Sapienza. Utile per la gestione amministrativa del percorso di studi attuale.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVFYR25wVHQ4dVZsWmczWmhFUllsaUZQUmFaell3YUpja1V6UDc4SkhXNjhOelUxQ1Nydkx2TE43ZGJHZlBYd19TWVVYZk1pQWRvTnVRX3VMLWU4dnMxbGFGREw1eUZVd19hVERhczR4QmowdHBoVXBpXzZxX2tZZFREbnlTTmFfcFRYY0FJWjJCQXFSbmFUVld0akxveDg?oc=5",
+     "ora": "2026-11-11T19:56:56+00:00"
+    },
+    {
+     "titolo": "Sapienza, Antonio Carcaterra è il nuovo rettore: ricerca, intelligenza artificiale e sfide per gli studenti",
+     "titolo_it": "",
+     "riassunto": "Il nuovo rettore della Sapienza punta su ricerca e intelligenza artificiale. Indica la direzione strategica dell'ateneo in ambiti cari allo studente.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SSG5IMHRUZzlVeVBGekF5cjBGQzZaWUViTlEzTFFTQTdJeUxRUXlCOE9fSk1fYnRjYzBxSEpzb3l0TXVLWUhVZml2Y20tb2twZ0pQYTFMeDR2dFZ5VFg1c2l2VGRtYzBwaDNsYXNFbTRnZXhXaXJwN0ZCMUdQOHM?oc=5",
+     "ora": "2026-11-12T09:47:40+00:00"
+    },
+    {
+     "titolo": "MUFG assume laureati e laureandi senza esperienza: stipendio di 50.000 euro",
+     "titolo_it": "",
+     "riassunto": "MUFG assume laureati e laureandi senza esperienza con stipendi competitivi. Alternativa professionale nel settore finanziario per profili tecnici.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPelFmNkVNUU55SHJEUFFfVG85TFRjS1VvRE45czZtZ1JaNFFuT0o5akVoWmNZUjM5S1k2Ry1DMG9XVUp6c1hseUtTdUNLREIwZjE3OU9SejNYd2RYM3VpaVlZZmxhNy1kYUFWMGlOTzl6SzZEQWpCNUlFcTdhYTBJelpB?oc=5",
+     "ora": "2026-11-13T08:15:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "SpaceX fa la storia, recupera per la prima volta un veicolo spaziale",
+     "titolo_it": "",
+     "riassunto": "SpaceX è riuscita a recuperare un intero veicolo spaziale per la prima volta nella storia, un traguardo importante per l'industria aerospaziale e per i futuri programmi di esplorazione lunare. Per un ingegnere aeronautica rappresenta un esempio concreto di innovazione tecnologica e riutilizzabilità nel settore spaziale.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/spacex-recupera-per-la-prima-volta-nella-storia-un-veicolo-spaziale_d061a5b5-9f2d-4539-9b90-45189df72084.html",
+     "ora": "2026-11-15T12:34:35+01:00"
+    },
+    {
+     "titolo": "Scontro tra due aerei a Miami: lievi feriti, coinvolti voli Copa e UPS",
+     "titolo_it": "",
+     "riassunto": "Un aereo di Copa Airlines e un cargo della UPS sono coinvolti in un incidente a Miami con lievi feriti. L'evento è utile per analizzare casi reali di sicurezza del volo, gestione del traffico aereo e fattori umani negli scali internazionali.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/15/scontro-tra-due-aerei-a-miami-lievi-feriti-coinvolti-voli-copa-e-ups",
+     "ora": "2026-11-15T13:00:39+01:00"
+    },
+    {
+     "titolo": "Aereo passeggeri elettrico cinese completa il primo volo con equipaggio",
+     "titolo_it": "",
+     "riassunto": "Un aereo passeggeri elettrico cinese ha effettuato con successo il primo volo con equipaggio, dimostrando la fattibilità dell'elettrico nell'aviazione di linea. Per un ingegnere aeronautico è un segnale importante sulle nuove frontiere della propulsione e della sostenibilità nel settore.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/15/aereo-passeggeri-elettrico-cinese-completa-il-primo-volo-con-equipaggio",
+     "ora": "2026-11-15T13:44:48+01:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
