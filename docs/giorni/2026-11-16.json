@@ -1,0 +1,231 @@
+{
+ "giorno": "2026-11-16",
+ "creato": "2026-11-16T13:41:36+00:00",
+ "in_breve": [
+  "Sono disponibili 175 stage europei all’Agenzia Spaziale Europea per studenti e dottorandi.",
+  "ENAV collega la propria informazione aeronautica alla piattaforma digitale di Eurocontrol.",
+  "Claude Opus 5.5 supera Qwen4-Max di 16 punti nei test di modello linguistico."
+ ],
+ "modello": "cohere/north-mini-code:free, dots-studio/dots-3-note-preview:free, google/gemma-4-26b-a4b-it:free, nvidia/nemotron-3.5-lightning:free, recursive/flint-v1.0:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Aeroporto di Ampugnano, presentate le osservazioni al Ministero contro il piano ENAC: \"Gravi carenze sulla sicurezza\"",
+     "titolo_it": "",
+     "riassunto": "All'aeroporto di Ampugnano sono state presentate osservazioni al Ministero contro il piano ENAC, evidenziando gravi carenze in materia di sicurezza. Questo segnala potenziali rischi operativi e sottolinea la necessità di un controllo più rigoroso delle procedure aeroportuali.",
+     "fonte": "Siena News",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMkNXZ2thNEx4NVkxaXNmRkFQdnN5eTl3cWJzTmoxZC1VOHV4b2tpLTBaRXNTOVpKNi1QSy1nc3dTRzlRUElSWm5sZGFHN3lxUk5TaGlwTm5zNzVFT0lmdnR0YkNXNmVhWDJ5QWVwUlpOYzR0ajZmaFE1NFo5LXduNmR4WVhfRDdVMWFqaFc2QzhKZEpPZWdscDJxSEtPYUlURDRkTGNoUm9vZzhtckE5SkJBQ0czeWljTG15eEhDZWxBNkxKWHQzNnNBVzhIZ2dYQmFQaHpwaUhEQlJJMmRxcndjSQ?oc=5",
+     "ora": "2026-11-16T12:55:35+00:00"
+    },
+    {
+     "titolo": "Spazio e difesa: il commissario Ue Kubilius visita Thales Alenia Space, Argotec e Altec a Torino",
+     "titolo_it": "Il commissario UE Kubilius visita Thales Alenia Space, Argotec e Altec a Torino (spazio e difesa)",
+     "riassunto": "Il commissario europeo Virginijus Kubilius ha effettuato una visita in Piemonte, incontrando Thales Alenia Space, Argotec e Altec per discutere di progetti spaziali e di difesa. L'incontro evidenzia il ruolo chiave dell'Italia nell'industria spaziale europea e possibili opportunità di collaborazione.",
+     "fonte": "https://www.primanotizia24.it/",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWHhtNHN3dWhNVHlRRTBiZzctR2hYZms3SmlVYzFzWjIxM2JJdklCc25aMnBDeWRUT01ONnJUcFJIUndWTi1PM0xvUGJ6Z3JCMThJbU9ORElkMnI0dHlTRTdKVW83RDlTa0t6TXBQdGxMODdwZk01YWNaX0xaYnliZEdON081U3E3U2N2d3BIbGNPRzRfTjlhOTFLR2xyTUoyU1lxaTNQdy1UOU9IZjBHaDNCVGtRSTRLNHp3S3hEdkFXbnhaUVl5RFMzWV8wWDhTcEtsWkd1UQ?oc=5",
+     "ora": "2026-11-16T12:05:00+00:00"
+    },
+    {
+     "titolo": "Thales Alenia Space avanza nel progetto TeQuantS",
+     "titolo_it": "",
+     "riassunto": "Thales Alenia Space ha fatto progressi nel progetto TeQuantS, che esplora applicazioni quantistiche per le tecnologie spaziali. Questo sviluppo è importante per la prossima generazione di satelliti e sistemi di comunicazione sicuri.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcG9sYkpUZFhCek50X2pIZnBQeHhwX0pXZ0dRYjdjSzVuMHM5aG5fMEZfdlR5Qmc1ZnZ4MWUyS0pJOHc0bkN5N0RoRU5tQ2t4UUNPanNWdTVYdW11LThRcWZsRE9xRWRpa0RyYzNMbHZpNzJfRDBOaDBjeTIxZnJyY0FDZE8wbWUwRkpGMUF2Y05FS0l3NHlkY05RWnF6cmgwaFdzcFFn?oc=5",
+     "ora": "2026-11-16T12:16:22+00:00"
+    },
+    {
+     "titolo": "Enav si colloca tra i primi a collegare la propria Informazione Aeronautica alla nuova piattaforma digitale di Eurocontrol",
+     "titolo_it": "",
+     "riassunto": "Enav è tra i primi a collegare il proprio sistema di informazione aeronautica alla nuova piattaforma digitale di Eurocontrol. L'integrazione migliora la condivisione dei dati di volo transfrontalieri, aumentando l'efficienza della gestione del traffico aereo in tutta Europa.",
+     "fonte": "Demócrata",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaEVwemdVdE9TcGMyQU4xaXBuQ2o0WGkza0c4MUZ6VHd6S2MxU3hqOFQ5dzBNVjJsdHNGS3BuZGRyTzNVTm96ZUstZEFQUEUwMTRGUGlPOGVPdUhORGllRU9hc1pQN3JPS21wTElKam1waXUyZG9tRDNtR2FBTmxfV1hiS2V5c0xLRFR4ZjFrLTEyVVlMeUJhbzR5aFh3dWpOS29UYk1vamcxQXBWNm4xaV9PMUlIdVdmQVItcHNGWERUcVBCQzcwN1dnLW9iMmpQeXltZFNfWVJvMk5Wd0VUeFc3M1NINXdvZkdwQUZLSjRlUdIB9wFBVV95cUxPb21xVHVjamhmeG1DYVl3cHNKcFZNOVI3YTBaQk5FSXVVS3VqNzhJWGs4bWt1RGppOW1GNGQ0RWtobHQyM1NkTHN2ZXY2RDVVQTkta1Mwbm1rRldoWGpLbk51LXZlb0E2b2JSM1dYZVE0UXZKaFlMeXQydzEtdHBGeXB5Uld3aEszbDBFdFJpbHZObHpPcDhhaVdxZms1ZFkyM3BIcWRJN0RNbUNMQlk4V203U094S1VpR3oxWHRFR1BFbUVLM29aUmVwcjRFYzdkMXZvWmNrdk5QNHlqUS0wUXh3OXh1Tl9XejJsQndLeHRRb3ZmQmZF?oc=5",
+     "ora": "2026-11-16T10:48:40+00:00"
+    },
+    {
+     "titolo": "Enav: gestiti due milioni di voli da gennaio a settembre...",
+     "titolo_it": "",
+     "riassunto": "Da gennaio a settembre Enav ha gestito oltre due milioni di voli, stabilendo un record di traffico per l'Italia. Questo risultato conferma la posizione di leadership del paese nel settore dell'ATM europeo e la solidità del suo sistema di navigazione aerea.",
+     "fonte": "Travel Quotidiano",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nSnRSVEh6Q0pZTXRnQ2d5STFzazVDdWNnZ0xhTnlMckV6c3dtTzF2RVA4R1RiUHM2Nk1UTDg0cVl4OEhadEdOSnBaZ0tKX1FJYTB2SXVXSGhiY0I0d3lhTGotSQ?oc=5",
+     "ora": "2026-11-16T08:46:58+00:00"
+    },
+    {
+     "titolo": "Avio Aero, Bruno Caserta nominato senior counsel commercial",
+     "titolo_it": "",
+     "riassunto": "Avio Aero ha nominato Bruno Caserta senior counsel commercial, rafforzando il team legale e commerciale dell'azienda. La nomina offre una prospettiva sulle opportunità di carriera nel settore legale/commerciale presso uno dei principali fornitori aerospaziali italiani.",
+     "fonte": "Inhousecommunity",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcFFKOWJiNU5kQ3VCM2c1RlpjT1VULXE4WjFJSFlYZ21CSHJLSkVDcDlFbUd2U3p2U0E1RjRIQjdBVm9pTE41bDRzdWtxeTZuVGh4VllTUzR3RkUtVjBBN0NEc21iZERRdzZMOWVKSm1wZWpUT2pCZHFSczV5a2ZHOFNkVzdwV3RHX01acklhWDg?oc=5",
+     "ora": "2026-11-16T09:38:44+00:00"
+    },
+    {
+     "titolo": "Lavorare nell’aeronautica, a Capua si cercano giovani manovali d’officina da formare e assumere",
+     "titolo_it": "",
+     "riassunto": "A Capua sono disponibili posti di lavoro per giovani meccanici aeronautici, con possibilità di formazione e assunzione. L'iniziativa risponde alla carenza di manodopera qualificata e rappresenta un punto di ingresso per carriere tecniche in Italia.",
+     "fonte": "Edizione Caserta",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbGpqU0FJVEx4SEczbFJpdGxBZlVrZldST0hqZ0VHQ1piX3lCOGkwUkJNaGlvbFgwejl3YVQxUGg0Q2pOVDhncGs4SnNTSWxIYVNkUkZpc1JobnhwWmVzUEFZRm1oWEx6Vi1xcFFZXzBOc3lQUl9WcHA4ZnZJNzBTc2hYSUFMRXlkRVBBWlRINDh0SEhtN2J3Mkg0WHBoYURUR1J0NHA2MTNvTEN1SXlJQlZxZXRWd0hpSHl1cF9vS3pLZVlzSFhvd2dDVjXSAdIBQVVfeXFMT0VZMEpKZnA1OFNUcEhfT0QxZ2FNSkZtYWRYcFlzcExWR2FweUpOeng5c01YelAydkZTQm9sTkpvQ0xrdVVRc2gzcV80bEtwZEpJRVpSOFJVc3p2eWRoMEtyX19McVVjNFlLbUNvYldEa3VYV0ExZDZmLVJDeW52LTl3UUJ5X0tjZXhrT3E3R2RSbkhKdDZJeU0zZXNlcTZpakdtcldQTlNnX21VQmFkeWZqQXpBc25XWE1zaHVCMFlYTUxYTVBKaU95VndLcDFTQjhR?oc=5",
+     "ora": "2026-11-16T11:56:54+00:00"
+    },
+    {
+     "titolo": "Why The Airbus A350 Has Such An Ultimate Passenger Experience",
+     "titolo_it": "",
+     "riassunto": "L'Airbus A350 è noto per la sua eccellente esperienza a bordo, con cabine silenziose, sedili spaziosi e ampio apprezzamento da parte dei passeggeri. Questo caso di studio è rilevante per gli ingegneri che si concentrano sui fattori umani e sulla progettazione centrata sul passeggero.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/why-airbus-a350-ultimate-passenger-experience/",
+     "ora": "2026-11-16T12:51:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "NVIDIA Auto Ontology MCP, come collegarlo a Claude Desktop e Cursor",
+     "titolo_it": "",
+     "riassunto": "Guida pratica per collegare le estensioni di NVIDIA a Claude Desktop e Cursor, strumenti sempre più usati nello sviluppo software. Conta perché permette allo studente di applicare subito l'AI nei propri progetti accademici e di ricerca.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWZRM3I1SmpDWDF0a1A0NGFYb193bTUtalNSMGRMdXVScDQyM1V0Nk04NUZJaExtTkQ3R29XQl93OUFiUm12NWRraE1TdzZyWXhXX3pkZmE0ZFBJN0FLbnBFMWMzajc3QmRZd3NWU2g3ZTZoMmNNZmlYZTI1Zmh0ekE0cGFFQndwMVFSQlVB?oc=5",
+     "ora": "2026-11-16T11:02:20+00:00"
+    },
+    {
+     "titolo": "Boris Cherny, chi è il creatore di Claude Code e perché scrive loop",
+     "titolo_it": "",
+     "riassunto": "Profilo del creatore di Claude Code, con spiegazione sui suoi metodi di lavoro e scrittura in loop. Conta perché offre un esempio concreto di come si sviluppano le applicazioni AI più avanzate, utile per chi si avvicina al settore.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRk9jNUxTNWJZNlhTVmJ0X0hDMUVTcmxuOS1rYmZ2cTFwdm5xcUtyTnRZSzdhZXJhaUI2UWpONkNGeEkyZDhRWHI1dlloMFFEQ09RNEY5NUVyT2oyV2pld1FHa0NnSkstU296Sk9WS1ljZUNxdWo2RS1YemJEeVYycXp3SWwzbEpSbUE?oc=5",
+     "ora": "2026-11-16T11:49:38+00:00"
+    },
+    {
+     "titolo": "Verifica dell'affermazione su Qwen4-Max: 16 punti dietro Claude Opus 5.5",
+     "titolo_it": "",
+     "riassunto": "Confronto tecnico tra il modello Qwen4-Max di Alibaba e Claude Opus 5.5 di Anthropic. Conta perché aiuta a capire lo stato dell'arte dei modelli linguistici e le loro prestazioni relative.",
+     "fonte": "OrcaRouter",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nQnl6dXVHUWJScWQ3NThHQ0c2RUpkZkF0WXdwZFQxX3Rudm9KNFFWQWpDb3hqQUwwRHpyb0w5TkNUWEoyZjNoMmVIa21tcExWc2p6cHBfa3dBUjZaTkVSaDdkZUZlWXdpeWNla1NnTER1S0lWZVNvRFdGZw?oc=5",
+     "ora": "2026-11-16T11:16:10+00:00"
+    },
+    {
+     "titolo": "Anthropic attiva le sue regole contro l’IA che migliora sé stessa",
+     "titolo_it": "",
+     "riassunto": "Notizia sulle nuove regole di Anthropic per contrastare l'auto-miglioramento incontrollato dei propri modelli. Conta perché la sicurezza e il controllo dei sistemi intelligenti sono temi fondamentali, specialmente in ambito ingegneristico e di sicurezza del volo.",
+     "fonte": "Martin Cid Magazine",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUHJpMEZfUjBIdmZHS3Q0bkdaLXNlMWZCRC1JMmFpOVFaYXVlNmNDQW1RWFhUb3F1TDJSbjdiNzFnYnM3a3Q4ZGlaaGhxNlFRMVgzM1VVd2JjWjlxRXVzakNQRlNBSUhuZmM0ZWxRS2doemdFQ3habE91d3FhUW43bkdLOTlsSkFpMHNOcUFGUEFBMDVDYnpna084TUVKYXBhczhWWm13?oc=5",
+     "ora": "2026-11-16T11:11:56+00:00"
+    },
+    {
+     "titolo": "Nvidia, Amazon, Microsoft, OpenAI e Anthropic saranno designate dal Governo statunitense come \"campioni nazionali\" dell'intelligenza artificiale",
+     "titolo_it": "",
+     "riassunto": "Elenco delle aziende tech statunitensi designate come campioni nazionali dell'IA, con Anthropic tra queste. Conta perché mostra l'impatto regolatorio e industriale sui protagonisti del settore, inclusa l'azienda di Claude.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOFZTaGlNRmpHem9wNlJDeThLQVlabzRaelp2XzE4VktLRy1HTURfeWhuU1BmNEtBdUM3b0I5NnZRNl9nbnhUajY4OEprRlFQM3BzSUs0OEVBZE02OFBHS0ZsRmtnaEdtaTR3NV9ZTGlielBQamNxdEVVakJHdDNnNFNkNXpmYThyZlZ6S3prQXI0VVZYNDQxVExhNk5CdWpNdEZaZHN1WmZVMXU5bUVPbURha2otb3Vienl4Q3J4TGprYXBTNGJqUHVtcXRXbEYyTGFEaVJpSFZ3cFBBNm0ybUFmcW1SQQ?oc=5",
+     "ora": "2026-11-16T09:54:38+00:00"
+    },
+    {
+     "titolo": "Il modello Mythos di Anthropic sta favorendo gli attacchi informatici?",
+     "titolo_it": "",
+     "riassunto": "Analisi dei rischi legati al modello Mythos di Anthropic in termini di sicurezza informatica. Conta perché la cybersecurity è una competenza sempre più cruciale nello sviluppo e nell'uso dell'IA.",
+     "fonte": "Startmag",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWGMxekpfNUt4OWVObHNkWG83NkZnSGJQZlF1cHNNSzVRdzZlczdIZlMwdlU2SlgyVnlfZDc0YjgyeC1VcV85NFd3VEtuaEVrbDNJVFZiOUYyQ0h0X21JemNUWnJVcWg1TVVGaUFHeEs2M0k2VUFRWHpITEJkdFE1VDhFYUhOeThGVE9j?oc=5",
+     "ora": "2026-11-16T10:32:00+00:00"
+    },
+    {
+     "titolo": "Anthropic verso l'IPO da 1,2 trilioni su Nasdaq: dubbi su rischi e governance",
+     "titolo_it": "",
+     "riassunto": "Discussione sull'IPO record di Anthropic e le domande aperte su rischi aziendali e governance. Conta perché fornisce un quadro sulla crescita del settore e sulle sfide che dovrà affrontare il creatore di Claude.",
+     "fonte": "Euronews",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkxadk93dUxRXzdqejF6TjRtcktQLTVoSXRxX0lCQlprNGdWWFhBMHlqSjRUcEZwLVR1am9YUjNvLWlNNHFGUEYtQXdZWjV6dDg1aVpDUThMc3M0bk92NXRrMmh6TjdiNnRGaEVRUV8wV1g3NVBYVnhqRVJiWUdJZU9FckVIOEtPZkx3bExZYllrcGJ0ZEVHRTdkbXZWZ2dTZmhTMl9GQ2VEcmFqR1E?oc=5",
+     "ora": "2026-11-16T12:03:25+00:00"
+    },
+    {
+     "titolo": "Alibaba lancia il modello di intelligenza artificiale Qwen4-Max con costi operativi inferiori",
+     "titolo_it": "",
+     "riassunto": "Lancio del modello Qwen4-Max di Alibaba con una proposta di riduzione dei costi operativi. Conta perché l'efficienza dei modelli di IA è un fattore chiave per la loro applicazione industriale e convenienza economica.",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcUhCdVJuUF8yeTh3NFdQR3diU21tV29JdWR3SS1KUDJlNnNCaWg5YncwM3VZRWc4dktIY0RnZlpQNG9hY21KYVZ5WU1BR21CWFVMQ0xROW91WXYyMWpDN3J3YkVKRFZacGxNV0hxR0NYenVwQ1pyaExWa3Q3TmpvS0VhQzZDNXN1Qm05c0EtdjlNenZUWFAyRnJ1QU9sbUkyWTJ1Q3dSNW9Edk5FUVRsanZBSkpPR1VNc3RoelBKbC1WeDhqVmFsN3NKRmRQbC1VeFlNS3dqc0F2SC1RY2lGVllB?oc=5",
+     "ora": "2026-11-16T11:12:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "175 Stage in Europa all’Agenzia Spaziale Europea per studenti, dottorandi e post doc",
+     "titolo_it": "",
+     "riassunto": "All'Agenzia Spaziale Europea ci sono 175 stage per studenti, dottorandi e post doc. È una notizia importante per chi cerca stage nel settore aerospaziale in Europa.",
+     "fonte": "Scambieuropei",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45MVI0YU9iYjhPYXRnWi00T1FtX1RmTjd2dnZvTWZMbEhsUmtySlNtVEk2NGJaU2VxbzV5VFlnUzlCVnh5MHBYTGluRmxldjZHc1JiSkplYVdBN2FzVkRvd3M5TE1NRGZfTG1JOVJTWQ?oc=5",
+     "ora": "2026-11-11T08:00:00+00:00"
+    },
+    {
+     "titolo": "ENAV assume diplomati come Pseudo Piloti, anche senza esperienza: stipendio da 30.500 a 32.500 euro",
+     "titolo_it": "",
+     "riassunto": "ENAV assume dipliati come Pseudo Piloti anche senza esperienza, con stipendio da 30.500 a 32.500 euro. Conta per chi cerca lavoro nel settore aerospaziale italiano.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lMkJRSXlzeUNZUW96OVJsa0NyQUZpMzJNeXExUzdXVmZ0MUtPQ3pYQklyZGhiVVN2SUtOUzVzOWhZZUp6X21RRE0xV2paQlVyQ2JoYjhnUWF6clc2NFhCU1E2VVFzellFX3NKX1J3WlprelZPS3l4NQ?oc=5",
+     "ora": "2026-11-12T09:00:47+00:00"
+    },
+    {
+     "titolo": "Master Sapienza: come funziona il bando unico e come iscriversi",
+     "titolo_it": "",
+     "riassunto": "Il Master Sapienza usa un bando unico per le iscrizioni. Serve a capire come si iscrive e come si presenta la domanda.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVFYR25wVHQ4dVZsWmczWmhFUllsaUZQUmFaell3YUpja1V6UDc4SkhXNjhOelUxQ1Nydkx2TE43ZGJHZlBYd19TWVVYZk1pQWRvTnVRX3VMLWU4dnMxbGFGREw1eUZVd19hVERhczR4QmowdHBoVXBpXzZxX2tZZFREbnlTTmFfcFRYY0FJWjJCQXFSbmFUVld0akxveDg?oc=5",
+     "ora": "2026-11-11T19:56:56+00:00"
+    },
+    {
+     "titolo": "Sapienza, Antonio Carcaterra è il nuovo rettore: ricerca, intelligenza artificiale e sfide per gli studenti",
+     "titolo_it": "",
+     "riassunto": "Antonio Carcaterra è il nuovo rettore della Sapienza. La notizia parla di ricerca, intelligenza artificiale e sfide per gli studenti.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SSG5IMHRUZzlVeVBGekF5cjBGQzZaWUViTlEzTFFTQTdJeUxRUXlCOE9fSk1fYnRjYzBxSEpzb3l0TXVLWUhVZml2Y20tb2twZ0pQYTFMeDR2dFZ5VFg1c2l2VGRtYzBwaDNsYXNFbTRnZXhXaXJwN0ZCMUdQOHM?oc=5",
+     "ora": "2026-11-12T09:47:40+00:00"
+    },
+    {
+     "titolo": "Alloggi universitari, il bando Cdp da 599 milioni: cosa cambia per gli studenti",
+     "titolo_it": "",
+     "riassunto": "Il bando Cdp per gli alloggi universitari ha 599 milioni di euro. Cambia qualcosa per gli studenti che cercano un posto per studiare.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ3V3LU14cFVxRWJIWTRzQUljMkE5M2RLSEloLS0xdmVvdXdobVA5bUh5d3dCSEduUkszNkRuZ1VpblRneEJPdFluUzFVVkFrUWNiYjdTRFFkZ29IbGVYRlhHVTdSWlNjQmRpclRtaUN3TFN2LXNCaWVBa0NUVi02RGJYNVdrdWtiVnYwUE9vcw?oc=5",
+     "ora": "2026-11-12T00:06:41+00:00"
+    },
+    {
+     "titolo": "Quiz test universitari: come esercitarsi con le prove degli anni passati",
+     "titolo_it": "",
+     "riassunto": "Il quiz sui test universitari aiuta a esercitarsi con le prove degli anni passati. È utile per chi deve preparare gli esami.",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1blhQYm5CWGJQMEQwT3RzcGgxT1M0U0p2ZU9YUlRNZU1yc1QtVlU5N3VNUDdYdUliekZWV0x2Q0RZaFBOdUNoWlVQRUI2cDdIUWVudGpZeEpKVlVEX2VMZUlPUHN5T0wzZHc?oc=5",
+     "ora": "2026-11-11T23:14:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+     "titolo_it": "Elon Musk sostiene la campagna per reintegrare l'ex capo di Nvidia",
+     "riassunto": "Elon Musk si unisce alla campagna per riportare Jensen Huang alla guida di Nvidia. La notizia è rilevante per comprendere le dinamiche di potere e i movimenti tra i leader del settore dei chip per l'intelligenza artificiale.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-16T12:20:49+00:00"
+    },
+    {
+     "titolo": "Stati Uniti e Iran verso una guerra su larga scala, l'escalation di attacchi nel Golfo",
+     "titolo_it": "Tensioni tra Stati Uniti e Iran: rischio escalation nel Golfo",
+     "riassunto": "L'aumento degli attacchi nello Stretto di Hormuz aumenta il rischio di un conflitto su larga scala. Questo scenario geopolitico può influenzare la sicurezza delle rotte marittime e la stabilità economica globale.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/16/stati-uniti-e-iran-verso-una-guerra-su-larga-scala-lescalation-di-attacchi-nel-golfo",
+     "ora": "2026-11-16T14:25:15+01:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
