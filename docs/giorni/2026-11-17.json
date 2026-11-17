@@ -1,0 +1,219 @@
+{
+ "giorno": "2026-11-17",
+ "creato": "2026-11-17T14:28:32+00:00",
+ "in_breve": [],
+ "modello": null,
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Why Allegiant Air Broke Boeing Loyalty For Nearly 10 Years For Exclusive Airbus Operations But Decided To Go Back",
+     "titolo_it": "",
+     "riassunto": "Allegiant switched from Boeing-lineage jets to an all-Airbus fleet, but changing economics eventually brought it back to Boeing.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/allegiant-air-broke-boeing-loyalty-10-years-exclusive-airbus-ops-go-back/",
+     "ora": "2026-11-17T13:33:43+00:00"
+    },
+    {
+     "titolo": "Borsa Milano debole, attesa per Nvidia su tech, corre Avio, giù lusso con Moncler",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONzcxRk1mOTZDTDB2aHlXeWo2Zy1CdlpOVGkweEZHQlcyQ0E0RkNhR3JIY1daN3pMZ01tNEE4eEVkY2w3bEZEcW9KaVdqOHpwRWVPTXpzamdwcXNPZjlVWG45SXkxWGpFWnI2SHdLcXZGZTlaWlRydlN3M0ZkNHRkV0NGV2FUYUk1UTNiVXdFakxSa3pweDUzRlpqd0lkeUtrUDFnbjBYd0M2ZnM3UlNxNE9PbEJOVjRzTXI0RmpYdlZxR3BZZEtpb2hoVDcwUQ?oc=5",
+     "ora": "2026-11-17T12:47:43+00:00"
+    },
+    {
+     "titolo": "Milano -0,5% in attesa di Wall Street: Avio +15% e Moncler -4%",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "SoldiOnline.it",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHhBd0lac0txT2dnSElHUFU1LUp4dk94Z1N5RFF0cXFKb04xa0tBcTVWb1AteTBZcTJuOENQdEpmVVdITUtyY2Z5TGtISDA2NXhSVmtlUVJhcEp6OXdXRjQ0MkI5OFBzWWFYdHcyUlJOWWdidlFTTlVpWExkQkp0LXI1WkJPUGJXdjlLTlN2aDV5ck4zZDRzcThLS3Nmc0JQbHlTemlB?oc=5",
+     "ora": "2026-11-17T12:47:00+00:00"
+    },
+    {
+     "titolo": "Citing loss-of-control risk, EASA orders additional ATR de-icing system checks",
+     "titolo_it": "",
+     "riassunto": "The European Union Aviation Safety Agency (EASA) has ordered operators of ATR 42 and ATR 72 turboprops to…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/easa-atr-de-icing-system-checks-loss-of-control",
+     "ora": "2026-11-16T22:13:47+00:00"
+    },
+    {
+     "titolo": "Lufthansa Ditches Huge 509-Seat Airbus A380: Final 4 Routes Revealed",
+     "titolo_it": "",
+     "riassunto": "The final flight is scheduled for December.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/lufthansa-ditches-huge-509-seat-a380/",
+     "ora": "2026-11-17T14:00:18+00:00"
+    },
+    {
+     "titolo": "Airbus delivers first A321XLR aircraft to Middle East Airlines",
+     "titolo_it": "",
+     "riassunto": "Airbus has delivered the first A321XLR aircraft to Lebanese flag carrier Middle East Airlines (MEA). The handover, which…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/airbus-delivers-first-a321xlr-aircraft-to-middle-east-airlines",
+     "ora": "2026-11-17T13:37:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "OpenAI, la California fa causa: nel mirino la sicurezza dei modelli AI e 80 incidenti segnalati",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Milano Finanza",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQXc0dkNGOW05SEpBdWFiSzRMZTEyZ0p2Q3lqWVBsY1BLcXlOM0M4TTJsd2VJQUcxcWxZSjd1QVFNVXBvUS12aGZ2TXJPTWNPekRuaTJVS3NnYTVtWnFiYS1jYkhTb0loQ2NBTVJTemplOVFkSy1fejIzb2JkNGlleFBVeFhSSW9mbEV2cHlCSm43U1YzZVJfY2RNVmFiWEdTa0pYalI3SkF0TjliNEtqc3NubWV2bF82eHVrdW5YeUdSekVzUEpQYmx6VXc3bzRxU0FrMjNxU0gwOU1ESVUw?oc=5",
+     "ora": "2026-11-17T14:02:00+00:00"
+    },
+    {
+     "titolo": "BlackLine collabora con OpenAI per portare i modelli di intelligenza artificiale di frontiera sulla piattaforma finanziaria",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "MarketScreener Italia",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZHVLVmlqUElhQ2V6NjJGZVEzQUtjb2lSOVBsbnZYQXVOdENoNm5tWXBzdm5TR0dqaXZwZFRfcUVIQ3NEX2kteVM4U1FBelJzejlzODhWSmlQNGZmRkRNNVlQYWpIZjJkcjBBdzViUEs2MjFiUjU0S3hBcjlHY1l3OXYxMWYtWnJ5QS14UVVCMU4tVUJLWklJNktXLXJRenRrc2dYVEZ3eTBJVjNVODFZTzREc0x6OUdMcDhjWlNzdWY0YU0wUVp5SFJMM1pjWjBQYXZBdldKYjdIS2hxSnNpNlRyZERVZEVrWlE?oc=5",
+     "ora": "2026-11-17T13:58:29+00:00"
+    },
+    {
+     "titolo": "California sues OpenAI over rogue AI hacking incidents",
+     "titolo_it": "",
+     "riassunto": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+     "ora": "2026-11-16T15:46:01-05:00"
+    },
+    {
+     "titolo": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+     "titolo_it": "",
+     "riassunto": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+     "fonte": "Ars Technica",
+     "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+     "ora": "2026-11-17T14:00:29+00:00"
+    },
+    {
+     "titolo": "Building trustworthy AI by fencing it in, not predicting it",
+     "titolo_it": "",
+     "riassunto": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to…",
+     "fonte": "MIT Technology Review",
+     "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+     "ora": "2026-11-16T16:04:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Albano, task force con La Sapienza e Ordine degli Ingegneri per la manutenzione del patrimonio pubblico: nasce ALMA Lab",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Castelli Notizie",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb2V5SFdVaEx0bzZlVE9ycklNQ1RHel8tMFlMNzdHbVhvaE4tb2M3Z21PZGpBTUdYdjgxUnBpTE9PQmV0aDQ2bUNrcTVDcjYxNXVMS0FwLUktemhoMkQ3NHNaeGRtQzZ6VGdWMjB3a1QyRloyUzB2M0J3b1hvRjRNTGJXM096VVVrQWMwSktlZGtoaDZSWnBPOVJwbkVEcm5GaDQxSnkwTG1GY1NycWhYTVJBRS1waElTcVBNc1VPTENJWGg1S0dXN0M4RDE3LXFoejBNSm12a01rQXlBSU1La0o3dUdEenFKM2xJY1RhbUdSUdIB9wFBVV95cUxPb09neW12cTh3eDJHSXF6UjROc181WXFUaWstdmhRVXpwNU1LQ2VBZ3NBTjhNVXdpZmVxY2QzeXNVVmg2YnlhT2FNZEJ6dm9YaWd0bGVxcHhOTnhpY0VuTEdGR2E3V2N2YklDamdHTW1sTlBUZVdwWl9uX0JyMkkybXY2bEF1NXVQQkZjV1Uwc3RrUlVGeFhqbVhiX2h4bXEydThmVHJvTEhnRDV2SnFFUmRVY2dYcFFkdHozb1lCd3RucGlrMVNXcTlzbVhOM2ZjcnJ6M0hLbWQ3UEpfQ25MaG1wRkF1ekQ2WnhaeTlNVkFycVJBN3Rv?oc=5",
+     "ora": "2026-11-17T07:17:00+00:00"
+    },
+    {
+     "titolo": "Master Sapienza: come funziona il bando unico e come iscriversi",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVFYR25wVHQ4dVZsWmczWmhFUllsaUZQUmFaell3YUpja1V6UDc4SkhXNjhOelUxQ1Nydkx2TE43ZGJHZlBYd19TWVVYZk1pQWRvTnVRX3VMLWU4dnMxbGFGREw1eUZVd19hVERhczR4QmowdHBoVXBpXzZxX2tZZFREbnlTTmFfcFRYY0FJWjJCQXFSbmFUVld0akxveDg?oc=5",
+     "ora": "2026-11-11T19:56:56+00:00"
+    },
+    {
+     "titolo": "Rappresentativa LND Under 15 secondo semestre: i convocati per lo stage di Formia",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Gazzetta Regionale",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQmk2b2hmeUt6RUdBVlBjN0FMQW5wOGROMEUzOTBXMHpRTmRGU3Z5Z1lCbzJoXzdpdlVlSXhqODFBZ2s2eWVEQlU0T1k1ckxsUG05TFhzMmg3Q1J2cEF3aDA4amxRaWpOUTU5LW1rNzNuSUs3TGpQbU15VFlrZjlBbWlSVW4xWk9kZm9aWldQX25GYU9vYVpINGNMVks3dzQ2aGVVd2VKc1lJeThWWVN0NXRWUFB2YUJYckd5ZVpqMG5mU0NUTmd3bnJKa1QzelFyMjBpdlVfNkxEOV9HMi1BSTE2MVE?oc=5",
+     "ora": "2026-11-13T18:36:08+00:00"
+    },
+    {
+     "titolo": "Stage nella BCE 2026 – Tirocini presso la Banca Centrale Europea",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Concorsando.it",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tZWpKOUlRdER3RkhxUjBDa1Z5RjRQVG1qR3NvTl9Ba0h3OEtLYWp6YlN6ekwzOFlTaWZ2cHQyU2RCZkZCMWV0MHhSYmpSNUNqb2t5RksxRnpSUlZr?oc=5",
+     "ora": "2026-11-13T14:58:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Matthew Lillard entra nel nuovo horror Anything But Ghosts",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/spettacolo/cinema/video/2026/11/17/anything-but-ghosts-film-horror-cast-1140605",
+     "ora": "2026-11-17T14:50:00+00:00"
+    },
+    {
+     "titolo": "Omicidio Denis Bergamini, confermata in appello la condanna a 16 anni per Isabella Internò",
+     "titolo_it": "",
+     "riassunto": "L'ex fidanzata del calciatore del Cosenza, morto il 18 novembre 1989, era stata condannata alla stessa pena in primo grado, per concorso in omicidio volontario. La difesa ha annunciato il ricorso in Cassazione",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/cronaca/2026/11/17/caso-bergamini-sentenza",
+     "ora": "2026-11-17T14:50:00+00:00"
+    },
+    {
+     "titolo": "How new US chip restrictions on South East Asia will hit China",
+     "titolo_it": "",
+     "riassunto": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-17T14:25:45+00:00"
+    },
+    {
+     "titolo": "Obiettivo clima 2040 dell'UE a rischio con riforma del mercato del carbonio ammorbidita",
+     "titolo_it": "",
+     "riassunto": "Una proposta di compromesso trapelata vuole proteggere l'industria europea dai costi del carbonio. Ma gli ambientalisti temono che più quote gratuite e crediti esteri indeboliscano gli obiettivi climatici UE per il 2040.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/17/obiettivo-clima-2040-dellue-a-rischio-con-riforma-del-mercato-del-carbonio-ammorbidita",
+     "ora": "2026-11-17T15:16:50+01:00"
+    },
+    {
+     "titolo": "Consiglio d'Europa, Berset: non sacrificare i diritti umani nella stretta sulla migrazione",
+     "titolo_it": "",
+     "riassunto": "Parlando a Euronews, Alain Berset, segretario generale del Consiglio d'Europa, ha difeso il diritto dei governi a inasprire le politiche migratorie, ma ha chiesto che rispettino gli impegni sui diritti umani. Cinque Paesi Ue hanno intanto proposto un centro rimpatri in Ruanda",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/17/consiglio-deuropa-berset-non-sacrificare-i-diritti-umani-nella-stretta-sulla-migrazione",
+     "ora": "2026-11-17T15:14:17+01:00"
+    },
+    {
+     "titolo": "Bufera su Deutsche Bank, svelati milioni di file segreti",
+     "titolo_it": "",
+     "riassunto": "'Legami con Epstein e Trump, rapporti con oligarchi russi'",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/berlino-deutsche-bank-deve-spiegare-in-modo-trasparente_411981b3-1c96-43d1-bfce-a2156ca0d793.html",
+     "ora": "2026-11-17T15:04:07+01:00"
+    },
+    {
+     "titolo": "Mattarella: \"I giovani non sono contenitori da riempire ma protagonisti\"",
+     "titolo_it": "",
+     "riassunto": "Il presidente della Repubblica: \"Hanno spirito critico e autonomo. La generazione che sale è protagonista e merita fiducia\"",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/mattarella-giovani-non-sono-contenitori-da-riempire-ma-protagonisti_76ec7d5f-c374-4318-8df9-a34429d333c9.html",
+     "ora": "2026-11-17T14:47:33+01:00"
+    },
+    {
+     "titolo": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+     "titolo_it": "",
+     "riassunto": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-17T13:02:17+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
