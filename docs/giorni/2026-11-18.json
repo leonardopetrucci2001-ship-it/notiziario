@@ -1,0 +1,195 @@
+{
+ "giorno": "2026-11-18",
+ "creato": "2026-11-18T14:03:26+00:00",
+ "in_breve": [],
+ "modello": null,
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "NTSB: Missed Inspections Let Storm-Damaged Southwest 737 MAX Fly 44 Times Before Dutch Roll Accident",
+     "titolo_it": "",
+     "riassunto": "A Southwest Airlines Boeing 737 MAX flew 44 times with undetected storm damage to its tail after missing a post-storm inspection, then later passing a flawed maintenance test.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/video/ntsb-missed-inspections-let-storm-damaged-southwest-737-max-fly-44-times-before-dutch-roll-accident/",
+     "ora": "2026-11-18T13:25:19+00:00"
+    },
+    {
+     "titolo": "Avio, il ruolo di Leonardo nell’Opa di Iceye. Il commento del ceo Mariani anche su SpaceX",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Forbes Italia",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BYi1YV2xFUmZ0Mm1GRzMzaWJrdkNIbVFPYktzdndDZTI5V2pibEh2Um92TlRPXzVaS1cxSGhHbTJLRWNiV1licV85dkpJOHhrbVpkb0I0ZnlWVzRFNVRrQ19uUUpnU2RyR2VnTVJyOGZzdmdXY2hB?oc=5",
+     "ora": "2026-11-18T13:18:22+00:00"
+    },
+    {
+     "titolo": "Leonardo rifletta bene prima di uscire da Avio - Crosetto Da Reuters",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2JBaWlVc0dMdEhBSm5yUlNzTUo3Y0JyeG5zS1paZG9Kc2RrRm10T1RpYW82UDFzbnhSYTF4VlEwUjlzZHN0dFZ2N292NzI1b0FLSmUwcmtOVERkRGVvbnhlTVh0NXFvUFpPRC1qejllNWpiQ041eDlWUExzWmxaZk9IaWZLQzVtWWRRdlhlN3hGa2oxbXJJWnhqVzR0eHY2bmYxNTM2RnNGd3JHOGhxNHZ3?oc=5",
+     "ora": "2026-11-18T11:01:43+00:00"
+    },
+    {
+     "titolo": "B-1B Bomber’s New External Pylons Clear Critical Design Review",
+     "titolo_it": "",
+     "riassunto": "The new Load Adaptable Modular pylon, shown once again carrying an AGM-183 ARRW hypersonic weapon, recently cleared the Critical Design Review and moves closer to equipping the B-1B Lancer. Boeing announced on Nov. 17, 2026, that the B-1B Lancer bomber’s new Load Adaptable Modular (LAM) pylon has cleared the Critical…",
+     "fonte": "The Aviationist",
+     "link": "https://theaviationist.com/2026/11/17/b-1b-new-external-pylons-critical-design-review/",
+     "ora": "2026-11-17T20:36:58+00:00"
+    },
+    {
+     "titolo": "Inside Singapore Airlines' Stunning NEW Boeing 777-9 Cabins!",
+     "titolo_it": "",
+     "riassunto": "Tom Boon of Simple Flying heads to Singapore for the unveiling of Singapore Airlines’ next-generation cabins. From its all-new First Class suites featuring the largest double bed in commercial aviation to redesigned Business Class seats with sliding privacy doors, this video explores the upgrades coming to its Boeing…",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/video/inside-singapore-airlines-stunning-new-boeing-777-9-cabins/",
+     "ora": "2026-11-18T12:01:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Un modello IA di OpenAI ha trova una falla critica in Java",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "la Repubblica",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZjFPdjZwUnhKMEloU3RpVy0yNm92Yzkxd1Q0Skd4Y3dNX25lN09COVNGWGJvTWZNZTFiSVd3Vy1ieHhHNlJBQUx2ZVQxcElLWWg1ZGljSTAzSjVFSGJkWXJMTEpON1ZIcDNySnBJbnhrVThaQW9pS3dtbXp0RW9qNWtUd0kyT3BuRU9PYQ?oc=5",
+     "ora": "2026-11-18T11:28:28+00:00"
+    },
+    {
+     "titolo": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+     "titolo_it": "",
+     "riassunto": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is…",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+     "ora": "2026-11-17T22:38:52+00:00"
+    },
+    {
+     "titolo": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+     "titolo_it": "",
+     "riassunto": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+     "ora": "2026-11-17T13:58:01-05:00"
+    },
+    {
+     "titolo": "Anthropic, da ‘ribelle’ di OpenAI a colosso da 1400 miliardi",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Quotidiano Nazionale",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRzdMU0RocjJQV3NPTWpEbzVGSE9xc00zcHZHdld5Vl90cWZwNWN4QUdRNEh6Vm9SUjBWNlplT2xkVG1OSjhwa2NKUW9kVWE5MEJsc3Q1bUp1Ui1PTDVUSl9ycENCTENSMkE3OWpTYS1uMWkxWW1TRkJOOHB2T3JmNXhwZGVjSk9hLS1zOTFfVjJWMkJBM1JFSzg5aDVyLWM?oc=5",
+     "ora": "2026-11-18T13:09:28+00:00"
+    },
+    {
+     "titolo": "External sandboxes for coding agents",
+     "titolo_it": "",
+     "riassunto": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime…",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+     "ora": "2026-11-17T22:52:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Albano, task force con La Sapienza e Ordine degli Ingegneri per la manutenzione del patrimonio pubblico: nasce ALMA Lab",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Castelli Notizie",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb2V5SFdVaEx0bzZlVE9ycklNQ1RHel8tMFlMNzdHbVhvaE4tb2M3Z21PZGpBTUdYdjgxUnBpTE9PQmV0aDQ2bUNrcTVDcjYxNXVMS0FwLUktemhoMkQ3NHNaeGRtQzZ6VGdWMjB3a1QyRloyUzB2M0J3b1hvRjRNTGJXM096VVVrQWMwSktlZGtoaDZSWnBPOVJwbkVEcm5GaDQxSnkwTG1GY1NycWhYTVJBRS1waElTcVBNc1VPTENJWGg1S0dXN0M4RDE3LXFoejBNSm12a01rQXlBSU1La0o3dUdEenFKM2xJY1RhbUdSUdIB9wFBVV95cUxPb09neW12cTh3eDJHSXF6UjROc181WXFUaWstdmhRVXpwNU1LQ2VBZ3NBTjhNVXdpZmVxY2QzeXNVVmg2YnlhT2FNZEJ6dm9YaWd0bGVxcHhOTnhpY0VuTEdGR2E3V2N2YklDamdHTW1sTlBUZVdwWl9uX0JyMkkybXY2bEF1NXVQQkZjV1Uwc3RrUlVGeFhqbVhiX2h4bXEydThmVHJvTEhnRDV2SnFFUmRVY2dYcFFkdHozb1lCd3RucGlrMVNXcTlzbVhOM2ZjcnJ6M0hLbWQ3UEpfQ25MaG1wRkF1ekQ2WnhaeTlNVkFycVJBN3Rv?oc=5",
+     "ora": "2026-11-17T07:17:00+00:00"
+    },
+    {
+     "titolo": "Master Sapienza: come funziona il bando unico e come iscriversi",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVFYR25wVHQ4dVZsWmczWmhFUllsaUZQUmFaell3YUpja1V6UDc4SkhXNjhOelUxQ1Nydkx2TE43ZGJHZlBYd19TWVVYZk1pQWRvTnVRX3VMLWU4dnMxbGFGREw1eUZVd19hVERhczR4QmowdHBoVXBpXzZxX2tZZFREbnlTTmFfcFRYY0FJWjJCQXFSbmFUVld0akxveDg?oc=5",
+     "ora": "2026-11-11T19:56:56+00:00"
+    },
+    {
+     "titolo": "Rappresentativa LND Under 15 secondo semestre: i convocati per lo stage di Formia",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Gazzetta Regionale",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQmk2b2hmeUt6RUdBVlBjN0FMQW5wOGROMEUzOTBXMHpRTmRGU3Z5Z1lCbzJoXzdpdlVlSXhqODFBZ2s2eWVEQlU0T1k1ckxsUG05TFhzMmg3Q1J2cEF3aDA4amxRaWpOUTU5LW1rNzNuSUs3TGpQbU15VFlrZjlBbWlSVW4xWk9kZm9aWldQX25GYU9vYVpINGNMVks3dzQ2aGVVd2VKc1lJeThWWVN0NXRWUFB2YUJYckd5ZVpqMG5mU0NUTmd3bnJKa1QzelFyMjBpdlVfNkxEOV9HMi1BSTE2MVE?oc=5",
+     "ora": "2026-11-13T18:36:08+00:00"
+    },
+    {
+     "titolo": "Enti locali, in provincia di Sondrio persi 203 dipendenti in undici anni",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "La Provincia Unica Tv",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZlFyaHVSTWtqZ2w4NGNiZmYtNkN1bXRCWmtjN1J5TUlxbHR4eFVzRTNrQ3ZFRDRaaEw2a2ZtWTJyQmEyUEYxUXZSdjFyaGVIM1dKOVJTQ3Uwa291NFJwcEZvdFFCaDg4aEkzQWMzd1FjV0pYd2FVM2VWMi1zdFA2X19ta0ViUHc4c3JJRW9jUFhsUFhuTFU3WURHRzVTc2cwbE9tcGxKTmVTak8wMThhaFdfQ3lISlNqZ0FwUS1uaGtzVUgxV1pLdDlQZUlISElDQlQxZ3MybFZPU2IwNmhjMzM0endnS2hq?oc=5",
+     "ora": "2026-11-18T10:12:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Chalamet anticipa nuovo progetto âcon un regista fenomenale",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/spettacolo/video/2026/11/18/timothee-chalamet-vanity-fair-1140844",
+     "ora": "2026-11-18T14:38:57+00:00"
+    },
+    {
+     "titolo": "Sky cube, cosa c’è da sapere: live e puntate",
+     "titolo_it": "",
+     "riassunto": "Nuovo format di Sky TG24 che sfrutta la potenza visiva del nuovo studio: ogni giorno i grandi snodi geopolitici e sociali del presente. Alle 15 live sul sito e sui canali social",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/mondo/approfondimenti/sky-cube-live-puntate",
+     "ora": "2026-11-18T14:30:00+00:00"
+    },
+    {
+     "titolo": "L'artista kazako che si batte contro le armi nucleari",
+     "titolo_it": "",
+     "riassunto": "Nato senza braccia nei pressi del sito per test nucleari di Semipalatinsk, Karipbek Kuyukov è diventato artista e attivista contro il nucleare. Oggi continua a battersi contro le armi nucleari attraverso la sua arte e le sue apparizioni pubbliche.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/18/lartista-kazako-che-si-batte-contro-le-armi-nucleari",
+     "ora": "2026-11-18T15:00:41+01:00"
+    },
+    {
+     "titolo": "Putin e Trump si stringono la mano a Shenzhen",
+     "titolo_it": "",
+     "riassunto": "Xi: \"Un mondo più stabile grazie al rapporto Pechino-Mosca\"",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/putin-e-trump-si-stringono-la-mano-a-shenzhen_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
+     "ora": "2026-11-18T14:42:06+01:00"
+    },
+    {
+     "titolo": "Test sanitari fai-da-te: affermazioni infondate e rischi, avverte studio nel Regno Unito",
+     "titolo_it": "",
+     "riassunto": "Un facile accesso a test sanitari dubbi dovrebbe essere considerato un \"problema di sicurezza per i pazienti\", hanno affermato i ricercatori.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/18/test-sanitari-fai-da-te-affermazioni-infondate-e-rischi-avverte-studio-nel-regno-unito",
+     "ora": "2026-11-18T14:37:35+01:00"
+    },
+    {
+     "titolo": "L'Idf lancia un attacco nel centro di Gaza, avviso di sfollare",
+     "titolo_it": "",
+     "riassunto": "E' la prima volta dal cessate il fuoco. I Media della Striscia riferiscono di tank nell'area centrale. 'Comandante Centcom vede il capo Idf per fare il punto in caso di ripresa della guerra'",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/comandante-centcom-vede-capo-idf-per-fare-il-punto-in-caso-ripresa_c716c063-4ad1-4fdb-96b8-256f5a3a08ec.html",
+     "ora": "2026-11-18T14:32:22+01:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
