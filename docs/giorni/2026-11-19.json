@@ -1,0 +1,219 @@
+{
+ "giorno": "2026-11-19",
+ "creato": "2026-11-19T14:27:41+00:00",
+ "in_breve": [],
+ "modello": null,
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "ENAV e la sfida della resilienza operativa ATM",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXF2ZG9fbWFYUTZYYUVkLURuSXdNeWpDLUdmMmhGbmFCQ2FpRHY4WnlFYTMwTmJqb2NUQVpKdjM2blItSl9QNDdnYXd0WXZLT25kOXZuUlIyVE9wNWtKS2locTNNYkxfcm1lZkU2ZVRKaXdSUU1WYnB2NDliMEtEenpNTXZOSElwTk1vd20xWl84Q1NLNlE?oc=5",
+     "ora": "2026-11-19T14:17:18+00:00"
+    },
+    {
+     "titolo": "Leonardo rifletta bene prima di uscire da Avio - Crosetto Da Reuters",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2JBaWlVc0dMdEhBSm5yUlNzTUo3Y0JyeG5zS1paZG9Kc2RrRm10T1RpYW82UDFzbnhSYTF4VlEwUjlzZHN0dFZ2N292NzI1b0FLSmUwcmtOVERkRGVvbnhlTVh0NXFvUFpPRC1qejllNWpiQ041eDlWUExzWmxaZk9IaWZLQzVtWWRRdlhlN3hGa2oxbXJJWnhqVzR0eHY2bmYxNTM2RnNGd3JHOGhxNHZ3?oc=5",
+     "ora": "2026-11-19T08:22:36+00:00"
+    },
+    {
+     "titolo": "GA Safety Group Highlights Automation Risks in CFIT Accidents",
+     "titolo_it": "",
+     "riassunto": "The GAJSC warns that overreliance on autopilot and declining hand-flying skills can contribute to fatal controlled flight into terrain accidents.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/gajsc-warns-pilots-cfit-automation-risks/",
+     "ora": "2026-11-18T18:17:57+00:00"
+    },
+    {
+     "titolo": "Too Heavy For Its Own Wings!? Why The Boeing 737-900ER's Takeoff Roll Is So Long",
+     "titolo_it": "",
+     "riassunto": "The Boeing 737-900ER was designed to solve a specific problem for airlines. Boeing needed a narrowbody aircraft capable of carrying nearly as many passengers as a Boeing 757 while remaining within the operating economics and fleet commonality of the long-running 737 family.The result was the largest and heaviest…",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/video/too-heavy-for-its-own-wings-why-the-boeing-737-900er-s-takeoff-roll-is-so-long/",
+     "ora": "2026-11-19T13:28:19+00:00"
+    },
+    {
+     "titolo": "End Of An Era: 50-Year-Old Boeing 747 Hotel In Stockholm Is Being Scrapped After 16 Years",
+     "titolo_it": "",
+     "riassunto": "The hotel has already been closed for almost two years.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/boeing-747-hotel-stockholm-scrapped-50-year-old-jumbo-stay/",
+     "ora": "2026-11-19T13:01:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Remember the frontier AI pause? Chip companies don’t either",
+     "titolo_it": "",
+     "riassunto": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+     "ora": "2026-11-18T10:44:02-05:00"
+    },
+    {
+     "titolo": "Agenti AI fuori controllo: la causa in California contro OpenAI interroga anche l’UE",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Agenda Digitale",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUVAxYjB5RVpvSFdQNmlnb0ltbjB5ZEg4d0RISU5lOW1tYnhBVkc5bGNlSGthNW5rRFZDdVMtLWItM2tqVERBSVBTWGQ2azUtaEx0Y3BxSno4QnJPcTY2Qk43eHhmVlZEeUwxOENQaElsUGpCLVgxQlFXR1BxN3pNTTVPTkd2SXVwc2o2VVI4WGlsb2tTbW11SXJLSHdFbWpvQVZhcGtSUmlSdVB2dHFIRWMzejdzbXpQR21FcVBBc25ERlNPX3FUTzRrWk5ISWxVb1RVLVpyeFpaMk83UF9JMDNpUkZKTXNUU0xSMndYNmVUcXd5?oc=5",
+     "ora": "2026-11-19T13:07:30+00:00"
+    },
+    {
+     "titolo": "Oggi non è solo il giorno di GTA 6: sul proscenio di Wall Street arriva Anthropic, la startup dell'AI Claude",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "StartupItalia",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcTZLLTVERVBoQTJ0ZGc1YllLRWdCNXZQa0xYM0JxSVdpU3ZNbTR5b2FwTEtjTUpkMmpkUmY1dWRfaGhkZlUycDViTXo2c2p3bW9mY09NVmREbHVTbjBmQmplQ1puVVMzdlJqdFZKbHhMcjMzTEdCZ0NPaXNQZG9DUHJ5QQ?oc=5",
+     "ora": "2026-11-19T13:01:30+00:00"
+    },
+    {
+     "titolo": "llm-gemini 0.38",
+     "titolo_it": "",
+     "riassunto": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the same price , and Hydrogen was 3/4 of…",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+     "ora": "2026-11-18T23:59:20+00:00"
+    },
+    {
+     "titolo": "Gemini 4 Neon",
+     "titolo_it": "",
+     "riassunto": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 906 # Comments: 711",
+     "fonte": "Hacker News",
+     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+     "ora": "2026-11-18T21:34:07+00:00"
+    },
+    {
+     "titolo": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+     "titolo_it": "",
+     "riassunto": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+     "ora": "2026-11-19T09:25:37-05:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Sapienza, i 100 anni della scuola di ingegneria aerospaziale",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVY1MUJ3UEl0ejRidFZQZi1ZV3YwVFdVeGo0NEo1NEVKNDJCLVQxblc1OURoQXc1ZjZtQk5tUXRLNVRzZVotTjR1X2dvbzZ0bHQxTXhyUzBCeUlBU0EyTnNELVhQbWJuaWxlclBBQ2JPMW9Ramw4SDdmaXIzdVlZQVhjLURIRXBfWWVQMTZLeUlCZ0ZMTlVUTjhiMXowZmZGa1d2UW1SdzQ5aHFyQkhxM0stWE05Z9IBtgFBVV95cUxNUVY1MUJ3UEl0ejRidFZQZi1ZV3YwVFdVeGo0NEo1NEVKNDJCLVQxblc1OURoQXc1ZjZtQk5tUXRLNVRzZVotTjR1X2dvbzZ0bHQxTXhyUzBCeUlBU0EyTnNELVhQbWJuaWxlclBBQ2JPMW9Ramw4SDdmaXIzdVlZQVhjLURIRXBfWWVQMTZLeUlCZ0ZMTlVUTjhiMXowZmZGa1d2UW1SdzQ5aHFyQkhxM0stWE05Zw?oc=5",
+     "ora": "2026-11-19T05:30:03+00:00"
+    },
+    {
+     "titolo": "Stage di formazione territoriale: convocazioni per lunedì 23 novembre 2026",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "FIGC",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNX0tCTWlDUy1NaWNWWHN5dy1TWU5RZlltek44aUFOVUFhZUFxQzhVX3FWdlAtMWNNZThlOWp1WUNnM0NsV2FTQXZRek51R0o0Q0VBVi01NlUwWFJSRFBEU2VSOGo1R1AzUkdsc2dZQVFDVEN0d19NbnV1Vm5FY3lEQ1ZoTFF2eDhsRDZ4bGsyODEtVnRPTF9nd0thdE9mYmYzRGxXSkFvbTliQkRRQW02Z3EzMDBxZGRrVzhycEUxekhtcnlaa1lFa1hldjVFUnBveWtTeGVZLVRoNk9yZ3BNQkFEX3l2MGZyR3VyY1hwaGFyenpIWUVZbzdMOUd6WEU?oc=5",
+     "ora": "2026-11-19T11:45:47+00:00"
+    },
+    {
+     "titolo": "Un Agente AI affianca relatori e pubblico e diventa parte del dibattito: ad Assisi la sperimentazione nata dalla collaborazione con Sapienza Università di Roma",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "imgpress",
+     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNLXRKbmJNcUV5c19melRra3k2M2hGQUQwSWdUOVJxNXFCN1ctb051X1lFaW14Y2dYdEVyT0pTcDFPRTZZQmVmN1Ryd1FMS3Q2bTNET1A5MmVKV0ZvYXR2NWM4LWpKS2Z3cTZpcVRpVS1WNVhSbWFtdGZ5TUhfNzlselF2NDU4QTJZQk1KYXhnc2FwMDVla3JxME90N3hhNHBMTS1sS3ZwT2hMRGlfay1vR2NsRjZNVEp6a1BRTlFOMjJOVVhaMHRoaFJYbm5HbmhwWDZIN0p5am9kQXJKM2U2Q3NGM21tU2NCekNtdm1keG96SERRT0MxRnFTR0lqenJWQUl2MUJBLTlEQkV1a1o4MHNYZl95cnU0VEx4Tm53?oc=5",
+     "ora": "2026-11-19T07:13:23+00:00"
+    },
+    {
+     "titolo": "Road to TDR 2027, Rappresentativa Lazio U19: i convocati di Davide per il primo stage",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Calcio a 5 Live",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83bkpEdkNsTHZUY05naS1MOVNSRmNVa09qanRzeTZMMHduMDBYMTVqTktlSG94bzRzQ2JGR29FZ1hDUEZBMzNod1NNV3d6dGRlU3ZYSUpFT1BRWjVUcEFJVjhB?oc=5",
+     "ora": "2026-11-19T00:57:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Carenza di ferro nelle persone sane: sintomi vaghi e pochi controlli",
+     "titolo_it": "",
+     "riassunto": "Molte persone con carenza di ferro non ricevono subito una diagnosi.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/19/carenza-di-ferro-nelle-persone-sane-sintomi-vaghi-e-pochi-controlli",
+     "ora": "2026-11-19T15:18:14+01:00"
+    },
+    {
+     "titolo": "ANSA Newsroom | Fuori tutti: allarme bomba nelle scuole, caos ed evacuazioni",
+     "titolo_it": "",
+     "riassunto": "La terza puntata del format dell'ANSA dedicato all'approfondimento",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/speciali/ansa-newsroom/2026/11/19/ansa-newsroom-fuori-tutti-allarme-bomba-nelle-scuole-caos-ed-evacuazioni_732f890a-dda9-4cbc-9dca-a464e6d7c70b.html",
+     "ora": "2026-11-19T15:12:14+01:00"
+    },
+    {
+     "titolo": "A Roma il convegno di Telefono Azzurro 'Proteggere i bambini nell'era dell'intelligenza artificiale'",
+     "titolo_it": "",
+     "riassunto": "L'evento dalle ore 15:00 alle ore 19:00",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/eventi/2026/11/17/a-roma-il-convegno-di-telefono-azzurro-proteggere-i-bambini-nellera-dellintelligenza-artificiale_ba7a6cd3-c821-4977-aa00-423d0c4ab191.html",
+     "ora": "2026-11-19T15:07:45+01:00"
+    },
+    {
+     "titolo": "Berlino, Witkoff e Kushner alla Cancelleria di Merz",
+     "titolo_it": "",
+     "riassunto": "Steve Witkoff e Jared Kushner, inviati del presidente americano Donald Trump, sono arrivati alla Cancelleria di Berlino. I due sono stati accolti dal consigliere per la politica estera e la sicurezza del cancelliere Friedrich Merz e avranno a breve un incontro nell'ufficio del capo del governo tedesco, in vista della…",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/mondo/video/2026/11/19/incontro-witkoff-kushner-merz-berlino-1141081",
+     "ora": "2026-11-19T14:02:20+00:00"
+    },
+    {
+     "titolo": "Azerbaigian punta sull'IA: dai servizi pubblici alla tecnologia finanziaria globale",
+     "titolo_it": "",
+     "riassunto": "L'Azerbaigian coltiva ambizioni regionali nell'IA tramite servizi pubblici digitali, infrastrutture dati più solide, formazione delle competenze e imprese orientate ai mercati internazionali.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/19/azerbaigian-punta-sullia-dai-servizi-pubblici-alla-tecnologia-finanziaria-globale",
+     "ora": "2026-11-19T15:00:04+01:00"
+    },
+    {
+     "titolo": "Addio a Corrado Augias, le reazioni e il cordoglio: da Mattarella ai colleghi giornalisti",
+     "titolo_it": "",
+     "riassunto": "Sono numerosi i messaggi di cordoglio dal mondo del giornalismo, della politica e della cultura alla notizia della scomparsa dell'intellettuale morto oggi, 19 novembre, all'età di 91 anni, a Roma. Il Presidente della Repubblica Sergio Mattarella ha espresso in una nota \"profonda tristezza\" per la scomparsa di Corrado…",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/cronaca/2026/11/19/morto-corrado-augias-reazioni",
+     "ora": "2026-11-19T13:54:00+00:00"
+    },
+    {
+     "titolo": "Venezuela signs military deal with US less than a year after Maduro's removal",
+     "titolo_it": "",
+     "riassunto": "The US Secretary of Defence says Venezuela has 'gone from our most aggressive regional threat to a compliant security partner'.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-19T13:31:23+00:00"
+    },
+    {
+     "titolo": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+     "titolo_it": "",
+     "riassunto": "The Russian president said the Crimean Bridge was civilian infrastructure, which Kyiv disputes.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-19T13:07:35+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
