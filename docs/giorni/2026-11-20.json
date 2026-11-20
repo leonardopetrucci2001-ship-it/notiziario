@@ -1,0 +1,207 @@
+{
+ "giorno": "2026-11-20",
+ "creato": "2026-11-20T14:03:15+00:00",
+ "in_breve": [
+  "Nasce nel Lazio un nuovo distretto industriale aerospaziale che creerà opportunità di stage e lavoro per i laureati della Sapienza.",
+  "ENAV affronta la resilienza operativa dell'ATM, tema centrale per la sicurezza e l'efficienza del traffico aereo.",
+  "La Sapienza celebra i cento anni della scuola di ingegneria aerospaziale con eventi che coinvolgono studenti e aziende del settore."
+ ],
+ "modello": "baidu/ernie-5.5-flash-preview:free, nvidia/nemotron-3-ultra-550b-a55b:free, nvidia/nemotron-3.5-lightning:free, nvidia/nemotron-3.5-super-vl:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "ENAC alla 7a Conferenza Mondiale sul Trasporto Aereo dell'ICAO: il Direttore Generale D’Orsogna alla guida della delegazione italiana",
+     "titolo_it": "",
+     "riassunto": "L'ENAC guida la delegazione italiana alla settima conferenza mondiale ICAO sul trasporto aereo. Conta perché affronta regole internazionali e sicurezza del volo, temi centrali per chi studia ingegneria aeronautica.",
+     "fonte": "Ente Nazionale per l'Aviazione Civile",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN0IzbnE5UHJ3MlFrZE5sc2Y2cUlwNHZObXZEeDZBcFhSRzIyeGdlTWtCd3dFaDZhS0RHaVlwNVc5V3U4YW1xTWNuUEl4a3ZkZUcyMFItUGE1UmllZXREMVd3ZE1zRjVEQ0JzY3B3OWNPZ2U5ZlpOQ1lpU2l4M1JRZklBVk5hRzd3YlJtSHlfSkk3NjFtbGJ0OVI5cDgwVGEwVWVTNWhmZWcxclJVZk1saW4wNTQzRTVwTHY2S3VtNDNRMVRNV3Z4bkEwYTVzZTZOc1o4cGlPZzNDMl85VUZzbjd5b1FvbHZjOXA1Wlk1LTVkZw?oc=5",
+     "ora": "2026-11-20T10:52:30+00:00"
+    },
+    {
+     "titolo": "Delegazione ENAC all'Annual Safety Conference 2026 EASA: sicurezza aeronautica e resilienza della supply chain",
+     "titolo_it": "",
+     "riassunto": "L'ENAC partecipa alla conferenza annuale EASA 2026 su sicurezza aeronautica e resilienza della supply chain. Conta perché collega la sicurezza del volo con la stabilità della filiera industriale aerospaziale.",
+     "fonte": "Ente Nazionale per l'Aviazione Civile",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeHA3bXBQOGdtVk1UV0k0TWdUUkc3SHMydzRKb2d4WTk5SVdvTVF4WTVmMW1vSWprOTNnLXNMT0pkdlRCaWJJWV9jY2VpNUN4TGQ1MU5rZnVVY0RJMUkyTnV0Y1l0TjhrWHpzNXJKNEQ4X2ZPQ091U1g3NERwd1hjQ0hGSHNmTk5VVkYtTmhXMy1qR3d0N01VbEQ4MUNyYXg4Sld6QUo1dnl1dG82WGdmWS1JZXRxRnNZR1JIVW9QeHdSNlZQUXlIeDllem52dXFlVFcwXw?oc=5",
+     "ora": "2026-11-19T16:54:07+00:00"
+    },
+    {
+     "titolo": "ENAV e la sfida della resilienza operativa ATM",
+     "titolo_it": "",
+     "riassunto": "ENAV affronta la sfida della resilienza operativa nella gestione del traffico aereo. Conta perché l'ATM è un settore chiave per aeroporti e sicurezza delle operazioni di volo.",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXF2ZG9fbWFYUTZYYUVkLURuSXdNeWpDLUdmMmhGbmFCQ2FpRHY4WnlFYTMwTmJqb2NUQVpKdjM2blItSl9QNDdnYXd0WXZLT25kOXZuUlIyVE9wNWtKS2locTNNYkxfcm1lZkU2ZVRKaXdSUU1WYnB2NDliMEtEenpNTXZOSElwTk1vd20xWl84Q1NLNlE?oc=5",
+     "ora": "2026-11-19T14:17:18+00:00"
+    },
+    {
+     "titolo": "Nasce nel Lazio il Distretto Industriale e Tecnologico dell’Aerospazio, della Difesa e della Sicurezza",
+     "titolo_it": "",
+     "riassunto": "Nasce nel Lazio il primo distretto industriale e tecnologico per aerospazio, difesa e sicurezza. Conta perché può creare opportunità di stage e lavoro per studenti e laureati della Sapienza.",
+     "fonte": "Ares Difesa",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSWs4ejZ2Ql82ZHpKZ3Y1RFhtYXpneEhEeGRGWVZteXhQTXdQVEJUOVN5ZDZsUGU5MXlBNHFBYXpIbUlWU3pkVUl6cEZjRjVFblJfNEZZUDE1LWZLZzZYQWdMYndjbVVSaUNLMlNzRElkaXNOWWFPeng0RjhvbWtvaFJMdG5RYXE3SzFOMGZ4NjBLRmFlSUdvQ2dTR0RwZzFxZWRIdlNjVnhzdmU3SWhINVJkdzVZc3FLWl9FczI5V2k?oc=5",
+     "ora": "2026-11-19T14:31:21+00:00"
+    },
+    {
+     "titolo": "Convegno Enac \"Far volare il Paese\": il cargo aereo motore del Made in Italy",
+     "titolo_it": "",
+     "riassunto": "L'ENAC organizza il convegno Far volare il Paese sul cargo aereo come motore del Made in Italy. Conta perché lega aeroporti, logistica e industria nazionale.",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkV2c0ZpUzlMSWwxN0lqMm4td0FZNmRFT3ZtVUhoSkk1TVNZUG9nT05NMHZ5TjV0Rm8xdlptNHhZWFN3UGFuN1JzWGtVVlpLREM2OUFEeWZtRFNSZ2Y5YlpUN2VqSEZGck1OU3dULTNZTmJIWEplckd3S1pXRXBuUXR6bnJTSFQycTh1VEJlb2t5ZU1aaEtCVlZqcDVvaFRmNWFUNnd4Xzhjd0NaUXF4R0hPQVpIZGZGVlE?oc=5",
+     "ora": "2026-11-20T11:38:27+00:00"
+    },
+    {
+     "titolo": "Aerospazio e difesa, la corsa agli 800 miliardi la vince chi è qualificato. Riccomi (NSBProject): «i fondi si chiedono, gli ordini si conquistano",
+     "titolo_it": "",
+     "riassunto": "Vengono discussi gli 800 miliardi previsti per aerospazio e difesa e la necessità di qualificarsi per accedere ai fondi. Conta perché indica le competenze richieste e le prospettive occupazionali nel settore.",
+     "fonte": "Industria Italiana",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSEZGMUw3TmJWSHpURnNfNUNsQzBsME9ULXNYNWRLRUYtM3pLV2tpNURTc19BeFppTzBiNUpxMmo3S3otSm1LX3VoVHVWSGNIMXF1S2UzXzR5QXdqT0kzN0JDNlRlbXNDaVpaRUd5dEJhTU1yMkkxcEZackltUUpBS2h6cWxaQ2VuMDF1MjRaenloVlpEeFBDaHZMTmpnSEJWanktN3pkV244ZU0xVllUTUV6aFJhTmxva0JmXzlXRFFKcFFic0tucHpiMnpRRHBHUU9WWERpcDNQMDFtbk9BWkNaM3lwaXhXUGdTc0xnZVo2dTdtSndEUS11NTBYN3pWbEE?oc=5",
+     "ora": "2026-11-20T08:15:59+00:00"
+    },
+    {
+     "titolo": "***Leonardo: Mariani, non faremo contro opa su Avio, presto informativa in cda",
+     "titolo_it": "Leonardo esclude una contro-OPA su Avio",
+     "riassunto": "Leonardo non lancerà una contro-offerta su Avio dopo l'offerta di Iceye e informerà presto il consiglio di amministrazione. Conta perché riguarda l'assetto futuro di un'azienda chiave dell'industria spaziale italiana.",
+     "fonte": "Il Sole 24 ORE",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xX1hNeEVQMFdJSVI0NjgyX3RuRkxna01vcjZXWFJjZWswa0xnTGZ2RGdFcWVQSWtwRk9vLURPMWRKY2Yxb2RzS3MxQng3ZGRYdk9KU25KcEhNUmZXRldtMzRBTkVqM1JZbmw0azg3d0x3cm8?oc=5",
+     "ora": "2026-11-19T17:01:45+00:00"
+    },
+    {
+     "titolo": "Cathay Pacific Orders 14 More Airbus Jets As Its A330-900neo Commitment Grows To 41",
+     "titolo_it": "Cathay Pacific ordina altri 14 aerei Airbus",
+     "riassunto": "Cathay Pacific aumenta l'ordine di Airbus A330-900neo e A321, portando l'impegno sugli A330-900neo a 41 velivoli. Conta perché mostra i trend di rinnovo delle flotte e la domanda verso Airbus.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/video/cathay-pacific-orders-14-more-airbus-jets-as-its-a330-900neo-commitment-grows-to-41/",
+     "ora": "2026-11-20T13:34:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Claude solves two open problems in the physics of black holes",
+     "titolo_it": "Claude risolve due problemi aperti sulla fisica dei buchi neri",
+     "riassunto": "Il modello Claude di Anthropic ha risolto due problemi aperti della fisica dei buchi neri. Mostra che i modelli linguistici avanzati possono supportare la ricerca scientifica e spaziale.",
+     "fonte": "Hacker News",
+     "link": "https://www.anthropic.com/research/claude-black-hole-physics",
+     "ora": "2026-11-19T17:30:44+00:00"
+    },
+    {
+     "titolo": "OpenAI e Anthropic stringono sui gateway AI: chi controlla i modelli",
+     "titolo_it": "",
+     "riassunto": "OpenAI e Anthropic stanno restringendo l'accesso ai propri modelli attraverso gateway controllati. Il tema è rilevante per capire chi governa l'uso dell'intelligenza artificiale nel settore industriale.",
+     "fonte": "AI4Business",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUG5PSkg4Vi1PZ2pXODRYeWVlLUdxU3RidFZ6ZmdYU2FiTzhBSllxdFQ1QURaRmxQQVlLd1oxbG8tWHpIMUFBOE9WdUppUDZVREpSejQzTlFyeHFVdGxxVTVuR096THlqNHNHQnd4aDd1SGJpbXJoNUQtcVB2dkl4M2NUZnNpcW5RdkIwbXQ1Nk8ydjFmSVdfYXBmb2RCMWg5akFVVDRNeHREcnJPNVR4elZVMHVtY1hIMUhrOA?oc=5",
+     "ora": "2026-11-20T10:15:16+00:00"
+    },
+    {
+     "titolo": "Dopo l'Ipo da record, Anthropic deve dimostrare che il suo modello di AI può reggere le pressioni del mercato",
+     "titolo_it": "",
+     "riassunto": "Dopo la quotazione in Borsa, Anthropic deve dimostrare che il suo modello regge le pressioni del mercato. È un segnale sulla tenuta commerciale delle aziende di AI generativa.",
+     "fonte": "Forbes Italia",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTFlVMDJSOHMwd0NxQklmenZkLVFMTE03QjlxcmM4MWZKT2FaLUZtQkNfaUVlTS1tSkRWMHRzMXozLUxlWXJkN2JtMkdBaUFIY2VHTUJfQ21CaXFxUmdtdzJIYXRFV0ZGaXc1MjVnZTNMMHoyOTJheUFuRmZNSEl5ZmZJcjFyVkVENkFmQXBHRFRtTy1iaVE4SEk5c0tNVy1pRl9jMVFKVTdZc0JjTzlXQXFmNjItTjNCTlR5akRUa1BkT2Y0Nmlsc2ZLUlNoVzhwMkFB?oc=5",
+     "ora": "2026-11-20T09:46:02+00:00"
+    },
+    {
+     "titolo": "OpenAI prepara il suo primo smartphone basato su ChatGPT: Foxconn si occuperà della produzione",
+     "titolo_it": "",
+     "riassunto": "OpenAI sta sviluppando il primo smartphone basato su ChatGPT con la produzione di Foxconn. L'iniziativa unisce modelli linguistici e hardware di consumo.",
+     "fonte": "Multiplayer",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT0NXZVl2YlA0Y3NVZ3FiNWN5Mm84NERIN3E4SHRtM2JxY1gxMWcyQWFseTZaenUzRUhZNTBuYWdSSjN5THZpM2FrNS01eW5xWEdCNUtlM1hYZnpQejVoNXZFVHUzUWdZSzhaZmI1ekd5UUpxODlsRDY1MTBOa2tXYXdXdk9jY2RCa0NoZXR5cmk3SEw5T0JQV1dFRU9zVHJ5dGdjYVBhNTA5UEI0WVZyeTE3UFN4RnFfUGNxOW1yMXc2SldJWFV4VQ?oc=5",
+     "ora": "2026-11-20T12:17:14+00:00"
+    },
+    {
+     "titolo": "Signal is blocking Gemini and Siri AI from reading your screen",
+     "titolo_it": "Signal blocca Gemini e Siri AI dalla lettura dello schermo",
+     "riassunto": "Signal impedisce agli agenti di AI di acquisire screenshot e leggere messaggi su Android e iOS. La notizia riguarda la protezione dei dati e la sicurezza nell'uso degli assistenti artificiali.",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+     "ora": "2026-11-20T07:30:47-05:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Ponte sullo Stretto e non solo: il genio dei ponti Enzo Siviero conquista Roma, alla Sapienza una mostra dedicata alle sue opere e alla sua visione dell'ingegneria",
+     "titolo_it": "",
+     "riassunto": "La Sapienza celebra i 100 anni della scuola di ingegneria aerospaziale. L'articolo è utile perché segna un traguardo formativo per chi intende lavorare nel settore aerospaziale.",
+     "fonte": "StrettoWeb",
+     "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNM0hWcDRvbERvb3RlYXdDSW9IdzYwSDgzaXFaS25VY3hTWkpCTUM2UlkxSFRmRENLZ1oxRTg5Y1NaY2VHWFQ0OExZSjNtNTVYRVhrMEJnVVh1U2k4THZkMXRxazVvWlRtaGdnenBVa1RXeGswRTRXQ0h4bzF0Zi16c1o2M1hwN1p0b29uZ0c1R25zTVNyNGVKZ3VnaF9YcGNUbkNiTDlxZ0hObmFwQXpVa1ducEtLSDZ3aWVIV3JFbk9YU0ZYRnBKNzRhaG9LT3NUQVpseC1KWC1XQlVhZ2J5ckZxR0F2VE5SZnRwSjI1cVZqb1dleElhLUc4Q1EyaGU5YW9PWVFFa0JIbEd0MkJGSEhGYkpSRDdGOHpvaFB6N3ZPcXI0VFBXeThRdnA?oc=5",
+     "ora": "2026-11-20T12:08:00+00:00"
+    },
+    {
+     "titolo": "Sapienza, i 100 anni della scuola di ingegneria aerospaziale",
+     "titolo_it": "",
+     "riassunto": "Un agente AI partecipa ai lavori ad Assisi in collaborazione con la Sapienza. La notizia conta perché dimostra un'applicazione pratica di intelligenza artificiale in contesti universitari, interesse dello studente.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVY1MUJ3UEl0ejRidFZQZi1ZV3YwVFdVeGo0NEo1NEVKNDJCLVQxblc1OURoQXc1ZjZtQk5tUXRLNVRzZVotTjR1X2dvbzZ0bHQxTXhyUzBCeUlBU0EyTnNELVhQbWJuaWxlclBBQ2JPMW9Ramw4SDdmaXIzdVlZQVhjLURIRXBfWWVQMTZLeUlCZ0ZMTlVUTjhiMXowZmZGa1d2UW1SdzQ5aHFyQkhxM0stWE05Z9IBtgFBVV95cUxNUVY1MUJ3UEl0ejRidFZQZi1ZV3YwVFdVeGo0NEo1NEVKNDJCLVQxblc1OURoQXc1ZjZtQk5tUXRLNVRzZVotTjR1X2dvbzZ0bHQxTXhyUzBCeUlBU0EyTnNELVhQbWJuaWxlclBBQ2JPMW9Ramw4SDdmaXIzdVlZQVhjLURIRXBfWWVQMTZLeUlCZ0ZMTlVUTjhiMXowZmZGa1d2UW1SdzQ5aHFyQkhxM0stWE05Zw?oc=5",
+     "ora": "2026-11-19T05:30:03+00:00"
+    },
+    {
+     "titolo": "Assunzioni PA 2027 | Tagli del 25%: quanti dipendenti in meno ci saranno?",
+     "titolo_it": "",
+     "riassunto": "Un dispositivo italiano per il monitoraggio della salute degli astronauti ha superato la prova in orbita partendo dal Tecnopolo. È rilevante perché riguarda tecnologie spaziali avanzate, campo di interesse del corso di laurea.",
+     "fonte": "IlSussidiario.net",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbmVJZVp2TWVLZF9Ia0pSU3BqV2Z3ZXVqV0xIYmJhbmR3aGd2TFA5bXJGWXRNa2ZSLVR1ZkttLUtsNklYSW9QN2w3Zm1LMjgydGlJQ1RHRG1VeWlueTV3Z1RUTmZqSHNOYUNuVHFCdGdhRUpVSFRYREhUc0d5bl9fa2RfNE15U2VpZ0U2X0VWMkNYRzZwRXZZU0FLNXNYZ0E4M01GS0pTZW5kMGR4OE13ZmdB0gG3AUFVX3lxTE14MkJWM294bVBPMUl1WjlCX09wc3RnUTZEZDFNUzdYREp3dWNwZW5OeDhwMXZnd2diSDF0bUJXVUJ1emJGdEdGV0NBR1hKelRXaWJGeEZOWkNJcFVzZ1QyclduS1d5X3BReTgxMkozeXJkYzBkeHJnbFlTdTFmRFlYNTdoeU0xSUlnZlNJemlibHVIR251Z3djcHJYcmMzYnRkVmRjclAtdXAtbS1VMUI3RmdhSlZjMA?oc=5",
+     "ora": "2026-11-20T06:40:55+00:00"
+    },
+    {
+     "titolo": "Stage di formazione territoriale: convocazioni per lunedì 23 novembre 2026",
+     "titolo_it": "",
+     "riassunto": "Mare Group ricerca 11 profili in ingegneria e IT tra Lazio e Campania, con possibile lavoro da remoto. L'annuncio è utile perché offre concrete opportunità di impiego per neolaureati nel territorio italiano.",
+     "fonte": "FIGC",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNX0tCTWlDUy1NaWNWWHN5dy1TWU5RZlltek44aUFOVUFhZUFxQzhVX3FWdlAtMWNNZThlOWp1WUNnM0NsV2FTQXZRek51R0o0Q0VBVi01NlUwWFJSRFBEU2VSOGo1R1AzUkdsc2dZQVFDVEN0d19NbnV1Vm5FY3lEQ1ZoTFF2eDhsRDZ4bGsyODEtVnRPTF9nd0thdE9mYmYzRGxXSkFvbTliQkRRQW02Z3EzMDBxZGRrVzhycEUxekhtcnlaa1lFa1hldjVFUnBveWtTeGVZLVRoNk9yZ3BNQkFEX3l2MGZyR3VyY1hwaGFyenpIWUVZbzdMOUd6WEU?oc=5",
+     "ora": "2026-11-19T11:45:47+00:00"
+    },
+    {
+     "titolo": "Un Agente AI affianca relatori e pubblico e diventa parte del dibattito: ad Assisi la sperimentazione nata dalla collaborazione con Sapienza Università di Roma",
+     "titolo_it": "",
+     "riassunto": "L'ESA seleziona 175 tirocini per studenti universitari, con posti anche in Italia. L'articolo è importante perché rappresenta un'opportunità diretta di stage nell'industria spaziale europea.",
+     "fonte": "imgpress",
+     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNLXRKbmJNcUV5c19melRra3k2M2hGQUQwSWdUOVJxNXFCN1ctb051X1lFaW14Y2dYdEVyT0pTcDFPRTZZQmVmN1Ryd1FMS3Q2bTNET1A5MmVKV0ZvYXR2NWM4LWpKS2Z3cTZpcVRpVS1WNVhSbWFtdGZ5TUhfNzlselF2NDU4QTJZQk1KYXhnc2FwMDVla3JxME90N3hhNHBMTS1sS3ZwT2hMRGlfay1vR2NsRjZNVEp6a1BRTlFOMjJOVVhaMHRoaFJYbm5HbmhwWDZIN0p5am9kQXJKM2U2Q3NGM21tU2NCekNtdm1keG96SERRT0MxRnFTR0lqenJWQUl2MUJBLTlEQkV1a1o4MHNYZl95cnU0VEx4Tm53?oc=5",
+     "ora": "2026-11-19T07:13:23+00:00"
+    },
+    {
+     "titolo": "Bonus assunzioni, contributi azzerati per due anni · Video",
+     "titolo_it": "",
+     "riassunto": "Iceye lancia un'OPA su Avio a 41 euro per azione. La notizia conta perché riguarda una possibile acquisizione di un colosso italiano dello spazio, con impatto sul settore aerospaziale.",
+     "fonte": "Quotidiano Nazionale",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGdic1FpQ0dGQ3p3bkhtNTVZUEFMenM2Y01EMWF1NDJxMEF4VEs5YTYzR1FGUVBVaEF5aTNqVVVjTGhTZExqOC16c1FiRmtHcHd6S0VVMDBsSlA2TTQ4UkstYmZGbHpUYmtXMEoxME1GM010Y3IzUW5iZUNwZUpzbFdhZ1M1WGZmbGlEWlFtaUYyTnd4UmxJSFo0R0g0RXBCVmc?oc=5",
+     "ora": "2026-11-17T14:04:04+00:00"
+    },
+    {
+     "titolo": "Albano, task force con La Sapienza e Ordine degli Ingegneri per la manutenzione del patrimonio pubblico: nasce ALMA Lab",
+     "titolo_it": "",
+     "riassunto": "La Corte dei Conti Europea cerca neolaureati e dottorandi per tirocini in intelligenza artificiale, con retribuzione di 2.500 euro al mese. L'articolo è rilevante perché propone uno stage UE in AI, allineandosi agli interessi dello studente.",
+     "fonte": "Castelli Notizie",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb2V5SFdVaEx0bzZlVE9ycklNQ1RHel8tMFlMNzdHbVhvaE4tb2M3Z21PZGpBTUdYdjgxUnBpTE9PQmV0aDQ2bUNrcTVDcjYxNXVMS0FwLUktemhoMkQ3NHNaeGRtQzZ6VGdWMjB3a1QyRloyUzB2M0J3b1hvRjRNTGJXM096VVVrQWMwSktlZGtoaDZSWnBPOVJwbkVEcm5GaDQxSnkwTG1GY1NycWhYTVJBRS1waElTcVBNc1VPTENJWGg1S0dXN0M4RDE3LXFoejBNSm12a01rQXlBSU1La0o3dUdEenFKM2xJY1RhbUdSUdIB9wFBVV95cUxPb09neW12cTh3eDJHSXF6UjROc181WXFUaWstdmhRVXpwNU1LQ2VBZ3NBTjhNVXdpZmVxY2QzeXNVVmg2YnlhT2FNZEJ6dm9YaWd0bGVxcHhOTnhpY0VuTEdGR2E3V2N2YklDamdHTW1sTlBUZVdwWl9uX0JyMkkybXY2bEF1NXVQQkZjV1Uwc3RrUlVGeFhqbVhiX2h4bXEydThmVHJvTEhnRDV2SnFFUmRVY2dYcFFkdHozb1lCd3RucGlrMVNXcTlzbVhOM2ZjcnJ6M0hLbWQ3UEpfQ25MaG1wRkF1ekQ2WnhaeTlNVkFycVJBN3Rv?oc=5",
+     "ora": "2026-11-17T07:17:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Robotaxi e droni per le consegne: la corsa cinese ai veicoli autonomi",
+     "titolo_it": "",
+     "riassunto": "In Cina i robotaxi sono già in servizio commerciale a Guangzhou e Shenzhen, mentre i droni consegnano caffè, medicinali e defibrillatori. La notizia conta perché mostra applicazioni concrete di veicoli autonomi e droni, temi legati all'intelligenza artificiale e ai sistemi aerospaziali.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/20/robotaxi-e-droni-per-le-consegne-la-corsa-cinese-ai-veicoli-autonomi",
+     "ora": "2026-11-20T15:00:38+01:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
