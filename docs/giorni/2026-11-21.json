@@ -1,0 +1,215 @@
+{
+ "giorno": "2026-11-21",
+ "creato": "2026-11-21T13:29:47+00:00",
+ "in_breve": [
+  "L'ESA ha pubblicato 175 tirocini per studenti universitari, disponibili anche in Italia.",
+  "EU-OSHA cerca laureati senza esperienza per stage retribuiti di circa 1.600 euro al mese in Spagna e Belgio.",
+  "Anthropic ha dimostrato l'ipotesi di Riemann usando il modello di intelligenza artificiale Claude."
+ ],
+ "modello": "baidu/ernie-5.5-flash-preview:free, nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free, nvidia/nemotron-3.5-lightning:free, nvidia/nemotron-3.5-super-vl:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "OPA Iceye su Avio da 2,05 miliardi: golden power, rischi, opportunità e il nodo sovranità",
+     "titolo_it": "",
+     "riassunto": "Iceye ha lanciato un'OPA da 2,05 miliardi su Avio e il governo valuta il golden power. Conta perché riguarda la sovranità industriale italiana nei lanciatori e nello spazio.",
+     "fonte": "Capitalist.it",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXY4dFpNRFFxWnVCRkF6djczalpXVjJRbElNZUJiNmxHQTNvVlJVajRsU2ppaUROci1jN2VYWTc5elRUTlRWa0RBdnRaVmF4NHYteDFfT0xsLVpvS2dSb1dLMDlORDNLV01qaElVcmY2SWpQSDNjYm1VTXJrZHhvcl9ITFJ0MXU0cFQyTXZB?oc=5",
+     "ora": "2026-11-20T17:53:53+00:00"
+    },
+    {
+     "titolo": "The 30 Finished Boeing 777-9s Parked In Washington That No Airline Wants To Fly",
+     "titolo_it": "I 30 Boeing 777-9 parcheggiati che nessuno vuole",
+     "riassunto": "Trenta Boeing 777-9 già costruiti restano parcheggiati perché il programma è in ritardo. Conta perché mostra i problemi industriali e di consegna nel settore degli aerei di grandi dimensioni.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/30-unfinshed-boeing-777-9s-parked-in-washington-no-airline-wants-fly/",
+     "ora": "2026-11-21T10:16:18+00:00"
+    },
+    {
+     "titolo": "The Manufacturing Decision Boeing Was Forced To Make When It Developed The 737 MAX",
+     "titolo_it": "La decisione produttiva che Boeing fu costretta a prendere per il 737 MAX",
+     "riassunto": "L'articolo spiega i limiti del 737 MAX, sviluppato riprogettando un aereo degli anni Sessanta. Conta per capire compromessi ingegneristici, certificazione e sicurezza nel settore aerospaziale.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/themanufacturingdecisionboeingwasforcedtomakewhenitdevelopedthe737max/",
+     "ora": "2026-11-21T06:00:17+00:00"
+    },
+    {
+     "titolo": "ENAC a Montréal: due proposte italiane per l’aviazione globale",
+     "titolo_it": "",
+     "riassunto": "ENAC ha presentato a Montréal due proposte italiane per l'aviazione globale. Conta perché mostra il ruolo italiano nella regolazione internazionale e nell'ATM.",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVY1QXYzWGJyREpLa1BKLWdRSGdfZ3ZubXI1UWNlWkw4VHROOWtqWEFtT044aDlDNzdROWpoTDVjaUNVTTdMM0kyX2JpQUdhbmM2dFRiRTZ6NlkwNVFuTEFVaXRCRWJOYS05b085MHdnQmlVUjdKY2JrcXhKT2ExQXc2NGVta3o3UURua21vb0FJTURSS1JIN1JCMDlWSklSeXFPWDN5NDdHQQ?oc=5",
+     "ora": "2026-11-20T16:13:29+00:00"
+    },
+    {
+     "titolo": "Università Roma Tre: online il bando del Master di 2° livello in Advanced Air Mobility patrocinato da ENAC",
+     "titolo_it": "",
+     "riassunto": "Roma Tre ha pubblicato il bando per un master di secondo livello in Advanced Air Mobility patrocinato da ENAC. Conta perché offre un percorso di specializzazione in un settore in crescita per l'ingegneria aerospaziale.",
+     "fonte": "Ente Nazionale per l'Aviazione Civile",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaGpSWjNqSXoyaTBxZjhGd0RNZjhuSk1ua0pwSEFJQVNucENnZEVvNHNQTzRINXlJTlVkeGlwdEkwNVNBMDU4NTJtSUZrNVc4Wk01R2N1WUVmZzJuNEFzR1E2NnBoQmUza2RmSHRYdjFQaUlBYVFDUDc0bmV4RXpjWDhaUVZ6enVBS2ZGZ2RKYWt5cjd6Nmxld0RCRFhXV3AyLVp1dUUtVl9YV04tVFVkWGpmdzFkQlZYUjFLamlUSmM1SGYybWh6RGM4YXVRQ1E?oc=5",
+     "ora": "2026-11-20T15:46:30+00:00"
+    },
+    {
+     "titolo": "DELLORTO porta il know-how brianzolo nella filiera aeronautica di Leonardo",
+     "titolo_it": "",
+     "riassunto": "Dellorto entra nella filiera aeronautica di Leonardo con il know-how della Brianza. Conta perché segnala opportunità nell'indotto italiano e integrazione tra piccole imprese e grandi gruppi.",
+     "fonte": "MBNews",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbm15bzRFYkZMeHpFS3lveExEQVJKRkhOcFcyNW51TXdMb3h5OWJmRmFJQmlfSjUtLTQtNXRFX09iWDliMHJIUjBIX0JTSDhZTFpTMjRYVFRVcFB1NG1CclVrSkNtVTZ3YmZLaUJlM29yT0ZQWVdaZExCMXhFZUpUWUw3V2cweGRZT1JIQ2MwZFRmaXB3NWxseEh1UFhEaWVqVFR6UWk0dDk?oc=5",
+     "ora": "2026-11-20T16:02:00+00:00"
+    },
+    {
+     "titolo": "Licenza Rest&Recuperation nelle missioni internazionali: AMUS – Aeronautica chiede un riesame delle disposizioni applicative",
+     "titolo_it": "",
+     "riassunto": "AMUS chiede un riesame delle regole su riposo e recupero per gli equipaggi dell'Aeronautica Militare nelle missioni internazionali. Conta perché affronta affaticamento e fattori umani, temi centrali per la sicurezza del volo.",
+     "fonte": "NSM",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM0F0YVR1b3Y5elRzVk50Q0xxOUNkVldJZlhHUmphazdoM0dmYldmT0U3OWd4YTN6eVlzclBGYkdGc1ExdFhIVUNSVEdoM05mWm5qQ2RMYW1KVFdpbGV3bG5hQzdBN19yOEZmdFA2UXpkdmZqVDBLeFhBcVdlTWd1dEpOOUl1cmRHd3BRVXR3ejhwQTZwQks2SGJoaGtEdjJDT0o5LU9CT0dPc1VEM1EzRGlpdkZlSlpoOEtPSHdNZnJqVVYycVVkRXJWc2l5c0tUWTNmcmxPZ2lxOHJ5al9jUGdLZ2FRZw?oc=5",
+     "ora": "2026-11-21T06:39:32+00:00"
+    },
+    {
+     "titolo": "How Much Does A CFM LEAP Engine Cost In 2026?",
+     "titolo_it": "Quanto costa un motore CFM LEAP nel 2026",
+     "riassunto": "L'articolo analizza il prezzo di un motore CFM LEAP e i costi che vanno oltre il prezzo di listino. Conta per capire l'economia dei motori aerospaziali e le scelte di Airbus e Boeing.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/how-much-cfm-leap-engine-cost-2026/",
+     "ora": "2026-11-21T13:01:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Matematico di Anthropic sostiene che l'AI Claude ha dimostrato l'ipotesi di Riemann",
+     "titolo_it": "",
+     "riassunto": "Un matematico di Anthropic afferma di aver dimostrato l'ipotesi di Riemann usando l'IA Claude. Conta perché mostra come i modelli linguistici possano supportare la ricerca matematica avanzata, anche se la prova va ancora verificata.",
+     "fonte": "Euronews.com",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHBKbVFfQ0I1N24wcnhHZjA5MnhGcmlrYmxDa2sxMWVqX1BLZUl4ZjlBY2VScFJzRmNuSlExLTBzSzU1eWRTVzF3dFB2REd5MTJUYlN0UGJnTE5WQjJNWkMtN2JwMnBqSHQtRW52MnZmMkJVaWtOWWc0Nk9iVmNtYlI1by1qNnpHeUF4QTRMNWpvM1FqQmdwZVE0SFJBT05ETTJjVzZhaldZbWQ0aFRKVnZuODM1UVk?oc=5",
+     "ora": "2026-11-21T10:19:13+00:00"
+    },
+    {
+     "titolo": "Anthropic, il debutto al Nasdaq supera il record di SpaceX. La società che sviluppa il chatbot Claude",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha debuttato al Nasdaq superando il record di SpaceX. Conta perché segnala la crescita finanziaria del settore IA e offre spunti su opportunità di lavoro in aziende tecnologiche avanzate.",
+     "fonte": "Il Riformista",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSEhvNHEzcXBXbG5QV0xRSmxJbjVzUDFzRmZxYnlMbEJSaVRSS0xaUkdtcEgycnA2WFB3RkJSVktfMmhXckJlUUdKNXZqWmxfeEMwcC1HNU5aVXRacDQ0LVhhMlpCd0J3RUU3M2NaZUNzMW80MDRoM3VpVTJZbmswaVlZLVZtYzI1VHJrcWtIMFcxSWpxRy1fdXNUNkJiMnpoUk1tZGZTMFU4OXFpTTJZLV9nV3NwbWNrQ1NuVTlaMHhoSXRGZDFqMEpIVi1wTXB3?oc=5",
+     "ora": "2026-11-21T07:00:00+00:00"
+    },
+    {
+     "titolo": "Il futuro dell'AI fra Nvidia e Anthropic: riassunto di una settimana di fuoco",
+     "titolo_it": "",
+     "riassunto": "Il Corriere della Sera analizza il futuro dell'IA tra Nvidia e Anthropic dopo una settimana di grandi movimenti. Conta per capire le tendenze del settore e le prospettive professionali per chi studia ingegneria.",
+     "fonte": "Corriere della Sera",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORWRqVUt2Ykc5d1ZsTFRlRUlEX0c5ZE1XVGQyUUIwMVFfWExxQkpQUFk0a1E3QXBoYndIeHVOR2Fudk9aMlE2TzRiUm9lbWc3OGtTbXE5c3ZlOFJwemNUcTByR2NzT3l6T25wUzJ2ZGc1M2RXWFRUTWt5NWxCUGlJRnZSbExJNUxIZm51MDU0UUN4Q3YweTE5ZEgxdllabkxZRXh3SmJIUm5PYUQ3SUhxZENXdmNsZVVUUGZqbmt3bEY0cWk5bmRud0pxZk41Vml1MFZqMFB4RGkyS3dQZWdVVEdDTHNleWlITWNLaHh0SzJSSFFydGc5QzZB0gH_AUFVX3lxTE5RX1hLdVBvMXVDWDZvRWkxVjcxRUt6cVVteGpINEpVRUk4N3dsSm5nbjNodWdWNzh5TFdLOC1GakRCdzlVams2U2RwdDhMbUJnSzFTNVNJNlRFVE5CQTFpbkI0dXpUM1l0Y1VYakg1TWFkN2YyUXVXOEJGcVp0V2ZVWlhNRHMtaU5MQlJlVjdTbDQ3c3JEN2RPOGJiSnIyejVvQk5GbWg1UDFrTUF2VU5kOVBFLUZHZ015YVBMa2FzN0c3ZWsxcjAxX3duWjM3Q2JGMVRtdHdsTkFNSm1IYWw1alRYQ3EtWndxdS1zd3dxQVUyY2xYSm1xMkF0a21Mcw?oc=5",
+     "ora": "2026-11-21T08:46:33+00:00"
+    },
+    {
+     "titolo": "Blog | Come funzionano Claude Whiteboards, Claude Sheet e Claude Data? - Info Data",
+     "titolo_it": "",
+     "riassunto": "Il Sole 24 Ore spiega come funzionano Claude Whiteboards, Claude Sheet e Claude Data. Conta perché presenta strumenti pratici di Claude utili per lo studio e l'elaborazione di dati tecnici.",
+     "fonte": "Il Sole 24 ORE",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQi1aUkdPWkxYazdUWEJJQ1B6dWdxSFBTOTg4TC12dWJtcjFvRGlRUGE3Qi0zVkFfcFFVSUxXZXc2cnFTNWh0TklZX1ZsU1F6dVpLb3A2NUtHNk1fWl81WWd4T2MzcFNPVHozaHdCMzB3dUdiVC1aclBZT0tJOFRGdWFiaUcyZlVGYzJDY1VRbUJFa1ZpaE81X3REMW1RVXo1alhMQ2NqZ3Z6bm5JanNF?oc=5",
+     "ora": "2026-11-21T07:24:52+00:00"
+    },
+    {
+     "titolo": "Spazio di ChatGPT arriva anche sul piano Plus, con modelli pronti e documenti che si aggiornano da soli",
+     "titolo_it": "",
+     "riassunto": "DDay annuncia che lo spazio di ChatGPT arriva anche sul piano Plus con modelli pronti e documenti aggiornabili. Conta perché amplia gli strumenti di intelligenza artificiale disponibili agli studenti e ai professionisti.",
+     "fonte": "DDay.it",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaFZRQ25oZTNKczJwWDVUVDh1TUJ3ZDRoN1RnLWJRQ1dYaElWVjYzSDk2SW5yYUVjVUdTOVNWemtGZUprWFRMUlAzek9BSXVrdEF6aDRLeEVQZmlxRGVBWl9FVDhlUC1DcUZFZHM0M0xZTkZnTjdzaVUwNEV5NUxiYi1lSnBKYjczMFBLcE12dU9vT0pxOGhtMG4zUnNKemNmZG91MEJJMzItUy1tZFNWcnBudl9oYnR5ZndLelZXcmlucGRTUzFPbjQtVWhRcFFBOHB3eQ?oc=5",
+     "ora": "2026-11-21T08:40:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Agenzia Spaziale Europea (ESA) seleziona studenti universitari per 175 tirocini, posti anche in Italia",
+     "titolo_it": "",
+     "riassunto": "L'ESA offre 175 tirocini a studenti universitari, con posizioni anche in Italia, rappresentando una delle principali opportunità di ingresso nel settore aerospaziale europeo.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmRmdmxTUnBaRDV5NFFmdmtNME9CdDVpVGVlWlJhV1ZEOVZ6Qm9oc1BEWnlrb3dObnBCdUZDZ09uRXVhZUFKVXNFckVOV0FwTTkwMjdRN241dFhqNF9URjlmcXN3ZVRqOVlJdm44eFlONGk3UXoxMzU0Q3ZkbFlnWXRsejFlVlRNbXJYV1ljUnpyc2RGcXVHdnpiM082VWo4YzlwdzVSMlZXeVRGWjR5U0RQcUVVVW1Q?oc=5",
+     "ora": "2026-11-19T07:45:05+00:00"
+    },
+    {
+     "titolo": "EU-OSHA cerca laureati senza esperienza: stage da 1.600 euro al mese in Spagna e Belgio",
+     "titolo_it": "",
+     "riassunto": "L'Agenzia europea per la sicurezza e la salute sul lavoro offre stage retribuiti a giovani laureati in Spagna e Belgio, utile per chi cerca esperienza internazionale nel campo della sicurezza del volo.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tVkRaRzNEb0k3ZV9GcnJYRkVZbndLTWdSckhtT0stZjdoVkp2WUN6SjRQZ3ZNUm5aeDlLTGgtZE8yT3BVaVNRSjNQb05qMlUzVW1rMTdPeHFYTDdTaDUxcW05dmdnSnh0UnpHMmV6UVZzU0RXTkdINDNYMA?oc=5",
+     "ora": "2026-11-16T07:45:06+00:00"
+    },
+    {
+     "titolo": "Dal Tecnopolo allo spazio, il dispositivo che controlla la salute degli astronauti supera la prova in orbita",
+     "titolo_it": "",
+     "riassunto": "Un nuovo dispositivo sviluppato al Tecnopolo ha superato i test in orbita, migliorando il monitoraggio della salute degli astronauti e contribuendo alla sicurezza dei voli spaziali.",
+     "fonte": "RiminiToday",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYlFxSDdjWUlyLTBkREF0X0dka2lIX3prSnBGdTFuc1FDNXNSZnJIdm1oSkptOGJmdGpxSG5ZNVkxbk9BMGtXdnBZZDJIcy1fV3FpYnI3c2xSMUl1aWtnQWNyc3FqeGJIR0ZzaGlLcXE5SDhQMHBOajBhZ2NaQmFpaGFYUW9oTkx0a3pOREtmcHpvODls?oc=5",
+     "ora": "2026-11-20T10:37:40+00:00"
+    },
+    {
+     "titolo": "Mare Group cerca 11 profili in ingegneria e IT tra Lazio e Campania, con possibile lavoro da remoto",
+     "titolo_it": "",
+     "riassunto": "Mare Group offre posizioni di ingegneria e IT in Lazio e Campania, con possibilità di lavoro remoto, interessante per chi cerca opportunità nel settore aerospaziale e tecnologico.",
+     "fonte": "La Cronaca di Roma",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQXVjMU5XRnJYQlExcWdmZVpzZjI2VExpN2JqZGNuSWtua3dTVDN5OFEyN3Q5QmRZdXhqSllUekNuT3BzQ0JSc1Vac0tqc3JBNHdNSm5IVm1oaThhMlBkTkxVYW5Hbl9KSFp0cmlBcGRJQjZiRkhnNmJFSUwzd1l1Vm9qQnF6QWo1STFKYlFROEtYMzdqNFo4Ulh3MkhOV3BieFkzMkpFZXpOcnpqOU1aYW5sbXZjRXVPdDJPWFJKVzV4Y011b2tuZG11YnZ2ejByWUJZ?oc=5",
+     "ora": "2026-11-15T15:22:00+00:00"
+    },
+    {
+     "titolo": "Il messaggio al campionato. Consorzio Leonardo nelle mani di Pierotti. Punti, assist e qualità",
+     "titolo_it": "",
+     "riassunto": "Il Consorzio Leonardo, principale azienda aerospaziale italiana, è guidato da Pierotti che punta a migliorare qualità e performance, offrendo spunti per chi mira a carriere nel settore.",
+     "fonte": "La Nazione",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNakJuZ204YzdJM25Cd2FlZ1Z6cWN5RTFkbUNUUHVTMkI2djVuWlpvbTBGUUkwVnQ3UE5FbzJDcndXbjM2ZlRndTJCSmpndU0yT1E2NWZwZWpoYXRZaW13VGozWkY0RUVHQTgtZ1dFZ0lKQXdNOVVNTE00MVl0SVZEVVByX2xQX1VfS2NrUw?oc=5",
+     "ora": "2026-11-20T07:13:59+00:00"
+    },
+    {
+     "titolo": "Sapienza, i 100 anni della scuola di ingegneria aerospaziale",
+     "titolo_it": "",
+     "riassunto": "La Sapienza celebra il centenario della sua scuola di ingegneria aerospaziale, evidenziando la sua storia e il ruolo nella formazione di professionisti del settore.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVY1MUJ3UEl0ejRidFZQZi1ZV3YwVFdVeGo0NEo1NEVKNDJCLVQxblc1OURoQXc1ZjZtQk5tUXRLNVRzZVotTjR1X2dvbzZ0bHQxTXhyUzBCeUlBU0EyTnNELVhQbWJuaWxlclBBQ2JPMW9Ramw4SDdmaXIzdVlZQVhjLURIRXBfWWVQMTZLeUlCZ0ZMTlVUTjhiMXowZmZGa1d2UW1SdzQ5aHFyQkhxM0stWE05Z9IBtgFBVV95cUxNUVY1MUJ3UEl0ejRidFZQZi1ZV3YwVFdVeGo0NEo1NEVKNDJCLVQxblc1OURoQXc1ZjZtQk5tUXRLNVRzZVotTjR1X2dvbzZ0bHQxTXhyUzBCeUlBU0EyTnNELVhQbWJuaWxlclBBQ2JPMW9Ramw4SDdmaXIzdVlZQVhjLURIRXBfWWVQMTZLeUlCZ0ZMTlVUTjhiMXowZmZGa1d2UW1SdzQ5aHFyQkhxM0stWE05Zw?oc=5",
+     "ora": "2026-11-19T05:30:03+00:00"
+    },
+    {
+     "titolo": "Eurojust cerca laureati per stage retribuiti 1.500 euro al mese nei Paesi Bassi",
+     "titolo_it": "",
+     "riassunto": "Eurojust propone stage retribuiti a 1.500 euro al mese nei Paesi Bassi per laureati, opportunità di esperienza in ambito giudiziario ma anche utile per sviluppare competenze analitiche applicabili all’ingegneria.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2tXRVZnRjU4VnFwTUVaQ0pXVks5TnZoTWhDMGhfLUo2R1o5SE9YZ183RmRfWHd3NVBWQjFhcU1mazNDV0QzdkxaM1BhVDRBNmF1SktZR2xzcGpLRHFvNUtfYnFpMWR1M2xxUjZXMEd2a3cxTVc0XzhkbV94MzQxRXhWbEZ5c1gy?oc=5",
+     "ora": "2026-11-15T08:15:59+00:00"
+    },
+    {
+     "titolo": "Iceye lancia l’Opa su Avio: offerta da 41 euro per azione",
+     "titolo_it": "",
+     "riassunto": "Iceye ha lanciato un'offerta pubblica di acquisto su Avio, azienda specializzata in componenti aerospaziali, evento rilevante per chi segue gli sviluppi industriali del settore.",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkJMR0Q2bVpoeGpzNUQwY1VCcWxYazRmSWY4eExBRUpBTUotZS1iZUNvUW05dGYyaVdtbXVkMDhxdkZPTm8yYk15MW9OVXB2SVUtZjNkM0Y4c21tWGc4dGZLWk55enduSGpNSWtaVkFQM2Y3VTNSUWtOU0pVdkY2RW5yOVlmbjlKNFladDNxQks3Mm40U1JWNTN0TFduZFJ2RFhz?oc=5",
+     "ora": "2026-11-17T08:59:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Gianni De Gennaro trovato morto nella sua casa, l'ex capo della Polizia si è ucciso",
+     "titolo_it": "",
+     "riassunto": "Verifiche in corso presso la base aerea di Sigonella in Sicilia per la presenza di droni non autorizzati, con ipotesi di un volo privato. La notizia è rilevante per lo studente di ingegneria aeronautica perché tocca temi di sicurezza del volo, gestione del traffico aereo (ATM) e sorveglianza aerospaziale in uno scalo militare chiave in Italia.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/cronaca/2026/11/21/gianni-de-gennaro-morto-ex-capo-polizia",
+     "ora": "2026-11-21T14:04:00+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
