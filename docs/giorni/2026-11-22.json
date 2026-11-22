@@ -1,0 +1,239 @@
+{
+ "giorno": "2026-11-22",
+ "creato": "2026-11-22T13:23:04+00:00",
+ "in_breve": [
+  "La Sapienza celebra i cento anni della sua scuola di ingegneria aerospaziale.",
+  "Nel Lazio nasce il distretto industriale e tecnologico per l'aerospazio e la difesa.",
+  "ITA Airways prevede cinquecento assunzioni entro il 2030, aperte anche a chi non ha esperienza."
+ ],
+ "modello": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free, nvidia/nemotron-3-ultra-550b-a55b:free, nvidia/nemotron-3.5-lightning:free, particle-ai/particle-1:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Lazio, istituito il comitato del distretto aerospazio, difesa e sicurezza",
+     "titolo_it": "BepiColombo raggiunge l'orbita di Mercurio",
+     "riassunto": "La sonda BepiColombo ha raggiunto l'orbita attorno a Mercurio dopo quasi otto anni, completando una missione chiave per l'esplorazione planetaria e la scienza dell'Esa.",
+     "fonte": "Radio Roma",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNek1pUG5EVEF3WDA5TC1Lc1dTYjZMVUFadzhtTHhSNWhCSjNGWlFBRTl6cEdkeXZ4TVVkcmdteFd6OFY4b0s4M0RfSjFyZlBqbkwtWU5kRjNDUGRDOTRvX2ItdVk5MElqejRoWWhDa2NfQWVCZGJ0Mm1VZGpBRmNyemJubkZBWl8zeHhFLWpRekNwNTVtUWQ0ZEo5S2ZpN1A2SFAxMVM0Wlc?oc=5",
+     "ora": "2026-11-22T11:38:26+00:00"
+    },
+    {
+     "titolo": "Aerospazio, difesa e sicurezza: nasce il comitato promotore del distretto industriale e tecnologico del Lazio",
+     "titolo_it": "",
+     "riassunto": "Il governo ha richiesto garanzie di sicurezza nell'offerta di Iceye per Avio, evidenziando l'importanza della sicurezza per gli asset spaziali e di difesa strategica italiana.",
+     "fonte": "Frosinone News",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WdHJKYmJaNmdMMnZuaUFVYS11VDlfRmt5cU1YUy13QlloaVBlNHBxOEdiUTlkLU52emFENlIySXRtY3NUTjA0U3NjSGFfZVXSAdsBQVVfeXFMTi1kanJPcUtDUkFoVHRHa0QxODMxcVotd3dDLWVNeDdtWl9uR1Zta0xnLWs4U3BpT1JVLWZPb2ZDUDlJN3k5V01TQ2c3S2hSNTI0eTBmbWtqczlreVJpWTJHTVZxc1ZZOHVNZkZqR0RkN3h2ZXdwcmdCSEhBNE9MeDk5Ykh4czRkTU5nN1VlMmp6bm52RGVaM2lpSVJHd1VSOTlyX2VSUDdOLWlGQnA2Y2pWdkxEZkVqc1NOSndudUk1TVU1T2JNSU1MTUtQempaYXdUSXhhZGVhajln?oc=5",
+     "ora": "2026-11-22T11:10:53+00:00"
+    },
+    {
+     "titolo": "The True Cost Airbus Charges For An A330neo Compared With Boeing's 787-9 Dreamliner",
+     "titolo_it": "Air Niugini B767 dirottata a Davao dopo avviso incendio motore",
+     "riassunto": "Un Boeing 767-300ER di Air Niugini ha deviato verso Davao dopo che l'equipaggio ha ricevuto un'indicazione di incendio al motore, sottolineando criticalità delle procedure di sicurezza in volo.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/true-cost-airbus-charges-a330neo-compared-boeing-787-9-dreamliner/",
+     "ora": "2026-11-22T01:00:17+00:00"
+    },
+    {
+     "titolo": "Governo chiede garanzie in materia di sicurezza in offerta Iceye per Avio - fonti Da Reuters",
+     "titolo_it": "Perché le compagnie accettano il peso massimo al decollo più elevato dell'A321XLR per voli brevi",
+     "riassunto": "Le compagnie aeree hanno accettato il peso massimo al decollo di 101,5 tonnellate dell'A321XLR come compromesso necessario per ottenere la gittata extra, anche su voli brevi, influenzando l'efficienza operativa.",
+     "fonte": "Investing.com - Quotazioni, Borsa, Economia e Finanza",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSFdGYVo2TlN6cE1mSlRiVFpXUlAwLW5PSE1lUDc0Rk8wVm5ZYkJua21nUWl0N0ZteEF4NUV2aHk0b083LUcxMGRrbThuWERrQjNIRnhZQzQ3Vk5PSV9hbU4zQ3B2QlZWVC1sUUJ0cDA5aGgxcXRqQUxfX3Z3cHN3V1FHRlNOZjhSUU9mb001cjUyMUhPcWVhcGhUNG1TeVZfZFZQbzNYeHU5TGdubGI1QVF2T0NRMk1sU2ZYZ18yby01OWdQWE04azhVQkkzVm4zQlF0dmVZZ1pXczRLNnhn?oc=5",
+     "ora": "2026-11-21T17:51:07+00:00"
+    },
+    {
+     "titolo": "Here's How Much A Boeing 737 MAX 8 Earns An Airline On A Single Day Of Flying",
+     "titolo_it": "Delta aggiunge certificazione ETOPS ai 737-900ER nonostante voli transoceanici",
+     "riassunto": "Delta ha ottenuto la certificazione ETOPS per la flotta 737-900ER per gestire rotte nordiche e di emergenza, pur non operando collegamenti transoceanici regolari, ampliando le opzioni di volo.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/how-much-boeing-737-max-8-earns-airline-single-day-flying/",
+     "ora": "2026-11-22T13:00:18+00:00"
+    },
+    {
+     "titolo": "Airbus Now Has 3 Final Assembly Lines In Alabama & Only One Of Them Builds A220s",
+     "titolo_it": "5 motivi per cui un passeggero finisce nella lista no-fly USA",
+     "riassunto": "L'articolo elenca cinque motivi per cui un passeggero può essere inserito nella lista no-fly statunitense, rilevante per la sicurezza aeroportuale e le normative di controllo.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/airbus-3-final-assembly-lines-alabama-only-one-builds-a220s/",
+     "ora": "2026-11-22T12:00:18+00:00"
+    },
+    {
+     "titolo": "Air Niugini B767 diverts to Davao after engine fire warning",
+     "titolo_it": "Il vero costo di Airbus per l'A330neo rispetto al Boeing 787-9",
+     "riassunto": "Il costo degli aeromobili widebody dipende dall'ambiente specifico delle compagnie aeree, dove piccole differenze marginali possono avere impatto significativo sui bilanci operativi.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/air-niugini-b767-diverts-to-davao-after-engine-fire-warning",
+     "ora": "2026-11-22T08:16:25+00:00"
+    },
+    {
+     "titolo": "The Rise & Fall Of The World’s First Commercial Jetliner",
+     "titolo_it": "Airbus ha tre linee di assemblaggio finali in Alabama, solo una costruisce A220",
+     "riassunto": "Airbus ha confermato tre linee di assemblaggio finali negli Stati Uniti, ma la produzione dell'A220 rimane limitata, riflettendo le scelte strategiche di distribuzione industriale globale.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/rise-fall-first-commercial-jetliner/",
+     "ora": "2026-11-22T08:00:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "AI Act: Richieste a OpenAI e Anthropic, 20+ Incidenti",
+     "titolo_it": "AI Act: richieste a OpenAI e Anthropic",
+     "riassunto": "L'AI Act richiede a OpenAI e Anthropic di rispettare nuove norme su sicurezza e trasparenza, evidenziando l'importanza di regolamentare l'IA nei settori critici come l'aerospazio.",
+     "fonte": "shattered.io",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdWhNODJucHhyckxwZ0hJazFXSkxSa04tN1RqWE14TUwxVUxQUXlFSXhROUw1X0IxSlRvVEVsWmh0Ny1vSHYyYTBhZHhleTlURFhjQ2tPX3FLWGR3Um9iQXpWNFRNbTRIMkNQOG5aZ21VNm9MR3I0Q1A2ZWE5bDVma1d1T1NJOGxrVjlnc0NvQQ?oc=5",
+     "ora": "2026-11-21T20:17:29+00:00"
+    },
+    {
+     "titolo": "Can Anthropic afford to put safety first?",
+     "titolo_it": "Sicurezza prima di tutto in Anthropic",
+     "riassunto": "La domanda se Anthropic possa mettere la sicurezza prima di tutto è cruciale per garantire voli più sicuri e responsabili nell'uso dell'IA.",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+     "ora": "2026-11-21T10:00:00-05:00"
+    },
+    {
+     "titolo": "Utilizzando ChatGPT, Gemini e Claude creano un \"consiglio di intelligenza artificiale\" per fornire consulenza su decisioni difficili.",
+     "titolo_it": "Consiglio AI per decisioni difficili",
+     "riassunto": "Un consiglio di intelligenza artificiale basato su ChatGPT, Gemini e Claude può supportare decisioni complesse, utile per migliorare la gestione dei fattori umani negli aeroporti e nei sistemi ATM.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR2FsQzlNdjRyM2gzNHp4YzVsWnkxcUZESzhsVVhaX0FQWHM4NWVHdERvN3ZFRng3YzEyRmg4T0xaOGNrZjhWV1ZROEpKaGdOSlMyZzNiUVRURXdRV3FYZWUxX19QckczZzl1amhoN051SFEwQmJNX25RWTNIamdiUHNKODR5THBOMUZhalZ4WHAxVzRHa3Z5ZVdxX0tEdTFSN09sUW1Obw?oc=5",
+     "ora": "2026-11-21T17:04:52+00:00"
+    },
+    {
+     "titolo": "Come SpaceX, anche Anthropic ha seguito un iter di quotazione in borsa insolito, suscitando il malcontento di alcuni banchieri",
+     "titolo_it": "IPO insolito di SpaceX e Anthropic",
+     "riassunto": "SpaceX e Anthropic hanno intrapreso percorsi di quotazione in borsa non convenzionali, un segnale di crescita nel settore spaziale che potrebbe aprire opportunità di stage e lavoro.",
+     "fonte": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YVWw4dnlWN1BxY1AyejBaU3Z0NDhjQ0tRZEY5YmlMMWZ6YkZsemVZakJOdmFnLUxNcmVYaHIxOHEzUFo1VXRvMk45M1FJcVcyUUNKTzFRUmdvV3RUdVpKOUN5VzdTMmJELXJaaVdzTFZ2VmxMN2pB?oc=5",
+     "ora": "2026-11-22T11:01:11+00:00"
+    },
+    {
+     "titolo": "IPO di Anthropic ANT: prezzo delle azioni Claude e fatti chiave 2026",
+     "titolo_it": "Claude risolve due problemi sui buchi neri",
+     "riassunto": "Anthropic annuncia che Claude ha risolto due problemi scientifici sui buchi neri, dimostrando l'avanzata capacità dei modelli linguistici in ambito tecnico.",
+     "fonte": "Bleap",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbU15Q1JCOVY5VGNEUlp2dm9sVW13TkM1RGtiV3pQSHM2Xzh2bDVMTHlnZHBHZkt0SWVGRk9xaW5heU5PUkdVS2xhSlhDeExvWnhHQ1hfS0RPU3BOMGZzQjNObVBaS2hKSXQyaXZuY3k5alVLM1dhR2ZGX0MxcHQ0ak9sUWhwVFd6UlE?oc=5",
+     "ora": "2026-11-22T00:31:51+00:00"
+    },
+    {
+     "titolo": "Claude prezzi e piani, Free, Pro, Max, Team e API",
+     "titolo_it": "Claude: prezzi e piani",
+     "riassunto": "Claude offre piani gratuiti e a pagamento, inclusi API, permettendo agli sviluppatori di sperimentare l'IA senza costi elevati.",
+     "fonte": "Meteora Web",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdjdPOWp5WEx4dWlsYVBwYkJ6MjJMWTRHenhCUXZVaXlVSWdMa1BxSzlYSjJyVnNzcU9KT1IwWGgtWElTMUY3a2kxckxvNm8yeFVtMHVvTWZGaXpiZjVqTnNndllTM3BjcXNwekZzT1pZdy1QdFdOazgxUGxiclV2YVhuTmxiLUJXckdPUFJQUHpud29QYXYtWE9qODNMZ3B4ZkN4ZHNoc3JrZW1IUU12UkZ2SThBb25uQUdtTzZVR0x3eEszRmY2cnh2QjNYZw?oc=5",
+     "ora": "2026-11-22T05:13:09+00:00"
+    },
+    {
+     "titolo": "Sulle orme di Anthropic, ma attenzione alle zavorre. Cosa c'è sotto la lente degli analisti",
+     "titolo_it": "Analisi dei barrieri all'AI in Anthropic",
+     "riassunto": "Gli analisti avvertono che le barriere interne ed esterne potrebbero limitare l'adozione di soluzioni AI in ambito aerospaziale, un aspetto da monitorare per future carriere.",
+     "fonte": "Milano Finanza",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeTlQckE5OUkxNi1tMkZjanFzTWdLU2hyVmEwU3JyM1h6Tlc0dnZiZTdxVUlsdExPWE5EMjRsUmkxTzF4dTRwLW5hN1oxb2dHRFVXOGNmNmMxZFBkaUMwaVA2WXFMempNbU03OFpkZUxJVDdqRWpUdXA1YVU4WS1ZOEVGd21uTWRfbHpYUzQxU2d2WHRsalZqVkE3d2NpQTEtT2UxSWNmN0Y5VHoxQk5wekJaMkZhdWdiNUFRME1wcHRUN1R2OGZ1MnM4OUZUMHZkU04tNUlrRlBOZw?oc=5",
+     "ora": "2026-11-22T05:10:00+00:00"
+    },
+    {
+     "titolo": "OpenAI aiuta AMD a progettare GPU e CPU migliori: l'AI trova ottimizzazioni che agli ingegneri erano sfuggite",
+     "titolo_it": "OpenAI accelera progresso su chip AMD",
+     "riassunto": "OpenAI ha accelerato il progresso di un chip AMD in cinque mesi, mostrando come l'IA possa ottimizzare hardware usato per simulazioni aerospaziali.",
+     "fonte": "Hardware Upgrade",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWE9kREQ2MW5GaGV1ZTg1aE1rcWt2aEVQNllGTGhFMVBTSHc2cW5YR1JsNFdIeDRvNi1UUVZhQVIzdm00RDl4cHdUMlRrZXRpTDdLZ3cwbGxQR2drWUpXdXo5WG03RlRXLVc1MmdZU2xlQUgxVGN5ejZ4LTJCQ3V3bzFVdWFTYUFuNENEZzJ1SVAzd0hCV2NsaFljTFE2QlJyaktkVHdjZWpGWlRfalJjU3AtSU9KUkVVZ0tLWG5BZTl0UGFrUllMamxYei13bElYUkR4STd1WmVQc3FReldjcmpkcUQ3dllYOEE?oc=5",
+     "ora": "2026-11-22T12:51:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Sapienza, i 100 anni della scuola di ingegneria aerospaziale",
+     "titolo_it": "",
+     "riassunto": "La scuola di ingegneria aerospaziale della Sapienza compie 100 anni. È una ricorrenza utile per conoscere la storia e il peso del corso di laurea che frequenta.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTTVlMGFYb0dGYUQxQk5wT1ZYU05GcW00d2NVV1BNbGc2RmZrZExTU1BBZzdXQ1c0cjFnbC13TVFUVWt5bkhiQzVQVHVWejVhZGxya2Ytc2x5TEFIMGdRcTE2dnhNbmZCR2NVTU93VU5yWlU3OHliS19DbFZpMTdKamZVb0d1elA5b2RmRkRrcURYLV9FdmRjNU1nVjJ4NXlTeHNQT0M4a1F1Q01IZWJmQUU0VHZaMkk0MVpJaHBFQ1jSAbYBQVVfeXFMTVFWNTFCd1BJdHo0YnRWUGYtWVd2MFRXVXhqNDRKNTRFSjQyQi1UMW5XNTlEaEF3NWY2bUJObVF0SzVUc2VaLU40dV9nb282dGx0MU14clMwQnlJQVNBMk5zRC1YUG1ibmlsZXJQQUNiTzFvUWpsOEg3ZmlyM3VZWUFYYy1ESEVwX1llUDE2S3lJQmdGTE5VVE44YjF6MGZmRmtXdlFtUnc0OWhxckJIcTNLLVhNOWc?oc=5",
+     "ora": "2026-11-19T05:30:03+00:00"
+    },
+    {
+     "titolo": "Lavorare in ITA Airways: 500 nuove assunzioni entro il 2030, anche senza esperienza",
+     "titolo_it": "",
+     "riassunto": "ITA Airways prevede 500 nuove assunzioni entro il 2030, anche per profili senza esperienza. È un'indicazione concreta sulle opportunità di lavoro nel settore aviation in Italia.",
+     "fonte": "Studenti.it",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmN0bGIyYXM0aURSeHB1d3hPQm5ETG5qQmtoQ3BjMlRkVUtyN2hBMnNkbXM4MXgxT2hnM2w4QzlCSTlIZnFORFdyTGxKMTJiNGRVMjJfcWVCd01Ockh4ejBqczZHQjJ5bjAxbHNHN0JjYjlHTDhSY0R3M1o4UUtZWE9OcG1jVmxm?oc=5",
+     "ora": "2026-11-17T11:32:00+00:00"
+    },
+    {
+     "titolo": "EU-OSHA cerca laureati senza esperienza: stage da 1.600 euro al mese in Spagna e Belgio",
+     "titolo_it": "",
+     "riassunto": "EU-OSHA offre stage retribuiti da 1.600 euro al mese in Spagna e Belgio per laureati senza esperienza. È un'opportunità europea utile per chi cerca un primo impiego o tirocinio.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tVkRaRzNEb0k3ZV9GcnJYRkVZbndLTWdSckhtT0stZjdoVkp2WUN6SjRQZ3ZNUm5aeDlLTGgtZE8yT3BVaVNRSjNQb05qMlUzVW1rMTdPeHFYTDdTaDUxcW05dmdnSnh0UnpHMmV6UVZzU0RXTkdINDNYMA?oc=5",
+     "ora": "2026-11-16T07:45:06+00:00"
+    },
+    {
+     "titolo": "Dal Tecnopolo allo spazio, il dispositivo che controlla la salute degli astronauti supera la prova in orbita",
+     "titolo_it": "",
+     "riassunto": "Un dispositivo sviluppato tra Tecnopolo e spazio per controllare la salute degli astronauti ha superato una prova in orbita. Mostra applicazioni reali dell'ingegneria aerospaziale e biomedicale.",
+     "fonte": "RiminiToday",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYlFxSDdjWUlyLTBkREF0X0dka2lIX3prSnBGdTFuc1FDNXNSZnJIdm1oSkptOGJmdGpxSG5ZNVkxbk9BMGtXdnBZZDJIcy1fV3FpYnI3c2xSMUl1aWtnQWNyc3FqeGJIR0ZzaGlLcXE5SDhQMHBOajBhZ2NaQmFpaGFYUW9oTkx0a3pOREtmcHpvODls?oc=5",
+     "ora": "2026-11-20T10:37:40+00:00"
+    },
+    {
+     "titolo": "Un Agente AI diventa parte del dibattito: ad Assisi la sperimentazione con Sapienza Università di Roma",
+     "titolo_it": "",
+     "riassunto": "Ad Assisi è stata sperimentata con la Sapienza Università di Roma un agente AI inserito in un dibattito. È un caso concreto di ricerca su modelli linguistici e interazione uomo-macchina.",
+     "fonte": "Assisi News",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM0VnUW55aEFvNTdLSEpxY3piSnhlY1dfZEdmT1VGdmRacENBXzdrcWsxX3NVZmVoZW5tWndVOXo2QU1MSV92TnFtWjdORHVBOTV1aWtoNE5CTDVRY0NNUE5BN1dPc0ljOWw4NGlkR1pNN0M3WFkwd1hCeVNmWUNDdTJPZC0wM2pWSzJjbXBVNElFYm9yMmNkU2V4VVFpZ1NXUWpoaUZJYWRIOHpUZFRTdm9KLXlyOUxBS2ZqUFRsTmwzTTJ0aFJwNzlLcHlnSTJveVE?oc=5",
+     "ora": "2026-11-19T13:00:14+00:00"
+    },
+    {
+     "titolo": "Presidenza della Repubblica: 22 tirocini al Quirinale e a Castelporziano per studenti universitari",
+     "titolo_it": "",
+     "riassunto": "La Presidenza della Repubblica offre 22 tirocini al Quirinale e a Castelporziano per studenti universitari. È un'opportunità formativa prestigiosa, anche se non specifica per l'aerospazio.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVJKWFBYTlBQRVFuSmtCSmtIWmVfZHFOS1R0V1JjaHN4RklvYllkRlBKRkw0UUtwSkJLY0ZsR1h5ZE9YQUhSa0FlajBlRkphaktzckVEUzFlem1XZUdJZ2FVaTdmSzNGYl9EaU9oOGNOeld3YWN4TWxnbTZsc2todlBuckNDMmVIdFpoNTluYzFYeTNUOS1pRnhYSFBRN0VySnJodlBjbmlhZw?oc=5",
+     "ora": "2026-11-20T22:55:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Cop31, respinto l'accordo sul clima. Insuperabile lo scoglio sui combustibili fossili",
+     "titolo_it": "",
+     "riassunto": "A Turchi la Cop31 non ha raggiunto l'accordo climatico: l'Europa ha respinto la bozza perché non citava i combustibili fossili. La decisione impatta l'industria aerospaziale, che deve pianificare la transizione ai carburanti sostenibili per l'aviazione.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/mondo/2026/11/22/cop31-antalya-turchia-respinto-accordo-conclusioni",
+     "ora": "2026-11-22T13:12:00+00:00"
+    },
+    {
+     "titolo": "Serie A: Juventus-Venezia in campo 4-0 DIRETTA",
+     "titolo_it": "",
+     "riassunto": "All'aeroporto di Seattle agenti ICE hanno fermato manifestanti provocando caos e urla, definita dal governatore 'azione antiamericana'. L'evento è rilevante per lo studio degli aeroporti e della gestione del traffico aereo, mostrando tensioni operative e di sicurezza.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/22/serie-a-juventus-venezia-in-campo-2-0-diretta_30f264e1-2d72-419d-9456-774ee73f7dbf.html",
+     "ora": "2026-11-22T14:03:53+01:00"
+    },
+    {
+     "titolo": "La casa di De Gennaro in Maremma sotto sequestro, proseguono gli accertamenti",
+     "titolo_it": "",
+     "riassunto": "Droni russi hanno colpito un edificio residenziale a Dymer, vicino Kiev, causando un morto e 14 dispersi secondo Zelensky. La notizia è importante per la sicurezza del volo e l'integrazione dei droni nello spazio aereo civile.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/22/la-casa-di-de-gennaro-in-maremma-sotto-sequestro-proseguono-gli-accertamenti_385903ab-9075-4aaf-9711-57a1ec55cf07.html",
+     "ora": "2026-11-22T14:00:56+01:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
