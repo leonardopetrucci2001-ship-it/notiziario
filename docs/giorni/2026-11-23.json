@@ -1,0 +1,207 @@
+{
+ "giorno": "2026-11-23",
+ "creato": "2026-11-23T16:01:32+00:00",
+ "in_breve": [
+  "Leonardo ha ottenuto un contratto da 240 milioni per il programma spaziale Copernicus.",
+  "ITA Airways annuncia 500 nuove assunzioni entro il 2030, anche senza esperienza.",
+  "Un agente di intelligenza artificiale partecipa a un dibattito in un progetto con Sapienza."
+ ],
+ "modello": "baidu/ernie-5.5-flash-preview:free, dots-studio/dots-3-note-preview:free, nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free, nvidia/nemotron-3-ultra-550b-a55b:free, recursive/flint-v1.0:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Leonardo rafforza la presa nello spazio con Copernicus: commessa da 240 milioni per Thales Alenia Space",
+     "titolo_it": "",
+     "riassunto": "Leonardo ha firmato una commessa da 240 milioni di euro con Thales Alenia Space per gli altimetri dei satelliti Copernicus. Conta per lo studente perché riguarda un appalto importante del settore spazio e possibili opportunità di lavoro.",
+     "fonte": "Benzinga Italia",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWZuRVRRaGlwd0NBT2tKeUpkWDBnanJhZWhPTlpicmVQVmI5TjF0R0FlVWNWbi05VnViOVVTOC1rNDVEaDd0ZUdReG9LbEpUMEd1N2JSOFAxU1E3dENuZTQ0WVd5RG9MaTRFVUI1Sy1pa0N5ZVFkNDVHYnhLNWFYZVRZbWtrc2FRczJMNjA3WkxQTk1tQnRV?oc=5",
+     "ora": "2026-11-23T14:19:07+00:00"
+    },
+    {
+     "titolo": "ENAC all'ATConf/7 ICAO: connettività, sviluppo e incontri bilaterali. Delegazione italiana guidata dal DG D'Orsogna",
+     "titolo_it": "",
+     "riassunto": "L'ENAC ha guidato la delegazione italiana alla conferenza ICAO con un focus su connettività, sviluppo e incontri bilaterali. Conta perché è rilevante per la sicurezza, l'ATM e il futuro del trasporto aereo.",
+     "fonte": "Ente Nazionale per l'Aviazione Civile",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbUJONnd1U3ZEbU9OZXN3SGFnTnFJZkM1SElTWkZnSmtRdzhWZGpabURMRmJOTnpwSXZnR1pCSUtPSkxXWlVWQVdoZVZvbGRqTFBnandFWFFXS0s0RnRoZ2lIWnFscjJfMk1pRmlVZHhQREFyMkZPOFlxbk1BSDlNUUM1NXZmSUhhMnFKcDBtOUR1bC1LSm40X2sxY2YxUWUzSVBYbndDc3lBMTM5OFRJUVRJOTBuNUY1NXA5ZDk5N0M2eVBPY1RtcXdOYkNZc040UE9nbVd6Yw?oc=5",
+     "ora": "2026-11-23T14:38:12+00:00"
+    },
+    {
+     "titolo": "Leonardo e l’Aeronautica Militare Peruviana firmano un accordo di supporto logistico a lungo termine per i C-27J Spartan",
+     "titolo_it": "",
+     "riassunto": "Leonardo ha firmato un accordo di supporto logistico a lungo termine con l'Aeronautica Militare Peruviana per i C-27J Spartan. Conta perché riguarda un aereo militare e una collaborazione internazionale nel settore aerospaziale.",
+     "fonte": "Difesa Online",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdmZlWWYtRlF6cFVnaG90c094VHo0U0pCMFVybW0wU0JTd2k4R2JmLWEtZ1FHUEgzX0NydXk2TmZlOHBYcjdGd2VFQXFsYXNaZFJxUlQzbVpPcmV2M2VaampuODN3bFQxUzVDTElKOS15ei1tU1Q2ZW9vOFphZWZmbVU2TlhHZk10N0Qxank4RnpTYjdJS1o3MGxjb2xidFZCcHJ4WEhNeFprX251RU5lUUR4d0pSX1pYcV9HUFdmQ09HLUVYc09fS2Y1dzNJQV81RlNFQldka1NWN2x3V3pSUGhfbHFxVDIwWEgwcUZETkE?oc=5",
+     "ora": "2026-11-23T15:36:33+00:00"
+    },
+    {
+     "titolo": "Avio, la sfida di Iceye passa dalle garanzie per l’Italia",
+     "titolo_it": "",
+     "riassunto": "Avio ha visto passare le garanzie per l'Italia nella sfida di Iceye. Conta perché riguarda lo sviluppo di un satellite italiano e le opportunità nello spazio.",
+     "fonte": "MetroToday",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcUVWTlF5M0RlMnhFam1ZNkJqU0ZubXdua052SmZHMTh2c1lYWHBWWnRUeFJyZTUzT0hrRzY4NDhkTHNCcTFQM1Q0VzEwTno0bVozbENjU21EdThFdVJCcHlrY0d3MXFxU2NpczdoOG05UzZUZHh1X3dnYTNBazNFa1dldEo?oc=5",
+     "ora": "2026-11-23T10:16:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Nadella conferma, con Claude Code l'IDE è svanito in sei mesi",
+     "titolo_it": "",
+     "riassunto": "Satya Nadella ha confermato che Claude Code ha reso quasi inutile l'IDE tradizionale in sei mesi. Conta perché mostra come i modelli linguistici stanno cambiando gli strumenti di sviluppo software.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUHE0cm1FOGQwZGczdEpBQmMyOGNrQTRKN0ZoazRTcTh6S250Y1lmamRTZFloZXJab2RIZ2lodi0wMDZaYnl2Z2h2RHYyZVlhM3BMVXozQUtzZVQxNnljZ3pXS09TSVV0MnozM1V3MDBwWUJNOUo0bGpGMTFHN2VWb09fcXhBem5q?oc=5",
+     "ora": "2026-11-23T12:01:55+00:00"
+    },
+    {
+     "titolo": "Con l’aiuto della IA un matematico di Anthropic ha probabilmente dimostrato l'ipotesi di Riemann, ma nessuno ha capito del tutto la dimostrazione",
+     "titolo_it": "",
+     "riassunto": "Un matematico di Anthropic avrebbe usato Claude per dimostrare l'ipotesi di Riemann, ma la dimostrazione non è stata ancora capita del tutto. Conta perché mostra sia il potenziale sia i limiti dei modelli linguistici nella ricerca avanzata.",
+     "fonte": "Le Scienze",
+     "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRWFER0lRNklyMmJBYmtoS3BTWTBucm4yNEVjUGhUSEYzNDRESy03MGdybWRkVmxRZmFNWUlLcEd0bU5GTDRTSS1RQkZWQkkzNTFtemRfSWt1T2s2amxNSl9rZVNpVmh4WWpETTRrMW9vX1QwZ0RacXZmVEprTXdnVWdXb29lNW42WjVxejh6UFM4eEh2ODR5UEgxNHNra3RHZ1lYSlV3UWtWaERHOUU0TlZaa2ZtcGdLWGdzRWJZN0QzNDYzTHR1WnNjeW5WT2NnYzJiSVpMbU1URThjOEZZTFhkRHVORkRSSTVRVVhuVV9hbzFWQ3BJNkFpaWU0WDh6T01nY2JlUVIyTGJXNUYxVnJOdw?oc=5",
+     "ora": "2026-11-23T12:35:00+00:00"
+    },
+    {
+     "titolo": "OpenAI, calcolo matematico per misurare i rischi dell'intelligenza artificiale",
+     "titolo_it": "",
+     "riassunto": "OpenAI propone un calcolo matematico per misurare e limitare i rischi dello sviluppo dell'AI. Conta perché affronta il tema della sicurezza e della governance dei modelli linguistici.",
+     "fonte": "ANSA",
+     "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNRHozYWQtN1NSN2pBV0lPc3VIOHR5YVR1bmdBWm1yQnlCSXVockdCcU9jdnBERGd6T1B4WFliaG1INVR3RFF0UFNRRW5tc0NsWTVVNzNXTmZHY3hoZWZ2azhKZnphc2xjOUY2UEduLUhkY25hdmg2amhpLWdDWk5yN0Zza2ZqQWQ1a2U4ZXdFY3FpZkZQZEtVYmZnTXZRLW11RkhvZzdiUWhCSGMzUzJmQmdULWwySXlMOWt6NWNYcnNfRTFFLXlxUWllV0Q3X3lXNkNLenVTd1Y0Smc5OENTcEdZTGR5RlZRREE3RF9ON3VhbFdIdjQxdVpwSHNoYk55U1RvQms3VDY1bG5aUFRlNlBTZDJtZ9IBmwJBVV95cUxPSjRhMGlhN1NMQklOQmRMWnB0a0VQWks4clQ2amUyRl9pQlZTRGRDaTlnUzhCT2pUYWVURmQwb2dqSi1VU3BPY3p0ams1YVptbmtGanlWR1pNNWhoaU9jYTczOWo3Q3VXZTh4OWZ6RDNYQWI2eW1JX2RpZERaZjdRczRlcm1Fbk1ubF9Zd0Vsc3lZR05GU1hyYndxcWZmUENEd0tjVGpJZUNramtDd2pmNUVrWmVaSWdtN3Zkb21BclZIU3dHbk1DRkpWdmtUSlpjY29UeHNBRDcyODY1SFcxbDlBYUJ0NnFkRW5jMGRyZTl4Mnp1bHdFYTNVY0dkNWdUTHE3S0tUb002N2VaOHZfTktPV3VEOUFYdmRB?oc=5",
+     "ora": "2026-11-23T12:29:00+00:00"
+    },
+    {
+     "titolo": "Microsoft vs Anthropic, litigano su quale agente costa meno",
+     "titolo_it": "",
+     "riassunto": "Microsoft e Anthropic discutono su quale agente AI abbia costi inferiori. Conta perché il prezzo degli agenti può influenzare l'adozione dell'AI in aziende e settori regolati.",
+     "fonte": "Tom's Hardware",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMVlSdmg0V3c0cjZLZFhwUFZrVzJGMFFjSUhNSXNlRUliQUhaaFZfaGRoam1hY3oxSjNJUkVxc2J1cWhMc3NhTTRRT2JqTU83cWRwaHc4WTd3MlVGQmFRa2U4NFk5eXBIZ3h6OUFqdTh0b3l6NnVfOFVwWVI5NV9HZm1Qc3ZscFBkbldYRU5LUEdiSlU?oc=5",
+     "ora": "2026-11-23T15:44:18+00:00"
+    },
+    {
+     "titolo": "Intelligenza artificiale, perché modelli diversi possono fallire allo stesso modo",
+     "titolo_it": "",
+     "riassunto": "Modelli AI diversi possono fallire nello stesso modo perché condividono dati, metodi o errori simili. Conta perché aiuta a capire i rischi di affidabilità quando si usano modelli linguistici in contesti critici.",
+     "fonte": "InsurZine",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0xTWEltZEd0dWJkOFF4b0hOV0hqWXczZTJFcm1BRkJoM0w1U3FzMVJ2SmdoN3NYVlRSNFlTTEY4UUZHZVB4dVE3amduVVJwaDBvRFBRRXZQZWQwYm9rZGl6QnhFOHdKaXdMSTJJYUE3T1JOQ1lPRG11YVBzV2ZlUkRMNkNsRGNmZUhRV01temc2Y0l4VnhJYWJLak56UklRU0ROa1FEN3lNTFRkRVY2eTl0RWwxT2VmZUE?oc=5",
+     "ora": "2026-11-23T15:27:56+00:00"
+    },
+    {
+     "titolo": "Dopo il tuffo di Anthropic al Nasdaq, torna la paura della bolla dell'AI",
+     "titolo_it": "",
+     "riassunto": "Dopo il calo delle azioni Anthropic a Wall Street, è tornata la paura di una bolla nell'AI. Conta perché segnala che il settore dei modelli linguistici è molto osservato dagli investitori e può essere volatile.",
+     "fonte": "Corriere della Sera",
+     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSnBMX1FiVEtwdGl1LWtXQlUxVVg1MUtqdlN3RU5OSkF3STQzNXdOQjQ2MzY5TFZoUGV4RnEyUjFmSF93SU1TTXI0ZXoxQVFWV0FfWWZWVnVVbFQwaWJ6VkJtb2pqd3gyN2FiS3dIS3l0UDk1dWdFV2VudW9icV9yV3h4XzVlTlBYWlRRTGpnWXJPODAyaG42N0VqN0lDUndjQ2NLUk1jemRjc1RIQW95UnJfaENLaVlhSG9aX1pwc3hublBxUHdEbmh0TXBxaENSc0R3a3J4TU9mbzhXb2IxSFVIbUNDYmZlS1IxZUh5VEdxaWZBN2hUTWpjMDZ5cWFN0gGGAkFVX3lxTFA1V0EtN1JuWGpYWERkaFRmanA0VUx2dHRlT0dGZXNaeTk5S0xjZHR2V0J1S3VPZ29uM2tDOWtocWFGRDlTY3IzVmpkWnNfMkV6QzNwajJfcnllT2ZfWDBVcEo2WUxXX2d0YzM0eC1CRU9kakZaUkFKeGtDOVlSZ09LT3hrekNkNFBUOHlPZXZrZThSblFHWWdWQmNJT3FvcThSQ2VCemI1akE4RDBtMGxFZmRZd3hQZk1WVHBreGFVbDFSWnZJVlo0amM3YVQ0LThpRUZDTno5aEdKclp0bnRoWUFfa1BQQnZTaVBFYzFIeGVsNXlxeUN3UlRpOHZ0VDdpbFozeGc?oc=5",
+     "ora": "2026-11-23T14:25:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Lavorare in ITA Airways: 500 nuove assunzioni entro il 2030, anche senza esperienza",
+     "titolo_it": "",
+     "riassunto": "ITA Airways prevede 500 assunzioni entro il 2030, aperte anche a profili senza esperienza. Conta perché è la compagnia di bandiera italiana e cerca ingegneri aeronautici per operazioni, manutenzione e flotta.",
+     "fonte": "Studenti.it",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmN0bGIyYXM0aURSeHB1d3hPQm5ETG5qQmtoQ3BjMlRkVUtyN2hBMnNkbXM4MXgxT2hnM2w4QzlCSTlIZnFORFdyTGxKMTJiNGRVMjJfcWVCd01Ockh4ejBqczZHQjJ5bjAxbHNHN0JjYjlHTDhSY0R3M1o4UUtZWE9OcG1jVmxm?oc=5",
+     "ora": "2026-11-17T11:32:00+00:00"
+    },
+    {
+     "titolo": "Dal Tecnopolo allo spazio, il dispositivo che controlla la salute degli astronauti supera la prova in orbita",
+     "titolo_it": "",
+     "riassunto": "Un dispositivo italiano per il monitoraggio della salute degli astronauti ha superato la prova in orbita. Conta perché unisce spazio, fattori umani e sicurezza del volo, ambiti centrali per la tua specializzazione.",
+     "fonte": "RiminiToday",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYlFxSDdjWUlyLTBkREF0X0dka2lIX3prSnBGdTFuc1FDNXNSZnJIdm1oSkptOGJmdGpxSG5ZNVkxbk9BMGtXdnBZZDJIcy1fV3FpYnI3c2xSMUl1aWtnQWNyc3FqeGJIR0ZzaGlLcXE5SDhQMHBOajBhZ2NaQmFpaGFYUW9oTkx0a3pOREtmcHpvODls?oc=5",
+     "ora": "2026-11-20T10:37:40+00:00"
+    },
+    {
+     "titolo": "Un Agente AI affianca relatori e pubblico e diventa parte del dibattito: ad Assisi la sperimentazione nata dalla collaborazione con Sapienza Università di Roma",
+     "titolo_it": "",
+     "riassunto": "Alla Sapienza è stata sperimentata un'agente AI che interviene in tempo reale durante dibattiti pubblici. Conta perché tocca l'interazione uomo-macchina e i modelli linguistici nel tuo stesso ateneo.",
+     "fonte": "imgpress",
+     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNLXRKbmJNcUV5c19melRra3k2M2hGQUQwSWdUOVJxNXFCN1ctb051X1lFaW14Y2dYdEVyT0pTcDFPRTZZQmVmN1Ryd1FMS3Q2bTNET1A5MmVKV0ZvYXR2NWM4LWpKS2Z3cTZpcVRpVS1WNVhSbWFtdGZ5TUhfNzlselF2NDU4QTJZQk1KYXhnc2FwMDVla3JxME90N3hhNHBMTS1sS3ZwT2hMRGlfay1vR2NsRjZNVEp6a1BRTlFOMjJOVVhaMHRoaFJYbm5HbmhwWDZIN0p5am9kQXJKM2U2Q3NGM21tU2NCekNtdm1keG96SERRT0MxRnFTR0lqenJWQUl2MUJBLTlEQkV1a1o4MHNYZl95cnU0VEx4Tm53?oc=5",
+     "ora": "2026-11-19T07:13:23+00:00"
+    },
+    {
+     "titolo": "Sapienza, i 100 anni della scuola di ingegneria aerospaziale",
+     "titolo_it": "",
+     "riassunto": "La Scuola di Ingegneria Aerospaziale della Sapienza celebra 100 anni. Conta perché rafforza la rete alumni, la visibilità del settore e le iniziative legate alla tua facoltà.",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTTVlMGFYb0dGYUQxQk5wT1ZYU05GcW00d2NVV1BNbGc2RmZrZExTU1BBZzdXQ1c0cjFnbC13TVFUVWt5bkhiQzVQVHVWejVhZGxya2Ytc2x5TEFIMGdRcTE2dnhNbmZCR2NVTU93VU5yWlU3OHliS19DbFZpMTdKamZVb0d1elA5b2RmRkRrcURYLV9FdmRjNU1nVjJ4NXlTeHNQT0M4a1F1Q01IZWJmQUU0VHZaMkk0MVpJaHBFQ1jSAbYBQVVfeXFMTVFWNTFCd1BJdHo0YnRWUGYtWVd2MFRXVXhqNDRKNTRFSjQyQi1UMW5XNTlEaEF3NWY2bUJObVF0SzVUc2VaLU40dV9nb282dGx0MU14clMwQnlJQVNBMk5zRC1YUG1ibmlsZXJQQUNiTzFvUWpsOEg3ZmlyM3VZWUFYYy1ESEVwX1llUDE2S3lJQmdGTE5VVE44YjF6MGZmRmtXdlFtUnc0OWhxckJIcTNLLVhNOWc?oc=5",
+     "ora": "2026-11-19T05:30:03+00:00"
+    },
+    {
+     "titolo": "Presidenza della Repubblica: 22 tirocini al Quirinale e a Castelporziano per studenti universitari",
+     "titolo_it": "",
+     "riassunto": "La Presidenza della Repubblica bandisce 22 tirocini al Quirinale e a Castelporziano per studenti universitari. Conta perché offre un'esperienza istituzionale di alto profilo accessibile ai laureandi.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVJKWFBYTlBQRVFuSmtCSmtIWmVfZHFOS1R0V1JjaHN4RklvYllkRlBKRkw0UUtwSkJLY0ZsR1h5ZE9YQUhSa0FlajBlRkphaktzckVEUzFlem1XZUdJZ2FVaTdmSzNGYl9EaU9oOGNOeld3YWN4TWxnbTZsc2todlBuckNDMmVIdFpoNTluYzFYeTNUOS1pRnhYSFBRN0VySnJodlBjbmlhZw?oc=5",
+     "ora": "2026-11-20T10:49:43+00:00"
+    },
+    {
+     "titolo": "Bonus assunzioni, contributi azzerati per due anni · Video",
+     "titolo_it": "",
+     "riassunto": "Il bonus assunzioni azzera i contributi per due anni sui nuovi contratti. Conta perché abbassa il costo del lavoro per le imprese aerospaziali che potrebbero assumerti.",
+     "fonte": "Quotidiano Nazionale",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGdic1FpQ0dGQ3p3bkhtNTVZUEFMenM2Y01EMWF1NDJxMEF4VEs5YTYzR1FGUVBVaEF5aTNqVVVjTGhTZExqOC16c1FiRmtHcHd6S0VVMDBsSlA2TTQ4UkstYmZGbHpUYmtXMEoxME1GM010Y3IzUW5iZUNwZUpzbFdhZ1M1WGZmbGlEWlFtaUYyTnd4UmxJSFo0R0g0RXBCVmc?oc=5",
+     "ora": "2026-11-17T14:04:04+00:00"
+    },
+    {
+     "titolo": "Master in gestione e innovazione per la transizione energetica sostenibile",
+     "titolo_it": "",
+     "riassunto": "È attivo un master in gestione e innovazione per la transizione energetica sostenibile. Conta perché la decarbonizzazione dell'aviazione crea ruoli ibridi tra ingegneria e management.",
+     "fonte": "QualEnergia.it",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFlrRzNhNWM0VXNRX0dQQkVDS0JRMFNKbE1sMkFneGdUWkV3dnlZN2FRT0tYVXNjV1AtcEZ2ZkFqcTlZREdrbERzeFc2bTBETDI3dEZHQ25GRUxwM3ctbWc4SFZGVEFpTWNXYkszQXlZc2h4enhvSE9oemhxWHVSZFE4eUhoRTJ5MTV5NmxpVmtiLUlOLVVaS1dibzdmdjhvMjVxLWd2elozdWtRd19sT1o2cldWTnc?oc=5",
+     "ora": "2026-11-23T14:41:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Nvidia, il Cda reintegra Jensen Huang come presidente e Ceo",
+     "titolo_it": "",
+     "riassunto": "Il Cda di Nvidia ha reintegrato immediatamente Jensen Huang come presidente e Ceo, rafforzando la leadership di una delle aziende leader nell'IA e nei GPU, settore strettamente legato ai modelli linguistici come Claude.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/mondo/video/2026/11/23/nvidia-huang-ceo-presidente-1142283",
+     "ora": "2026-11-23T16:37:16+00:00"
+    },
+    {
+     "titolo": "Corea del Sud, ministro dell'Istruzione si dimette per le regole anti-AI agli esami di ingresso all'università",
+     "titolo_it": "",
+     "riassunto": "Il ministro dell'Istruzione della Corea del Sud ha rassegnato le dimissioni a seguito delle preoccupazioni per l'uso di intelligenze artificiali durante gli esami universitari, evidenziando l'attuale dibattito sull'impiego di IA nei contesti educativi.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/23/corea-del-sud-ministro-dellistruzione-si-dimette-per-le-regole-anti-ai-agli-esami-di-ingre",
+     "ora": "2026-11-23T16:56:02+01:00"
+    },
+    {
+     "titolo": "Sky TG24 Territori Torino, progetti a favore di università e imprese",
+     "titolo_it": "",
+     "riassunto": "La trasmissione di Sky TG24 Territori Torino ha presentato progetti a favore di università e imprese, offrendo informazioni su possibili stage e collaborazioni nel settore aerospaziale e tecnologico italiano.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/tecnologia/video/2026/11/23/sky-tg24-territori-torino-progetti-a-favore-di-universita-e-imprese-1141913",
+     "ora": "2026-11-23T15:18:21+00:00"
+    },
+    {
+     "titolo": "Sky TG24 Territori Torino, Piemonte regione all'avanguardia tecnologica",
+     "titolo_it": "",
+     "riassunto": "La Regione Piemonte è stata descritta come all'avanguardia tecnologica durante una puntata di Sky TG24 Territori, indicando opportunità di innovazione e occupazione nel campo aerospaziale e delle alte tecnologie.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/tecnologia/video/2026/11/23/sky-tg24-territori-torino-piemonte-regione-allavanguardia-tecnologica-1141914",
+     "ora": "2026-11-23T15:18:21+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
