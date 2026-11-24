@@ -1,0 +1,243 @@
+{
+ "giorno": "2026-11-24",
+ "creato": "2026-11-24T15:55:01+00:00",
+ "in_breve": [],
+ "modello": null,
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "GA Accident Rates Continue to Decline, AOPA Report Finds",
+     "titolo_it": "",
+     "riassunto": "Annual safety analysis shows fewer fatal accidents in 2024, though pilot-related factors remain the leading cause of general aviation accidents.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/air-shows-events/aopa-air-shows-events/ga-accident-rates-decline-aopa-report/",
+     "ora": "2026-11-24T15:51:25+00:00"
+    },
+    {
+     "titolo": "Cargo aereo, Enac: è il momento di investire e crescere",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Rivista Tir",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSWg2UTBtUjNfZ0I2NXJ4NG83aGVmclU0LVFMR1l5ckRKMG5JVGwtY1FmTzlvY1A2NktqNl9nQWdlRTJYRHd5M2NZQlpXazdFVkJ6ckpuQmk5WjdRM1BwNjRLMzU0b2dJeXVGc0tVY1N5N2pUa3NNVFlHanA0U002eTB3?oc=5",
+     "ora": "2026-11-24T15:26:13+00:00"
+    },
+    {
+     "titolo": "Visita pastorale del vescovo Lauro a Lizzana, Ala e Avio",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Diocesi di Trento",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbk81dFRHQWlnNy1yT2E0SzcwMHRJdXVkdmt4VDd2NlcweHZWdlluUjRacy1nUHQ4LXJoUDZxQmxtb0J5ZGxqSW9BTGQtY0VNeERvdGlrdEU1MjBBb1NweTYtSVNjbWhmRjk3Z1J5VmpuUHZTZFRGYXBtMjNQdmlIOS02dUpZdk1vZ0I0Z2VuN0xua2FTdzRSQ3g2cVFOQ2xxaG1sSEZUQk9jMkpaUTR5SjM3NF81UXFjZXlCc2NyRGdoSnJ2SlpCNUNuVzd0SzRLVDNUQmFUMEdkOWNzTjVGaUtsR21QNXc?oc=5",
+     "ora": "2026-11-24T15:15:06+00:00"
+    },
+    {
+     "titolo": "Why Southwest Airlines Isn’t Rejecting Early Boeing 737 MAX 7s Like 777X Airlines Did",
+     "titolo_it": "",
+     "riassunto": "Southwest is accepting Boeing's stored MAX 7s despite certification delays that prompted Emirates and Lufthansa to reject early 777Xs.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/why-southwest-airlines-isnt-rejecting-early-boeing-737-max-7s-like-777x-airlines-did/",
+     "ora": "2026-11-24T15:06:23+00:00"
+    },
+    {
+     "titolo": "flydubai Cleared To Return To Israel 2 Months After Boeing 737 Hijack Attempt",
+     "titolo_it": "",
+     "riassunto": "The carrier had previously been banned from Israel until mid-December.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/flydubai-israel-return-approval/",
+     "ora": "2026-11-24T14:57:09+00:00"
+    },
+    {
+     "titolo": "Xiamen Airlines signs deal for 50 Boeing 737 MAX 8 aircraft",
+     "titolo_it": "",
+     "riassunto": "Xiamen Airlines, a subsidiary of China Southern Airlines, signed an agreement with Boeing on November 24, 2026, to…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/xiamen-airlines-signs-deal-for-50-boeing-737-max-8-aircraft",
+     "ora": "2026-11-24T13:19:08+00:00"
+    },
+    {
+     "titolo": "Boeing moves closer to 737 MAX deliveries from new North Line at Everett",
+     "titolo_it": "",
+     "riassunto": "Boeing has moved a step closer to customer deliveries of 737 aircraft built at its new North Line…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/boeing-737-max-north-line-production-everett",
+     "ora": "2026-11-24T11:10:08+00:00"
+    },
+    {
+     "titolo": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
+     "titolo_it": "",
+     "riassunto": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-price, and…",
+     "fonte": "NASA",
+     "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
+     "ora": "2026-11-23T21:10:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Anthropic Model 4: cosa sappiamo del modello non ancora rilasciato",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "OrcaRouter",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04ZjJDZDFtWEJUVUp0Y25JRTc2eGl4a1pPbkZDaFZDRlNRX25fb00tdmg2MVYxTVRPbmt5dGNKall2b0ZMZUJSYlFjTDktMHNUOHQxU2VXTVJEZlRYZWNuNVRVbHVNY3M?oc=5",
+     "ora": "2026-11-24T14:47:19+00:00"
+    },
+    {
+     "titolo": "Il personale di Anthropic e OpenAI si interroga sul rilascio di modelli IA avanzati",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Unite.AI",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbXhwa05RTDlEcHg0am9lU2VkdWVTcHdTQTFUTmRkSFpqVEJhSHdFbHZMZENZSkdWdHhsbHd6eDU4bnpndFNqYUFMU280U2t1UGhHaU00Z2pWTDdQLTM5U1UwdDJCdDNLbnVpbk1hN0pUQ2E1UkNhS0NWeXNwOHBmQk5kZVRzQzZvYjdtTnN2cDhaN2c?oc=5",
+     "ora": "2026-11-24T11:16:03+00:00"
+    },
+    {
+     "titolo": "LLM agents work for their parent companies, not for you",
+     "titolo_it": "",
+     "riassunto": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 467 # Comments: 199",
+     "fonte": "Hacker News",
+     "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+     "ora": "2026-11-24T12:40:15+00:00"
+    },
+    {
+     "titolo": "Claude AI can review pull requests and ship fixes on its own now",
+     "titolo_it": "",
+     "riassunto": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+     "ora": "2026-11-23T15:00:00-05:00"
+    },
+    {
+     "titolo": "Raising the stakes for enterprise networks with AI modernization",
+     "titolo_it": "",
+     "riassunto": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done…",
+     "fonte": "MIT Technology Review",
+     "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+     "ora": "2026-11-24T15:15:16+00:00"
+    },
+    {
+     "titolo": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+     "titolo_it": "",
+     "riassunto": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model…",
+     "fonte": "MIT Technology Review",
+     "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+     "ora": "2026-11-23T17:36:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Ponte sullo Stretto e non solo: il genio dei ponti Enzo Siviero conquista Roma, alla Sapienza una mostra dedicata alle sue opere e alla sua visione dell’ingegneria",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "StrettoWeb",
+     "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNM0hWcDRvbERvb3RlYXdDSW9IdzYwSDgzaXFaS25VY3hTWkpCTUM2UlkxSFRmRENLZ1oxRTg5Y1NaY2VHWFQ0OExZSjNtNTVYRVhrMEJnVVh1U2k4THZkMXRxazVvWlRtaGdnenBVa1RXeGswRTRXQ0h4bzF0Zi16c1o2M1hwN1p0b29uZ0c1R25zTVNyNGVKZ3VnaF9YcGNUbkNiTDlxZ0hObmFwQXpVa1ducEtLSDZ3aWVIV3JFbk9YU0ZYRnBKNzRhaG9LT3NUQVpseC1KWC1XQlVhZ2J5ckZxR0F2VE5SZnRwSjI1cVZqb1dleElhLUc4Q1EyaGU5YW9PWVFFa0JIbEd0MkJGSEhGYkpSRDdGOHpvaFB6N3ZPcXI0VFBXeThRdnDSAbICQVVfeXFMTUI1RVdkazg3eXBBV041OWx2TUh2TElKWVpMaTJyVWVvT1gyR3hQS0dFOHFEakhSOTlFWEFjRFpaWXdfRmY2clJKTHFkbzExamZLdEM4MnJ5U3hscjNUZ0dRT3JYUnFqNVNpVU1rYzc2VUR3TlQ4NUtKYVo3NGhjSG9LTXFBMUVKRnRqdFJWb0txZ3YyVjBHNWJRbXl3MVVuN2E1MDhxekR4Q0M5QUV5bC1wSlFIUUo0OE9mQlZLeHl3NTFuUWpBbEFKcjJINl9rcmVMSTEyRDlweWh0NVA0dXRGM1JPWWRMM3dmVldiTWo3MjNsdmhKTnNHV1FRd2stSldHbC1KcURLNmpXRzdDbGdjS0JZTkZyS19fVl9rRHVGZmowTlEyRTlHT2ZQdkRyWDhB?oc=5",
+     "ora": "2026-11-20T12:08:00+00:00"
+    },
+    {
+     "titolo": "La prima fabbrica europea di palloni stratosferici lanciati dallo stesso sito sorgerà a Grottaglie: sessanta assunzioni Involve Space e Aeroporti di Puglia hanno firmato un accordo",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Virgilio",
+     "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOWW5YYWZNc3p1MUtod0lxMkI0bWpHbmRhVVhOb1N5c1o2djQ1eEZNZF9vd1UzVFB3dGJlQ3QwdGZPcUxEczExcUh0a0hBM0JpUmtxVWdlV01kMzhVZUpITDlkVDh4RXdleG5VaTdQOFFMOWN3MzRsZVJPRjFZRXprRm44Qk1qRGhUWXBrVnNJR3VuR2VzUkpSZW4tTXNOVVA3eG9nanI1RzRhRnMwUHUxeWdpQlFaYXhWblh4SlAyRDRmR1Ntbl9LRmlYYkNRUlhtcDE3WlpIUUM1QVZoQmtZY2VmM0hVNUhrR056MGRGR1YyMmdvb0UwMVRTMEhMNzNCelkxLU9FNC1sTkhRcnlxZGo1elpkOXpQX01lQ1pCXzNYek4tQWMxZ0R4VFBmbkd3Z2FOSmotQmoxLXNjeFNpdEx3a0pWZ2dnNjhaZWl2TzJJYU82bGc2VW9XX053Y09uQVkyVG5fZ9IB7AJBVV95cUxNRWdyTW9VMmszVnFFRm82cjBzREhWamVieUdYdDhRbFpvdFJnZjZZQkdwbC1sUlZwRURxTmJodXBYeTdmR1UtZ240YXdIaVdUU3l4Y3NlZVdWdHZaRTBjcVN1VHBWcm5WX2U5M01KWE03YS1nWW5JQVRxX0ZvYVdkbTV5d2dyVDdLZ1ZLYzJaSjhHMWZNWXhLVzcyNGFWVzNxOXRKOFpUN2c0SzIwYVFzdWJwaGJnbmU4ZG04dVRsd0UyREl3dG9sWFZxSXlwVkFFb0RHQ29WcTREbnBaWElLSHlyaTk5ZVpfNUxBa2h3eWV3b0pBWGpjNHRDazJkaGNJX0g5UWVKdnhqZF8yYTJGRGM1ekdvdXpfR282RkhVZ09hUlNoMzEwNHhzRnJWSGZqaHBLbkc5anlHX2NMU3pCXzRZbzZ2TXdZbHBYZzdYcmoxeWRQX1hNUFhlWlBJUmVyRmkzNEYyUkU0Q2Fa?oc=5",
+     "ora": "2026-11-24T11:13:00+00:00"
+    },
+    {
+     "titolo": "Involve Space apre una fabbrica di palloni stratosferici in Puglia: “Ad aprile 2027, nuove assunzioni”",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Telebari",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUzdWQzdmdDktWjRYcUF5c3JKN3o4LUsyb3FNZjVxSV9fVDRkNTVzNkx2QWxMYXo5MlNmbVBsSFY0WFZkdHoxUVFYSmM1VVUzeXA4LVVETEFmM2twQ3Vxa0picjZpM0xYNXRlNXozSHM3eHFkN0pSdmFBdnBBNDRjalpSdmdRdU5yWDIwWjNzRVBQZHhJekdqWkFuRHNuRlhxc3FzZmVkWEZ0cTIteVAtS2dXVGcyVTVQcEJEdUNXTzNKcllWM1VqQUFybk5fQmM4QjVrcUJqYTJhcWdK?oc=5",
+     "ora": "2026-11-24T10:58:47+00:00"
+    },
+    {
+     "titolo": "Sapienza, i 100 anni della scuola di ingegneria aerospaziale",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Il Messaggero",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTTVlMGFYb0dGYUQxQk5wT1ZYU05GcW00d2NVV1BNbGc2RmZrZExTU1BBZzdXQ1c0cjFnbC13TVFUVWt5bkhiQzVQVHVWejVhZGxya2Ytc2x5TEFIMGdRcTE2dnhNbmZCR2NVTU93VU5yWlU3OHliS19DbFZpMTdKamZVb0d1elA5b2RmRkRrcURYLV9FdmRjNU1nVjJ4NXlTeHNQT0M4a1F1Q01IZWJmQUU0VHZaMkk0MVpJaHBFQ1jSAbYBQVVfeXFMTVFWNTFCd1BJdHo0YnRWUGYtWVd2MFRXVXhqNDRKNTRFSjQyQi1UMW5XNTlEaEF3NWY2bUJObVF0SzVUc2VaLU40dV9nb282dGx0MU14clMwQnlJQVNBMk5zRC1YUG1ibmlsZXJQQUNiTzFvUWpsOEg3ZmlyM3VZWUFYYy1ESEVwX1llUDE2S3lJQmdGTE5VVE44YjF6MGZmRmtXdlFtUnc0OWhxckJIcTNLLVhNOWc?oc=5",
+     "ora": "2026-11-19T05:30:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Tony Effe: Due mesi clinica per dipendenze, oggi maratona",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/spettacolo/video/2026/11/24/tony-effe-maratona-1142464",
+     "ora": "2026-11-24T16:00:00+00:00"
+    },
+    {
+     "titolo": "Connor Storrie su Vogue tra le star meglio vestite del 2026",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/spettacolo/video/2026/11/24/connor-storrie-vogue-1142463",
+     "ora": "2026-11-24T15:57:34+00:00"
+    },
+    {
+     "titolo": "Russia, fuga di dati Rosstat: almeno 490mila soldati uccisi nella guerra in Ucraina",
+     "titolo_it": "",
+     "riassunto": "Due gruppi di hacker hanno estratto i dati dai sistemi dell'agenzia di statistica il 1º novembre. La cifra si basa sui certificati di morte registrati fino alla fine di agosto, escludendo i militari dispersi e i decessi non ancora registrati",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/24/russia-fuga-di-dati-rosstat-almeno-490mila-soldati-uccisi-nella-guerra-in-ucraina",
+     "ora": "2026-11-24T16:44:31+01:00"
+    },
+    {
+     "titolo": "Israeli air strike kills Hamas internal security chief in Gaza",
+     "titolo_it": "",
+     "riassunto": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-24T15:35:53+00:00"
+    },
+    {
+     "titolo": "Sanofi compra Insmed per 41 miliardi per rafforzare i farmaci polmonari",
+     "titolo_it": "",
+     "riassunto": "Il gruppo farmaceutico francese Sanofi ha concordato l'acquisto in contanti da 41 miliardi di dollari (37,4 miliardi di euro) di Insmed, società biofarmaceutica statunitense, per rafforzare il portafoglio di nuovi farmaci prima che il suo bestseller perda il brevetto.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/24/sanofi-compra-insmed-per-41-miliardi-per-rafforzare-i-farmaci-polmonari",
+     "ora": "2026-11-24T16:30:10+01:00"
+    },
+    {
+     "titolo": "Violenza di genere, quando lo smartphone diventa strumento di controllo",
+     "titolo_it": "",
+     "riassunto": "E' l'abuso facilitato dalla tecnologia, dal blocco come punizione allo 'spione' nascosto in tasca",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/11/23/violenza-di-genere-quando-lo-smartphone-diventa-strumento-controllo_8ae47a9e-ef4c-4233-9f95-9c98a35fa6ec.html",
+     "ora": "2026-11-24T16:24:28+01:00"
+    },
+    {
+     "titolo": "Lo strappo dei repubblicani con Trump su Nvidia: 'Vogliamo risposte'",
+     "titolo_it": "",
+     "riassunto": "Ft, l'intervento di Trump su Huang crea un precedente pericoloso",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/11/23/il-cda-di-nvidia-richiama-jensen-huang-alla-guida-rally-di-wall-street_74b46bf0-83fd-4c6e-8f4c-7b8b9842fa26.html",
+     "ora": "2026-11-24T16:21:24+01:00"
+    },
+    {
+     "titolo": "Land mine casualties soar in Syria, two years after war",
+     "titolo_it": "",
+     "riassunto": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-24T15:17:28+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
