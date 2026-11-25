@@ -1,0 +1,243 @@
+{
+ "giorno": "2026-11-25",
+ "creato": "2026-11-25T15:38:46+00:00",
+ "in_breve": [],
+ "modello": null,
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Rivista Italiana Difesa - shownews - Boeing costruirà altri 15 Tanker KC-46A per l'Aeronautica Militare statunitense",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "RID - Rivista Italiana Difesa",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmxtMGs0a1ZOX19sT0twVjlmYThRZGp6U29PT0NHajhsNlJTUHkwN21oVzV0WWZpVjRfNTRkUXN6aUwwdGN3eWl2TFlyeWRVWEZ5dEJXeEc0aGVWdU9ZOFlocV83b3ZVUEQ3Y1hwU1hWTWc3anRhdnhHUVk0UnRicXF5OEt0VW5scFVjWWxtakdxdEtlUWJFc2xIU3hJY25vZmYtdzBqRDdiSmZrd3QwblVR?oc=5",
+     "ora": "2026-11-25T15:30:56+00:00"
+    },
+    {
+     "titolo": "Lazio, nasce il polo per aerospazio, difesa e sicurezza",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "AVIONEWS",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa1Y1M0RPYmZNcjloaGhfWnpwbDVfclB3Q1B4Vmw5VDdOWHhSZ0EzX2FVMzIxUmRXWlRKbVdGdVdmVGwyY1BJNXVRQTZnM2Y0azlVVklyMF9raWNiaWpYM0kzbHlvbkp4Y1IzWkVWbk0yRFkzZEk0UENFSVpmWUZwNk53VC1WaDAzc05sU0pFVmxDU1I4M2FQVDk4MlJ3NmM?oc=5",
+     "ora": "2026-11-25T14:54:49+00:00"
+    },
+    {
+     "titolo": "Why British Airways Decided To Replace Its Longstanding Quadjet Fleet With Large Twin-Engine Airbus A350-1000s",
+     "titolo_it": "",
+     "riassunto": "BA's Boeing 747-400 era is long since over.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/why-british-airways-decided-replace-longstanding-quadjet-fleet-large-twin-engine-airbus-a350s/",
+     "ora": "2026-11-25T09:00:18+00:00"
+    },
+    {
+     "titolo": "Malaysia Airlines Picks Boeing Over Airbus For Its First 787 Dreamliners To Replace A350s",
+     "titolo_it": "",
+     "riassunto": "The jets will be delivered in the early to mid-2030s.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/malaysia-airlines-picks-boeing-over-airbus-787-10-dreamliners-replace-a350s/",
+     "ora": "2026-11-25T08:51:11+00:00"
+    },
+    {
+     "titolo": "Malaysia Aviation Group orders 10 Boeing 787s to replace its Airbus A350 fleet",
+     "titolo_it": "",
+     "riassunto": "Malaysia Aviation Group (MAG) has ordered 10 Boeing 787 Dreamliners directly from Boeing, with options for six more,…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/malaysia-aviation-group-orders-10-boeing-787s-to-replace-its-airbus-a350-fleet",
+     "ora": "2026-11-25T04:18:06+00:00"
+    },
+    {
+     "titolo": "A new EASA Pro homepage – discover the breadth of EASA’s work",
+     "titolo_it": "",
+     "riassunto": "The European Union Aviation Safety Agency (EASA) has redesigned the homepage of its website for aviation professionals, EASA Pro, to give visitors a clearer picture at a glance of the breadth of the Agency’s activities and how they contribute to safe and sustainable aviation. The new homepage provides a more…",
+     "fonte": "EASA",
+     "link": "https://www.easa.europa.eu/newsroom-and-events/news/new-easa-pro-homepage-discover-breadth-easas-work",
+     "ora": "2026-11-25T00:00:00+02:00"
+    },
+    {
+     "titolo": "GA Accident Rates Continue to Decline, AOPA Report Finds",
+     "titolo_it": "",
+     "riassunto": "Annual safety analysis shows fewer fatal accidents in 2024, though pilot-related factors remain the leading cause of general aviation accidents.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/air-shows-events/aopa-air-shows-events/ga-accident-rates-decline-aopa-report/",
+     "ora": "2026-11-24T15:51:25+00:00"
+    },
+    {
+     "titolo": "K2 Aviation strengthens portfolio with purchase of six Boeing aircraft from SMBC",
+     "titolo_it": "",
+     "riassunto": "Dublin-based K2 Aviation is strengthening its aircraft portfolio with the acquisition of six Boeing 737-800 Next Generation aircraft…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/k2-aviation-portfolio-purchase-boeing-aircraft-smbc",
+     "ora": "2026-11-25T10:41:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "In OpenAI e Anthropic c'è chi teme di rilasciare i nuovi modelli. OpenAI propone un “numero” per capire quando fermarsi",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "DDay.it",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYTdmTEFVZDNXTXA5aDlMSDZOYVVWUE5HaVZQMnhuMmhkRV9rc2RaY3NUTDZQTHdsanE4ZUhtNEJyMmdWMG5wYW9ra2lVNFZwLXdTcV9DQkR4NVQweTFYR2NRWHhadWZQbTdjQmx3NnIzaEhhcWozNVQtZjFTQW1BeE9YZVk4eEVXamEtVnV3c1RtWkhsR2dUODFmT2tFV285eW5DTDlyQW5HeGRSc3NfazNCelN5eXlZMlRQREg5VWVhaUtnTWlsb24zbDlHYmZ1ZEkzSXNVTFFERzNFS1ZLU2ZzMS1WUQ?oc=5",
+     "ora": "2026-11-25T14:41:00+00:00"
+    },
+    {
+     "titolo": "OpenAI e Anthropic, i modelli non rilasciati sfuggono al controllo: l'allarme dei dipendenti",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Hardware Upgrade",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeTFIbnJMenk5X3BCYnZiTjB6bjNnQmhIQXE5UzBTOTh0TFBGaTZ5TGMyeVNFU2t0Ul9YeGNFWDNaQll6SUYySUs0S29RLXk4enEwTnpwNXM5RTdla0tGREFTYm5tZTA4c204WFQ5RE1EY1RfSXZJdmlYbk1aQXN0UmxYR1BHUlVCNllRaDdfZEFqOHBUN2pSUVBSRFBONzlsNWo1d1Q3MTNUNDBsdmFCUkY0RXl1UHV5TzloSzJ1RVFBNlBOR3UzV2o1MXhGcWVkRnc?oc=5",
+     "ora": "2026-11-25T12:51:02+00:00"
+    },
+    {
+     "titolo": "Has vibe coding made open source the new normal for synths?",
+     "titolo_it": "",
+     "riassunto": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+     "ora": "2026-11-25T08:00:00-05:00"
+    },
+    {
+     "titolo": "Three LLM inflection points in twelve months",
+     "titolo_it": "",
+     "riassunto": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going to pull out the major inflection point…",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+     "ora": "2026-11-24T23:02:07+00:00"
+    },
+    {
+     "titolo": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+     "titolo_it": "",
+     "riassunto": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 317 # Comments: 92",
+     "fonte": "Hacker News",
+     "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+     "ora": "2026-11-24T21:02:22+00:00"
+    },
+    {
+     "titolo": "Amazon is reportedly in talks to end Muse AI shopping block",
+     "titolo_it": "",
+     "riassunto": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue.…",
+     "fonte": "The Verge",
+     "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+     "ora": "2026-11-25T09:12:33-05:00"
+    },
+    {
+     "titolo": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+     "titolo_it": "",
+     "riassunto": "Basically the title. Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models. Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI settings. But this is not against their policy? Now I've got 24h…",
+     "fonte": "Hacker News",
+     "link": "https://news.ycombinator.com/item?id=50630809",
+     "ora": "2026-11-24T16:45:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Laurearsi lavorando: come funziona Ingegneria Informatica e Automazione LM-32 online",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "News Istruzione",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQamhBLTRHbFEwZklxbXV1THJ3d0cyZzA1TzBCWlR3UDA0R0tEbW16RW9yTXl4Sm15YjFXQVRxY0VvbWQ4ZzVvakRfdmtabzV0VmVXeGNqMFZmU3RJQ2YtVDVia2o3a1ZwWXN1ZUotTU9NbTN1VmJCQVlDRGFHRDhmYzdnUDBmVVNYRDY2WG8wYkEteWtCeHlPVmVTQ3VlRGRPeU5hTGRzTFBnd9IBqgFBVV95cUxQamhBLTRHbFEwZklxbXV1THJ3d0cyZzA1TzBCWlR3UDA0R0tEbW16RW9yTXl4Sm15YjFXQVRxY0VvbWQ4ZzVvakRfdmtabzV0VmVXeGNqMFZmU3RJQ2YtVDVia2o3a1ZwWXN1ZUotTU9NbTN1VmJCQVlDRGFHRDhmYzdnUDBmVVNYRDY2WG8wYkEteWtCeHlPVmVTQ3VlRGRPeU5hTGRzTFBndw?oc=5",
+     "ora": "2026-11-25T07:35:00+00:00"
+    },
+    {
+     "titolo": "Ponte sullo Stretto e non solo: il genio dei ponti Enzo Siviero conquista Roma, alla Sapienza una mostra dedicata alle sue opere e alla sua visione dell’ingegneria",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "StrettoWeb",
+     "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNM0hWcDRvbERvb3RlYXdDSW9IdzYwSDgzaXFaS25VY3hTWkpCTUM2UlkxSFRmRENLZ1oxRTg5Y1NaY2VHWFQ0OExZSjNtNTVYRVhrMEJnVVh1U2k4THZkMXRxazVvWlRtaGdnenBVa1RXeGswRTRXQ0h4bzF0Zi16c1o2M1hwN1p0b29uZ0c1R25zTVNyNGVKZ3VnaF9YcGNUbkNiTDlxZ0hObmFwQXpVa1ducEtLSDZ3aWVIV3JFbk9YU0ZYRnBKNzRhaG9LT3NUQVpseC1KWC1XQlVhZ2J5ckZxR0F2VE5SZnRwSjI1cVZqb1dleElhLUc4Q1EyaGU5YW9PWVFFa0JIbEd0MkJGSEhGYkpSRDdGOHpvaFB6N3ZPcXI0VFBXeThRdnDSAbICQVVfeXFMTUI1RVdkazg3eXBBV041OWx2TUh2TElKWVpMaTJyVWVvT1gyR3hQS0dFOHFEakhSOTlFWEFjRFpaWXdfRmY2clJKTHFkbzExamZLdEM4MnJ5U3hscjNUZ0dRT3JYUnFqNVNpVU1rYzc2VUR3TlQ4NUtKYVo3NGhjSG9LTXFBMUVKRnRqdFJWb0txZ3YyVjBHNWJRbXl3MVVuN2E1MDhxekR4Q0M5QUV5bC1wSlFIUUo0OE9mQlZLeHl3NTFuUWpBbEFKcjJINl9rcmVMSTEyRDlweWh0NVA0dXRGM1JPWWRMM3dmVldiTWo3MjNsdmhKTnNHV1FRd2stSldHbC1KcURLNmpXRzdDbGdjS0JZTkZyS19fVl9rRHVGZmowTlEyRTlHT2ZQdkRyWDhB?oc=5",
+     "ora": "2026-11-20T12:08:00+00:00"
+    },
+    {
+     "titolo": "Nello spazioporto di Grottaglie arriva la fabbrica di palloni stratosferici: investimento da 16 milioni di euro, pronte 60 assunzioni",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Corriere Bari",
+     "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPUmxTZ0xidmR0REVuLXgxdE4tMHRrQlc3YldNRktHcHV2T01leU14dGlmZW5faGZPMmY3bDJlaFRyRHlRTlR0WkE2VXZIXzVNMDlvOUFxSjlGMVVvbWVfUTFsX3RpbVpZVExFOUZVNnU1Rl9renJNWTJDZHZ3amtvQktkeTNUOEU2UHpuTm9OX1RnTWlITFF5NHNlTkJrWkhaNzNuRmZRMkpmOFNXOHh3aV82TF8yazEweFNQODFad3JmMU5uSjF0cWpRTmdHZTFUaWQ2NlFZY2tXNlpHc3V3YTV5T0ZPSlVqUjJEUkUtTmQ1MGJUYTFYb0l1a0hrWVNxVjVzdWVRLXlRZmliZkJpNlhYeGYybUlxbnEtSVFFdG5tZzlrbGFOTTFIekVKNG81Y2FKa3FrREZweDlQbVBCTV930gHHAkFVX3lxTFAtRXM1OG5vOEFSYkNBTkxCUFI0VkRTM2pzVW9paHUyVDhDWmNZSVhLVElyZXFSazdHcGZmWFVSTTdkUC1RSU1sUmRmSkdZQVNqeHZ0RzhLcGllUTFCdnNKWkdTSUJURjNrZGtlTkN4eEN1bmxzUVBxZS04SlF1X3YyRk1lWlF0TU9iQ28xVkRfTnN1RU91MEFLaU9kOHN6YS1mZVNzYkNIZWVUbWppdjJTbmR5aS1landybF9HLTA1dWNZbXNBMG9kZmhLY3JzSklEWUxrVzFXbzN2cHNEQ0ZHc0JxdzJyUDMyUnNISUxvYW5OTjRFeWtvN1YyVUh1TXF2VE1zakxCMU9qOTl1X0p5YlZSMWJVaWtxRGhmS3ZxbTJ6NkJpWjBRR2theE95MGZOZFhhMDgyemhETjFCRm5FTi1BcWZrNA?oc=5",
+     "ora": "2026-11-24T11:32:07+00:00"
+    },
+    {
+     "titolo": "La prima fabbrica europea di palloni stratosferici lanciati dallo stesso sito sorgerà a Grottaglie: sessanta assunzioni Involve Space e Aeroporti di Puglia hanno firmato un accordo",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Virgilio",
+     "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOWW5YYWZNc3p1MUtod0lxMkI0bWpHbmRhVVhOb1N5c1o2djQ1eEZNZF9vd1UzVFB3dGJlQ3QwdGZPcUxEczExcUh0a0hBM0JpUmtxVWdlV01kMzhVZUpITDlkVDh4RXdleG5VaTdQOFFMOWN3MzRsZVJPRjFZRXprRm44Qk1qRGhUWXBrVnNJR3VuR2VzUkpSZW4tTXNOVVA3eG9nanI1RzRhRnMwUHUxeWdpQlFaYXhWblh4SlAyRDRmR1Ntbl9LRmlYYkNRUlhtcDE3WlpIUUM1QVZoQmtZY2VmM0hVNUhrR056MGRGR1YyMmdvb0UwMVRTMEhMNzNCelkxLU9FNC1sTkhRcnlxZGo1elpkOXpQX01lQ1pCXzNYek4tQWMxZ0R4VFBmbkd3Z2FOSmotQmoxLXNjeFNpdEx3a0pWZ2dnNjhaZWl2TzJJYU82bGc2VW9XX053Y09uQVkyVG5fZ9IB7AJBVV95cUxNRWdyTW9VMmszVnFFRm82cjBzREhWamVieUdYdDhRbFpvdFJnZjZZQkdwbC1sUlZwRURxTmJodXBYeTdmR1UtZ240YXdIaVdUU3l4Y3NlZVdWdHZaRTBjcVN1VHBWcm5WX2U5M01KWE03YS1nWW5JQVRxX0ZvYVdkbTV5d2dyVDdLZ1ZLYzJaSjhHMWZNWXhLVzcyNGFWVzNxOXRKOFpUN2c0SzIwYVFzdWJwaGJnbmU4ZG04dVRsd0UyREl3dG9sWFZxSXlwVkFFb0RHQ29WcTREbnBaWElLSHlyaTk5ZVpfNUxBa2h3eWV3b0pBWGpjNHRDazJkaGNJX0g5UWVKdnhqZF8yYTJGRGM1ekdvdXpfR282RkhVZ09hUlNoMzEwNHhzRnJWSGZqaHBLbkc5anlHX2NMU3pCXzRZbzZ2TXdZbHBYZzdYcmoxeWRQX1hNUFhlWlBJUmVyRmkzNEYyUkU0Q2Fa?oc=5",
+     "ora": "2026-11-24T11:13:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Via libera Knesset commissione inchiesta massacro 7 ottobre",
+     "titolo_it": "",
+     "riassunto": "L'assemblea plenaria della Knesset ha approvato, in via preliminare, la proposta di istituire una Commissione statale d'inchiesta sul massacro del 7 ottobre 2023.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/mondo/video/2026/11/25/via-libera-knesset-commissione-inchiesta-massacro-7-ottobre-1142780",
+     "ora": "2026-11-25T16:14:47+00:00"
+    },
+    {
+     "titolo": "Al via il concorso “Bar del cuore\"",
+     "titolo_it": "",
+     "riassunto": "È partito il concorso nazionale promosso da Edenred Italia con il patrocinio di FIPE-Confcom, la Federazione Italiana Pubblici Esercizi, per dare visibilità ai bar e valorizzare il legame con chi li frequenta",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/lifestyle/2026/11/25/bar-del-cuore",
+     "ora": "2026-11-25T16:10:22+00:00"
+    },
+    {
+     "titolo": "Parlamento europeo avverte Costa: niente via libera al bilancio Ue con taglio del 10%",
+     "titolo_it": "",
+     "riassunto": "Gli eurodeputati hanno condannato la proposta di ridurre del 10% il prossimo bilancio pluriennale dell’UE, minacciando di respingere l’accordo se i leader dell’Unione lo approveranno",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/25/parlamento-europeo-avverte-costa-niente-via-libera-al-bilancio-ue-con-taglio-del-10",
+     "ora": "2026-11-25T16:31:14+01:00"
+    },
+    {
+     "titolo": "Le lettere di De Gennaro: 'L'hard disk non ve l'ho dato perché non avreste capito niente'",
+     "titolo_it": "",
+     "riassunto": "Alcuni degli scritti lasciati sarebbero datati 17 novembre: 'Sono un uomo dello Stato'. Il Viminale rivaluta la protezione per Contorno",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/25/le-lettere-di-de-gennaro-lhard-disk-non-ve-lho-dato-perche-non-avreste_990dcfdb-4804-4496-9613-4036357dd514.html",
+     "ora": "2026-11-25T16:22:28+01:00"
+    },
+    {
+     "titolo": "Lista studenti: la Serbia ha bisogno di tempo per definire la rotta",
+     "titolo_it": "",
+     "riassunto": "Sara el Sarag, della Lista degli studenti, ha affrontato integrazione europea della Serbia, priorità di politica estera, rapporti con la Russia e Kosovo, mentre la nuova leadership deve chiarire la propria linea sul futuro europeo del Paese",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/25/lista-studenti-la-serbia-ha-bisogno-di-tempo-per-definire-la-rotta",
+     "ora": "2026-11-25T16:12:28+01:00"
+    },
+    {
+     "titolo": "Gli Usa propongono nuovi dazi per Cina, Ue e altri 12 paesi",
+     "titolo_it": "",
+     "riassunto": "Per Bruxelles fino al 15, per Pechino il 20%",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/25/usa-propongono-nuovi-dazi-per-cina-ue-e-altri-12-paesi_7b5dc39c-cbf2-4816-91bd-81f56b44833b.html",
+     "ora": "2026-11-25T16:06:19+01:00"
+    },
+    {
+     "titolo": "Five Russian military jets hit in airfield strike, says Ukraine",
+     "titolo_it": "",
+     "riassunto": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-25T14:46:41+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
