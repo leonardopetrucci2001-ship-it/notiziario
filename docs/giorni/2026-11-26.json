@@ -1,0 +1,191 @@
+{
+ "giorno": "2026-11-26",
+ "creato": "2026-11-26T15:21:00+00:00",
+ "in_breve": [
+  "A Grottaglie aprirà la prima fabbrica europea di palloni stratosferici, creando sessanta impieghi che coinvolgono lo spazio e gli aeroporti della Puglia. Grottaglie will open the first European stratospheric balloon factory, creating sixty jobs that involve space and the aeroports of Puglia.",
+  "La NASA ha preso in carico il progetto X-59 supersonico, un'aerocraft destinata a velocità più elevate. NASA has taken over the X-59 supersonic project, a high-speed aircraft aimed at higher speeds.",
+  "Anthropic ha annunciato che Claude trasforma gli Artifacts in app desktop, rendendo i modelli linguistici accessibili agli utenti. Anthropic announced that Claude turns Artifacts into desktop apps, making language models accessible to users."
+ ],
+ "modello": "liquid/lfm-3-1.7b:free, nvidia/nemotron-3-ultra-550b-a55b:free, nvidia/nemotron-3.5-super-vl:free, recursive/flint-v1.0:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Avio, timori per l’offerta della Iceye. “A rischio 900 dipendenti dello stabilimento di Colleferro",
+     "titolo_it": "",
+     "riassunto": "L'offerta della finlandese Iceye su Avio mette a rischio l'autonomia industriale italiana nello spazio e 900 posti a Colleferro. Conta perché riguarda il futuro del lanciatore Vega e il mercato del lavoro spaziale nazionale.",
+     "fonte": "la Repubblica",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjRXMW1MRHlQUU9tenRoSXlXbnRfTjYwN0xBNXlCRm5GZmluaTRUOGRDYXN6SEFTcDdyZEEyOERqcWV0M1RIRkFFa2UzT1JSdGtRTG81b0JKSmkwU2RZSlhDVG8wUzI0SW1YWDZ0Ry1WZmF4eEJPU2oyUmtaZDFFeGs0ZWQ1QVRjeTBpTE9Xbk14WXBkSThENURWSWwzcXc3SnpsUkVCaXhta1oxR29qbzItbG9yUHZpbkE1SVZhcHZZSmdXby10c9IByAFBVV95cUxPRjRXMW1MRHlQUU9tenRoSXlXbnRfTjYwN0xBNXlCRm5GZmluaTRUOGRDYXN6SEFTcDdyZEEyOERqcWV0M1RIRkFFa2UzT1JSdGtRTG81b0JKSmkwU2RZSlhDVG8wUzI0SW1YWDZ0Ry1WZmF4eEJPU2oyUmtaZDFFeGs0ZWQ1QVRjeTBpTE9Xbk14WXBkSThENURWSWwzcXc3SnpsUkVCaXhta1oxR29qbzItbG9yUHZpbkE1SVZhcHZZSmdXby10cw?oc=5",
+     "ora": "2026-11-26T13:01:00+00:00"
+    },
+    {
+     "titolo": "Droni, ENAC certifica STRADAai come nuovo fornitore di servizi U-space in Italia ed Europa",
+     "titolo_it": "",
+     "riassunto": "ENAC certifica STRADAai come fornitore di servizi U-space, primo passo operativo per l'integrazione droni nello spazio aereo italiano ed europeo. Conta per ATM, regolamentazione e nuove competenze richieste nel settore.",
+     "fonte": "Quadricottero News",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWnBCNWN5YWF1LWY4WjJCalo0eG9RNjZzVWNpQ0t3YjRIWElMcW5iVmozRVVUMGFQbkc2T1pwSVNWSFdQTVFENzNkZkRlZ0JxTFB1Z3FsalR5MWhyY3RMLTlURTVqc2owYmZJaXh2UXZYaG0xRUNQVVNndllfVTRINzRHNGNLN09Nc0E?oc=5",
+     "ora": "2026-11-26T13:04:00+00:00"
+    },
+    {
+     "titolo": "NASA Takes Ownership of X-59 Supersonic Aircraft",
+     "titolo_it": "La NASA prende in carico l'X-59 supersonico",
+     "riassunto": "La NASA assume la proprietà dell'X-59 di Lockheed Martin per la fase di validazione acustica del volo supersonico silenzioso. Conta per la ricerca aerodinamica avanzata e il futuro del trasporto ad alta velocità.",
+     "fonte": "AVweb",
+     "link": "https://avweb.com/aviation-news/nasa-takes-ownership-x-59-supersonic-plane/",
+     "ora": "2026-11-26T15:01:00+00:00"
+    },
+    {
+     "titolo": "Emirates and Etihad A380 aircraft among eight requiring EASA ordered inspections",
+     "titolo_it": "EASA ordina ispezioni su 8 A380 di Emirates ed Etihad",
+     "riassunto": "EASA impone controlli su otto A380 per un problema di airworthiness. Conta per la gestione della sicurezza continua, il ruolo dell'autorità europea e la flotta widebody.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/emirates-etihad-a380-aircraft-easa-ordered-inspections",
+     "ora": "2026-11-26T10:11:16+00:00"
+    },
+    {
+     "titolo": "Aeronautica: due Eurofighter del 4° Stormo scortano un velivolo civile a Fiumicino",
+     "titolo_it": "",
+     "riassunto": "Due Eurofighter del 4° Stormo scortano un civile a Fiumicino per perdita contatti radio. Conta per le procedure di intercettazione, coordinamento civile-militare e sicurezza in un hub italiano.",
+     "fonte": "GrNet.it",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN24zZmJjVURmZlZqMTFCNnFkR2hFUXlLV200SUtzQmVDWkMzVGs5WERGT0E2amgwdk1HQkxvMWlDSl9jbGVDd0tMT0NqX2pqSUVxek92RzJLdF9KbV9hMllKd1lvZmYzWC01LW1VSmE2SlNVWEZiRkdlc2kzRnNqUFYxempqVi1DMFRiVkRSYnNGdEVDVlotTXZ3Z0hKNnRNRmZ4bg?oc=5",
+     "ora": "2026-11-25T20:30:07+00:00"
+    },
+    {
+     "titolo": "Western Global Boeing 747 Stuck In Soft Ground Closes Tokyo Runway For 14 Hours",
+     "titolo_it": "Boeing 747 Western Global bloccato a Tokyo, pista chiusa 14 ore",
+     "riassunto": "Un 747 cargo finisce nel terreno morbido chiudendo la pista di Narita per 14 ore. Conta come case study su escursioni di pista, gestione emergenze aeroportuali e fattori umani/operativi.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/western-global-boeing-747-runway-excursion-tokyo/",
+     "ora": "2026-11-26T15:05:38+00:00"
+    },
+    {
+     "titolo": "GE AVIO. FIM, FIOM e UILM: Al via la presentazione della piattaforma per il rinnovo del contratto integrativo GE AVIO 2027-2029. La parola passa a lavoratrici e lavoratori.",
+     "titolo_it": "",
+     "riassunto": "Sindacati avviano il confronto per il rinnovo del contratto integrativo GE Avio 2027-2029. Conta per capire le relazioni industriali, le condizioni di lavoro e le prospettive occupazionali in un grande motorista italiano.",
+     "fonte": "Uilm",
+     "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQVjlQNF96OUw3RXZORl9IaG1aOHRyMVJMRE44dnhkbWlPbU5KR3Z1QXFWTGdBeGdnbEo2bDMxclJBUFdFSENfYmlWYnQ3OF9MZFM3RGxIRDB6YXlMcDBDQV9MazlhZFlBRHkxeXpKYi1QbklmcWF4S1lhT0lSXzlHaWwtTWo2RTBQM3lNYlNQcXRHYVBlVG5kZFpYWG5POWttZnJxMXROdnZzS0c3bEhTOUppQ0VhS05OTUR4SXc2bnpzTlZ1Y0lYVURFTXlwTS0wR2R0OHFiZEJDazRkZlczNE9UTUNraGNMMUplaFVUT3JpVXJmRHBDUWJoa1QyQWpGV3F3RHhiUzNIWGVWaFluWXpkLTlWcWRSa2VIbHExcGNfQlE?oc=5",
+     "ora": "2026-11-25T18:32:30+00:00"
+    },
+    {
+     "titolo": "Why The Boeing 777X’s New Cabin Architecture Will Be Such A Game Changer For Airlines",
+     "titolo_it": "Perché la nuova architettura di cabina del 777X cambia le regole per le compagnie",
+     "riassunto": "Analisi della nuova architettura di cabina del Boeing 777X e impatti su efficienza, esperienza passeggero e costi operativi. Conta per design di prodotto, fattori umani e economia delle compagnie aeree.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/boeing-777x-new-cabin-architecture-game-changer-for-airlines/",
+     "ora": "2026-11-26T10:15:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "OpenAI Private Inference: test per dati aziendali riservati",
+     "titolo_it": "OpenAI Private Inference per dati riservati",
+     "riassunto": "OpenAI ha lanciato un test per Private Inference con dati aziendali riservati. Conta per chi lavora con informazioni sensibili, perché prova a proteggere l'uso dell'IA sui dati.",
+     "fonte": "AI4Business",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWhNOWRydGllRUtUbkdtWDFObW5wRGlzZTIwckZGZ1U5R3FFRFRlam4tdmFnUVh0dFd4ZW9BcUFEdmpKcWlzZHQ5eFVxWjJ3RjU2anJpQlUtZTd2T1FoUTdIMHJtQUNwRGNPMDNKdkR1TmRrREpTMWtlRVJHQ3h3SnhGa18zRk01UG4zWjJGR0dCaFd0V1lZQ3MxVWkwb21vOW5kSG15dlRMLS1HS1JiR2Z0c0p2U01lOWt2UQ?oc=5",
+     "ora": "2026-11-26T09:51:20+00:00"
+    },
+    {
+     "titolo": "Bailey, della BoE, chiede uno sforzo internazionale per testare i modelli di intelligenza artificiale",
+     "titolo_it": "",
+     "riassunto": "La Banca d'Inghilterra chiede uno sforzo internazionale per testare i modelli di intelligenza artificiale. È importante per la sicurezza e la fiducia nell'IA, anche nel settore aerospaziale.",
+     "fonte": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0MzdwNnpwZExuTGFicDE2Z3l0My0zVjJNY3F3SjNCVzhNRkt0M3lLRjg5S3BDZlh3UTZVMzBXQ0hyQ2prcl9ZYjZwZjc4V3pkTDBjUEMwR0lEVzFOYzROaWlYZ0p3MkZWWTRTdDNJbHFJVkh6UDVJ?oc=5",
+     "ora": "2026-11-26T11:31:13+00:00"
+    },
+    {
+     "titolo": "Anthropic: Claude trasforma gli Artifacts in app desktop",
+     "titolo_it": "",
+     "riassunto": "Anthropic trasforma gli strumenti chiamati Artifacts in app desktop. Serve a chi sviluppa con l'IA, perché rende più facile creare e usare applicazioni con Claude.",
+     "fonte": "MRW.it",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVFTWW9PazhpMEZSVy1mV2l3ZWRmQTkxN2plZHVEMS1RdzNxeGpKWGdkRkk1SUpSX3lSNUxaNFVlY1g2UHllT2tEWG0xQk5EVEtfT0JLbDh1WWxaYVJKNm9DZlB0R0FnSGg2QmFnN1ZtczZIWllENGNkc2drdmtTLS0zb09nWlU?oc=5",
+     "ora": "2026-11-26T10:32:06+00:00"
+    },
+    {
+     "titolo": "I modelli segreti di Anthropic e OpenAI fanno paura anche a chi li crea",
+     "titolo_it": "",
+     "riassunto": "Anthropic e OpenAI hanno modelli interni che spaventano anche i creatori. Riguarda la sicurezza e le capacità reali dei modelli, temi rilevanti per l'IA in ambienti critici.",
+     "fonte": "macitynet.it",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jOEpuTWd0Y0ItanBqVVp4UnMxWHB4U0RsMVFaMGdjOEQ4ZmRzcnRqYmpNUTJtTGdZcTZfN2dtU1F1UjRQVUZEcS1zZEg2V1FpRjdqUklfcVlpX0xKTFV3MlNubG93a0lCbFhJSEE5M1k?oc=5",
+     "ora": "2026-11-26T12:00:41+00:00"
+    },
+    {
+     "titolo": "OpenAI e Cisco lanciano Shirudo: runtime open-source eBPF che protegge Linux senza riavvio",
+     "titolo_it": "OpenAI e Cisco lanciano Shirudo",
+     "riassunto": "OpenAI e Cisco lanciano un runtime open source che protegge Linux senza riavvio. Interessa l'infrastruttura e la sicurezza dei sistemi che usano l'IA.",
+     "fonte": "SHIFTS! Magazine",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZGZLMk8xdXh6NEFaZnI1MG9BS0JSZ3hZNkRvMTJvZjM3QWgwbWtlc1Zad3QwNzRnR0NfWFZZTUxCeFBUUlNzVTRMU0o3X0tOcHdIQlBqcXFHRElYM0JJaXUza1JLa05HZVZfc3B5LUFBalFxNkJSUldob0VuOHlpYXIwRnhuTTVaUDQzZ21Xd0dsc1N4VTYycXNCd1lMUnNsZC1MYVNBWXpqVDdpbUxUREJrY0swZE5CN2ZnTUo5ZGF3VlZOaWl1dmZjc3gyVXFScmRIazY5d1NlVEpRLXIyYU5B?oc=5",
+     "ora": "2026-11-26T11:10:57+00:00"
+    },
+    {
+     "titolo": "Altro che rinnovabili: il futuro dell’IA di Anthropic passa per gas e carbone (con emissioni da milioni di tonnellate)",
+     "titolo_it": "",
+     "riassunto": "Anthropic usa gas e carbone per l'addestramento, con emissioni da milioni di tonnellate. Serve a capire l'impatto ambientale dell'IA, un tema che può interessare anche lo sviluppo aerospaziale.",
+     "fonte": "greenMe",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT28wQlBrZUxCSTB5UjhLMGpRRTFodmNOZnliN3VaMXdUTEFlNi05ZGwwNVpMUE5OWGtuaUVhaVg0cl85dTl2MVU4NV96akdmQkxVYWVibHZkT044emFfNG9VbXRtLVFYOWl4c2R4YzdGSzlKU1hKNjJuZmhEUjRMbklmS015ckpJdHB4YVFPazdQWFcya3g2bVBGMHFCeGlwS1NpdGx3ZzRDS18zSXJ4S1JpUlNnYWc0Rng0dG9wQUF4TmJQTGdURVc4el9HbkotZ3gtVlhxYUpaekF3ME5sd1owTy1zYWRU?oc=5",
+     "ora": "2026-11-26T12:27:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "La prima fabbrica europea di palloni stratosferici lanciati dallo stesso sito sorgerà a Grottaglie: sessanta assunzioni Involve Space e Aeroporti di Puglia hanno firmato un accordo",
+     "titolo_it": "",
+     "riassunto": "Involve Space e Aeroporti di Puglia aprono a Grottaglie la prima fabbrica europea di palloni stratosferici. L’investimento è di 16 milioni di euro e sono previste 60 assunzioni entro il 2027, un’opportunità concreta nel settore spazio per ingegneri.",
+     "fonte": "Virgilio",
+     "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOWW5YYWZNc3p1MUtod0lxMkI0bWpHbmRhVVhOb1N5c1o2djQ1eEZNZF9vd1UzVFB3dGJlQ3QwdGZPcUxEczExcUh0a0hBM0JpUmtxVWdlV01kMzhVZUpITDlkVDh4RXdleG5VaTdQOFFMOWN3MzRsZVJPRjFZRXprRm44Qk1qRGhUWXBrVnNJR3VuR2VzUkpSZW4tTXNOVVA3eG9nanI1RzRhRnMwUHUxeWdpQlFaYXhWblh4SlAyRDRmR1Ntbl9LRmlYYkNRUlhtcDE3WlpIUUM1QVZoQmtZY2VmM0hVNUhrR056MGRGR1YyMmdvb0UwMVRTMEhMNzNCelkxLU9FNC1sTkhRcnlxZGo1elpkOXpQX01lQ1pCXzNYek4tQWMxZ0R4VFBmbkd3Z2FOSmotQmoxLXNjeFNpdEx3a0pWZ2dnNjhaZWl2TzJJYU82bGc2VW9XX053Y09uQVkyVG5fZ9IB7AJBVV95cUxNRWdyTW9VMmszVnFFRm82cjBzREhWamVieUdYdDhRbFpvdFJnZjZZQkdwbC1sUlZwRURxTmJodXBYeTdmR1UtZ240YXdIaVdUU3l4Y3NlZVdWdHZaRTBjcVN1VHBWcm5WX2U5M01KWE03YS1nWW5JQVRxX0ZvYVdkbTV5d2dyVDdLZ1ZLYzJaSjhHMWZNWXhLVzcyNGFWVzNxOXRKOFpUN2c0SzIwYVFzdWJwaGJnbmU4ZG04dVRsd0UyREl3dG9sWFZxSXlwVkFFb0RHQ29WcTREbnBaWElLSHlyaTk5ZVpfNUxBa2h3eWV3b0pBWGpjNHRDazJkaGNJX0g5UWVKdnhqZF8yYTJGRGM1ekdvdXpfR282RkhVZ09hUlNoMzEwNHhzRnJWSGZqaHBLbkc5anlHX2NMU3pCXzRZbzZ2TXdZbHBYZzdYcmoxeWRQX1hNUFhlWlBJUmVyRmkzNEYyUkU0Q2Fa?oc=5",
+     "ora": "2026-11-24T11:13:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Taxi volanti e hangar digitali: la nuova spinta dell'aviazione cinese",
+     "titolo_it": "",
+     "riassunto": "La Cina sta testando taxi volanti per passeggeri a Guangzhou e digitalizzando la manutenzione aerea a Pechino con hangar digitali. Conta perché segnala l'accelerazione cinese su Advanced Air Mobility e manutenzione predittiva basata su AI, aree chiave per la competitività industriale futura.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/26/taxi-volanti-e-hangar-digitali-la-nuova-spinta-dellaviazione-cinese",
+     "ora": "2026-11-26T15:00:21+01:00"
+    },
+    {
+     "titolo": "Due tecnici italiani della Rheinmetall morti in un attacco in Kuwait",
+     "titolo_it": "",
+     "riassunto": "Due tecnici italiani di Rheinmetall sono morti in Kuwait nell'intercettazione di droni iraniani diretti su un sito strategico. Conta per la sicurezza del personale dell'industria della difesa in teatri operativi e per l'evoluzione della minaccia drone su asset critici.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/26/due-tecnici-italiani-della-rheinmetall-morti-in-un-attacco-in-kuwait_060489c8-4e35-4f04-9c6a-ade4a80acda4.html",
+     "ora": "2026-11-26T15:36:17+01:00"
+    },
+    {
+     "titolo": "Strategia artica UE: i Paesi nordici saranno la porta europea verso lo spazio?",
+     "titolo_it": "",
+     "riassunto": "L'UE sta definendo una strategia artica che potrebbe rendere i Paesi nordici la porta europea per l'accesso allo spazio. Conta per le future infrastrutture di lancio, la sorveglianza spaziale e la politica di sicurezza europea nel settore.",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/26/strategia-artica-ue-i-paesi-nordici-saranno-la-porta-europea-verso-lo-spazio",
+     "ora": "2026-11-26T16:00:54+01:00"
+    },
+    {
+     "titolo": "Mattarella: 'IA presenta prospettive suggestive ma anche rischio di arretramento'",
+     "titolo_it": "",
+     "riassunto": "Il Presidente Mattarella ha richiamato l'attenzione sui rischi di arretramento umano legati all'IA, citando l'enciclica 'Magnifica humanitas'. Conta perché definisce il quadro etico e normativo italiano su LLM e automazione, rilevante per fattori umani e certificazione.",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/26/mattarella-ia-presenta-prospettive-suggestive-ma-anche-rischio-di-arretramento_4b559ed6-2abf-4449-94b2-db7c93b46ec2.html",
+     "ora": "2026-11-26T15:00:12+01:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
