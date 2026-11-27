@@ -1,0 +1,231 @@
+{
+ "giorno": "2026-11-27",
+ "creato": "2026-11-27T15:08:53+00:00",
+ "in_breve": [
+  "Nello spazioporto di Grottaglie arriva la fabbrica di palloni stratosferici con un investimento di 16 milioni di euro e prevede 60 nuovi posti di lavoro.",
+  "Claude ha dimostrato l'ipotesi di Riemann dopo 167 anni, un traguardo importante per l'intelligenza artificiale e i modelli linguistici.",
+  "Nel dicembre 2026 ci sono oltre 4200 bandi pubblici per assunzioni in aerospaziale, informatica e automazione, offrendo molte opportunità di stage e lavoro in Italia ed Europa."
+ ],
+ "modello": "baidu/ernie-5.5-flash-preview:free, liquid/lfm-3-1.7b:free, nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free, nvidia/nemotron-3.5-super-vl:free, particle-ai/particle-1:free",
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "Avio - CEO di Leonardo: decisione sull’OPA ICEYE attesa nei prossimi mesi",
+     "titolo_it": "",
+     "riassunto": "Il gruppo Leonardo ha comunicato che la decisione sull'OPA su ICEYE attraverso Avio è prevista nei prossimi mesi. È rilevante per il futuro del settore spaziale e difesa italiano e per le opportunità di lavoro in Avio.",
+     "fonte": "Websim",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQmlXNndhaWNZWjNpb3JkczdVd3htbUVwNE1XWnV6VnJOQklkcUFvTkZ1SFhyNGZFZ0Y3VHNHU05temhQZFpJWDBrbjNwV2Vjb1BXMGdXRDZmcWFnMGFHM2doMWNzWTBRbFNBX0Q1bmEtX1RLbEZka3VLQnpPczhydGMwWU5YeVUtZWxTVjNPOU1vcHdSN0puTTFRXzlfTkh0UkU0UExQd0xEX21nVXhN?oc=5",
+     "ora": "2026-11-27T08:37:33+00:00"
+    },
+    {
+     "titolo": "Enav, registrato il record di gestione voli, Italia prima in Europa",
+     "titolo_it": "",
+     "riassunto": "Enav ha stabilito un record nella gestione del traffico aereo, con l'Italia prima in Europa. Interessa chi studia ATM e vuole capire le prospettive del controllo del volo nazionale.",
+     "fonte": "www.ttgitalia.com",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnBQVW1SYzZmT3pLZG5FUEZDV080VmNEWjU4RWJFRDdnWFpYNW03SVpQQ19CZzYydHI4S3h0OUtGMjBaYjJUYS1hczVQbXNZakxvWldqU1FSdVBURmpFcUo0ZVRDLVllQTVxcjdhTzBBTnFIOHE5VjljTFE2MER4YUlfZmJRY1I0UzhKWjdfTUFjMjk2eHk2Q3JlTVBIeVpsVTBfYzdSM3ZmVHNkMmoxR2NRR0I0UDhaZHc?oc=5",
+     "ora": "2026-11-27T07:14:05+00:00"
+    },
+    {
+     "titolo": "Malpensa, l'Enac taglia i voli all'alba per ridurre le code in dogana. Gli aeroporti europei a Salvini: «Danno senza precedenti»",
+     "titolo_it": "",
+     "riassunto": "Enac ha ridotto i voli all'alba a Malpensa per le code in dogana, provocando proteste da parte degli aeroporti europei. La notizia tocca la gestione aeroportuale e il coordinamento tra autorità nazionali e UE.",
+     "fonte": "Corriere della Sera",
+     "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQVFZfakU3dUlIc2oweXlXMXBHZUdiN3d1ZjlnRHlsaHA1bmVZekhBNVB4d2lnTG9pLXZ2VXBZYXBkajZZRlItZlpwbHF6dXEzeXYzMFk2YzYxSkJwZDBORjh6NTEyX0xzWmFqTVZnZUdJaGJ2c0tHVkZBaG1vVElJcWEyU2NJWnBtalg5SF9vcXJ2NkwyWG50ZkVtYTdaaFhHREpHYkpSNXBLT1NkYXhHS0hrMDFGYlU4RGFVeDdPZ3U3dFl3N25nZ1BVOERaZkxJVllkdC1hc2FKZ1YybGxTNzAtREZ0T1pINlZnSHRwREM5bFlxSjBPZG50b0Q2M2d1eU02dUUzRmlvSnRtNU9MbUpIZXVoNEdneEhLa1ZtbndrMmxWUXBubUJlX1d6NE5QVWtFNDBnX0tSYjZxdkpzbHNtaHgtRXJyM29oUGs5WdIB1AJBVV95cUxPYUppcTRTWmNfRm9fWDU4bTE3SVhwcXRYNDFNS3hwbkYxWDRXdXdmZEp6anJZOTJmZUh5UUZ1SW1kVXFaeTRjWjgwdmhZOXBFc1lnYW9leGNvc1lLQ0tKS09fenUzZVlhdGJtSzNIWXBZdEctOFEyWXBJZElfNTZ1bmhnSHB6X194UFlYamwxNF8xQkRqc09RYXNHekdEWExpY1k4UzFiWVlqbGhCTW5TZ2s4MTc2YVRKcHF4MVlicnNha3I0eHVQSm9oRmFiTVJRX1RhVEFma3h3YllXdnkyTUs4OGw2ZTZ6c005cTlqNDB0TlZwN0dFdHlMajZCaWpZeE14NVpRRnc0V2hyeVlqWEs4Njh6d0pvMWJkUE5QSXpqSVBGamltcE1yT3BvLVNJVVQwaV9CUVpTdi0zdjhadXJzdXlaVGRHbm0tcFljTmxrU1RF?oc=5",
+     "ora": "2026-11-27T07:06:00+00:00"
+    },
+    {
+     "titolo": "Boeing to win lion’s share of Qantas widebody order over Airbus: Bloomberg",
+     "titolo_it": "Boeing batte Airbus nell'ordine widebody di Qantas",
+     "riassunto": "Boeing si aggiudicherà la maggior parte dell'ordine widebody di Qantas, superando Airbus. Mostra le tendenze di mercato tra i principali costruttori di aeromobili.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/boeing-qantas-widebody-order-airbus-dreamliner-a350",
+     "ora": "2026-11-27T10:46:48+00:00"
+    },
+    {
+     "titolo": "Aeronautica, Leonardo presenta il nuovo M346 per le Frecce tricolori",
+     "titolo_it": "",
+     "riassunto": "Leonardo ha presentato il nuovo M346 per le Frecce Tricolori. Riguarda un prodotto industriale italiano importante per la difesa e la formazione dei piloti.",
+     "fonte": "Giornale di Brescia",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2d5S01rSFFnSDNkSmFKWW9kbDJ2bjBBV2lpZGYwS3NWSVlZMl9kNEluRUMyV1BTOU9oMnZPb2R5b3QyQzkwY2h2UzBOV1d1NS1kdk9RNzVwMlZ4eEdpcjJtTHJuU2ZyM0tpX2ZST0cwYU1WTDJqT2pFWXVoamNGS3g3NnJHb3h2b01WRWRfbG1rV2VPNE5xQkNnVTlJZ0QyVHF6M1hmNF9ua3M?oc=5",
+     "ora": "2026-11-27T09:53:56+00:00"
+    },
+    {
+     "titolo": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+     "titolo_it": "NASA lancia missione per colture nello spazio",
+     "riassunto": "La missione NG-25 della NASA trasporterà sulla Stazione Spaziale Internazionale un sistema innovativo per la produzione di colture nello spazio. È utile per chi segue la ricerca spaziale e le scienze della vita in orbita.",
+     "fonte": "NASA",
+     "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+     "ora": "2026-11-27T14:22:00+00:00"
+    },
+    {
+     "titolo": "Emirates and Etihad A380 aircraft among eight requiring EASA ordered inspections",
+     "titolo_it": "Ispezioni EASA su otto Airbus A380",
+     "riassunto": "Otto Airbus A380 di Emirates ed Etihad devono essere ispezionati su ordine di EASA. Riguarda la sicurezza del volo e le norme di manutenzione europee per i grandi aeromobili.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/emirates-etihad-a380-aircraft-easa-ordered-inspections",
+     "ora": "2026-11-26T10:11:16+00:00"
+    },
+    {
+     "titolo": "Boeing’s Dave Schulte on why Southeast Asia will need 5,000 new jets by 2045",
+     "titolo_it": "Boeing prevede 5.000 nuovi jet in Asia entro il 2045",
+     "riassunto": "Boeing stima che il Sudest asiatico avrà bisogno di quasi 5.000 nuovi aerei entro il 2045. Delinea le prospettive di lungo periodo del mercato e le possibili opportunità di carriera.",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/boeings-dave-schulte-on-why-southeast-asia-will-need-5000-new-jets-by-2045",
+     "ora": "2026-11-27T04:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "167 anni per trovare una risposta, poi arriva Claude: dimostrata l’ipotesi di Riemann",
+     "titolo_it": "",
+     "riassunto": "Claude, il modello di Anthropic, avrebbe contribuito a dimostrare l'ipotesi di Riemann, un problema matematico aperto da 167 anni. Conta perché mostra cosa sanno fare oggi i modelli linguistici su problemi complessi, tema centrale per chi studia intelligenza artificiale.",
+     "fonte": "Red Hot Cyber",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYi1PZEswSmI2M041TERnT1RCR21YOWZtYlFmd2t3cDl6QUtCeFFaSHVWTzN4clpSeDk1WHNBRm9FYlRqYlZISEpDemp0ZkZsTnFMSFFjUHBsR0dWRDRpVkEtM3Q2MmdUWHNrYi1lT3NwcDlSa2pPNnAyUlY5ZmY2TDlvS3lPYWZudkNZLWxlRW1uOEJveGR3T0xSWEppN0h3SG90VW5BdzhaOUtscTZsS3h6MTNrVEhieGc?oc=5",
+     "ora": "2026-11-27T06:58:00+00:00"
+    },
+    {
+     "titolo": "SHA-256, prima collisione a 38 passi su 64 trovata con Claude",
+     "titolo_it": "",
+     "riassunto": "Claude ha trovato una prima collisione parziale sull'algoritmo SHA-256, un risultato rilevante per crittografia e sicurezza. Conta perché collega le capacità dei modelli linguistici alla sicurezza informatica, ambito vicino alla sicurezza dei sistemi e del volo.",
+     "fonte": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHpQaWNPTzF0TmZVTXpLakx1b2J3R3VNbGdVbDROYlA0VFZqMlJuYzdfVHRHRVp5VUNpQWNMNFVVQjJlY2lwbXM4dkdhV2RMTU5qbzY0a0pfSzJFR1dtdXZjcko2dm84c1paQlNaQWhRaG5jNzBqSlh5b3JFT3htTA?oc=5",
+     "ora": "2026-11-27T06:41:15+00:00"
+    },
+    {
+     "titolo": "Anthropic: in 14 modelli AI tornano risposte «cancellate»",
+     "titolo_it": "",
+     "riassunto": "Anthropic ha rilevato che in 14 dei suoi modelli tornano risposte che erano state cancellate. Conta per chi usa Claude perché riguarda l'affidabilità e la sicurezza dei modelli linguistici.",
+     "fonte": "Tom's Hardware",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmYtY1BfSFhrVjI0Q3JjVzZmRmx1ZXNqMkhKR3FJOWxxRTZIdWRmTUZGWEJsaEcwRjR3MGt3d1BURy1sdURTUnVpaDctVnVuRTlEamZKbVdlZzV1bVozU3hERDN1V1c3Q0Z6SFNHMlZuLVVsbUhFQjV4c0JFMjlJbVBwM3J3SXhyUXByRHJLQlE3TXZTWGc?oc=5",
+     "ora": "2026-11-27T11:00:10+00:00"
+    },
+    {
+     "titolo": "Intelligenza artificiale “agentica”: le indicazioni Acn per contrastare le campagne di compromissione automatizzate",
+     "titolo_it": "",
+     "riassunto": "L'Agenzia per la cybersecurity nazionale ha pubblicato indicazioni sull'intelligenza artificiale agentica per contrastare campagne di attacco automatizzate. Conta perché l'AI agentica viene usata sia per difendere sia per attaccare, un tema di sicurezza sempre più attuale.",
+     "fonte": "Enti Locali Online",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSFBxVlNQNjJxNDc3WktENDV6LS1KUnYtdHZfLXdVMklINTNtcl9qd1E5ejdaWHgzU1JSMGVvT0VoRGNrSkRWcjE4MkltSlV4YkNOdnp1MnUtdHczMmsyYjRnd2RfUVpLWWNiRm14aS1iQ1EzNzRBclQ3blJNS0h4cHpUNGhYOFpObEY5VGZIck5nMk9lQ2k3WEZadDNiNUY3UHQzbm4wWTBxZ0R1MEF1cnZ3V0I5M1J3aHJoemE0S0dreUk3cjJ2UDk2TVlUSkd5aUV6NW9wcFZKRTBaVFRv?oc=5",
+     "ora": "2026-11-27T13:55:09+00:00"
+    },
+    {
+     "titolo": "Cisco e OpenAI lanciano il progetto open source Shirudo per la difesa autonoma",
+     "titolo_it": "",
+     "riassunto": "Cisco e OpenAI hanno lanciato Shirudo, un progetto open source per la difesa autonoma basata su intelligenza artificiale. Conta perché unisce due grandi nomi dell'AI e della sicurezza in un progetto aperto, utile da seguire per chi lavorerà nel settore.",
+     "fonte": "Hardware Upgrade",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc0xDNkMzNjZMOGlVb2pmMmkxd1Y3SldKV19QS0F3bHNJMWxvYUZzZFlVYmd3elJwTEo5b09LTUZJT1kyMWN3ai1UMHNRUnZnQTlNRzlDV0pxQ00wSWVDRVZKTThOckRfVmpoYUlWdEV1eHpsMGhqUTdEZDktc0ZmSEROTGZHVEVTcGIxby1xb1BCN0E3aEZiWVYyLU9yOENRY0J0RTJ3SmlmclR2V3NTZWtwUEtNMEtGZDJ3RVVpVUdyTVM0bTlSb2xTMA?oc=5",
+     "ora": "2026-11-27T11:11:03+00:00"
+    },
+    {
+     "titolo": "Nell'era degli agenti di intelligenza artificiale, la semplice scrittura di codice non è più sufficiente. A cosa dovrebbero prepararsi i giovani?",
+     "titolo_it": "",
+     "riassunto": "Un articolo riflette su come, nell'era degli agenti di intelligenza artificiale, saper scrivere codice non basti più e su cosa dovrebbero prepararsi i giovani. Conta per uno studente che si affaccia al lavoro e vuole capire quali competenze sviluppare.",
+     "fonte": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMWt3Um4yelZteXJFQnBMTlZ0QmdtYmctUDZHSG84cFhpYkdvX3JOSTBZN2llV2JRb0FheGxFMDl1OENwU045SlpqX2Rlb2ZUa18wSnNwWW5NekkwOUxzRHhiU0pJcnA0RWJnQm90T2lFZW1PWV9kMi1zTkFIb2NCSTNKY19CTGxwMHYzNzlpdXpITm1BMUxHaUN3ZGdGQnFwb1JlbWpxUVlWRDRQ?oc=5",
+     "ora": "2026-11-27T09:58:18+00:00"
+    },
+    {
+     "titolo": "I numeri dell'Ia. Modelli sempre più presenti mentre cresce la paura per la possibilità di perdere il lavoro",
+     "titolo_it": "",
+     "riassunto": "Un'analisi riporta i numeri dell'AI e la crescente paura di perdere il lavoro con la diffusione dei modelli. Conta perché tocca l'impatto dell'AI sull'occupazione, rilevante per chi cerca stage e lavoro.",
+     "fonte": "L'Espresso",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLU55RHNxWFR5MldaUU9NNTBVZzJVRFZBMlhtaWxya0djcnExc1NlSFNzT2t0Z0piWjJVYklya09jYUF6WDFESDNxZjBPV0lYeTVSaFkyQ2RhQllhVnVZY0tlbEFtdENzQjFCSWkzVElBMTJvc2VDeUV0ckh0MGNBZDBVNGZzczl0bUY4VmtMTWVYdXRwTkpRWDhCeTlTOGU4YlhmSmJfaDdONVdkckNtZ2Z5Rkd3RGl3UC0zdA?oc=5",
+     "ora": "2026-11-27T12:28:51+00:00"
+    },
+    {
+     "titolo": "OpenAI corregge GPT-6.2: Astra raggiunge i limiti il 40% prima",
+     "titolo_it": "",
+     "riassunto": "OpenAI ha corretto GPT-6.2 dopo un errore di calcolo e ora i limiti di Astra si esauriscono il 40% prima. Conta per chi usa questi modelli perché cambia le condizioni pratiche d'uso del servizio.",
+     "fonte": "AI4Business",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1JYSmN4VjhoWlpWZHVrWWp2V05OeEEyTUozeWxZeTZ2VnNUT3dZb3lVYVNBX1NoLWdoWjlHNG1od0V2Z0RsQ1JMQlBqZVZjblByOF9ZcTYwZ2txMU9qWno5eXk3ZnptOGliUEYzdDNzUGk5NTdvQXhQRlhleDNTNWhidHA1eloybFhzNjdwZWp5M2ZjV3J5SFpTNFFFd01SWjcyeEVUMGVIYm5IWlVjUFFfVQ?oc=5",
+     "ora": "2026-11-27T09:21:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Concorsi Pubblici Dicembre 2026: oltre 4200 assunzioni, bandi e scadenze",
+     "titolo_it": "",
+     "riassunto": "Il prossimo dicembre 2026 saranno attivati più di 4200 concorsi pubblici, con bandi e scadenze, offrendo numerose opportunità di assunzione per laureati in ingegneria e settori correlati.",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZUVHa25MZFpOMTFzQl9JUmdESVluQ0hidFBOTlBRSm01UU9TWFlYMVNXVUo0bzkwa25BN1FxRi05RlJXaGU3TlZicVRrdW8tTVhOZVVWUTZpd3F3enY1TEJER2NkMDdUaGE3dGl4VnZGcWltQ3lwbFBTcnZRN2Q3b2dzSjhkczBLSWtMX19CYw?oc=5",
+     "ora": "2026-11-26T10:45:56+00:00"
+    },
+    {
+     "titolo": "Laurearsi lavorando: come funziona Ingegneria Informatica e Automazione LM-32 online",
+     "titolo_it": "",
+     "riassunto": "Il corso di laurea online in Ingegneria Informatica e Automazione (LM-32) permette di conseguire il titolo lavorando, utile per acquisire competenze in AI e automazione applicabili all'aerospazio.",
+     "fonte": "News Istruzione",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQamhBLTRHbFEwZklxbXV1THJ3d0cyZzA1TzBCWlR3UDA0R0tEbW16RW9yTXl4Sm15YjFXQVRxY0VvbWQ4ZzVvakRfdmtabzV0VmVXeGNqMFZmU3RJQ2YtVDVia2o3a1ZwWXN1ZUotTU9NbTN1VmJCQVlDRGFHRDhmYzdnUDBmVVNYRDY2WG8wYkEteWtCeHlPVmVTQ3VlRGRPeU5hTGRzTFBnd9IBqgFBVV95cUxQamhBLTRHbFEwZklxbXV1THJ3d0cyZzA1TzBCWlR3UDA0R0tEbW16RW9yTXl4Sm15YjFXQVRxY0VvbWQ4ZzVvakRfdmtabzV0VmVXeGNqMFZmU3RJQ2YtVDVia2o3a1ZwWXN1ZUotTU9NbTN1VmJCQVlDRGFHRDhmYzdnUDBmVVNYRDY2WG8wYkEteWtCeHlPVmVTQ3VlRGRPeU5hTGRzTFBndw?oc=5",
+     "ora": "2026-11-25T07:35:00+00:00"
+    },
+    {
+     "titolo": "Nello spazioporto di Grottaglie arriva la fabbrica di palloni stratosferici: investimento da 16 milioni di euro, pronte 60 assunzioni",
+     "titolo_it": "",
+     "riassunto": "Una nuova fabbrica di palloni stratosferici apre a Grottaglie con un investimento di 16 milioni e prevede 60 assunzioni entro il 2027, offrendo opportunità di lavoro nel settore aerospaziale.",
+     "fonte": "Corriere Bari",
+     "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPUmxTZ0xidmR0REVuLXgxdE4tMHRrQlc3YldNRktHcHV2T01leU14dGlmZW5faGZPMmY3bDJlaFRyRHlRTlR0WkE2VXZIXzVNMDlvOUFxSjlGMVVvbWVfUTFsX3RpbVpZVExFOUZVNnU1Rl9renJNWTJDZHZ3amtvQktkeTNUOEU2UHpuTm9OX1RnTWlITFF5NHNlTkJrWkhaNzNuRmZRMkpmOFNXOHh3aV82TF8yazEweFNQODFad3JmMU5uSjF0cWpRTmdHZTFUaWQ2NlFZY2tXNlpHc3V3YTV5T0ZPSlVqUjJEUkUtTmQ1MGJUYTFYb0l1a0hrWVNxVjVzdWVRLXlRZmliZkJpNlhYeGYybUlxbnEtSVFFdG5tZzlrbGFOTTFIekVKNG81Y2FKa3FrREZweDlQbVBCTV930gHHAkFVX3lxTFAtRXM1OG5vOEFSYkNBTkxCUFI0VkRTM2pzVW9paHUyVDhDWmNZSVhLVElyZXFSazdHcGZmWFVSTTdkUC1RSU1sUmRmSkdZQVNqeHZ0RzhLcGllUTFCdnNKWkdTSUJURjNrZGtlTkN4eEN1bmxzUVBxZS04SlF1X3YyRk1lWlF0TU9iQ28xVkRfTnN1RU91MEFLaU9kOHN6YS1mZVNzYkNIZWVUbWppdjJTbmR5aS1landybF9HLTA1dWNZbXNBMG9kZmhLY3JzSklEWUxrVzFXbzN2cHNEQ0ZHc0JxdzJyUDMyUnNISUxvYW5OTjRFeWtvN1YyVUh1TXF2VE1zakxCMU9qOTl1X0p5YlZSMWJVaWtxRGhmS3ZxbTJ6NkJpWjBRR2theE95MGZOZFhhMDgyemhETjFCRm5FTi1BcWZrNA?oc=5",
+     "ora": "2026-11-24T11:32:07+00:00"
+    },
+    {
+     "titolo": "«Aeroporto Arlotta, un altro progetto industriale mentre i voli di linea restano un miraggio»",
+     "titolo_it": "",
+     "riassunto": "Il progetto industriale dell'Aeroporto Arlotta a Roma avanza mentre i voli di linea restano incerti, indicando evoluzioni nel panorama aeroportuale e ATM.",
+     "fonte": "Buonasera24",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVXVub3VQSHAxWnc0dEp3a3hfaHk1YnVDWnAzX3gtWFRHc2xVaFB4elo2UUlabFQ3N1JiMl91eDNtUWY0aEluNjUyS2NVOXJPUXphTE5KNjJPZ0l2YWpLQmhYSS1JVTBRZ1VaS0RPYXpzcGFqb2pnZHZ0c0NEUU90VWlHTUtUcTZ5RHB3TlhqZUREU2xuMXRITXhCWmozLWswVDk1VVRBOFpKNXdJZVB0VVJkcUktcnB3TnoyNzd6NGpGX29RZDV6YmhReFZPemtManhkZ1B6OGtqZw?oc=5",
+     "ora": "2026-11-26T15:04:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Norse Atlantic, la compagnia aerea norvegese dichiara fallimento: cancellati tutti i voli",
+     "titolo_it": "",
+     "riassunto": "Norse Atlantic, compagnia low cost norvegese, ha dichiarato fallimento e cancellato tutti i voli per l'impennata dei prezzi del carburante legata alla crisi in Medio Oriente. È un caso utile per capire la fragilità economica delle compagnie aeree e gli effetti dei costi del carburante sulle operazioni.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/mondo/2026/11/27/norse-atlantic-fallimento",
+     "ora": "2026-11-27T15:02:51+00:00"
+    },
+    {
+     "titolo": "Borghi (Lega) e Alfieri (PD) ospiti di Start",
+     "titolo_it": "",
+     "riassunto": "Nella puntata di Start si parla dell'attacco in Kuwait in cui sono morti due tecnici italiani della Rheinmetall, con l'Iran sotto accusa. Il fatto riguarda la sicurezza del personale italiano in area mediorientale e il settore della difesa.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/politica/video/2026/11/27/borghi-lega-e-alfieri-pd-ospiti-di-start-1143343",
+     "ora": "2026-11-27T15:15:12+00:00"
+    },
+    {
+     "titolo": "Guerra Iran, Trump: \"Cina e Russia desiderano la fine del conflitto\". LIVE",
+     "titolo_it": "",
+     "riassunto": "Trump ha detto che Cina e Russia vogliono la fine del conflitto con l'Iran e che, secondo lui, stanno aiutando in tal senso. La crisi pesa su rotte aeree, costi del carburante e scenario geopolitico per difesa e aerospazio.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/mondo/2026/11/27/guerra-iran-usa-trump-news-diretta",
+     "ora": "2026-11-27T16:00:00+00:00"
+    },
+    {
+     "titolo": "Australia, approvata legge che impone ai social di consentire il blocco degli algoritmi",
+     "titolo_it": "",
+     "riassunto": "L'Australia ha approvato una legge che impone ai social di permettere agli utenti di bloccare gli algoritmi di raccomandazione. È un segnale rilevante per la regolazione dell'IA e dei modelli linguistici usati nelle piattaforme.",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/mondo/2026/11/27/australia-social-network-blocco-algoritmi",
+     "ora": "2026-11-27T14:23:41+00:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
