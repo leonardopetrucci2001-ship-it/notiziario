@@ -1,0 +1,211 @@
+{
+ "giorno": "2026-11-28",
+ "creato": "2026-11-28T14:14:24+00:00",
+ "in_breve": [],
+ "modello": null,
+ "argomenti": [
+  {
+   "id": "aero",
+   "nome": "Aerospazio",
+   "notizie": [
+    {
+     "titolo": "EASA orders emergency checks of Airbus H160 cockpit windows",
+     "titolo_it": "",
+     "riassunto": "Europe’s aviation safety regulator has ordered emergency inspections of Airbus H160-B helicopters after an assembly-line check revealed that…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/airbus-h160-emergency-cockpit-window-inspections",
+     "ora": "2026-11-27T21:13:00+00:00"
+    },
+    {
+     "titolo": "Why An Airbus A321XLR Captain Crossing The Atlantic Thinks About Diversions Differently Than A Boeing 787 Captain",
+     "titolo_it": "",
+     "riassunto": "A 787 can fly 330 minutes from the nearest diversion airport. An A321XLR gets 180. Here is what that difference means over the North Atlantic.",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/airbus-a321xlr-captain-crossing-atlantic-thinks-diversions-differently-boeing-787-captain/",
+     "ora": "2026-11-28T11:15:18+00:00"
+    },
+    {
+     "titolo": "L’Aeronautica militare potrebbe essere stata vittima di un attacco hacker | La priorità assoluta è la sicurezza",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Zazoom Social News",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNekxrYXRBTm55N1VCU0ZyYi14NWpER29veFkwOUNYbkkyeEhsLTZMWk1qM09NQkxOTHRockJoTkx4XzVFeEt1aEVpTnVhdFN1NzRzM1l2MHRWWEcxSmMycEphNmVLbEZxQXp6b1paTTJ2T0RnWmR3UkFZempUUUlVTmI1dV9zTU1YYWpxMjlndnlwYXNhcXY5MHpUM2hxUlVtbGczdE5pWDBFSzBERE9aS0FBSUNGOWJjVTFwSXQ0bHBzME1vU0xQUm1POXpMTGVGTF85VUlJa2paRk9sSGZ3dS1la2VfUQ?oc=5",
+     "ora": "2026-11-28T13:26:57+00:00"
+    },
+    {
+     "titolo": "Delta’s Amazon Wi-Fi At Risk Of Delay As Boeing-Lockheed Rocket Failure Destroys 40 Satellites",
+     "titolo_it": "",
+     "riassunto": "Delta Air Lines' high-speed WiFi rollout plans have hit another potential hurdle following the in-flight failure of a United Launch Alliance (ULA) rocket in mid-November. The Vulcan rocket experienced what ULA is calling an 'anomaly' shortly after its launch on November 15th, resulting in the loss of its payload. In…",
+     "fonte": "Simple Flying",
+     "link": "https://simpleflying.com/video/delta-s-amazon-wi-fi-at-risk-of-delay-as-boeing-lockheed-rocket-failure-destroys-40-satellites/",
+     "ora": "2026-11-28T13:24:18+00:00"
+    },
+    {
+     "titolo": "Scalata su Avio: Iceye punta al controllo, mille lavoratori in bilico tra Colleferro e indotto",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "RomaToday",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UTEs3RGV5MmZNdktGWVY2NXVCbmRRUy0yZjZTZ0RMRk5rSjFLRVlmS1VIWFpiQ21KdFlGSHliY1A4blRad01mQ0UxMmswN3htdUhyanRIMFFkS2RFQTFuLThQMVU1X20tQXlFcTBiYVQ?oc=5",
+     "ora": "2026-11-28T13:09:44+00:00"
+    },
+    {
+     "titolo": "Boeing to win lion’s share of Qantas widebody order over Airbus: Bloomberg",
+     "titolo_it": "",
+     "riassunto": "Boeing is set to win the lion’s share of a potential Qantas widebody order over European rival Airbus,…",
+     "fonte": "AeroTime",
+     "link": "https://www.aerotime.aero/articles/boeing-qantas-widebody-order-airbus-dreamliner-a350",
+     "ora": "2026-11-27T10:46:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "nome": "AI e tecnologia",
+   "notizie": [
+    {
+     "titolo": "Bad News for Anthropic: OpenAI Nearly Matches Claude Opus 5.5 at “Under a Fifth of the Cost,” per SemiAnalysis",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "TIKR.com",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWlJqNW9Oby1OZGl2SDhiYkVObVJtSFo1WHpFUDJRc2gzcWtKVjdycTR2YjlLQ0dwOFdFdE9ZekZEWk42R0pJZmI3UXBDMnZJeEZXaEUtQ1VVQWI2R1RxTXloSER3MmhBNVFMOXluUkVwdHpDYy1WR3BmYzNOTjduWUlwb1h6UTNiVk9vSUFmY29BdG5vbGx2WUd2T3pfcWJUM3BxRE9HVmNXX1U2MHltTlR0RnowNlhJSWtQdUJ0UEx0a2ZZMjBjTDAwT3MtOGFTT0lBWjFOQ3I5V0RWbmtaN1Vn?oc=5",
+     "ora": "2026-11-28T12:38:32+00:00"
+    },
+    {
+     "titolo": "Il modello italiano dell’intelligenza artificiale",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Diritto Mercato Tecnologia",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS29FeHVGUTFZZ2tvZkIxXzdURm5HWU05akN3TkF1ZklVNjVyWXZmeWlBc2F4S1JYTW5CMFVicnNHbmNweEM2VGYtZ2UwclpCN3BFUVpFRzVRdkx6RnVjM3ltNUI1VmxmQ3ZZSmRJNHBNdUttT0pNUnJ1em13RE9iSENzcVdwdFMwRWI0TmxGX0ItOWFURFlCQi1vNnAwWkJDRVljcg?oc=5",
+     "ora": "2026-11-28T11:41:25+00:00"
+    },
+    {
+     "titolo": "datasette-charts 0.4a0",
+     "titolo_it": "",
+     "riassunto": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the…",
+     "fonte": "Simon Willison",
+     "link": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+     "ora": "2026-11-27T23:57:17+00:00"
+    },
+    {
+     "titolo": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+     "titolo_it": "",
+     "riassunto": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 480 # Comments: 174",
+     "fonte": "Hacker News",
+     "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+     "ora": "2026-11-27T23:06:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lavoro",
+   "nome": "Università e lavoro",
+   "notizie": [
+    {
+     "titolo": "Elezioni Sapienza 2026, chi è stato eletto nelle 11 facoltà e quali poteri ha",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "UniversiNet Magazine",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNanl3U0Nhekg2TDdhSHRNSVU3cW1ETl80MHFKWjZWaXFtejVwMHlTVVlKa0kxTldGQzgzNDFocXJqTkZEVE1xLWItRmw2bTZ0aWdRWGVoTUxnNkVRRmpyUFdfNXM1Z2JaWjZldlFuSzNYZHpCNWxDWEtVVWYxb3J3NQ?oc=5",
+     "ora": "2026-11-28T09:42:42+00:00"
+    },
+    {
+     "titolo": "BNP Paribas: stage per neolaureati in Comunicazione, Economia e Marketing a Roma",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Ti Consiglio",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTM3bWxxNlljSUVQTkFaQnBJa19DOXVkZnd1em9XMXNyLTR4TzVOSEdWQmxJZVJNM3FxOE54SWhiVzBjNUsxZUpCcW1TZ25XTmMzcHZSTkNxaFBPVF9iVzBaMDJPTjlDQjBoaS16RmVhNXJlajJJNERyY3hIaUhtSVMwUU9QdUk0QnRGWlBHcTBqR21OOWFGdjA1YXU?oc=5",
+     "ora": "2026-11-28T08:00:19+00:00"
+    },
+    {
+     "titolo": "Del Vecchio investe sui giornalisti di QnMedia: stipendi più alti, premi e assunzioni per contrastare il precariato",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "Associated Medias",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMlZvM0ZIbHpTVGxyVzNOOUxFNU5HZUdYMFlkRFk3MFZoWmh3UjhZNHFfUmd2MmJaM25NcjJnLXM0X2ZYaHY1d3pJb21KODZqbUJWckNaSmRReEVTWlVjZXdaMUNRTnptUXNZUm9CeV8tOVdFbTFob1NBMVdwNkp4ck1fRHJWaGMzSmpiV0FMTmVZX0tjSEN4NENid2Y3bVZWLTAxaERGZWUtUERva2hSV2lqbUZKcWVpR1NlTUh5X3dfT1hmS0p1OWtFSlRFbGJFd3VDQm5ubE1WRDk2UHkw?oc=5",
+     "ora": "2026-11-27T23:20:44+00:00"
+    },
+    {
+     "titolo": "La Sapienza raccoglie fondi dopo la morte: il diritto allo studio non può finire in tenda",
+     "titolo_it": "",
+     "riassunto": "",
+     "fonte": "La Cronaca di Roma",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOalFMY0xFMmdqWllpNU9MREx2ZnZsdDc0YVVNeG9HV0Rqem5xZ3FOcUJ5VW9xa1ZCdzJBMXVzYk0xV0hjMHFmZ1RFTjR6dkhHaGttbE50aUo1bXhJLXV1SVFFZWFzVWFjY3VIVjh5S1NCU0F3cU9yQkc4NkdQREN2dUhJWXVoZC02QTRPb1VFRExhZkxLVjVKYmZUT1M0b05TXzByeDFkSnNWNUhteGxnODU5VW5ycHEyNXQyNnc5TFJMRXEzUWc?oc=5",
+     "ora": "2026-11-27T16:23:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "mondo",
+   "nome": "Attualità",
+   "notizie": [
+    {
+     "titolo": "Giovane, laureato, precario: l’identikit di chi beneficia della flat tax",
+     "titolo_it": "",
+     "riassunto": "Un approfondimento realizzato dall' Ufficio studi della Cgia ha analizzato le caratteristiche dei lavoratori autonomi che nel nostro Paese beneficiano della cosiddetta flat tax: un’aliquota piatta al 15% sui redditi, con un tetto di ricavi che oggi arriva a 85.000 euro. Questa misura, chiamata regime forfettario , fu…",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/economia/2026/11/29/flat-tax-chi-la-usa",
+     "ora": "2026-11-29T06:30:00+00:00"
+    },
+    {
+     "titolo": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+     "titolo_it": "",
+     "riassunto": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-28T14:10:01+00:00"
+    },
+    {
+     "titolo": "Wrestling, morto Bronson Reed: la star della Wwe aveva 38 anni",
+     "titolo_it": "",
+     "riassunto": "Il suo nome di battesimo era Jermaine Haley: aveva debuttato nella World Wrestling Entertainment nel 2019. A dare la notizia del decesso è stata la stessa società che ha omaggiato il suo campione definendolo \"una figura straordinaria, un uomo devoto alla famiglia e un collega amato\". Reed, a quanto si apprende, è…",
+     "fonte": "Sky TG24",
+     "link": "https://tg24.sky.it/sport/2026/11/28/bronson-reed-morto-wrestling",
+     "ora": "2026-11-28T14:02:21+00:00"
+    },
+    {
+     "titolo": "Serie A: Frosinone-Parma in campo DIRETTA",
+     "titolo_it": "",
+     "riassunto": "Frosinone: Bracaglia e Bobceck pronti per il Parma. Gilardino cerca la svolta Torna Ndiaye in difesa, in attacco manca Romero",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/28/serie-a-frosinone-parma-in-campo-alle-15-diretta_2ff2482a-cad7-47ec-9b14-47e7e5038095.html",
+     "ora": "2026-11-28T14:59:48+01:00"
+    },
+    {
+     "titolo": "Torino Film Festival, a Chiwetel Ejiofor la Stella della Mole",
+     "titolo_it": "",
+     "riassunto": "Il protagonista di \"12 anni schiavo\" premiato alla 44esima edizione",
+     "fonte": "ANSA",
+     "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/11/28/torino-film-festival-a-chiwetel-ejiofor-la-stella-della-mole_4e86b926-1a22-42c8-9ee9-71ba77c70f7a.html",
+     "ora": "2026-11-28T14:59:00+01:00"
+    },
+    {
+     "titolo": "Sud dell'Inghilterra in siccità: si costruisce il primo bacino idrico da 30 anni",
+     "titolo_it": "",
+     "riassunto": "Il cambiamento climatico ha portato estati calde e con eventi estremi anche a nord della Manica. Il bacino di Havant Thicket, che sarà completato entro il 2032, potrà fornire acqua a diverse centinaia di migliaia di famiglie",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/28/sud-dellinghilterra-in-siccita-si-costruisce-il-primo-bacino-idrico-da-30-anni",
+     "ora": "2026-11-28T14:44:27+01:00"
+    },
+    {
+     "titolo": "Argentina's bid to stop Falklands oil drilling rejected",
+     "titolo_it": "",
+     "riassunto": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+     "fonte": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+     "ora": "2026-11-28T13:36:36+00:00"
+    },
+    {
+     "titolo": "Spagna alla vigilia di elezioni decisive: Feijóo a Ceuta, Sánchez con la famiglia",
+     "titolo_it": "",
+     "riassunto": "Oltre 38,6 milioni di spagnoli sono chiamati alle urne il 29 novembre, in elezioni che potrebbero portare a un cambio di governo e terminare l'era di Pedro Sánchez dopo otto anni. I candidati osservano la giornata di silenzio elettorale mentre si perfeziona il dispositivo di sicurezza",
+     "fonte": "Euronews",
+     "link": "https://it.euronews.com/2026/11/28/spagna-alla-vigilia-di-elezioni-decisive-feijoo-a-ceuta-sanchez-con-la-famiglia",
+     "ora": "2026-11-28T14:35:38+01:00"
+    }
+   ]
+  }
+ ],
+ "fonti_giu": [
+  "ESA: HTTPError"
+ ]
+}
